@@ -41,23 +41,27 @@ The following datasets are included in this repository:
 
 * Cases by province (`cases_prov.csv`) and health region (`cases_hr.csv`)
 
-![cases](https://user-images.githubusercontent.com/31170087/135701043-6a50ce40-b3e6-41a2-8f2c-6a65066d2af9.png)
+![cases](plots/cases_prov.png)
+
+![cases](plots/cases_hr.png)
 
 * Mortality by province (`mortality_prov.csv`) and health region (`mortality_hr.csv`)
 
-![mortality](https://user-images.githubusercontent.com/31170087/135701048-d56d7d4a-1968-46bb-8516-a1a6f28eaf14.png)
+![mortality](plots/mortality_prov.png)
+
+![mortality](plots/mortality_hr.png)
 
 * Tests completed by province (`tests_completed_prov.csv`)
 
-![testing](https://user-images.githubusercontent.com/31170087/135701052-15f7fc1f-a61c-4d04-8bab-01bb43d0e22e.png)
+![testing](plots/tests_completed_prov.png)
 
 * Hospitalizations (ICU and non-ICU) by province (`hosp_prov.csv`)
 
-![hosp](https://user-images.githubusercontent.com/31170087/135701056-5ad66f19-e4e9-45cc-b44e-70ced15a1665.png)
+![hosp](plots/hosp_prov.png)
 
 * ICU occupancy by province (`icu_prov.csv`)
 
-![icu](https://user-images.githubusercontent.com/31170087/135701060-70a4472c-f721-4873-9859-dcff635dba07.png)
+![icu](plots/icu_prov.png)
 
 Both the cumulative values (`value`) and the daily differences (`value_daily`) are given for each date where data are available.
 
