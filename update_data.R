@@ -30,9 +30,8 @@ covid_datasets <- list(
   # pe
   # qc
   "3b93b663-4b3f-43b4-a23d-cbf6d149d2c5",
-  "f0c25e20-2a6c-4f9a-adc3-61b28ab97245",
+  "f0c25e20-2a6c-4f9a-adc3-61b28ab97245"
   # sk
-  "61cfdd06-7749-4ae6-9975-d8b4f10d5651"
   # yt
 )
 
@@ -131,28 +130,6 @@ qc_cases_hr <- Covid19CanadaDataProcess::process_dataset(
   dplyr::group_by(dplyr::across(c(-.data$value))) %>%
   dplyr::summarize(value = sum(.data$value), .groups = "drop")
 
-## SK
-sk_cases_hr <- utils::read.csv("https://raw.githubusercontent.com/jeanpaulrsoucy/data-gripes/main/covid-19-in-saskatchewan/data/sk-case-timeseries-complete.csv",
-                        stringsAsFactors = FALSE) %>%
-  dplyr::mutate(
-    name = "cases",
-    province = "SK",
-    date = as.Date(.data$date)) %>%
-  dplyr::rename(
-    sub_region_1 = .data$region,
-    value = .data$cumulative_cases) %>%
-  dplyr::select(.data$name, .data$province, .data$sub_region_1, .data$date, .data$value) %>%
-  dplyr::filter(.data$date < as.Date("2020-08-04")) %>%
-  # SK official time series begins on 2020-08-04
-  dplyr::bind_rows(
-    Covid19CanadaDataProcess::process_dataset(
-      uuid = "61cfdd06-7749-4ae6-9975-d8b4f10d5651",
-      val = "cases",
-      fmt = "hr_ts",
-      ds = ds[["61cfdd06-7749-4ae6-9975-d8b4f10d5651"]]
-    )
-  )
-
 ## YT
 yt_cases_hr <- Covid19CanadaDataProcess::process_dataset(
   uuid = "f7db31d0-6504-4a55-86f7-608664517bdb",
@@ -172,10 +149,11 @@ cases_hr <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "cases", lo
       .data$province == "New Brunswick" ~ "NB",
       .data$province == "NL" ~ "NL",
       .data$province == "Nova Scotia" ~ "NS",
+      .data$province == "Saskatchewan" ~ "SK",
       TRUE ~ .data$province
     ),
     date_report = as.Date(.data$date_report)) %>%
-  dplyr::filter(.data$province %in% c("MB", "NB", "NL", "NS")) %>%
+  dplyr::filter(.data$province %in% c("MB", "NB", "NL", "NS", "SK")) %>%
   dplyr::select(
     .data$name, .data$province, .data$health_region, .data$date_report, .data$cumulative_cases) %>%
   dplyr::rename(
@@ -186,7 +164,7 @@ cases_hr <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "cases", lo
 
 ## join it all together
 cases_hr <- dplyr::bind_rows(
-  cases_hr, ab_cases_hr, bc_cases_hr, nt_cases_hr, nu_cases_hr, on_cases_hr, pe_cases_hr, qc_cases_hr, sk_cases_hr, yt_cases_hr
+  cases_hr, ab_cases_hr, bc_cases_hr, nt_cases_hr, nu_cases_hr, on_cases_hr, pe_cases_hr, qc_cases_hr, yt_cases_hr
 ) %>%
   dplyr::arrange(.data$province, .data$date, .data$sub_region_1)
 
@@ -260,28 +238,6 @@ qc_mortality_hr <- Covid19CanadaDataProcess::process_dataset(
   dplyr::group_by(dplyr::across(c(-.data$value))) %>%
   dplyr::summarize(value = sum(.data$value), .groups = "drop")
 
-## SK
-sk_mortality_hr <- utils::read.csv("https://raw.githubusercontent.com/jeanpaulrsoucy/data-gripes/main/covid-19-in-saskatchewan/data/sk-death-timeseries-complete.csv",
-                               stringsAsFactors = FALSE) %>%
-  dplyr::mutate(
-    name = "mortality",
-    province = "SK",
-    date = as.Date(.data$date)) %>%
-  dplyr::rename(
-    sub_region_1 = .data$region,
-    value = .data$cumulative_deaths) %>%
-  dplyr::select(.data$name, .data$province, .data$sub_region_1, .data$date, .data$value) %>%
-  dplyr::filter(.data$date < as.Date("2020-08-04")) %>%
-  # SK official time series begins on 2020-08-04
-  dplyr::bind_rows(
-    Covid19CanadaDataProcess::process_dataset(
-      uuid = "61cfdd06-7749-4ae6-9975-d8b4f10d5651",
-      val = "mortality",
-      fmt = "hr_ts",
-      ds = ds[["61cfdd06-7749-4ae6-9975-d8b4f10d5651"]]
-    )
-  )
-
 ## YT
 yt_mortality_hr <- Covid19CanadaDataProcess::process_dataset(
   uuid = "f7db31d0-6504-4a55-86f7-608664517bdb",
@@ -301,10 +257,11 @@ mortality_hr <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "mortal
       .data$province == "New Brunswick" ~ "NB",
       .data$province == "NL" ~ "NL",
       .data$province == "Nova Scotia" ~ "NS",
+      .data$province == "Saskatchewan" ~ "SK",
       TRUE ~ .data$province
     ),
     date_death_report = as.Date(.data$date_death_report)) %>%
-  dplyr::filter(.data$province %in% c("AB", "BC", "MB", "NB", "NL", "NS")) %>%
+  dplyr::filter(.data$province %in% c("AB", "BC", "MB", "NB", "NL", "NS", "SK")) %>%
   dplyr::select(
     .data$name, .data$province, .data$health_region, .data$date_death_report, .data$cumulative_deaths) %>%
   dplyr::rename(
@@ -315,12 +272,14 @@ mortality_hr <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "mortal
 
 ## join it all together
 mortality_hr <- dplyr::bind_rows(
-  mortality_hr, nt_mortality_hr, nu_mortality_hr, on_mortality_hr, pe_mortality_hr, qc_mortality_hr, sk_mortality_hr, yt_mortality_hr
+  mortality_hr, nt_mortality_hr, nu_mortality_hr, on_mortality_hr, pe_mortality_hr, qc_mortality_hr, yt_mortality_hr
 ) %>%
   dplyr::arrange(.data$province, .data$date, .data$sub_region_1)
 
-# calculate daily diffs
+# postprocessing
 datasets <- c("cases_hr", "mortality_hr")
+
+## calculate daily diffs
 for (d in datasets) {
   assign(d, get(d) %>%
            dplyr::group_by(.data$province, .data$sub_region_1) %>%
@@ -328,7 +287,7 @@ for (d in datasets) {
            dplyr::ungroup())
 }
 
-# create province-level datasets
+## create province-level datasets
 for (d in datasets) {
   assign(sub("_hr", "_prov", d), get(d) %>%
            dplyr::select(-.data$sub_region_1) %>%
@@ -340,7 +299,7 @@ for (d in datasets) {
            ))
 }
 
-# write datasets
+## write datasets
 for (d in c(datasets, sub("_hr", "_prov", datasets))) {
   write.csv(get(d), file = paste0("data/", d, ".csv"), row.names = FALSE)
 }
@@ -451,8 +410,10 @@ icu_prov <- dplyr::bind_rows(
   dplyr::mutate(value_daily = c(first(value), diff(value))) %>%
   dplyr::ungroup()
 
-# calculate daily diffs
+# postprocessing
 datasets <- c("hosp_prov", "icu_prov")
+
+## calculate daily diffs
 for (d in datasets) {
   assign(d, get(d) %>%
            dplyr::group_by(.data$province) %>%
@@ -460,7 +421,7 @@ for (d in datasets) {
            dplyr::ungroup())
 }
 
-# write datasets
+## write datasets
 for (d in datasets) {
   write.csv(get(d), file = paste0("data/", d, ".csv"), row.names = FALSE)
 }
