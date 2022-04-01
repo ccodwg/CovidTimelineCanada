@@ -2,9 +2,9 @@
 
 The purpose of this repository is to collaborate on assembling a definitive dataset for COVID-19 in Canada.
 
-This dataset is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project. The goal is for this dataset to eventually conform to the [Data and Metadata Standard for COVID-19 Data in Canada](https://github.com/ccodwg/CovidDataStandard), which is currently being collaboratively developed.
+⚠️ This dataset is in the process of being updated in advance of its official launch on April 15. The format of the dataset may change prior to this date. Beginning April 15, this dataset will replace the original **[Covid19Canada](https://github.com/ccodwg/Covid19Canada)** dataset. ⚠️
 
-**Warning: Do not rely on this dataset.** It is a very early and highly incomplete draft. The format of the data are likely to change in the future.
+This dataset is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project. The goal is for this dataset to eventually conform to the [Data and Metadata Standard for COVID-19 Data in Canada](https://github.com/ccodwg/CovidDataStandard), which is currently being collaboratively developed.
 
 ## Contributing
 
