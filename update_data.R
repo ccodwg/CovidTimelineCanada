@@ -69,7 +69,7 @@ nt_cases_hr <- Covid19CanadaDataProcess::process_dataset(
   val = "cases",
   fmt = "prov_ts",
   ds = ds[["f7db31d0-6504-4a55-86f7-608664517bdb"]]
-) %>% dplyr::filter(province == "NT") %>% process_prov2hr("NT")
+) %>% dplyr::filter(region == "NT") %>% process_prov2hr("NT")
 
 ## NU
 nu_cases_hr <- Covid19CanadaDataProcess::process_dataset(
@@ -77,7 +77,7 @@ nu_cases_hr <- Covid19CanadaDataProcess::process_dataset(
   val = "cases",
   fmt = "prov_ts",
   ds = ds[["f7db31d0-6504-4a55-86f7-608664517bdb"]]
-) %>% dplyr::filter(province == "NU") %>% process_prov2hr("NU")
+) %>% dplyr::filter(region == "NU") %>% process_prov2hr("NU")
 
 ## ON
 on_cases_hr <- Covid19CanadaDataProcess::process_dataset(
@@ -88,18 +88,13 @@ on_cases_hr <- Covid19CanadaDataProcess::process_dataset(
 ) %>% process_hr_names("ON", opt = "moh") %>%
   dplyr::filter(.data$sub_region_1 != "Not Reported")
 on_cases_hr <- on_cases_hr[!duplicated(on_cases_hr), ] # stopgap fix
-on_cases_hr_ccodwg <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "cases", loc = "hr") %>%
-  dplyr::filter(province == "Ontario") %>%
-  dplyr::rename(
-    sub_region_1 = .data$health_region,
-    date = .data$date_report,
-    value = .data$cumulative_cases,
-  ) %>%
+on_cases_hr_ccodwg <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "cases", loc = "hr", new_cols = TRUE) %>%
+  dplyr::filter(region == "Ontario") %>%
   dplyr::mutate(
     name = "cases",
-    province = "ON",
+    region = "ON",
     date = as.Date(.data$date)) %>%
-  dplyr::select(.data$name, .data$province, .data$sub_region_1, .data$date, .data$value) %>%
+  dplyr::select(.data$name, .data$region, .data$sub_region_1, .data$date, .data$value) %>%
   dplyr::filter(.data$date < as.Date("2020-04-01") & .data$sub_region_1 != "Not Reported") %>%
   dplyr::arrange(.data$date, .data$sub_region_1)
 on_cases_hr <- dplyr::bind_rows(on_cases_hr_ccodwg, on_cases_hr)
@@ -110,7 +105,7 @@ pe_cases_hr <- Covid19CanadaDataProcess::process_dataset(
   val = "cases",
   fmt = "prov_ts",
   ds = ds[["f7db31d0-6504-4a55-86f7-608664517bdb"]]
-) %>% dplyr::filter(province == "PE") %>% process_prov2hr("PE")
+) %>% dplyr::filter(region == "PE") %>% process_prov2hr("PE")
 
 ## QC
 qc_cases_hr <- Covid19CanadaDataProcess::process_dataset(
@@ -136,37 +131,32 @@ yt_cases_hr <- Covid19CanadaDataProcess::process_dataset(
   val = "cases",
   fmt = "prov_ts",
   ds = ds[["f7db31d0-6504-4a55-86f7-608664517bdb"]]
-) %>% dplyr::filter(province == "YT") %>% process_prov2hr("YT")
+) %>% dplyr::filter(region == "YT") %>% process_prov2hr("YT")
 
 ## Other provinces
-cases_hr <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "cases", loc = "hr") %>%
+cases_hr <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "cases", loc = "hr", new_cols = TRUE) %>%
   dplyr::mutate(
     name = "cases",
-    province = dplyr::case_when(
-      .data$province == "Alberta" ~ "AB",
-      .data$province == "BC" ~ "BC",
-      .data$province == "Manitoba" ~ "MB",
-      .data$province == "New Brunswick" ~ "NB",
-      .data$province == "NL" ~ "NL",
-      .data$province == "Nova Scotia" ~ "NS",
-      .data$province == "Saskatchewan" ~ "SK",
-      TRUE ~ .data$province
+    region = dplyr::case_when(
+      .data$region == "Alberta" ~ "AB",
+      .data$region == "BC" ~ "BC",
+      .data$region == "Manitoba" ~ "MB",
+      .data$region == "New Brunswick" ~ "NB",
+      .data$region == "NL" ~ "NL",
+      .data$region == "Nova Scotia" ~ "NS",
+      .data$region == "Saskatchewan" ~ "SK",
+      TRUE ~ .data$region
     ),
-    date_report = as.Date(.data$date_report)) %>%
-  dplyr::filter(.data$province %in% c("MB", "NB", "NL", "NS", "SK")) %>%
+    date = as.Date(.data$date)) %>%
+  dplyr::filter(.data$region %in% c("MB", "NB", "NL", "NS", "SK")) %>%
   dplyr::select(
-    .data$name, .data$province, .data$health_region, .data$date_report, .data$cumulative_cases) %>%
-  dplyr::rename(
-    sub_region_1 = .data$health_region,
-    date = .data$date_report,
-    value = .data$cumulative_cases
-  )
+    .data$name, .data$region, .data$sub_region_1, .data$date, .data$value)
 
 ## join it all together
 cases_hr <- dplyr::bind_rows(
   cases_hr, ab_cases_hr, bc_cases_hr, nt_cases_hr, nu_cases_hr, on_cases_hr, pe_cases_hr, qc_cases_hr, yt_cases_hr
 ) %>%
-  dplyr::arrange(.data$province, .data$date, .data$sub_region_1)
+  dplyr::arrange(.data$region, .data$date, .data$sub_region_1)
 
 # load mortality data
 
@@ -176,7 +166,7 @@ nt_mortality_hr <- Covid19CanadaDataProcess::process_dataset(
   val = "mortality",
   fmt = "prov_ts",
   ds = ds[["f7db31d0-6504-4a55-86f7-608664517bdb"]]
-) %>% dplyr::filter(province == "NT") %>% process_prov2hr("NT")
+) %>% dplyr::filter(region == "NT") %>% process_prov2hr("NT")
 
 ## NU
 nu_mortality_hr <- Covid19CanadaDataProcess::process_dataset(
@@ -184,7 +174,7 @@ nu_mortality_hr <- Covid19CanadaDataProcess::process_dataset(
   val = "mortality",
   fmt = "prov_ts",
   ds = ds[["f7db31d0-6504-4a55-86f7-608664517bdb"]]
-) %>% dplyr::filter(province == "NU") %>% process_prov2hr("NU")
+) %>% dplyr::filter(region == "NU") %>% process_prov2hr("NU")
 
 ## ON
 # ontario time series is zeroed out for deaths on April 1, so start on April 2
@@ -196,18 +186,13 @@ on_mortality_hr <- Covid19CanadaDataProcess::process_dataset(
 ) %>% process_hr_names("ON", opt = "moh") %>%
   dplyr::filter(.data$sub_region_1 != "Not Reported" & .data$date >= as.Date("2020-04-02"))
 on_mortality_hr <- on_mortality_hr[!duplicated(on_mortality_hr), ] # stopgap fix
-on_mortality_hr_ccodwg <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "mortality", loc = "hr") %>%
-  dplyr::filter(province == "Ontario") %>%
-  dplyr::rename(
-    sub_region_1 = .data$health_region,
-    date = .data$date_death_report,
-    value = .data$cumulative_deaths,
-  ) %>%
+on_mortality_hr_ccodwg <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "mortality", loc = "hr", new_cols = TRUE) %>%
+  dplyr::filter(region == "Ontario") %>%
   dplyr::mutate(
     name = "mortality",
-    province = "ON",
+    region = "ON",
     date = as.Date(.data$date)) %>%
-  dplyr::select(.data$name, .data$province, .data$sub_region_1, .data$date, .data$value) %>%
+  dplyr::select(.data$name, .data$region, .data$sub_region_1, .data$date, .data$value) %>%
   dplyr::filter(.data$date < as.Date("2020-04-02") & .data$sub_region_1 != "Not Reported") %>%
   dplyr::arrange(.data$date, .data$sub_region_1)
 on_mortality_hr <- dplyr::bind_rows(on_mortality_hr_ccodwg, on_mortality_hr)
@@ -218,7 +203,7 @@ pe_mortality_hr <- Covid19CanadaDataProcess::process_dataset(
   val = "mortality",
   fmt = "prov_ts",
   ds = ds[["f7db31d0-6504-4a55-86f7-608664517bdb"]]
-) %>% dplyr::filter(province == "PE") %>% process_prov2hr("PE")
+) %>% dplyr::filter(region == "PE") %>% process_prov2hr("PE")
 
 ## QC
 qc_mortality_hr <- Covid19CanadaDataProcess::process_dataset(
@@ -244,37 +229,32 @@ yt_mortality_hr <- Covid19CanadaDataProcess::process_dataset(
   val = "mortality",
   fmt = "prov_ts",
   ds = ds[["f7db31d0-6504-4a55-86f7-608664517bdb"]]
-) %>% dplyr::filter(province == "YT") %>% process_prov2hr("YT")
+) %>% dplyr::filter(region == "YT") %>% process_prov2hr("YT")
 
 ## Other provinces
-mortality_hr <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "mortality", loc = "hr") %>%
+mortality_hr <- Covid19CanadaData::dl_ccodwg(type = "timeseries", stat = "mortality", loc = "hr", new_cols = TRUE) %>%
   dplyr::mutate(
     name = "mortality",
-    province = dplyr::case_when(
-      .data$province == "Alberta" ~ "AB",
-      .data$province == "BC" ~ "BC",
-      .data$province == "Manitoba" ~ "MB",
-      .data$province == "New Brunswick" ~ "NB",
-      .data$province == "NL" ~ "NL",
-      .data$province == "Nova Scotia" ~ "NS",
-      .data$province == "Saskatchewan" ~ "SK",
-      TRUE ~ .data$province
+    region = dplyr::case_when(
+      .data$region == "Alberta" ~ "AB",
+      .data$region == "BC" ~ "BC",
+      .data$region == "Manitoba" ~ "MB",
+      .data$region == "New Brunswick" ~ "NB",
+      .data$region == "NL" ~ "NL",
+      .data$region == "Nova Scotia" ~ "NS",
+      .data$region == "Saskatchewan" ~ "SK",
+      TRUE ~ .data$region
     ),
-    date_death_report = as.Date(.data$date_death_report)) %>%
-  dplyr::filter(.data$province %in% c("AB", "BC", "MB", "NB", "NL", "NS", "SK")) %>%
+    date = as.Date(.data$date)) %>%
+  dplyr::filter(.data$region %in% c("AB", "BC", "MB", "NB", "NL", "NS", "SK")) %>%
   dplyr::select(
-    .data$name, .data$province, .data$health_region, .data$date_death_report, .data$cumulative_deaths) %>%
-  dplyr::rename(
-    sub_region_1 = .data$health_region,
-    date = .data$date_death_report,
-    value = .data$cumulative_deaths
-  )
+    .data$name, .data$region, .data$sub_region_1, .data$date, .data$value)
 
 ## join it all together
 mortality_hr <- dplyr::bind_rows(
   mortality_hr, nt_mortality_hr, nu_mortality_hr, on_mortality_hr, pe_mortality_hr, qc_mortality_hr, yt_mortality_hr
 ) %>%
-  dplyr::arrange(.data$province, .data$date, .data$sub_region_1)
+  dplyr::arrange(.data$region, .data$date, .data$sub_region_1)
 
 # postprocessing
 datasets <- c("cases_hr", "mortality_hr")
@@ -282,7 +262,7 @@ datasets <- c("cases_hr", "mortality_hr")
 ## calculate daily diffs
 for (d in datasets) {
   assign(d, get(d) %>%
-           dplyr::group_by(.data$province, .data$sub_region_1) %>%
+           dplyr::group_by(.data$region, .data$sub_region_1) %>%
            dplyr::mutate(value_daily = c(first(value), diff(value))) %>%
            dplyr::ungroup())
 }
@@ -291,7 +271,7 @@ for (d in datasets) {
 for (d in datasets) {
   assign(sub("_hr", "_prov", d), get(d) %>%
            dplyr::select(-.data$sub_region_1) %>%
-           dplyr::group_by(.data$province, .data$date) %>%
+           dplyr::group_by(.data$region, .data$date) %>%
            dplyr::summarize(
              value = sum(.data$value),
              value_daily = sum(.data$value_daily),
@@ -314,8 +294,8 @@ tests_completed_prov <- Covid19CanadaDataProcess::process_dataset(
 ) %>%
   dplyr::mutate(
     name = "tests completed") %>%
-  dplyr::filter(!.data$province %in% c("CAN", "RT")) %>%
-  dplyr::group_by(.data$province) %>%
+  dplyr::filter(!.data$region %in% c("CAN", "RT")) %>%
+  dplyr::group_by(.data$region) %>%
   dplyr::mutate(value_daily = c(first(value), diff(value))) %>%
   dplyr::ungroup()
 
@@ -345,24 +325,24 @@ hosp_prov <- lapply(provs[!provs %in% c("ON", "NT", "NU", "YT")], function(x) {
   url <- paste0("https://api.covid19tracker.ca/reports/province/", tolower(x), "?stat=hospitalizations")
   jsonlite::fromJSON(url)$data %>%
     dplyr::mutate(
-      province = x,
+      region = x,
       date = as.Date(.data$date)) %>%
     dplyr::rename(
       value = .data$total_hospitalizations
     ) %>%
-    dplyr::select(.data$province, .data$date, .data$value) %>%
+    dplyr::select(.data$region, .data$date, .data$value) %>%
     Covid19CanadaDataProcess:::helper_ts(
       loc = "prov", val = "hospitalizations", prov = x, convert_to_cum = FALSE)
 }) %>%
   dplyr::bind_rows() %>%
-  dplyr::filter(!(.data$province == "QC" & .data$date >= as.Date("2020-04-10"))) # beginning of official data
+  dplyr::filter(!(.data$region == "QC" & .data$date >= as.Date("2020-04-10"))) # beginning of official data
 
 ## join it all together
 hosp_prov <- dplyr::bind_rows(
   hosp_prov, on_hosp_prov, qc_hosp_prov
 ) %>%
-  dplyr::arrange(.data$province, .data$date) %>%
-  dplyr::group_by(.data$province) %>%
+  dplyr::arrange(.data$region, .data$date) %>%
+  dplyr::group_by(.data$region) %>%
   dplyr::mutate(value_daily = c(first(value), diff(value))) %>%
   dplyr::ungroup()
 
@@ -389,24 +369,24 @@ icu_prov <- lapply(provs[!provs %in% c("ON", "NT", "NU", "YT")], function(x) {
   url <- paste0("https://api.covid19tracker.ca/reports/province/", tolower(x), "?stat=criticals")
   jsonlite::fromJSON(url)$data %>%
     dplyr::mutate(
-      province = x,
+      region = x,
       date = as.Date(.data$date)) %>%
     dplyr::rename(
       value = .data$total_criticals
     ) %>%
-    dplyr::select(.data$province, .data$date, .data$value) %>%
+    dplyr::select(.data$region, .data$date, .data$value) %>%
     Covid19CanadaDataProcess:::helper_ts(
       loc = "prov", val = "icu", prov = x, convert_to_cum = FALSE)
 }) %>%
   dplyr::bind_rows() %>%
-  dplyr::filter(!(.data$province == "QC" & .data$date >= as.Date("2020-04-10"))) # beginning of official data
+  dplyr::filter(!(.data$region == "QC" & .data$date >= as.Date("2020-04-10"))) # beginning of official data
 
 ## join it all together
 icu_prov <- dplyr::bind_rows(
   icu_prov, on_icu_prov, qc_icu_prov
 ) %>%
-  dplyr::arrange(.data$province, .data$date) %>%
-  dplyr::group_by(.data$province) %>%
+  dplyr::arrange(.data$region, .data$date) %>%
+  dplyr::group_by(.data$region) %>%
   dplyr::mutate(value_daily = c(first(value), diff(value))) %>%
   dplyr::ungroup()
 
@@ -416,7 +396,7 @@ datasets <- c("hosp_prov", "icu_prov")
 ## calculate daily diffs
 for (d in datasets) {
   assign(d, get(d) %>%
-           dplyr::group_by(.data$province) %>%
+           dplyr::group_by(.data$region) %>%
            dplyr::mutate(value_daily = c(first(value), diff(value))) %>%
            dplyr::ungroup())
 }

@@ -13,15 +13,15 @@ plot_value <- function(data, type = c("daily", "cumulative"), title, hr = FALSE,
   match.arg(type, choices = c("daily", "cumulative"), several.ok = FALSE)
   if (type == "daily") {y <- "value_daily"} else {y <- "value"}
   if (hr) {
-    p <- ggplot(data = data, aes(x = date, y = !!sym(y), colour = province,
-                            group = paste(province, sub_region_1))) +
+    p <- ggplot(data = data, aes(x = date, y = !!sym(y), colour = region,
+                            group = paste(region, sub_region_1))) +
       geom_line(alpha = 0.3) +
       theme_pubclean() +
       labs(title = title) +
       theme(plot.title = element_text(hjust = 0.5)) +
       guides(colour = guide_legend(override.aes = list(alpha = 1)))
   } else {
-    p <- ggplot(data = data, aes(x = date, y = !!sym(y), colour = province, group = province)) +
+    p <- ggplot(data = data, aes(x = date, y = !!sym(y), colour = region, group = region)) +
       geom_line() +
       theme_pubclean() +
       labs(title = title) +
