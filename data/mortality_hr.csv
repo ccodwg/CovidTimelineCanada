@@ -4613,6 +4613,12 @@
 "mortality","AB","North",2022-04-15,0,0
 "mortality","AB","Not Reported",2022-04-15,0,0
 "mortality","AB","South",2022-04-15,0,0
+"mortality","AB","Calgary",2022-04-16,0,0
+"mortality","AB","Central",2022-04-16,0,0
+"mortality","AB","Edmonton",2022-04-16,0,0
+"mortality","AB","North",2022-04-16,0,0
+"mortality","AB","Not Reported",2022-04-16,0,0
+"mortality","AB","South",2022-04-16,0,0
 "mortality","BC","Fraser",2020-03-08,0,0
 "mortality","BC","Interior",2020-03-08,0,0
 "mortality","BC","Island",2020-03-08,0,0
@@ -9227,6 +9233,12 @@
 "mortality","BC","Northern",2022-04-15,0,0
 "mortality","BC","Not Reported",2022-04-15,0,0
 "mortality","BC","Vancouver Coastal",2022-04-15,0,-3
+"mortality","BC","Fraser",2022-04-16,0,0
+"mortality","BC","Interior",2022-04-16,0,0
+"mortality","BC","Island",2022-04-16,0,0
+"mortality","BC","Northern",2022-04-16,0,0
+"mortality","BC","Not Reported",2022-04-16,0,0
+"mortality","BC","Vancouver Coastal",2022-04-16,0,0
 "mortality","MB","Interlake-Eastern",2020-03-08,0,0
 "mortality","MB","Northern",2020-03-08,0,0
 "mortality","MB","Not Reported",2020-03-08,0,0
@@ -13841,6 +13853,12 @@
 "mortality","MB","Prairie Mountain",2022-04-15,0,0
 "mortality","MB","Southern Health",2022-04-15,0,0
 "mortality","MB","Winnipeg",2022-04-15,0,0
+"mortality","MB","Interlake-Eastern",2022-04-16,0,0
+"mortality","MB","Northern",2022-04-16,0,0
+"mortality","MB","Not Reported",2022-04-16,0,0
+"mortality","MB","Prairie Mountain",2022-04-16,0,0
+"mortality","MB","Southern Health",2022-04-16,0,0
+"mortality","MB","Winnipeg",2022-04-16,0,0
 "mortality","NB","Not Reported",2020-03-08,0,0
 "mortality","NB","Zone 1 (Moncton area)",2020-03-08,0,0
 "mortality","NB","Zone 2 (Saint John area)",2020-03-08,0,0
@@ -19993,6 +20011,14 @@
 "mortality","NB","Zone 5 (Campbellton area)",2022-04-15,0,0
 "mortality","NB","Zone 6 (Bathurst area)",2022-04-15,0,0
 "mortality","NB","Zone 7 (Miramichi area)",2022-04-15,0,0
+"mortality","NB","Not Reported",2022-04-16,0,0
+"mortality","NB","Zone 1 (Moncton area)",2022-04-16,0,0
+"mortality","NB","Zone 2 (Saint John area)",2022-04-16,0,0
+"mortality","NB","Zone 3 (Fredericton area)",2022-04-16,0,0
+"mortality","NB","Zone 4 (Edmundston area)",2022-04-16,0,0
+"mortality","NB","Zone 5 (Campbellton area)",2022-04-16,0,0
+"mortality","NB","Zone 6 (Bathurst area)",2022-04-16,0,0
+"mortality","NB","Zone 7 (Miramichi area)",2022-04-16,0,0
 "mortality","NL","Central",2020-03-08,0,0
 "mortality","NL","Eastern",2020-03-08,0,0
 "mortality","NL","Labrador-Grenfell",2020-03-08,0,0
@@ -23838,6 +23864,11 @@
 "mortality","NL","Labrador-Grenfell",2022-04-15,0,0
 "mortality","NL","Not Reported",2022-04-15,0,0
 "mortality","NL","Western",2022-04-15,0,0
+"mortality","NL","Central",2022-04-16,0,0
+"mortality","NL","Eastern",2022-04-16,0,0
+"mortality","NL","Labrador-Grenfell",2022-04-16,0,0
+"mortality","NL","Not Reported",2022-04-16,0,0
+"mortality","NL","Western",2022-04-16,0,0
 "mortality","NS","Not Reported",2020-03-08,0,0
 "mortality","NS","Zone 1 - Western",2020-03-08,0,0
 "mortality","NS","Zone 2 - Northern",2020-03-08,0,0
@@ -27683,6 +27714,11 @@
 "mortality","NS","Zone 2 - Northern",2022-04-15,0,0
 "mortality","NS","Zone 3 - Eastern",2022-04-15,0,0
 "mortality","NS","Zone 4 - Central",2022-04-15,0,0
+"mortality","NS","Not Reported",2022-04-16,0,0
+"mortality","NS","Zone 1 - Western",2022-04-16,0,0
+"mortality","NS","Zone 2 - Northern",2022-04-16,0,0
+"mortality","NS","Zone 3 - Eastern",2022-04-16,0,0
+"mortality","NS","Zone 4 - Central",2022-04-16,0,0
 "mortality","NT","NWT",2020-01-31,0,0
 "mortality","NT","NWT",2020-02-01,0,0
 "mortality","NT","NWT",2020-02-02,0,0
@@ -55403,6 +55439,74 @@
 "mortality","ON","Wellington Dufferin Guelph",2022-04-14,160,2
 "mortality","ON","Windsor-Essex",2022-04-14,598,0
 "mortality","ON","York",2022-04-14,1007,-1
+"mortality","ON","Algoma",2022-04-15,46,1
+"mortality","ON","Brant",2022-04-15,78,0
+"mortality","ON","Chatham-Kent",2022-04-15,76,2
+"mortality","ON","Durham",2022-04-15,470,0
+"mortality","ON","Eastern",2022-04-15,207,0
+"mortality","ON","Grey Bruce",2022-04-15,55,0
+"mortality","ON","Haldimand-Norfolk",2022-04-15,78,0
+"mortality","ON","Haliburton Kawartha Pineridge",2022-04-15,95,0
+"mortality","ON","Halton",2022-04-15,309,0
+"mortality","ON","Hamilton",2022-04-15,535,0
+"mortality","ON","Hastings Prince Edward",2022-04-15,53,0
+"mortality","ON","Huron Perth",2022-04-15,104,0
+"mortality","ON","Kingston Frontenac Lennox & Addington",2022-04-15,46,1
+"mortality","ON","Lambton",2022-04-15,135,0
+"mortality","ON","Leeds Grenville and Lanark",2022-04-15,95,0
+"mortality","ON","Middlesex-London",2022-04-15,366,0
+"mortality","ON","Niagara",2022-04-15,523,0
+"mortality","ON","North Bay Parry Sound",2022-04-15,28,0
+"mortality","ON","Northwestern",2022-04-15,19,0
+"mortality","ON","Ottawa",2022-04-15,768,1
+"mortality","ON","Peel",2022-04-15,1289,2
+"mortality","ON","Peterborough",2022-04-15,65,0
+"mortality","ON","Porcupine",2022-04-15,51,0
+"mortality","ON","Renfrew",2022-04-15,37,0
+"mortality","ON","Simcoe Muskoka",2022-04-15,403,4
+"mortality","ON","Southwestern",2022-04-15,157,1
+"mortality","ON","Sudbury",2022-04-15,130,0
+"mortality","ON","Thunder Bay",2022-04-15,85,0
+"mortality","ON","Timiskaming",2022-04-15,13,0
+"mortality","ON","Toronto",2022-04-15,4134,1
+"mortality","ON","Waterloo",2022-04-15,405,1
+"mortality","ON","Wellington Dufferin Guelph",2022-04-15,160,0
+"mortality","ON","Windsor-Essex",2022-04-15,598,0
+"mortality","ON","York",2022-04-15,1006,-1
+"mortality","ON","Algoma",2022-04-16,46,0
+"mortality","ON","Brant",2022-04-16,78,0
+"mortality","ON","Chatham-Kent",2022-04-16,76,0
+"mortality","ON","Durham",2022-04-16,470,0
+"mortality","ON","Eastern",2022-04-16,208,1
+"mortality","ON","Grey Bruce",2022-04-16,55,0
+"mortality","ON","Haldimand-Norfolk",2022-04-16,78,0
+"mortality","ON","Haliburton Kawartha Pineridge",2022-04-16,95,0
+"mortality","ON","Halton",2022-04-16,309,0
+"mortality","ON","Hamilton",2022-04-16,535,0
+"mortality","ON","Hastings Prince Edward",2022-04-16,53,0
+"mortality","ON","Huron Perth",2022-04-16,104,0
+"mortality","ON","Kingston Frontenac Lennox & Addington",2022-04-16,44,-2
+"mortality","ON","Lambton",2022-04-16,135,0
+"mortality","ON","Leeds Grenville and Lanark",2022-04-16,95,0
+"mortality","ON","Middlesex-London",2022-04-16,366,0
+"mortality","ON","Niagara",2022-04-16,523,0
+"mortality","ON","North Bay Parry Sound",2022-04-16,28,0
+"mortality","ON","Northwestern",2022-04-16,19,0
+"mortality","ON","Ottawa",2022-04-16,770,2
+"mortality","ON","Peel",2022-04-16,1290,1
+"mortality","ON","Peterborough",2022-04-16,65,0
+"mortality","ON","Porcupine",2022-04-16,51,0
+"mortality","ON","Renfrew",2022-04-16,37,0
+"mortality","ON","Simcoe Muskoka",2022-04-16,405,2
+"mortality","ON","Southwestern",2022-04-16,157,0
+"mortality","ON","Sudbury",2022-04-16,130,0
+"mortality","ON","Thunder Bay",2022-04-16,86,1
+"mortality","ON","Timiskaming",2022-04-16,13,0
+"mortality","ON","Toronto",2022-04-16,4138,4
+"mortality","ON","Waterloo",2022-04-16,405,0
+"mortality","ON","Wellington Dufferin Guelph",2022-04-16,160,0
+"mortality","ON","Windsor-Essex",2022-04-16,598,0
+"mortality","ON","York",2022-04-16,1007,1
 "mortality","PE","Prince Edward Island",2020-01-31,0,0
 "mortality","PE","Prince Edward Island",2020-02-01,0,0
 "mortality","PE","Prince Edward Island",2020-02-02,0,0
@@ -77018,6 +77122,13 @@
 "mortality","SK","Regina",2022-04-15,0,0
 "mortality","SK","Saskatoon",2022-04-15,0,0
 "mortality","SK","South",2022-04-15,0,0
+"mortality","SK","Central",2022-04-16,0,0
+"mortality","SK","Far North",2022-04-16,0,0
+"mortality","SK","North",2022-04-16,0,0
+"mortality","SK","Not Reported",2022-04-16,0,0
+"mortality","SK","Regina",2022-04-16,0,0
+"mortality","SK","Saskatoon",2022-04-16,0,0
+"mortality","SK","South",2022-04-16,0,0
 "mortality","YT","Yukon",2020-01-31,0,0
 "mortality","YT","Yukon",2020-02-01,0,0
 "mortality","YT","Yukon",2020-02-02,0,0

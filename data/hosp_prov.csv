@@ -5608,6 +5608,8 @@
 "hospitalizations","ON",2022-04-12,1374,88
 "hospitalizations","ON",2022-04-13,1332,-42
 "hospitalizations","ON",2022-04-14,1392,60
+"hospitalizations","ON",2022-04-15,1427,35
+"hospitalizations","ON",2022-04-16,1130,-297
 "hospitalizations","PE",2020-01-25,0,0
 "hospitalizations","PE",2020-01-26,0,0
 "hospitalizations","PE",2020-01-27,0,0
@@ -7230,6 +7232,7 @@
 "hospitalizations","QC",2022-04-12,2060,122
 "hospitalizations","QC",2022-04-13,2154,94
 "hospitalizations","QC",2022-04-14,2153,-1
+"hospitalizations","QC",2022-04-15,2131,-22
 "hospitalizations","SK",2020-01-25,0,0
 "hospitalizations","SK",2020-01-26,0,0
 "hospitalizations","SK",2020-01-27,0,0
