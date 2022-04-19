@@ -15058,6 +15058,18 @@
 "cases","MB","Prairie Mountain",2022-04-16,0,0
 "cases","MB","Southern Health",2022-04-16,0,0
 "cases","MB","Winnipeg",2022-04-16,0,0
+"cases","MB","Interlake-Eastern",2022-04-17,0,0
+"cases","MB","Northern",2022-04-17,0,0
+"cases","MB","Not Reported",2022-04-17,0,0
+"cases","MB","Prairie Mountain",2022-04-17,0,0
+"cases","MB","Southern Health",2022-04-17,0,0
+"cases","MB","Winnipeg",2022-04-17,0,0
+"cases","MB","Interlake-Eastern",2022-04-18,0,0
+"cases","MB","Northern",2022-04-18,0,0
+"cases","MB","Not Reported",2022-04-18,0,0
+"cases","MB","Prairie Mountain",2022-04-18,0,0
+"cases","MB","Southern Health",2022-04-18,0,0
+"cases","MB","Winnipeg",2022-04-18,0,0
 "cases","NB","Not Reported",2020-01-25,0,0
 "cases","NB","Zone 1 (Moncton area)",2020-01-25,0,0
 "cases","NB","Zone 2 (Saint John area)",2020-01-25,0,0
@@ -21562,6 +21574,22 @@
 "cases","NB","Zone 5 (Campbellton area)",2022-04-16,0,0
 "cases","NB","Zone 6 (Bathurst area)",2022-04-16,0,0
 "cases","NB","Zone 7 (Miramichi area)",2022-04-16,0,0
+"cases","NB","Not Reported",2022-04-17,0,0
+"cases","NB","Zone 1 (Moncton area)",2022-04-17,0,0
+"cases","NB","Zone 2 (Saint John area)",2022-04-17,0,0
+"cases","NB","Zone 3 (Fredericton area)",2022-04-17,0,0
+"cases","NB","Zone 4 (Edmundston area)",2022-04-17,0,0
+"cases","NB","Zone 5 (Campbellton area)",2022-04-17,0,0
+"cases","NB","Zone 6 (Bathurst area)",2022-04-17,0,0
+"cases","NB","Zone 7 (Miramichi area)",2022-04-17,0,0
+"cases","NB","Not Reported",2022-04-18,0,0
+"cases","NB","Zone 1 (Moncton area)",2022-04-18,0,0
+"cases","NB","Zone 2 (Saint John area)",2022-04-18,0,0
+"cases","NB","Zone 3 (Fredericton area)",2022-04-18,0,0
+"cases","NB","Zone 4 (Edmundston area)",2022-04-18,0,0
+"cases","NB","Zone 5 (Campbellton area)",2022-04-18,0,0
+"cases","NB","Zone 6 (Bathurst area)",2022-04-18,0,0
+"cases","NB","Zone 7 (Miramichi area)",2022-04-18,0,0
 "cases","NL","Central",2020-01-25,0,0
 "cases","NL","Eastern",2020-01-25,0,0
 "cases","NL","Labrador-Grenfell",2020-01-25,0,0
@@ -25615,18 +25643,28 @@
 "cases","NL","Central",2022-04-14,0,0
 "cases","NL","Eastern",2022-04-14,0,0
 "cases","NL","Labrador-Grenfell",2022-04-14,0,0
-"cases","NL","Not Reported",2022-04-14,0,-246
+"cases","NL","Not Reported",2022-04-14,225,-21
 "cases","NL","Western",2022-04-14,0,0
 "cases","NL","Central",2022-04-15,0,0
 "cases","NL","Eastern",2022-04-15,0,0
 "cases","NL","Labrador-Grenfell",2022-04-15,0,0
-"cases","NL","Not Reported",2022-04-15,0,0
+"cases","NL","Not Reported",2022-04-15,176,-49
 "cases","NL","Western",2022-04-15,0,0
 "cases","NL","Central",2022-04-16,0,0
 "cases","NL","Eastern",2022-04-16,0,0
 "cases","NL","Labrador-Grenfell",2022-04-16,0,0
-"cases","NL","Not Reported",2022-04-16,0,0
+"cases","NL","Not Reported",2022-04-16,137,-39
 "cases","NL","Western",2022-04-16,0,0
+"cases","NL","Central",2022-04-17,0,0
+"cases","NL","Eastern",2022-04-17,0,0
+"cases","NL","Labrador-Grenfell",2022-04-17,0,0
+"cases","NL","Not Reported",2022-04-17,109,-28
+"cases","NL","Western",2022-04-17,0,0
+"cases","NL","Central",2022-04-18,0,0
+"cases","NL","Eastern",2022-04-18,0,0
+"cases","NL","Labrador-Grenfell",2022-04-18,0,0
+"cases","NL","Not Reported",2022-04-18,76,-33
+"cases","NL","Western",2022-04-18,0,0
 "cases","NS","Not Reported",2020-01-25,0,0
 "cases","NS","Zone 1 - Western",2020-01-25,0,0
 "cases","NS","Zone 2 - Northern",2020-01-25,0,0
@@ -29692,6 +29730,16 @@
 "cases","NS","Zone 2 - Northern",2022-04-16,0,0
 "cases","NS","Zone 3 - Eastern",2022-04-16,0,0
 "cases","NS","Zone 4 - Central",2022-04-16,0,0
+"cases","NS","Not Reported",2022-04-17,0,0
+"cases","NS","Zone 1 - Western",2022-04-17,0,0
+"cases","NS","Zone 2 - Northern",2022-04-17,0,0
+"cases","NS","Zone 3 - Eastern",2022-04-17,0,0
+"cases","NS","Zone 4 - Central",2022-04-17,0,0
+"cases","NS","Not Reported",2022-04-18,0,0
+"cases","NS","Zone 1 - Western",2022-04-18,0,0
+"cases","NS","Zone 2 - Northern",2022-04-18,0,0
+"cases","NS","Zone 3 - Eastern",2022-04-18,0,0
+"cases","NS","Zone 4 - Central",2022-04-18,0,0
 "cases","NT","NWT",2020-01-31,0,0
 "cases","NT","NWT",2020-02-01,0,0
 "cases","NT","NWT",2020-02-02,0,0
@@ -58942,6 +58990,74 @@
 "cases","ON","Wellington Dufferin Guelph",2022-04-16,20729,70
 "cases","ON","Windsor-Essex",2022-04-16,41213,164
 "cases","ON","York",2022-04-16,105009,305
+"cases","ON","Algoma",2022-04-17,7462,55
+"cases","ON","Brant",2022-04-17,11024,27
+"cases","ON","Chatham-Kent",2022-04-17,7838,24
+"cases","ON","Durham",2022-04-17,58488,114
+"cases","ON","Eastern",2022-04-17,14979,23
+"cases","ON","Grey Bruce",2022-04-17,7919,43
+"cases","ON","Haldimand-Norfolk",2022-04-17,8042,12
+"cases","ON","Haliburton Kawartha Pineridge",2022-04-17,8367,37
+"cases","ON","Halton",2022-04-17,46242,68
+"cases","ON","Hamilton",2022-04-17,53869,123
+"cases","ON","Hastings Prince Edward",2022-04-17,9033,51
+"cases","ON","Huron Perth",2022-04-17,6678,24
+"cases","ON","Kingston Frontenac Lennox & Addington",2022-04-17,14646,27
+"cases","ON","Lambton",2022-04-17,11014,27
+"cases","ON","Leeds Grenville and Lanark",2022-04-17,8101,48
+"cases","ON","Middlesex-London",2022-04-17,35725,70
+"cases","ON","Niagara",2022-04-17,38175,105
+"cases","ON","North Bay Parry Sound",2022-04-17,5061,17
+"cases","ON","Northwestern",2022-04-17,7377,24
+"cases","ON","Ottawa",2022-04-17,69325,157
+"cases","ON","Peel",2022-04-17,178999,127
+"cases","ON","Peterborough",2022-04-17,6708,30
+"cases","ON","Porcupine",2022-04-17,6671,9
+"cases","ON","Renfrew",2022-04-17,4151,20
+"cases","ON","Simcoe Muskoka",2022-04-17,41835,140
+"cases","ON","Southwestern",2022-04-17,12761,33
+"cases","ON","Sudbury",2022-04-17,13635,47
+"cases","ON","Thunder Bay",2022-04-17,10415,39
+"cases","ON","Timiskaming",2022-04-17,1597,2
+"cases","ON","Toronto",2022-04-17,302527,475
+"cases","ON","Waterloo",2022-04-17,44031,79
+"cases","ON","Wellington Dufferin Guelph",2022-04-17,20795,66
+"cases","ON","Windsor-Essex",2022-04-17,41345,132
+"cases","ON","York",2022-04-17,105189,180
+"cases","ON","Algoma",2022-04-18,7493,31
+"cases","ON","Brant",2022-04-18,11049,25
+"cases","ON","Chatham-Kent",2022-04-18,7866,28
+"cases","ON","Durham",2022-04-18,58605,117
+"cases","ON","Eastern",2022-04-18,15010,31
+"cases","ON","Grey Bruce",2022-04-18,7932,13
+"cases","ON","Haldimand-Norfolk",2022-04-18,8052,10
+"cases","ON","Haliburton Kawartha Pineridge",2022-04-18,8401,34
+"cases","ON","Halton",2022-04-18,46332,90
+"cases","ON","Hamilton",2022-04-18,53997,128
+"cases","ON","Hastings Prince Edward",2022-04-18,9067,34
+"cases","ON","Huron Perth",2022-04-18,6693,15
+"cases","ON","Kingston Frontenac Lennox & Addington",2022-04-18,14742,96
+"cases","ON","Lambton",2022-04-18,11044,30
+"cases","ON","Leeds Grenville and Lanark",2022-04-18,8131,30
+"cases","ON","Middlesex-London",2022-04-18,35780,55
+"cases","ON","Niagara",2022-04-18,38278,103
+"cases","ON","North Bay Parry Sound",2022-04-18,5093,32
+"cases","ON","Northwestern",2022-04-18,7392,15
+"cases","ON","Ottawa",2022-04-18,69425,100
+"cases","ON","Peel",2022-04-18,179144,145
+"cases","ON","Peterborough",2022-04-18,6732,24
+"cases","ON","Porcupine",2022-04-18,6687,16
+"cases","ON","Renfrew",2022-04-18,4166,15
+"cases","ON","Simcoe Muskoka",2022-04-18,41953,118
+"cases","ON","Southwestern",2022-04-18,12785,24
+"cases","ON","Sudbury",2022-04-18,13679,44
+"cases","ON","Thunder Bay",2022-04-18,10450,35
+"cases","ON","Timiskaming",2022-04-18,1599,2
+"cases","ON","Toronto",2022-04-18,302970,443
+"cases","ON","Waterloo",2022-04-18,44087,56
+"cases","ON","Wellington Dufferin Guelph",2022-04-18,20814,19
+"cases","ON","Windsor-Essex",2022-04-18,41401,56
+"cases","ON","York",2022-04-18,105394,205
 "cases","PE","Prince Edward Island",2020-01-31,0,0
 "cases","PE","Prince Edward Island",2020-02-01,0,0
 "cases","PE","Prince Edward Island",2020-02-02,0,0
@@ -80865,6 +80981,20 @@
 "cases","SK","Regina",2022-04-16,0,0
 "cases","SK","Saskatoon",2022-04-16,0,0
 "cases","SK","South",2022-04-16,0,0
+"cases","SK","Central",2022-04-17,0,0
+"cases","SK","Far North",2022-04-17,0,0
+"cases","SK","North",2022-04-17,0,0
+"cases","SK","Not Reported",2022-04-17,0,0
+"cases","SK","Regina",2022-04-17,0,0
+"cases","SK","Saskatoon",2022-04-17,0,0
+"cases","SK","South",2022-04-17,0,0
+"cases","SK","Central",2022-04-18,0,0
+"cases","SK","Far North",2022-04-18,0,0
+"cases","SK","North",2022-04-18,0,0
+"cases","SK","Not Reported",2022-04-18,0,0
+"cases","SK","Regina",2022-04-18,0,0
+"cases","SK","Saskatoon",2022-04-18,0,0
+"cases","SK","South",2022-04-18,0,0
 "cases","YT","Yukon",2020-01-31,0,0
 "cases","YT","Yukon",2020-02-01,0,0
 "cases","YT","Yukon",2020-02-02,0,0
