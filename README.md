@@ -39,35 +39,35 @@ The data in this repository may be updated using the script `scripts/update_data
 
 The following datasets are included in this repository:
 
-* Cases by province (`cases_prov.csv`) and health region (`cases_hr.csv`)
+* Cases by province/territory (`cases_pt.csv`) and health region (`cases_hr.csv`)
 
-![cases](plots/cases_prov.png)
+![cases](plots/cases_pt.png)
 
 ![cases](plots/cases_hr.png)
 
-* Mortality by province (`mortality_prov.csv`) and health region (`mortality_hr.csv`)
+* Deaths by province/territory (`deaths_pt.csv`) and health region (`deaths_hr.csv`)
 
-![mortality](plots/mortality_prov.png)
+![deaths](plots/deaths_pt.png)
 
-![mortality](plots/mortality_hr.png)
+![deaths](plots/deaths_hr.png)
 
-* Tests completed by province (`tests_completed_prov.csv`)
+* Tests completed by province/territory (`tests_completed_pt.csv`)
 
-![testing](plots/tests_completed_prov.png)
+![testing](plots/tests_completed_pt.png)
 
-* Hospitalizations (ICU and non-ICU) by province (`hosp_prov.csv`)
+* Hospitalizations (non-ICU and ICU) by province/territory (`hospitalizations_pt.csv`)
 
-![hosp](plots/hosp_prov.png)
+![hosp](plots/hospitalizations_pt.png)
 
-* ICU occupancy by province (`icu_prov.csv`)
+* ICU occupancy by province (`icu_pt.csv`)
 
-![icu](plots/icu_prov.png)
+![icu](plots/icu_pt.png)
 
 Both the cumulative values (`value`) and the daily differences (`value_daily`) are given for each date where data are available.
 
 ## Detailed description of data sources
 
-### Cases & mortality
+### Cases & deaths
 
 | Province/territory | Data sources                                                                                                                                                                                                                 |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
