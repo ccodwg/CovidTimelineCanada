@@ -778,6 +778,10 @@
 "deaths","AB","Calgary","2022-04-23",1142
 "deaths","AB","Calgary","2022-04-24",1142
 "deaths","AB","Calgary","2022-04-25",1142
+"deaths","AB","Calgary","2022-04-26",1142
+"deaths","AB","Calgary","2022-04-27",1158
+"deaths","AB","Calgary","2022-04-28",1158
+"deaths","AB","Calgary","2022-04-29",1158
 "deaths","AB","Central","2020-03-08",0
 "deaths","AB","Central","2020-03-09",0
 "deaths","AB","Central","2020-03-10",0
@@ -1557,6 +1561,10 @@
 "deaths","AB","Central","2022-04-23",534
 "deaths","AB","Central","2022-04-24",534
 "deaths","AB","Central","2022-04-25",534
+"deaths","AB","Central","2022-04-26",534
+"deaths","AB","Central","2022-04-27",543
+"deaths","AB","Central","2022-04-28",543
+"deaths","AB","Central","2022-04-29",543
 "deaths","AB","Edmonton","2020-03-08",0
 "deaths","AB","Edmonton","2020-03-09",0
 "deaths","AB","Edmonton","2020-03-10",0
@@ -2336,6 +2344,10 @@
 "deaths","AB","Edmonton","2022-04-23",1629
 "deaths","AB","Edmonton","2022-04-24",1629
 "deaths","AB","Edmonton","2022-04-25",1629
+"deaths","AB","Edmonton","2022-04-26",1629
+"deaths","AB","Edmonton","2022-04-27",1655
+"deaths","AB","Edmonton","2022-04-28",1655
+"deaths","AB","Edmonton","2022-04-29",1655
 "deaths","AB","North","2020-03-08",0
 "deaths","AB","North","2020-03-09",0
 "deaths","AB","North","2020-03-10",0
@@ -3115,6 +3127,10 @@
 "deaths","AB","North","2022-04-23",512
 "deaths","AB","North","2022-04-24",512
 "deaths","AB","North","2022-04-25",512
+"deaths","AB","North","2022-04-26",512
+"deaths","AB","North","2022-04-27",516
+"deaths","AB","North","2022-04-28",516
+"deaths","AB","North","2022-04-29",516
 "deaths","AB","Unknown","2020-03-08",0
 "deaths","AB","Unknown","2020-03-09",0
 "deaths","AB","Unknown","2020-03-10",0
@@ -3894,6 +3910,10 @@
 "deaths","AB","Unknown","2022-04-23",0
 "deaths","AB","Unknown","2022-04-24",0
 "deaths","AB","Unknown","2022-04-25",0
+"deaths","AB","Unknown","2022-04-26",0
+"deaths","AB","Unknown","2022-04-27",0
+"deaths","AB","Unknown","2022-04-28",0
+"deaths","AB","Unknown","2022-04-29",0
 "deaths","AB","South","2020-03-08",0
 "deaths","AB","South","2020-03-09",0
 "deaths","AB","South","2020-03-10",0
@@ -4673,6 +4693,10 @@
 "deaths","AB","South","2022-04-23",373
 "deaths","AB","South","2022-04-24",373
 "deaths","AB","South","2022-04-25",373
+"deaths","AB","South","2022-04-26",373
+"deaths","AB","South","2022-04-27",380
+"deaths","AB","South","2022-04-28",380
+"deaths","AB","South","2022-04-29",380
 "deaths","BC","Fraser","2020-03-08",0
 "deaths","BC","Fraser","2020-03-09",0
 "deaths","BC","Fraser","2020-03-10",0
@@ -5452,6 +5476,10 @@
 "deaths","BC","Fraser","2022-04-23",1364
 "deaths","BC","Fraser","2022-04-24",1364
 "deaths","BC","Fraser","2022-04-25",1364
+"deaths","BC","Fraser","2022-04-26",1364
+"deaths","BC","Fraser","2022-04-27",1364
+"deaths","BC","Fraser","2022-04-28",1383
+"deaths","BC","Fraser","2022-04-29",1383
 "deaths","BC","Interior","2020-03-08",0
 "deaths","BC","Interior","2020-03-09",0
 "deaths","BC","Interior","2020-03-10",0
@@ -6231,6 +6259,10 @@
 "deaths","BC","Interior","2022-04-23",388
 "deaths","BC","Interior","2022-04-24",388
 "deaths","BC","Interior","2022-04-25",388
+"deaths","BC","Interior","2022-04-26",388
+"deaths","BC","Interior","2022-04-27",388
+"deaths","BC","Interior","2022-04-28",405
+"deaths","BC","Interior","2022-04-29",405
 "deaths","BC","Island","2020-03-08",0
 "deaths","BC","Island","2020-03-09",0
 "deaths","BC","Island","2020-03-10",0
@@ -7010,6 +7042,10 @@
 "deaths","BC","Island","2022-04-23",260
 "deaths","BC","Island","2022-04-24",260
 "deaths","BC","Island","2022-04-25",260
+"deaths","BC","Island","2022-04-26",260
+"deaths","BC","Island","2022-04-27",260
+"deaths","BC","Island","2022-04-28",279
+"deaths","BC","Island","2022-04-29",279
 "deaths","BC","Northern","2020-03-08",0
 "deaths","BC","Northern","2020-03-09",0
 "deaths","BC","Northern","2020-03-10",0
@@ -7789,6 +7825,10 @@
 "deaths","BC","Northern","2022-04-23",334
 "deaths","BC","Northern","2022-04-24",334
 "deaths","BC","Northern","2022-04-25",334
+"deaths","BC","Northern","2022-04-26",334
+"deaths","BC","Northern","2022-04-27",334
+"deaths","BC","Northern","2022-04-28",335
+"deaths","BC","Northern","2022-04-29",335
 "deaths","BC","Unknown","2020-03-08",0
 "deaths","BC","Unknown","2020-03-09",0
 "deaths","BC","Unknown","2020-03-10",0
@@ -8568,6 +8608,10 @@
 "deaths","BC","Unknown","2022-04-23",0
 "deaths","BC","Unknown","2022-04-24",0
 "deaths","BC","Unknown","2022-04-25",0
+"deaths","BC","Unknown","2022-04-26",0
+"deaths","BC","Unknown","2022-04-27",0
+"deaths","BC","Unknown","2022-04-28",0
+"deaths","BC","Unknown","2022-04-29",0
 "deaths","BC","Vancouver Coastal","2020-03-08",1
 "deaths","BC","Vancouver Coastal","2020-03-09",1
 "deaths","BC","Vancouver Coastal","2020-03-10",1
@@ -9347,6 +9391,10 @@
 "deaths","BC","Vancouver Coastal","2022-04-23",731
 "deaths","BC","Vancouver Coastal","2022-04-24",731
 "deaths","BC","Vancouver Coastal","2022-04-25",731
+"deaths","BC","Vancouver Coastal","2022-04-26",731
+"deaths","BC","Vancouver Coastal","2022-04-27",731
+"deaths","BC","Vancouver Coastal","2022-04-28",745
+"deaths","BC","Vancouver Coastal","2022-04-29",745
 "deaths","MB","Interlake-Eastern","2020-03-08",0
 "deaths","MB","Interlake-Eastern","2020-03-09",0
 "deaths","MB","Interlake-Eastern","2020-03-10",0
@@ -10126,6 +10174,10 @@
 "deaths","MB","Interlake-Eastern","2022-04-23",91
 "deaths","MB","Interlake-Eastern","2022-04-24",91
 "deaths","MB","Interlake-Eastern","2022-04-25",91
+"deaths","MB","Interlake-Eastern","2022-04-26",91
+"deaths","MB","Interlake-Eastern","2022-04-27",91
+"deaths","MB","Interlake-Eastern","2022-04-28",91
+"deaths","MB","Interlake-Eastern","2022-04-29",91
 "deaths","MB","Northern","2020-03-08",0
 "deaths","MB","Northern","2020-03-09",0
 "deaths","MB","Northern","2020-03-10",0
@@ -10905,6 +10957,10 @@
 "deaths","MB","Northern","2022-04-23",83
 "deaths","MB","Northern","2022-04-24",83
 "deaths","MB","Northern","2022-04-25",83
+"deaths","MB","Northern","2022-04-26",83
+"deaths","MB","Northern","2022-04-27",83
+"deaths","MB","Northern","2022-04-28",83
+"deaths","MB","Northern","2022-04-29",83
 "deaths","MB","Unknown","2020-03-08",0
 "deaths","MB","Unknown","2020-03-09",0
 "deaths","MB","Unknown","2020-03-10",0
@@ -11682,8 +11738,12 @@
 "deaths","MB","Unknown","2022-04-21",35
 "deaths","MB","Unknown","2022-04-22",35
 "deaths","MB","Unknown","2022-04-23",35
-"deaths","MB","Unknown","2022-04-24",35
-"deaths","MB","Unknown","2022-04-25",35
+"deaths","MB","Unknown","2022-04-24",53
+"deaths","MB","Unknown","2022-04-25",53
+"deaths","MB","Unknown","2022-04-26",53
+"deaths","MB","Unknown","2022-04-27",53
+"deaths","MB","Unknown","2022-04-28",53
+"deaths","MB","Unknown","2022-04-29",53
 "deaths","MB","Prairie Mountain","2020-03-08",0
 "deaths","MB","Prairie Mountain","2020-03-09",0
 "deaths","MB","Prairie Mountain","2020-03-10",0
@@ -12463,6 +12523,10 @@
 "deaths","MB","Prairie Mountain","2022-04-23",151
 "deaths","MB","Prairie Mountain","2022-04-24",151
 "deaths","MB","Prairie Mountain","2022-04-25",151
+"deaths","MB","Prairie Mountain","2022-04-26",151
+"deaths","MB","Prairie Mountain","2022-04-27",151
+"deaths","MB","Prairie Mountain","2022-04-28",151
+"deaths","MB","Prairie Mountain","2022-04-29",151
 "deaths","MB","Southern Health","2020-03-08",0
 "deaths","MB","Southern Health","2020-03-09",0
 "deaths","MB","Southern Health","2020-03-10",0
@@ -13242,6 +13306,10 @@
 "deaths","MB","Southern Health","2022-04-23",335
 "deaths","MB","Southern Health","2022-04-24",335
 "deaths","MB","Southern Health","2022-04-25",335
+"deaths","MB","Southern Health","2022-04-26",335
+"deaths","MB","Southern Health","2022-04-27",335
+"deaths","MB","Southern Health","2022-04-28",335
+"deaths","MB","Southern Health","2022-04-29",335
 "deaths","MB","Winnipeg","2020-03-08",0
 "deaths","MB","Winnipeg","2020-03-09",0
 "deaths","MB","Winnipeg","2020-03-10",0
@@ -14021,6 +14089,10 @@
 "deaths","MB","Winnipeg","2022-04-23",1079
 "deaths","MB","Winnipeg","2022-04-24",1079
 "deaths","MB","Winnipeg","2022-04-25",1079
+"deaths","MB","Winnipeg","2022-04-26",1079
+"deaths","MB","Winnipeg","2022-04-27",1079
+"deaths","MB","Winnipeg","2022-04-28",1079
+"deaths","MB","Winnipeg","2022-04-29",1079
 "deaths","NB","Unknown","2020-03-08",0
 "deaths","NB","Unknown","2020-03-09",0
 "deaths","NB","Unknown","2020-03-10",0
@@ -14800,6 +14872,10 @@
 "deaths","NB","Unknown","2022-04-23",0
 "deaths","NB","Unknown","2022-04-24",0
 "deaths","NB","Unknown","2022-04-25",0
+"deaths","NB","Unknown","2022-04-26",0
+"deaths","NB","Unknown","2022-04-27",0
+"deaths","NB","Unknown","2022-04-28",0
+"deaths","NB","Unknown","2022-04-29",0
 "deaths","NB","Zone 1 (Moncton area)","2020-03-08",0
 "deaths","NB","Zone 1 (Moncton area)","2020-03-09",0
 "deaths","NB","Zone 1 (Moncton area)","2020-03-10",0
@@ -15577,8 +15653,12 @@
 "deaths","NB","Zone 1 (Moncton area)","2022-04-21",102
 "deaths","NB","Zone 1 (Moncton area)","2022-04-22",102
 "deaths","NB","Zone 1 (Moncton area)","2022-04-23",102
-"deaths","NB","Zone 1 (Moncton area)","2022-04-24",102
-"deaths","NB","Zone 1 (Moncton area)","2022-04-25",102
+"deaths","NB","Zone 1 (Moncton area)","2022-04-24",105
+"deaths","NB","Zone 1 (Moncton area)","2022-04-25",105
+"deaths","NB","Zone 1 (Moncton area)","2022-04-26",105
+"deaths","NB","Zone 1 (Moncton area)","2022-04-27",105
+"deaths","NB","Zone 1 (Moncton area)","2022-04-28",105
+"deaths","NB","Zone 1 (Moncton area)","2022-04-29",105
 "deaths","NB","Zone 2 (Saint John area)","2020-03-08",0
 "deaths","NB","Zone 2 (Saint John area)","2020-03-09",0
 "deaths","NB","Zone 2 (Saint John area)","2020-03-10",0
@@ -16358,6 +16438,10 @@
 "deaths","NB","Zone 2 (Saint John area)","2022-04-23",63
 "deaths","NB","Zone 2 (Saint John area)","2022-04-24",63
 "deaths","NB","Zone 2 (Saint John area)","2022-04-25",63
+"deaths","NB","Zone 2 (Saint John area)","2022-04-26",63
+"deaths","NB","Zone 2 (Saint John area)","2022-04-27",63
+"deaths","NB","Zone 2 (Saint John area)","2022-04-28",63
+"deaths","NB","Zone 2 (Saint John area)","2022-04-29",63
 "deaths","NB","Zone 3 (Fredericton area)","2020-03-08",0
 "deaths","NB","Zone 3 (Fredericton area)","2020-03-09",0
 "deaths","NB","Zone 3 (Fredericton area)","2020-03-10",0
@@ -17137,6 +17221,10 @@
 "deaths","NB","Zone 3 (Fredericton area)","2022-04-23",58
 "deaths","NB","Zone 3 (Fredericton area)","2022-04-24",58
 "deaths","NB","Zone 3 (Fredericton area)","2022-04-25",58
+"deaths","NB","Zone 3 (Fredericton area)","2022-04-26",58
+"deaths","NB","Zone 3 (Fredericton area)","2022-04-27",58
+"deaths","NB","Zone 3 (Fredericton area)","2022-04-28",58
+"deaths","NB","Zone 3 (Fredericton area)","2022-04-29",58
 "deaths","NB","Zone 4 (Edmundston area)","2020-03-08",0
 "deaths","NB","Zone 4 (Edmundston area)","2020-03-09",0
 "deaths","NB","Zone 4 (Edmundston area)","2020-03-10",0
@@ -17916,6 +18004,10 @@
 "deaths","NB","Zone 4 (Edmundston area)","2022-04-23",60
 "deaths","NB","Zone 4 (Edmundston area)","2022-04-24",60
 "deaths","NB","Zone 4 (Edmundston area)","2022-04-25",60
+"deaths","NB","Zone 4 (Edmundston area)","2022-04-26",60
+"deaths","NB","Zone 4 (Edmundston area)","2022-04-27",60
+"deaths","NB","Zone 4 (Edmundston area)","2022-04-28",60
+"deaths","NB","Zone 4 (Edmundston area)","2022-04-29",60
 "deaths","NB","Zone 5 (Campbellton area)","2020-03-08",0
 "deaths","NB","Zone 5 (Campbellton area)","2020-03-09",0
 "deaths","NB","Zone 5 (Campbellton area)","2020-03-10",0
@@ -18693,8 +18785,12 @@
 "deaths","NB","Zone 5 (Campbellton area)","2022-04-21",25
 "deaths","NB","Zone 5 (Campbellton area)","2022-04-22",25
 "deaths","NB","Zone 5 (Campbellton area)","2022-04-23",25
-"deaths","NB","Zone 5 (Campbellton area)","2022-04-24",25
-"deaths","NB","Zone 5 (Campbellton area)","2022-04-25",25
+"deaths","NB","Zone 5 (Campbellton area)","2022-04-24",28
+"deaths","NB","Zone 5 (Campbellton area)","2022-04-25",28
+"deaths","NB","Zone 5 (Campbellton area)","2022-04-26",28
+"deaths","NB","Zone 5 (Campbellton area)","2022-04-27",28
+"deaths","NB","Zone 5 (Campbellton area)","2022-04-28",28
+"deaths","NB","Zone 5 (Campbellton area)","2022-04-29",28
 "deaths","NB","Zone 6 (Bathurst area)","2020-03-08",0
 "deaths","NB","Zone 6 (Bathurst area)","2020-03-09",0
 "deaths","NB","Zone 6 (Bathurst area)","2020-03-10",0
@@ -19474,6 +19570,10 @@
 "deaths","NB","Zone 6 (Bathurst area)","2022-04-23",42
 "deaths","NB","Zone 6 (Bathurst area)","2022-04-24",42
 "deaths","NB","Zone 6 (Bathurst area)","2022-04-25",42
+"deaths","NB","Zone 6 (Bathurst area)","2022-04-26",42
+"deaths","NB","Zone 6 (Bathurst area)","2022-04-27",42
+"deaths","NB","Zone 6 (Bathurst area)","2022-04-28",42
+"deaths","NB","Zone 6 (Bathurst area)","2022-04-29",42
 "deaths","NB","Zone 7 (Miramichi area)","2020-03-08",0
 "deaths","NB","Zone 7 (Miramichi area)","2020-03-09",0
 "deaths","NB","Zone 7 (Miramichi area)","2020-03-10",0
@@ -20253,6 +20353,10 @@
 "deaths","NB","Zone 7 (Miramichi area)","2022-04-23",28
 "deaths","NB","Zone 7 (Miramichi area)","2022-04-24",28
 "deaths","NB","Zone 7 (Miramichi area)","2022-04-25",28
+"deaths","NB","Zone 7 (Miramichi area)","2022-04-26",28
+"deaths","NB","Zone 7 (Miramichi area)","2022-04-27",28
+"deaths","NB","Zone 7 (Miramichi area)","2022-04-28",28
+"deaths","NB","Zone 7 (Miramichi area)","2022-04-29",28
 "deaths","NL","Central","2020-03-08",0
 "deaths","NL","Central","2020-03-09",0
 "deaths","NL","Central","2020-03-10",0
@@ -21032,6 +21136,10 @@
 "deaths","NL","Central","2022-04-23",53
 "deaths","NL","Central","2022-04-24",53
 "deaths","NL","Central","2022-04-25",53
+"deaths","NL","Central","2022-04-26",53
+"deaths","NL","Central","2022-04-27",54
+"deaths","NL","Central","2022-04-28",54
+"deaths","NL","Central","2022-04-29",54
 "deaths","NL","Eastern","2020-03-08",0
 "deaths","NL","Eastern","2020-03-09",0
 "deaths","NL","Eastern","2020-03-10",0
@@ -21811,6 +21919,10 @@
 "deaths","NL","Eastern","2022-04-23",79
 "deaths","NL","Eastern","2022-04-24",79
 "deaths","NL","Eastern","2022-04-25",79
+"deaths","NL","Eastern","2022-04-26",79
+"deaths","NL","Eastern","2022-04-27",82
+"deaths","NL","Eastern","2022-04-28",82
+"deaths","NL","Eastern","2022-04-29",83
 "deaths","NL","Labrador-Grenfell","2020-03-08",0
 "deaths","NL","Labrador-Grenfell","2020-03-09",0
 "deaths","NL","Labrador-Grenfell","2020-03-10",0
@@ -22590,6 +22702,10 @@
 "deaths","NL","Labrador-Grenfell","2022-04-23",2
 "deaths","NL","Labrador-Grenfell","2022-04-24",2
 "deaths","NL","Labrador-Grenfell","2022-04-25",2
+"deaths","NL","Labrador-Grenfell","2022-04-26",2
+"deaths","NL","Labrador-Grenfell","2022-04-27",2
+"deaths","NL","Labrador-Grenfell","2022-04-28",2
+"deaths","NL","Labrador-Grenfell","2022-04-29",2
 "deaths","NL","Unknown","2020-03-08",0
 "deaths","NL","Unknown","2020-03-09",0
 "deaths","NL","Unknown","2020-03-10",0
@@ -23369,6 +23485,10 @@
 "deaths","NL","Unknown","2022-04-23",0
 "deaths","NL","Unknown","2022-04-24",0
 "deaths","NL","Unknown","2022-04-25",0
+"deaths","NL","Unknown","2022-04-26",0
+"deaths","NL","Unknown","2022-04-27",0
+"deaths","NL","Unknown","2022-04-28",0
+"deaths","NL","Unknown","2022-04-29",0
 "deaths","NL","Western","2020-03-08",0
 "deaths","NL","Western","2020-03-09",0
 "deaths","NL","Western","2020-03-10",0
@@ -24148,6 +24268,10 @@
 "deaths","NL","Western","2022-04-23",23
 "deaths","NL","Western","2022-04-24",23
 "deaths","NL","Western","2022-04-25",23
+"deaths","NL","Western","2022-04-26",23
+"deaths","NL","Western","2022-04-27",24
+"deaths","NL","Western","2022-04-28",24
+"deaths","NL","Western","2022-04-29",25
 "deaths","NS","Unknown","2020-03-08",0
 "deaths","NS","Unknown","2020-03-09",0
 "deaths","NS","Unknown","2020-03-10",0
@@ -24927,6 +25051,10 @@
 "deaths","NS","Unknown","2022-04-23",79
 "deaths","NS","Unknown","2022-04-24",79
 "deaths","NS","Unknown","2022-04-25",79
+"deaths","NS","Unknown","2022-04-26",79
+"deaths","NS","Unknown","2022-04-27",79
+"deaths","NS","Unknown","2022-04-28",103
+"deaths","NS","Unknown","2022-04-29",103
 "deaths","NS","Zone 1 - Western","2020-03-08",0
 "deaths","NS","Zone 1 - Western","2020-03-09",0
 "deaths","NS","Zone 1 - Western","2020-03-10",0
@@ -25706,6 +25834,10 @@
 "deaths","NS","Zone 1 - Western","2022-04-23",29
 "deaths","NS","Zone 1 - Western","2022-04-24",29
 "deaths","NS","Zone 1 - Western","2022-04-25",29
+"deaths","NS","Zone 1 - Western","2022-04-26",29
+"deaths","NS","Zone 1 - Western","2022-04-27",29
+"deaths","NS","Zone 1 - Western","2022-04-28",29
+"deaths","NS","Zone 1 - Western","2022-04-29",29
 "deaths","NS","Zone 2 - Northern","2020-03-08",0
 "deaths","NS","Zone 2 - Northern","2020-03-09",0
 "deaths","NS","Zone 2 - Northern","2020-03-10",0
@@ -26485,6 +26617,10 @@
 "deaths","NS","Zone 2 - Northern","2022-04-23",20
 "deaths","NS","Zone 2 - Northern","2022-04-24",20
 "deaths","NS","Zone 2 - Northern","2022-04-25",20
+"deaths","NS","Zone 2 - Northern","2022-04-26",20
+"deaths","NS","Zone 2 - Northern","2022-04-27",20
+"deaths","NS","Zone 2 - Northern","2022-04-28",20
+"deaths","NS","Zone 2 - Northern","2022-04-29",20
 "deaths","NS","Zone 3 - Eastern","2020-03-08",0
 "deaths","NS","Zone 3 - Eastern","2020-03-09",0
 "deaths","NS","Zone 3 - Eastern","2020-03-10",0
@@ -27264,6 +27400,10 @@
 "deaths","NS","Zone 3 - Eastern","2022-04-23",26
 "deaths","NS","Zone 3 - Eastern","2022-04-24",26
 "deaths","NS","Zone 3 - Eastern","2022-04-25",26
+"deaths","NS","Zone 3 - Eastern","2022-04-26",26
+"deaths","NS","Zone 3 - Eastern","2022-04-27",26
+"deaths","NS","Zone 3 - Eastern","2022-04-28",26
+"deaths","NS","Zone 3 - Eastern","2022-04-29",26
 "deaths","NS","Zone 4 - Central","2020-03-08",0
 "deaths","NS","Zone 4 - Central","2020-03-09",0
 "deaths","NS","Zone 4 - Central","2020-03-10",0
@@ -28043,6 +28183,10 @@
 "deaths","NS","Zone 4 - Central","2022-04-23",135
 "deaths","NS","Zone 4 - Central","2022-04-24",135
 "deaths","NS","Zone 4 - Central","2022-04-25",135
+"deaths","NS","Zone 4 - Central","2022-04-26",135
+"deaths","NS","Zone 4 - Central","2022-04-27",135
+"deaths","NS","Zone 4 - Central","2022-04-28",135
+"deaths","NS","Zone 4 - Central","2022-04-29",135
 "deaths","NU","Nunavut","2020-03-08",0
 "deaths","NU","Nunavut","2020-03-09",0
 "deaths","NU","Nunavut","2020-03-10",0
@@ -28822,6 +28966,10 @@
 "deaths","NU","Nunavut","2022-04-23",7
 "deaths","NU","Nunavut","2022-04-24",7
 "deaths","NU","Nunavut","2022-04-25",7
+"deaths","NU","Nunavut","2022-04-26",7
+"deaths","NU","Nunavut","2022-04-27",7
+"deaths","NU","Nunavut","2022-04-28",7
+"deaths","NU","Nunavut","2022-04-29",7
 "deaths","NT","NWT","2020-03-08",0
 "deaths","NT","NWT","2020-03-09",0
 "deaths","NT","NWT","2020-03-10",0
@@ -29601,6 +29749,10 @@
 "deaths","NT","NWT","2022-04-23",21
 "deaths","NT","NWT","2022-04-24",21
 "deaths","NT","NWT","2022-04-25",22
+"deaths","NT","NWT","2022-04-26",22
+"deaths","NT","NWT","2022-04-27",22
+"deaths","NT","NWT","2022-04-28",22
+"deaths","NT","NWT","2022-04-29",22
 "deaths","ON","Algoma","2020-03-08",0
 "deaths","ON","Algoma","2020-03-09",0
 "deaths","ON","Algoma","2020-03-10",0
@@ -30380,6 +30532,10 @@
 "deaths","ON","Algoma","2022-04-23",50
 "deaths","ON","Algoma","2022-04-24",50
 "deaths","ON","Algoma","2022-04-25",51
+"deaths","ON","Algoma","2022-04-26",51
+"deaths","ON","Algoma","2022-04-27",51
+"deaths","ON","Algoma","2022-04-28",52
+"deaths","ON","Algoma","2022-04-29",52
 "deaths","ON","Brant","2020-03-08",0
 "deaths","ON","Brant","2020-03-09",0
 "deaths","ON","Brant","2020-03-10",0
@@ -31159,6 +31315,10 @@
 "deaths","ON","Brant","2022-04-23",67
 "deaths","ON","Brant","2022-04-24",67
 "deaths","ON","Brant","2022-04-25",67
+"deaths","ON","Brant","2022-04-26",67
+"deaths","ON","Brant","2022-04-27",67
+"deaths","ON","Brant","2022-04-28",67
+"deaths","ON","Brant","2022-04-29",67
 "deaths","ON","Chatham-Kent","2020-03-08",0
 "deaths","ON","Chatham-Kent","2020-03-09",0
 "deaths","ON","Chatham-Kent","2020-03-10",0
@@ -31938,6 +32098,10 @@
 "deaths","ON","Chatham-Kent","2022-04-23",79
 "deaths","ON","Chatham-Kent","2022-04-24",79
 "deaths","ON","Chatham-Kent","2022-04-25",79
+"deaths","ON","Chatham-Kent","2022-04-26",79
+"deaths","ON","Chatham-Kent","2022-04-27",79
+"deaths","ON","Chatham-Kent","2022-04-28",81
+"deaths","ON","Chatham-Kent","2022-04-29",81
 "deaths","ON","Durham","2020-03-08",0
 "deaths","ON","Durham","2020-03-09",0
 "deaths","ON","Durham","2020-03-10",0
@@ -32717,6 +32881,10 @@
 "deaths","ON","Durham","2022-04-23",470
 "deaths","ON","Durham","2022-04-24",471
 "deaths","ON","Durham","2022-04-25",471
+"deaths","ON","Durham","2022-04-26",472
+"deaths","ON","Durham","2022-04-27",472
+"deaths","ON","Durham","2022-04-28",473
+"deaths","ON","Durham","2022-04-29",473
 "deaths","ON","Eastern","2020-03-08",0
 "deaths","ON","Eastern","2020-03-09",0
 "deaths","ON","Eastern","2020-03-10",0
@@ -33496,6 +33664,10 @@
 "deaths","ON","Eastern","2022-04-23",213
 "deaths","ON","Eastern","2022-04-24",213
 "deaths","ON","Eastern","2022-04-25",213
+"deaths","ON","Eastern","2022-04-26",213
+"deaths","ON","Eastern","2022-04-27",213
+"deaths","ON","Eastern","2022-04-28",213
+"deaths","ON","Eastern","2022-04-29",213
 "deaths","ON","Grey Bruce","2020-03-08",0
 "deaths","ON","Grey Bruce","2020-03-09",0
 "deaths","ON","Grey Bruce","2020-03-10",0
@@ -34275,6 +34447,10 @@
 "deaths","ON","Grey Bruce","2022-04-23",57
 "deaths","ON","Grey Bruce","2022-04-24",57
 "deaths","ON","Grey Bruce","2022-04-25",57
+"deaths","ON","Grey Bruce","2022-04-26",57
+"deaths","ON","Grey Bruce","2022-04-27",58
+"deaths","ON","Grey Bruce","2022-04-28",59
+"deaths","ON","Grey Bruce","2022-04-29",59
 "deaths","ON","Haldimand-Norfolk","2020-03-08",0
 "deaths","ON","Haldimand-Norfolk","2020-03-09",0
 "deaths","ON","Haldimand-Norfolk","2020-03-10",0
@@ -35054,6 +35230,10 @@
 "deaths","ON","Haldimand-Norfolk","2022-04-23",78
 "deaths","ON","Haldimand-Norfolk","2022-04-24",78
 "deaths","ON","Haldimand-Norfolk","2022-04-25",78
+"deaths","ON","Haldimand-Norfolk","2022-04-26",78
+"deaths","ON","Haldimand-Norfolk","2022-04-27",78
+"deaths","ON","Haldimand-Norfolk","2022-04-28",78
+"deaths","ON","Haldimand-Norfolk","2022-04-29",78
 "deaths","ON","Haliburton Kawartha Pineridge","2020-03-08",0
 "deaths","ON","Haliburton Kawartha Pineridge","2020-03-09",0
 "deaths","ON","Haliburton Kawartha Pineridge","2020-03-10",0
@@ -35833,6 +36013,10 @@
 "deaths","ON","Haliburton Kawartha Pineridge","2022-04-23",99
 "deaths","ON","Haliburton Kawartha Pineridge","2022-04-24",101
 "deaths","ON","Haliburton Kawartha Pineridge","2022-04-25",101
+"deaths","ON","Haliburton Kawartha Pineridge","2022-04-26",101
+"deaths","ON","Haliburton Kawartha Pineridge","2022-04-27",102
+"deaths","ON","Haliburton Kawartha Pineridge","2022-04-28",103
+"deaths","ON","Haliburton Kawartha Pineridge","2022-04-29",103
 "deaths","ON","Halton","2020-03-08",0
 "deaths","ON","Halton","2020-03-09",0
 "deaths","ON","Halton","2020-03-10",0
@@ -36612,6 +36796,10 @@
 "deaths","ON","Halton","2022-04-23",308
 "deaths","ON","Halton","2022-04-24",308
 "deaths","ON","Halton","2022-04-25",308
+"deaths","ON","Halton","2022-04-26",308
+"deaths","ON","Halton","2022-04-27",308
+"deaths","ON","Halton","2022-04-28",308
+"deaths","ON","Halton","2022-04-29",310
 "deaths","ON","Hamilton","2020-03-08",0
 "deaths","ON","Hamilton","2020-03-09",0
 "deaths","ON","Hamilton","2020-03-10",0
@@ -37391,6 +37579,10 @@
 "deaths","ON","Hamilton","2022-04-23",542
 "deaths","ON","Hamilton","2022-04-24",542
 "deaths","ON","Hamilton","2022-04-25",541
+"deaths","ON","Hamilton","2022-04-26",541
+"deaths","ON","Hamilton","2022-04-27",541
+"deaths","ON","Hamilton","2022-04-28",541
+"deaths","ON","Hamilton","2022-04-29",542
 "deaths","ON","Hastings Prince Edward","2020-03-08",0
 "deaths","ON","Hastings Prince Edward","2020-03-09",0
 "deaths","ON","Hastings Prince Edward","2020-03-10",0
@@ -38170,6 +38362,10 @@
 "deaths","ON","Hastings Prince Edward","2022-04-23",52
 "deaths","ON","Hastings Prince Edward","2022-04-24",52
 "deaths","ON","Hastings Prince Edward","2022-04-25",53
+"deaths","ON","Hastings Prince Edward","2022-04-26",53
+"deaths","ON","Hastings Prince Edward","2022-04-27",53
+"deaths","ON","Hastings Prince Edward","2022-04-28",53
+"deaths","ON","Hastings Prince Edward","2022-04-29",54
 "deaths","ON","Huron Perth","2020-03-08",0
 "deaths","ON","Huron Perth","2020-03-09",0
 "deaths","ON","Huron Perth","2020-03-10",0
@@ -38949,6 +39145,10 @@
 "deaths","ON","Huron Perth","2022-04-23",105
 "deaths","ON","Huron Perth","2022-04-24",105
 "deaths","ON","Huron Perth","2022-04-25",105
+"deaths","ON","Huron Perth","2022-04-26",105
+"deaths","ON","Huron Perth","2022-04-27",105
+"deaths","ON","Huron Perth","2022-04-28",106
+"deaths","ON","Huron Perth","2022-04-29",106
 "deaths","ON","Kingston Frontenac Lennox & Addington","2020-03-08",0
 "deaths","ON","Kingston Frontenac Lennox & Addington","2020-03-09",0
 "deaths","ON","Kingston Frontenac Lennox & Addington","2020-03-10",0
@@ -39728,6 +39928,10 @@
 "deaths","ON","Kingston Frontenac Lennox & Addington","2022-04-23",48
 "deaths","ON","Kingston Frontenac Lennox & Addington","2022-04-24",48
 "deaths","ON","Kingston Frontenac Lennox & Addington","2022-04-25",49
+"deaths","ON","Kingston Frontenac Lennox & Addington","2022-04-26",49
+"deaths","ON","Kingston Frontenac Lennox & Addington","2022-04-27",49
+"deaths","ON","Kingston Frontenac Lennox & Addington","2022-04-28",49
+"deaths","ON","Kingston Frontenac Lennox & Addington","2022-04-29",49
 "deaths","ON","Lambton","2020-03-08",0
 "deaths","ON","Lambton","2020-03-09",0
 "deaths","ON","Lambton","2020-03-10",0
@@ -40507,6 +40711,10 @@
 "deaths","ON","Lambton","2022-04-23",137
 "deaths","ON","Lambton","2022-04-24",137
 "deaths","ON","Lambton","2022-04-25",137
+"deaths","ON","Lambton","2022-04-26",138
+"deaths","ON","Lambton","2022-04-27",138
+"deaths","ON","Lambton","2022-04-28",138
+"deaths","ON","Lambton","2022-04-29",141
 "deaths","ON","Leeds Grenville and Lanark","2020-03-08",0
 "deaths","ON","Leeds Grenville and Lanark","2020-03-09",0
 "deaths","ON","Leeds Grenville and Lanark","2020-03-10",0
@@ -41286,6 +41494,10 @@
 "deaths","ON","Leeds Grenville and Lanark","2022-04-23",96
 "deaths","ON","Leeds Grenville and Lanark","2022-04-24",96
 "deaths","ON","Leeds Grenville and Lanark","2022-04-25",96
+"deaths","ON","Leeds Grenville and Lanark","2022-04-26",96
+"deaths","ON","Leeds Grenville and Lanark","2022-04-27",96
+"deaths","ON","Leeds Grenville and Lanark","2022-04-28",96
+"deaths","ON","Leeds Grenville and Lanark","2022-04-29",96
 "deaths","ON","Middlesex-London","2020-03-08",0
 "deaths","ON","Middlesex-London","2020-03-09",0
 "deaths","ON","Middlesex-London","2020-03-10",0
@@ -42065,6 +42277,10 @@
 "deaths","ON","Middlesex-London","2022-04-23",371
 "deaths","ON","Middlesex-London","2022-04-24",371
 "deaths","ON","Middlesex-London","2022-04-25",372
+"deaths","ON","Middlesex-London","2022-04-26",373
+"deaths","ON","Middlesex-London","2022-04-27",373
+"deaths","ON","Middlesex-London","2022-04-28",375
+"deaths","ON","Middlesex-London","2022-04-29",375
 "deaths","ON","Niagara","2020-03-08",0
 "deaths","ON","Niagara","2020-03-09",0
 "deaths","ON","Niagara","2020-03-10",0
@@ -42844,6 +43060,10 @@
 "deaths","ON","Niagara","2022-04-23",534
 "deaths","ON","Niagara","2022-04-24",534
 "deaths","ON","Niagara","2022-04-25",534
+"deaths","ON","Niagara","2022-04-26",535
+"deaths","ON","Niagara","2022-04-27",536
+"deaths","ON","Niagara","2022-04-28",542
+"deaths","ON","Niagara","2022-04-29",542
 "deaths","ON","North Bay Parry Sound","2020-03-08",0
 "deaths","ON","North Bay Parry Sound","2020-03-09",0
 "deaths","ON","North Bay Parry Sound","2020-03-10",0
@@ -43623,6 +43843,10 @@
 "deaths","ON","North Bay Parry Sound","2022-04-23",31
 "deaths","ON","North Bay Parry Sound","2022-04-24",31
 "deaths","ON","North Bay Parry Sound","2022-04-25",31
+"deaths","ON","North Bay Parry Sound","2022-04-26",31
+"deaths","ON","North Bay Parry Sound","2022-04-27",33
+"deaths","ON","North Bay Parry Sound","2022-04-28",33
+"deaths","ON","North Bay Parry Sound","2022-04-29",34
 "deaths","ON","Northwestern","2020-03-08",0
 "deaths","ON","Northwestern","2020-03-09",0
 "deaths","ON","Northwestern","2020-03-10",0
@@ -44402,6 +44626,10 @@
 "deaths","ON","Northwestern","2022-04-23",22
 "deaths","ON","Northwestern","2022-04-24",22
 "deaths","ON","Northwestern","2022-04-25",22
+"deaths","ON","Northwestern","2022-04-26",22
+"deaths","ON","Northwestern","2022-04-27",22
+"deaths","ON","Northwestern","2022-04-28",22
+"deaths","ON","Northwestern","2022-04-29",22
 "deaths","ON","Unknown","2020-03-08",0
 "deaths","ON","Unknown","2020-03-09",0
 "deaths","ON","Unknown","2020-03-10",0
@@ -45181,6 +45409,10 @@
 "deaths","ON","Unknown","2022-04-23",0
 "deaths","ON","Unknown","2022-04-24",0
 "deaths","ON","Unknown","2022-04-25",0
+"deaths","ON","Unknown","2022-04-26",0
+"deaths","ON","Unknown","2022-04-27",0
+"deaths","ON","Unknown","2022-04-28",0
+"deaths","ON","Unknown","2022-04-29",0
 "deaths","ON","Ottawa","2020-03-08",0
 "deaths","ON","Ottawa","2020-03-09",0
 "deaths","ON","Ottawa","2020-03-10",0
@@ -45960,6 +46192,10 @@
 "deaths","ON","Ottawa","2022-04-23",773
 "deaths","ON","Ottawa","2022-04-24",773
 "deaths","ON","Ottawa","2022-04-25",773
+"deaths","ON","Ottawa","2022-04-26",775
+"deaths","ON","Ottawa","2022-04-27",777
+"deaths","ON","Ottawa","2022-04-28",777
+"deaths","ON","Ottawa","2022-04-29",777
 "deaths","ON","Peel","2020-03-08",0
 "deaths","ON","Peel","2020-03-09",0
 "deaths","ON","Peel","2020-03-10",0
@@ -46739,6 +46975,10 @@
 "deaths","ON","Peel","2022-04-23",1310
 "deaths","ON","Peel","2022-04-24",1310
 "deaths","ON","Peel","2022-04-25",1313
+"deaths","ON","Peel","2022-04-26",1317
+"deaths","ON","Peel","2022-04-27",1318
+"deaths","ON","Peel","2022-04-28",1319
+"deaths","ON","Peel","2022-04-29",1320
 "deaths","ON","Peterborough","2020-03-08",0
 "deaths","ON","Peterborough","2020-03-09",0
 "deaths","ON","Peterborough","2020-03-10",0
@@ -47518,6 +47758,10 @@
 "deaths","ON","Peterborough","2022-04-23",68
 "deaths","ON","Peterborough","2022-04-24",68
 "deaths","ON","Peterborough","2022-04-25",68
+"deaths","ON","Peterborough","2022-04-26",68
+"deaths","ON","Peterborough","2022-04-27",70
+"deaths","ON","Peterborough","2022-04-28",70
+"deaths","ON","Peterborough","2022-04-29",71
 "deaths","ON","Porcupine","2020-03-08",0
 "deaths","ON","Porcupine","2020-03-09",0
 "deaths","ON","Porcupine","2020-03-10",0
@@ -48297,6 +48541,10 @@
 "deaths","ON","Porcupine","2022-04-23",52
 "deaths","ON","Porcupine","2022-04-24",52
 "deaths","ON","Porcupine","2022-04-25",52
+"deaths","ON","Porcupine","2022-04-26",54
+"deaths","ON","Porcupine","2022-04-27",54
+"deaths","ON","Porcupine","2022-04-28",54
+"deaths","ON","Porcupine","2022-04-29",54
 "deaths","ON","Renfrew","2020-03-08",0
 "deaths","ON","Renfrew","2020-03-09",0
 "deaths","ON","Renfrew","2020-03-10",0
@@ -49076,6 +49324,10 @@
 "deaths","ON","Renfrew","2022-04-23",40
 "deaths","ON","Renfrew","2022-04-24",40
 "deaths","ON","Renfrew","2022-04-25",40
+"deaths","ON","Renfrew","2022-04-26",40
+"deaths","ON","Renfrew","2022-04-27",41
+"deaths","ON","Renfrew","2022-04-28",41
+"deaths","ON","Renfrew","2022-04-29",42
 "deaths","ON","Simcoe Muskoka","2020-03-08",0
 "deaths","ON","Simcoe Muskoka","2020-03-09",0
 "deaths","ON","Simcoe Muskoka","2020-03-10",0
@@ -49855,6 +50107,10 @@
 "deaths","ON","Simcoe Muskoka","2022-04-23",464
 "deaths","ON","Simcoe Muskoka","2022-04-24",464
 "deaths","ON","Simcoe Muskoka","2022-04-25",465
+"deaths","ON","Simcoe Muskoka","2022-04-26",465
+"deaths","ON","Simcoe Muskoka","2022-04-27",468
+"deaths","ON","Simcoe Muskoka","2022-04-28",468
+"deaths","ON","Simcoe Muskoka","2022-04-29",468
 "deaths","ON","Southwestern","2020-03-08",0
 "deaths","ON","Southwestern","2020-03-09",0
 "deaths","ON","Southwestern","2020-03-10",0
@@ -50634,6 +50890,10 @@
 "deaths","ON","Southwestern","2022-04-23",158
 "deaths","ON","Southwestern","2022-04-24",158
 "deaths","ON","Southwestern","2022-04-25",158
+"deaths","ON","Southwestern","2022-04-26",158
+"deaths","ON","Southwestern","2022-04-27",161
+"deaths","ON","Southwestern","2022-04-28",161
+"deaths","ON","Southwestern","2022-04-29",161
 "deaths","ON","Sudbury","2020-03-08",0
 "deaths","ON","Sudbury","2020-03-09",0
 "deaths","ON","Sudbury","2020-03-10",0
@@ -51413,6 +51673,10 @@
 "deaths","ON","Sudbury","2022-04-23",135
 "deaths","ON","Sudbury","2022-04-24",135
 "deaths","ON","Sudbury","2022-04-25",135
+"deaths","ON","Sudbury","2022-04-26",135
+"deaths","ON","Sudbury","2022-04-27",137
+"deaths","ON","Sudbury","2022-04-28",137
+"deaths","ON","Sudbury","2022-04-29",137
 "deaths","ON","Thunder Bay","2020-03-08",0
 "deaths","ON","Thunder Bay","2020-03-09",0
 "deaths","ON","Thunder Bay","2020-03-10",0
@@ -52192,6 +52456,10 @@
 "deaths","ON","Thunder Bay","2022-04-23",87
 "deaths","ON","Thunder Bay","2022-04-24",87
 "deaths","ON","Thunder Bay","2022-04-25",87
+"deaths","ON","Thunder Bay","2022-04-26",87
+"deaths","ON","Thunder Bay","2022-04-27",87
+"deaths","ON","Thunder Bay","2022-04-28",87
+"deaths","ON","Thunder Bay","2022-04-29",88
 "deaths","ON","Timiskaming","2020-03-08",0
 "deaths","ON","Timiskaming","2020-03-09",0
 "deaths","ON","Timiskaming","2020-03-10",0
@@ -52971,6 +53239,10 @@
 "deaths","ON","Timiskaming","2022-04-23",16
 "deaths","ON","Timiskaming","2022-04-24",16
 "deaths","ON","Timiskaming","2022-04-25",16
+"deaths","ON","Timiskaming","2022-04-26",16
+"deaths","ON","Timiskaming","2022-04-27",16
+"deaths","ON","Timiskaming","2022-04-28",17
+"deaths","ON","Timiskaming","2022-04-29",17
 "deaths","ON","Toronto","2020-03-08",0
 "deaths","ON","Toronto","2020-03-09",0
 "deaths","ON","Toronto","2020-03-10",0
@@ -53750,6 +54022,10 @@
 "deaths","ON","Toronto","2022-04-23",4198
 "deaths","ON","Toronto","2022-04-24",4198
 "deaths","ON","Toronto","2022-04-25",4198
+"deaths","ON","Toronto","2022-04-26",4207
+"deaths","ON","Toronto","2022-04-27",4207
+"deaths","ON","Toronto","2022-04-28",4207
+"deaths","ON","Toronto","2022-04-29",4214
 "deaths","ON","Waterloo","2020-03-08",0
 "deaths","ON","Waterloo","2020-03-09",0
 "deaths","ON","Waterloo","2020-03-10",0
@@ -54529,6 +54805,10 @@
 "deaths","ON","Waterloo","2022-04-23",407
 "deaths","ON","Waterloo","2022-04-24",407
 "deaths","ON","Waterloo","2022-04-25",408
+"deaths","ON","Waterloo","2022-04-26",408
+"deaths","ON","Waterloo","2022-04-27",408
+"deaths","ON","Waterloo","2022-04-28",409
+"deaths","ON","Waterloo","2022-04-29",410
 "deaths","ON","Wellington Dufferin Guelph","2020-03-08",0
 "deaths","ON","Wellington Dufferin Guelph","2020-03-09",0
 "deaths","ON","Wellington Dufferin Guelph","2020-03-10",0
@@ -55308,6 +55588,10 @@
 "deaths","ON","Wellington Dufferin Guelph","2022-04-23",160
 "deaths","ON","Wellington Dufferin Guelph","2022-04-24",160
 "deaths","ON","Wellington Dufferin Guelph","2022-04-25",160
+"deaths","ON","Wellington Dufferin Guelph","2022-04-26",160
+"deaths","ON","Wellington Dufferin Guelph","2022-04-27",160
+"deaths","ON","Wellington Dufferin Guelph","2022-04-28",160
+"deaths","ON","Wellington Dufferin Guelph","2022-04-29",160
 "deaths","ON","Windsor-Essex","2020-03-08",0
 "deaths","ON","Windsor-Essex","2020-03-09",0
 "deaths","ON","Windsor-Essex","2020-03-10",0
@@ -56087,6 +56371,10 @@
 "deaths","ON","Windsor-Essex","2022-04-23",607
 "deaths","ON","Windsor-Essex","2022-04-24",607
 "deaths","ON","Windsor-Essex","2022-04-25",607
+"deaths","ON","Windsor-Essex","2022-04-26",608
+"deaths","ON","Windsor-Essex","2022-04-27",608
+"deaths","ON","Windsor-Essex","2022-04-28",608
+"deaths","ON","Windsor-Essex","2022-04-29",610
 "deaths","ON","York","2020-03-08",0
 "deaths","ON","York","2020-03-09",0
 "deaths","ON","York","2020-03-10",0
@@ -56866,6 +57154,10 @@
 "deaths","ON","York","2022-04-23",941
 "deaths","ON","York","2022-04-24",941
 "deaths","ON","York","2022-04-25",941
+"deaths","ON","York","2022-04-26",941
+"deaths","ON","York","2022-04-27",941
+"deaths","ON","York","2022-04-28",941
+"deaths","ON","York","2022-04-29",943
 "deaths","PE","Prince Edward Island","2020-03-08",0
 "deaths","PE","Prince Edward Island","2020-03-09",0
 "deaths","PE","Prince Edward Island","2020-03-10",0
@@ -57645,6 +57937,10 @@
 "deaths","PE","Prince Edward Island","2022-04-23",23
 "deaths","PE","Prince Edward Island","2022-04-24",23
 "deaths","PE","Prince Edward Island","2022-04-25",23
+"deaths","PE","Prince Edward Island","2022-04-26",25
+"deaths","PE","Prince Edward Island","2022-04-27",25
+"deaths","PE","Prince Edward Island","2022-04-28",25
+"deaths","PE","Prince Edward Island","2022-04-29",25
 "deaths","QC","Abitibi-Témiscamingue","2020-03-08",0
 "deaths","QC","Abitibi-Témiscamingue","2020-03-09",0
 "deaths","QC","Abitibi-Témiscamingue","2020-03-10",0
@@ -58424,6 +58720,10 @@
 "deaths","QC","Abitibi-Témiscamingue","2022-04-23",106
 "deaths","QC","Abitibi-Témiscamingue","2022-04-24",106
 "deaths","QC","Abitibi-Témiscamingue","2022-04-25",107
+"deaths","QC","Abitibi-Témiscamingue","2022-04-26",107
+"deaths","QC","Abitibi-Témiscamingue","2022-04-27",107
+"deaths","QC","Abitibi-Témiscamingue","2022-04-28",108
+"deaths","QC","Abitibi-Témiscamingue","2022-04-29",108
 "deaths","QC","Bas-Saint-Laurent","2020-03-08",0
 "deaths","QC","Bas-Saint-Laurent","2020-03-09",0
 "deaths","QC","Bas-Saint-Laurent","2020-03-10",0
@@ -59203,6 +59503,10 @@
 "deaths","QC","Bas-Saint-Laurent","2022-04-23",154
 "deaths","QC","Bas-Saint-Laurent","2022-04-24",154
 "deaths","QC","Bas-Saint-Laurent","2022-04-25",156
+"deaths","QC","Bas-Saint-Laurent","2022-04-26",157
+"deaths","QC","Bas-Saint-Laurent","2022-04-27",159
+"deaths","QC","Bas-Saint-Laurent","2022-04-28",161
+"deaths","QC","Bas-Saint-Laurent","2022-04-29",162
 "deaths","QC","Capitale-Nationale","2020-03-08",0
 "deaths","QC","Capitale-Nationale","2020-03-09",0
 "deaths","QC","Capitale-Nationale","2020-03-10",0
@@ -59982,6 +60286,10 @@
 "deaths","QC","Capitale-Nationale","2022-04-23",1503
 "deaths","QC","Capitale-Nationale","2022-04-24",1503
 "deaths","QC","Capitale-Nationale","2022-04-25",1503
+"deaths","QC","Capitale-Nationale","2022-04-26",1507
+"deaths","QC","Capitale-Nationale","2022-04-27",1510
+"deaths","QC","Capitale-Nationale","2022-04-28",1511
+"deaths","QC","Capitale-Nationale","2022-04-29",1516
 "deaths","QC","Chaudière-Appalaches","2020-03-08",0
 "deaths","QC","Chaudière-Appalaches","2020-03-09",0
 "deaths","QC","Chaudière-Appalaches","2020-03-10",0
@@ -60761,6 +61069,10 @@
 "deaths","QC","Chaudière-Appalaches","2022-04-23",603
 "deaths","QC","Chaudière-Appalaches","2022-04-24",603
 "deaths","QC","Chaudière-Appalaches","2022-04-25",603
+"deaths","QC","Chaudière-Appalaches","2022-04-26",606
+"deaths","QC","Chaudière-Appalaches","2022-04-27",607
+"deaths","QC","Chaudière-Appalaches","2022-04-28",610
+"deaths","QC","Chaudière-Appalaches","2022-04-29",610
 "deaths","QC","Côte-Nord","2020-03-08",0
 "deaths","QC","Côte-Nord","2020-03-09",0
 "deaths","QC","Côte-Nord","2020-03-10",0
@@ -61540,6 +61852,10 @@
 "deaths","QC","Côte-Nord","2022-04-23",43
 "deaths","QC","Côte-Nord","2022-04-24",43
 "deaths","QC","Côte-Nord","2022-04-25",43
+"deaths","QC","Côte-Nord","2022-04-26",43
+"deaths","QC","Côte-Nord","2022-04-27",43
+"deaths","QC","Côte-Nord","2022-04-28",43
+"deaths","QC","Côte-Nord","2022-04-29",43
 "deaths","QC","Estrie","2020-03-08",0
 "deaths","QC","Estrie","2020-03-09",0
 "deaths","QC","Estrie","2020-03-10",0
@@ -62319,6 +62635,10 @@
 "deaths","QC","Estrie","2022-04-23",580
 "deaths","QC","Estrie","2022-04-24",580
 "deaths","QC","Estrie","2022-04-25",580
+"deaths","QC","Estrie","2022-04-26",582
+"deaths","QC","Estrie","2022-04-27",582
+"deaths","QC","Estrie","2022-04-28",585
+"deaths","QC","Estrie","2022-04-29",586
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2020-03-08",0
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2020-03-09",0
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2020-03-10",0
@@ -63098,6 +63418,10 @@
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-04-23",77
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-04-24",78
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-04-25",78
+"deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-04-26",78
+"deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-04-27",79
+"deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-04-28",79
+"deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-04-29",79
 "deaths","QC","Lanaudière","2020-03-08",0
 "deaths","QC","Lanaudière","2020-03-09",0
 "deaths","QC","Lanaudière","2020-03-10",0
@@ -63877,6 +64201,10 @@
 "deaths","QC","Lanaudière","2022-04-23",741
 "deaths","QC","Lanaudière","2022-04-24",743
 "deaths","QC","Lanaudière","2022-04-25",743
+"deaths","QC","Lanaudière","2022-04-26",743
+"deaths","QC","Lanaudière","2022-04-27",743
+"deaths","QC","Lanaudière","2022-04-28",746
+"deaths","QC","Lanaudière","2022-04-29",748
 "deaths","QC","Laurentides","2020-03-08",0
 "deaths","QC","Laurentides","2020-03-09",0
 "deaths","QC","Laurentides","2020-03-10",0
@@ -64656,6 +64984,10 @@
 "deaths","QC","Laurentides","2022-04-23",726
 "deaths","QC","Laurentides","2022-04-24",726
 "deaths","QC","Laurentides","2022-04-25",726
+"deaths","QC","Laurentides","2022-04-26",729
+"deaths","QC","Laurentides","2022-04-27",729
+"deaths","QC","Laurentides","2022-04-28",729
+"deaths","QC","Laurentides","2022-04-29",735
 "deaths","QC","Laval","2020-03-08",0
 "deaths","QC","Laval","2020-03-09",0
 "deaths","QC","Laval","2020-03-10",0
@@ -65435,6 +65767,10 @@
 "deaths","QC","Laval","2022-04-23",1082
 "deaths","QC","Laval","2022-04-24",1084
 "deaths","QC","Laval","2022-04-25",1085
+"deaths","QC","Laval","2022-04-26",1090
+"deaths","QC","Laval","2022-04-27",1092
+"deaths","QC","Laval","2022-04-28",1095
+"deaths","QC","Laval","2022-04-29",1095
 "deaths","QC","Mauricie","2020-03-08",0
 "deaths","QC","Mauricie","2020-03-09",0
 "deaths","QC","Mauricie","2020-03-10",0
@@ -66214,6 +66550,10 @@
 "deaths","QC","Mauricie","2022-04-23",964
 "deaths","QC","Mauricie","2022-04-24",965
 "deaths","QC","Mauricie","2022-04-25",967
+"deaths","QC","Mauricie","2022-04-26",971
+"deaths","QC","Mauricie","2022-04-27",973
+"deaths","QC","Mauricie","2022-04-28",977
+"deaths","QC","Mauricie","2022-04-29",981
 "deaths","QC","Montérégie","2020-03-08",0
 "deaths","QC","Montérégie","2020-03-09",0
 "deaths","QC","Montérégie","2020-03-10",0
@@ -66993,6 +67333,10 @@
 "deaths","QC","Montérégie","2022-04-23",2114
 "deaths","QC","Montérégie","2022-04-24",2126
 "deaths","QC","Montérégie","2022-04-25",2126
+"deaths","QC","Montérégie","2022-04-26",2126
+"deaths","QC","Montérégie","2022-04-27",2131
+"deaths","QC","Montérégie","2022-04-28",2132
+"deaths","QC","Montérégie","2022-04-29",2133
 "deaths","QC","Montréal","2020-03-08",0
 "deaths","QC","Montréal","2020-03-09",0
 "deaths","QC","Montréal","2020-03-10",0
@@ -67772,6 +68116,10 @@
 "deaths","QC","Montréal","2022-04-23",5412
 "deaths","QC","Montréal","2022-04-24",5414
 "deaths","QC","Montréal","2022-04-25",5416
+"deaths","QC","Montréal","2022-04-26",5421
+"deaths","QC","Montréal","2022-04-27",5425
+"deaths","QC","Montréal","2022-04-28",5425
+"deaths","QC","Montréal","2022-04-29",5427
 "deaths","QC","Nord-du-Québec","2020-03-08",0
 "deaths","QC","Nord-du-Québec","2020-03-09",0
 "deaths","QC","Nord-du-Québec","2020-03-10",0
@@ -68551,6 +68899,10 @@
 "deaths","QC","Nord-du-Québec","2022-04-23",4
 "deaths","QC","Nord-du-Québec","2022-04-24",4
 "deaths","QC","Nord-du-Québec","2022-04-25",4
+"deaths","QC","Nord-du-Québec","2022-04-26",4
+"deaths","QC","Nord-du-Québec","2022-04-27",4
+"deaths","QC","Nord-du-Québec","2022-04-28",4
+"deaths","QC","Nord-du-Québec","2022-04-29",4
 "deaths","QC","Unknown","2020-03-08",0
 "deaths","QC","Unknown","2020-03-09",0
 "deaths","QC","Unknown","2020-03-10",0
@@ -69330,6 +69682,10 @@
 "deaths","QC","Unknown","2022-04-23",2
 "deaths","QC","Unknown","2022-04-24",2
 "deaths","QC","Unknown","2022-04-25",2
+"deaths","QC","Unknown","2022-04-26",2
+"deaths","QC","Unknown","2022-04-27",2
+"deaths","QC","Unknown","2022-04-28",2
+"deaths","QC","Unknown","2022-04-29",2
 "deaths","QC","Nunavik","2020-03-08",0
 "deaths","QC","Nunavik","2020-03-09",0
 "deaths","QC","Nunavik","2020-03-10",0
@@ -70109,6 +70465,10 @@
 "deaths","QC","Nunavik","2022-04-23",10
 "deaths","QC","Nunavik","2022-04-24",10
 "deaths","QC","Nunavik","2022-04-25",10
+"deaths","QC","Nunavik","2022-04-26",10
+"deaths","QC","Nunavik","2022-04-27",10
+"deaths","QC","Nunavik","2022-04-28",10
+"deaths","QC","Nunavik","2022-04-29",10
 "deaths","QC","Outaouais","2020-03-08",0
 "deaths","QC","Outaouais","2020-03-09",0
 "deaths","QC","Outaouais","2020-03-10",0
@@ -70888,6 +71248,10 @@
 "deaths","QC","Outaouais","2022-04-23",299
 "deaths","QC","Outaouais","2022-04-24",299
 "deaths","QC","Outaouais","2022-04-25",299
+"deaths","QC","Outaouais","2022-04-26",300
+"deaths","QC","Outaouais","2022-04-27",300
+"deaths","QC","Outaouais","2022-04-28",301
+"deaths","QC","Outaouais","2022-04-29",304
 "deaths","QC","Saguenay","2020-03-08",0
 "deaths","QC","Saguenay","2020-03-09",0
 "deaths","QC","Saguenay","2020-03-10",0
@@ -71667,6 +72031,10 @@
 "deaths","QC","Saguenay","2022-04-23",412
 "deaths","QC","Saguenay","2022-04-24",412
 "deaths","QC","Saguenay","2022-04-25",412
+"deaths","QC","Saguenay","2022-04-26",416
+"deaths","QC","Saguenay","2022-04-27",418
+"deaths","QC","Saguenay","2022-04-28",419
+"deaths","QC","Saguenay","2022-04-29",420
 "deaths","QC","Terres-Cries-de-la-Baie-James","2020-03-08",0
 "deaths","QC","Terres-Cries-de-la-Baie-James","2020-03-09",0
 "deaths","QC","Terres-Cries-de-la-Baie-James","2020-03-10",0
@@ -72446,6 +72814,10 @@
 "deaths","QC","Terres-Cries-de-la-Baie-James","2022-04-23",14
 "deaths","QC","Terres-Cries-de-la-Baie-James","2022-04-24",14
 "deaths","QC","Terres-Cries-de-la-Baie-James","2022-04-25",14
+"deaths","QC","Terres-Cries-de-la-Baie-James","2022-04-26",14
+"deaths","QC","Terres-Cries-de-la-Baie-James","2022-04-27",14
+"deaths","QC","Terres-Cries-de-la-Baie-James","2022-04-28",14
+"deaths","QC","Terres-Cries-de-la-Baie-James","2022-04-29",14
 "deaths","Repatriated","Unknown","2020-03-08",0
 "deaths","Repatriated","Unknown","2020-03-09",0
 "deaths","Repatriated","Unknown","2020-03-10",0
@@ -73225,6 +73597,10 @@
 "deaths","Repatriated","Unknown","2022-04-23",0
 "deaths","Repatriated","Unknown","2022-04-24",0
 "deaths","Repatriated","Unknown","2022-04-25",0
+"deaths","Repatriated","Unknown","2022-04-26",0
+"deaths","Repatriated","Unknown","2022-04-27",0
+"deaths","Repatriated","Unknown","2022-04-28",0
+"deaths","Repatriated","Unknown","2022-04-29",0
 "deaths","SK","Central","2020-03-08",0
 "deaths","SK","Central","2020-03-09",0
 "deaths","SK","Central","2020-03-10",0
@@ -74002,8 +74378,12 @@
 "deaths","SK","Central","2022-04-21",142
 "deaths","SK","Central","2022-04-22",142
 "deaths","SK","Central","2022-04-23",142
-"deaths","SK","Central","2022-04-24",142
-"deaths","SK","Central","2022-04-25",142
+"deaths","SK","Central","2022-04-24",145
+"deaths","SK","Central","2022-04-25",145
+"deaths","SK","Central","2022-04-26",145
+"deaths","SK","Central","2022-04-27",145
+"deaths","SK","Central","2022-04-28",145
+"deaths","SK","Central","2022-04-29",145
 "deaths","SK","Far North","2020-03-08",0
 "deaths","SK","Far North","2020-03-09",0
 "deaths","SK","Far North","2020-03-10",0
@@ -74783,6 +75163,10 @@
 "deaths","SK","Far North","2022-04-23",92
 "deaths","SK","Far North","2022-04-24",92
 "deaths","SK","Far North","2022-04-25",92
+"deaths","SK","Far North","2022-04-26",92
+"deaths","SK","Far North","2022-04-27",92
+"deaths","SK","Far North","2022-04-28",92
+"deaths","SK","Far North","2022-04-29",92
 "deaths","SK","North","2020-03-08",0
 "deaths","SK","North","2020-03-09",0
 "deaths","SK","North","2020-03-10",0
@@ -75560,8 +75944,12 @@
 "deaths","SK","North","2022-04-21",335
 "deaths","SK","North","2022-04-22",335
 "deaths","SK","North","2022-04-23",335
-"deaths","SK","North","2022-04-24",335
-"deaths","SK","North","2022-04-25",335
+"deaths","SK","North","2022-04-24",338
+"deaths","SK","North","2022-04-25",338
+"deaths","SK","North","2022-04-26",338
+"deaths","SK","North","2022-04-27",338
+"deaths","SK","North","2022-04-28",338
+"deaths","SK","North","2022-04-29",338
 "deaths","SK","Unknown","2020-03-08",0
 "deaths","SK","Unknown","2020-03-09",0
 "deaths","SK","Unknown","2020-03-10",0
@@ -76341,6 +76729,10 @@
 "deaths","SK","Unknown","2022-04-23",0
 "deaths","SK","Unknown","2022-04-24",0
 "deaths","SK","Unknown","2022-04-25",0
+"deaths","SK","Unknown","2022-04-26",0
+"deaths","SK","Unknown","2022-04-27",0
+"deaths","SK","Unknown","2022-04-28",0
+"deaths","SK","Unknown","2022-04-29",0
 "deaths","SK","Regina","2020-03-08",0
 "deaths","SK","Regina","2020-03-09",0
 "deaths","SK","Regina","2020-03-10",0
@@ -77118,8 +77510,12 @@
 "deaths","SK","Regina","2022-04-21",274
 "deaths","SK","Regina","2022-04-22",274
 "deaths","SK","Regina","2022-04-23",274
-"deaths","SK","Regina","2022-04-24",274
-"deaths","SK","Regina","2022-04-25",274
+"deaths","SK","Regina","2022-04-24",277
+"deaths","SK","Regina","2022-04-25",277
+"deaths","SK","Regina","2022-04-26",277
+"deaths","SK","Regina","2022-04-27",277
+"deaths","SK","Regina","2022-04-28",277
+"deaths","SK","Regina","2022-04-29",277
 "deaths","SK","Saskatoon","2020-03-08",0
 "deaths","SK","Saskatoon","2020-03-09",0
 "deaths","SK","Saskatoon","2020-03-10",0
@@ -77897,8 +78293,12 @@
 "deaths","SK","Saskatoon","2022-04-21",237
 "deaths","SK","Saskatoon","2022-04-22",237
 "deaths","SK","Saskatoon","2022-04-23",237
-"deaths","SK","Saskatoon","2022-04-24",237
-"deaths","SK","Saskatoon","2022-04-25",237
+"deaths","SK","Saskatoon","2022-04-24",243
+"deaths","SK","Saskatoon","2022-04-25",243
+"deaths","SK","Saskatoon","2022-04-26",243
+"deaths","SK","Saskatoon","2022-04-27",243
+"deaths","SK","Saskatoon","2022-04-28",243
+"deaths","SK","Saskatoon","2022-04-29",243
 "deaths","SK","South","2020-03-08",0
 "deaths","SK","South","2020-03-09",0
 "deaths","SK","South","2020-03-10",0
@@ -78676,8 +79076,12 @@
 "deaths","SK","South","2022-04-21",216
 "deaths","SK","South","2022-04-22",216
 "deaths","SK","South","2022-04-23",216
-"deaths","SK","South","2022-04-24",216
-"deaths","SK","South","2022-04-25",216
+"deaths","SK","South","2022-04-24",217
+"deaths","SK","South","2022-04-25",217
+"deaths","SK","South","2022-04-26",217
+"deaths","SK","South","2022-04-27",217
+"deaths","SK","South","2022-04-28",217
+"deaths","SK","South","2022-04-29",217
 "deaths","YT","Yukon","2020-03-08",0
 "deaths","YT","Yukon","2020-03-09",0
 "deaths","YT","Yukon","2020-03-10",0
@@ -79457,3 +79861,7 @@
 "deaths","YT","Yukon","2022-04-23",24
 "deaths","YT","Yukon","2022-04-24",24
 "deaths","YT","Yukon","2022-04-25",24
+"deaths","YT","Yukon","2022-04-26",24
+"deaths","YT","Yukon","2022-04-27",24
+"deaths","YT","Yukon","2022-04-28",25
+"deaths","YT","Yukon","2022-04-29",25
