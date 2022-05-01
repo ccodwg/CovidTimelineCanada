@@ -1,4 +1,4 @@
-# Update raw_data/active_ts #
+# Update raw_data/active_ts, raw_data/ccodwg, raw_data/covid19tracker #
 # Author: Jean-Paul R. Soucy #
 
 # Note: This script assumes the working directory is set to the root directory of the project.
@@ -9,6 +9,9 @@
 
 # load pipe
 library(magrittr)
+
+# source functions
+source("funs.R")
 
 # authenticate with Google account (skip if already authenticated)
 if (!googlesheets4::gs4_has_token()) {

@@ -161,7 +161,7 @@ pt_add_hr_col <- function(d, name) {
 }
 
 # get PHAC data for a particular value and region
-get_phac_d <- function(val, region) {
+get_phac_d <- function(val, region, exclude_repatriated = TRUE) {
   match.arg(val, c("cases", "deaths", "tests_completed"))
   # get relevant value
   d <- switch(
@@ -170,6 +170,10 @@ get_phac_d <- function(val, region) {
     "deaths" = {read_d("raw_data/active_ts/can/can_deaths_pt_ts.csv")},
     "tests_completed" = {read_d("raw_data/active_ts/can/can_tests_completed_pt_ts.csv")}
   )
+  # exclude repatriated
+  if (exclude_repatriated) {
+    d[d$region != "RT", ]
+  }
   # filter to region
   if (region == "all") {
     d[d$region != "CAN", ]
