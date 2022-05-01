@@ -364,14 +364,24 @@ tests_completed_pt <- get_phac_d("tests_completed", "all") %>%
 cases_pt <- agg2pt(cases_hr)
 deaths_pt <- agg2pt(deaths_hr)
 
+# create aggregated datasets (PT -> CAN)
+cases_can <- agg2can(cases_pt)
+deaths_can <- agg2can(deaths_pt)
+hospitalizations_can <- agg2can(hospitalizations_pt)
+icu_can <- agg2can(icu_pt)
+tests_completed_can <- agg2can(tests_completed_pt)
+
 # write datasets
 write_dataset(cases_hr, "cases_hr")
-write_dataset(deaths_hr, "deaths_hr")
 write_dataset(cases_pt, "cases_pt")
+write_dataset(deaths_hr, "deaths_hr")
 write_dataset(deaths_pt, "deaths_pt")
 write_dataset(hospitalizations_pt, "hospitalizations_pt")
+write_dataset(hospitalizations_can, "hospitalizations_can")
 write_dataset(icu_pt, "icu_pt")
+write_dataset(icu_can, "icu_can")
 write_dataset(tests_completed_pt, "tests_completed_pt")
+write_dataset(tests_completed_can, "tests_completed_can")
 
 # write update time
 update_time <- lubridate::with_tz(Sys.time(), tzone = "America/Toronto") %>%

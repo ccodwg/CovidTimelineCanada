@@ -294,6 +294,14 @@ agg2pt <- function(d) {
     dplyr::summarise(value = sum(.data$value), value_daily = sum(.data$value_daily), .groups = "drop")
 }
 
+# aggregate PT data up to CAN
+agg2can <- function(d) {
+  d %>%
+    dplyr::mutate(region = "CAN") %>%
+    dplyr::group_by(.data$name, .data$region, .data$date) %>%
+    dplyr::summarise(value = sum(.data$value), value_daily = sum(.data$value_daily), .groups = "drop")
+}
+
 # write dataset
 write_dataset <- function(d, name) {
   write.csv(
