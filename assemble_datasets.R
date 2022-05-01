@@ -372,16 +372,18 @@ icu_can <- agg2can(icu_pt)
 tests_completed_can <- agg2can(tests_completed_pt)
 
 # write datasets
-write_dataset(cases_hr, "cases_hr")
-write_dataset(cases_pt, "cases_pt")
-write_dataset(deaths_hr, "deaths_hr")
-write_dataset(deaths_pt, "deaths_pt")
-write_dataset(hospitalizations_pt, "hospitalizations_pt")
-write_dataset(hospitalizations_can, "hospitalizations_can")
-write_dataset(icu_pt, "icu_pt")
-write_dataset(icu_can, "icu_can")
-write_dataset(tests_completed_pt, "tests_completed_pt")
-write_dataset(tests_completed_can, "tests_completed_can")
+write_dataset(cases_hr, "hr", "cases_hr")
+write_dataset(cases_pt, "pt", "cases_pt")
+write_dataset(cases_can, "can", "cases_can")
+write_dataset(deaths_hr, "hr", "deaths_hr")
+write_dataset(deaths_pt, "pt", "deaths_pt")
+write_dataset(deaths_can, "can", "deaths_can")
+write_dataset(hospitalizations_pt, "pt", "hospitalizations_pt")
+write_dataset(hospitalizations_can, "can", "hospitalizations_can")
+write_dataset(icu_pt, "pt", "icu_pt")
+write_dataset(icu_can, "can", "icu_can")
+write_dataset(tests_completed_pt, "pt", "tests_completed_pt")
+write_dataset(tests_completed_can, "can", "tests_completed_can")
 
 # write update time
 update_time <- lubridate::with_tz(Sys.time(), tzone = "America/Toronto") %>%

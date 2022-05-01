@@ -303,10 +303,10 @@ agg2can <- function(d) {
 }
 
 # write dataset
-write_dataset <- function(d, name) {
+write_dataset <- function(d, geo, name) {
   write.csv(
     d,
-    file.path("data", paste0(name, ".csv")),
+    file.path("data", geo, paste0(name, ".csv")),
     row.names = FALSE,
     quote = 1:(ncol(d) - 2))
 }
