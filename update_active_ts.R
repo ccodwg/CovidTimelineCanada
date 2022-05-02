@@ -230,20 +230,30 @@ Covid19CanadaDataProcess::process_dataset(
 # original CCODWG dataset
 
 ## cases
-Covid19CanadaData::dl_ccodwg("timeseries", "cases", "hr", new_cols = TRUE) %>%
+readr::read_csv("https://raw.githubusercontent.com/ccodwg/Covid19Canada/master/timeseries_hr/cases_timeseries_hr.csv") %>%
+  dplyr::transmute(
+    region = .data$province,
+    sub_region_1 = .data$health_region,
+    date = as.Date(.data$date_report, "%d-%m-%Y"),
+    value = .data$cumulative_cases
+  ) %>%
   convert_pt_names() %>%
   tibble::add_column(name = "cases", .before = 1) %>%
   dplyr::mutate(sub_region_1 = ifelse(.data$sub_region_1 == "Not Reported", "Unknown", .data$sub_region_1)) %>%
-  dplyr::select(-.data$value_daily) %>%
-  write.csv("raw_data/ccodwg/can_cases_hr_ts.csv", row.names = FALSE)
+  write.csv("raw_data/ccodwg/can_cases_hr_ts.csv", row.names = FALSE, quote = 1:4)
 
-## mortality
-Covid19CanadaData::dl_ccodwg("timeseries", "mortality", "hr", new_cols = TRUE) %>%
+## deaths
+readr::read_csv("https://raw.githubusercontent.com/ccodwg/Covid19Canada/master/timeseries_hr/mortality_timeseries_hr.csv") %>%
+  dplyr::transmute(
+    region = .data$province,
+    sub_region_1 = .data$health_region,
+    date = as.Date(.data$date_death_report, "%d-%m-%Y"),
+    value = .data$cumulative_deaths
+  ) %>%
   convert_pt_names() %>%
   tibble::add_column(name = "deaths", .before = 1) %>%
   dplyr::mutate(sub_region_1 = ifelse(.data$sub_region_1 == "Not Reported", "Unknown", .data$sub_region_1)) %>%
-  dplyr::select(-.data$value_daily) %>%
-  write.csv("raw_data/ccodwg/can_deaths_hr_ts.csv", row.names = FALSE)
+  write.csv("raw_data/ccodwg/can_deaths_hr_ts.csv", row.names = FALSE, quote = 1:4)
 
 # covid19tracker.ca dataset
 
