@@ -172,14 +172,16 @@ get_phac_d <- function(val, region, exclude_repatriated = TRUE) {
   )
   # exclude repatriated
   if (exclude_repatriated) {
-    d[d$region != "RT", ]
+    d <- d[d$region != "RT", ]
   }
   # filter to region
   if (region == "all") {
-    d[d$region != "CAN", ]
+    d <- d[d$region != "CAN", ]
   } else {
-    d[d$region == region, ]
+    d <- d[d$region == region, ]
   }
+  # return data
+  d
 }
 
 # get CCODWG data for a particular value and region
