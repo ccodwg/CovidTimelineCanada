@@ -4,6 +4,8 @@ The purpose of this repository is to collaborate on assembling a definitive data
 
 ⚠️ Beginning April 30, this dataset replaced the original **[Covid19Canada](https://github.com/ccodwg/Covid19Canada)** dataset. ⚠️
 
+⚠️ Note that province/territory names are now given using two-letter codes and health region names are given using unique identifiers. See the [geo](https://github.com/ccodwg/CovidTimelineCanada/tree/main/geo) directory for files that can be used to map these values to alternative names. The [JSON API](https://api.opencovid.ca/) is also capable of performing these conversions automatically through the use of the `pt_names` and `hr_names` parameters. ⚠️
+
 🚨 Coming soon: [vaccine coverage](https://github.com/ccodwg/CovidTimelineCanada/issues/21), [vaccine distribution](https://github.com/ccodwg/CovidTimelineCanada/issues/22), ["diffs" datasets](https://github.com/ccodwg/CovidTimelineCanada/issues/20) to show changes since the last time a jurisdiction received a data update 🚨
 
 This dataset is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project. The goal is for this dataset to eventually conform to the [Data and Metadata Standard for COVID-19 Data in Canada](https://github.com/ccodwg/CovidDataStandard), which is currently being collaboratively developed.
