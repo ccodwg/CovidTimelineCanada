@@ -120,10 +120,10 @@ cases_hr <- assemble_datasets("cases") %>%
 # death dataset
 
 ## ab
-deaths_ab <- get_ccodwg_d("deaths", "AB", drop_not_reported = FALSE)
+deaths_ab <- read_d("raw_data/active_cumul/ab/ab_deaths_hr_ts.csv")
 
 ## bc
-deaths_bc <- get_ccodwg_d("deaths", "BC", drop_not_reported = TRUE) # not reported = out of country
+deaths_bc <- read_d("raw_data/active_cumul/bc/bc_deaths_hr_ts.csv")
 
 ## mb
 deaths_mb <- dplyr::bind_rows(
@@ -150,8 +150,7 @@ deaths_nl <- dplyr::bind_rows(
     convert_hr_names(),
   read_d("raw_data/static/nl/nl_deaths_hr_ts.csv") %>%
     convert_hr_names(),
-  get_ccodwg_d("deaths", "NL", from = "2022-03-12", drop_not_reported = TRUE) %>%
-    convert_hr_names()
+  read_d("raw_data/active_cumul/nl/nl_deaths_hr_ts.csv")
 )
 
 ## ns
