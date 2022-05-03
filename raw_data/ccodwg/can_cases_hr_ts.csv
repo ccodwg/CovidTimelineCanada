@@ -827,6 +827,7 @@
 "cases","AB","Calgary","2022-04-29",227595
 "cases","AB","Calgary","2022-04-30",227595
 "cases","AB","Calgary","2022-05-01",227595
+"cases","AB","Calgary","2022-05-02",227595
 "cases","AB","Central","2020-01-25",0
 "cases","AB","Central","2020-01-26",0
 "cases","AB","Central","2020-01-27",0
@@ -1655,6 +1656,7 @@
 "cases","AB","Central","2022-04-29",57634
 "cases","AB","Central","2022-04-30",57634
 "cases","AB","Central","2022-05-01",57634
+"cases","AB","Central","2022-05-02",57634
 "cases","AB","Edmonton","2020-01-25",0
 "cases","AB","Edmonton","2020-01-26",0
 "cases","AB","Edmonton","2020-01-27",0
@@ -2483,6 +2485,7 @@
 "cases","AB","Edmonton","2022-04-29",181061
 "cases","AB","Edmonton","2022-04-30",181061
 "cases","AB","Edmonton","2022-05-01",181061
+"cases","AB","Edmonton","2022-05-02",181061
 "cases","AB","North","2020-01-25",0
 "cases","AB","North","2020-01-26",0
 "cases","AB","North","2020-01-27",0
@@ -3311,6 +3314,7 @@
 "cases","AB","North","2022-04-29",61781
 "cases","AB","North","2022-04-30",61781
 "cases","AB","North","2022-05-01",61781
+"cases","AB","North","2022-05-02",61781
 "cases","AB","Unknown","2020-01-25",0
 "cases","AB","Unknown","2020-01-26",0
 "cases","AB","Unknown","2020-01-27",0
@@ -4139,6 +4143,7 @@
 "cases","AB","Unknown","2022-04-29",220
 "cases","AB","Unknown","2022-04-30",220
 "cases","AB","Unknown","2022-05-01",220
+"cases","AB","Unknown","2022-05-02",220
 "cases","AB","South","2020-01-25",0
 "cases","AB","South","2020-01-26",0
 "cases","AB","South","2020-01-27",0
@@ -4967,6 +4972,7 @@
 "cases","AB","South","2022-04-29",36761
 "cases","AB","South","2022-04-30",36761
 "cases","AB","South","2022-05-01",36761
+"cases","AB","South","2022-05-02",36761
 "cases","BC","Fraser","2020-01-25",0
 "cases","BC","Fraser","2020-01-26",0
 "cases","BC","Fraser","2020-01-27",0
@@ -5795,6 +5801,7 @@
 "cases","BC","Fraser","2022-04-29",160852
 "cases","BC","Fraser","2022-04-30",160852
 "cases","BC","Fraser","2022-05-01",160852
+"cases","BC","Fraser","2022-05-02",160852
 "cases","BC","Interior","2020-01-25",0
 "cases","BC","Interior","2020-01-26",0
 "cases","BC","Interior","2020-01-27",0
@@ -6623,6 +6630,7 @@
 "cases","BC","Interior","2022-04-29",64472
 "cases","BC","Interior","2022-04-30",64472
 "cases","BC","Interior","2022-05-01",64472
+"cases","BC","Interior","2022-05-02",64472
 "cases","BC","Island","2020-01-25",0
 "cases","BC","Island","2020-01-26",0
 "cases","BC","Island","2020-01-27",0
@@ -7451,6 +7459,7 @@
 "cases","BC","Island","2022-04-29",34506
 "cases","BC","Island","2022-04-30",34506
 "cases","BC","Island","2022-05-01",34506
+"cases","BC","Island","2022-05-02",34506
 "cases","BC","Northern","2020-01-25",0
 "cases","BC","Northern","2020-01-26",0
 "cases","BC","Northern","2020-01-27",0
@@ -8279,6 +8288,7 @@
 "cases","BC","Northern","2022-04-29",29815
 "cases","BC","Northern","2022-04-30",29815
 "cases","BC","Northern","2022-05-01",29815
+"cases","BC","Northern","2022-05-02",29815
 "cases","BC","Unknown","2020-01-25",0
 "cases","BC","Unknown","2020-01-26",0
 "cases","BC","Unknown","2020-01-27",0
@@ -9107,6 +9117,7 @@
 "cases","BC","Unknown","2022-04-29",391
 "cases","BC","Unknown","2022-04-30",391
 "cases","BC","Unknown","2022-05-01",391
+"cases","BC","Unknown","2022-05-02",391
 "cases","BC","Vancouver Coastal","2020-01-25",0
 "cases","BC","Vancouver Coastal","2020-01-26",0
 "cases","BC","Vancouver Coastal","2020-01-27",0
@@ -9935,6 +9946,7 @@
 "cases","BC","Vancouver Coastal","2022-04-29",73266
 "cases","BC","Vancouver Coastal","2022-04-30",73266
 "cases","BC","Vancouver Coastal","2022-05-01",73266
+"cases","BC","Vancouver Coastal","2022-05-02",73266
 "cases","MB","Interlake-Eastern","2020-01-25",0
 "cases","MB","Interlake-Eastern","2020-01-26",0
 "cases","MB","Interlake-Eastern","2020-01-27",0
@@ -10763,6 +10775,7 @@
 "cases","MB","Interlake-Eastern","2022-04-29",11892
 "cases","MB","Interlake-Eastern","2022-04-30",11892
 "cases","MB","Interlake-Eastern","2022-05-01",11892
+"cases","MB","Interlake-Eastern","2022-05-02",11892
 "cases","MB","Northern","2020-01-25",0
 "cases","MB","Northern","2020-01-26",0
 "cases","MB","Northern","2020-01-27",0
@@ -11591,6 +11604,7 @@
 "cases","MB","Northern","2022-04-29",18407
 "cases","MB","Northern","2022-04-30",18407
 "cases","MB","Northern","2022-05-01",18407
+"cases","MB","Northern","2022-05-02",18407
 "cases","MB","Unknown","2020-01-25",0
 "cases","MB","Unknown","2020-01-26",0
 "cases","MB","Unknown","2020-01-27",0
@@ -12419,6 +12433,7 @@
 "cases","MB","Unknown","2022-04-29",0
 "cases","MB","Unknown","2022-04-30",0
 "cases","MB","Unknown","2022-05-01",0
+"cases","MB","Unknown","2022-05-02",0
 "cases","MB","Prairie Mountain","2020-01-25",0
 "cases","MB","Prairie Mountain","2020-01-26",0
 "cases","MB","Prairie Mountain","2020-01-27",0
@@ -13247,6 +13262,7 @@
 "cases","MB","Prairie Mountain","2022-04-29",14541
 "cases","MB","Prairie Mountain","2022-04-30",14541
 "cases","MB","Prairie Mountain","2022-05-01",14541
+"cases","MB","Prairie Mountain","2022-05-02",14541
 "cases","MB","Southern Health","2020-01-25",0
 "cases","MB","Southern Health","2020-01-26",0
 "cases","MB","Southern Health","2020-01-27",0
@@ -14075,6 +14091,7 @@
 "cases","MB","Southern Health","2022-04-29",19765
 "cases","MB","Southern Health","2022-04-30",19765
 "cases","MB","Southern Health","2022-05-01",19765
+"cases","MB","Southern Health","2022-05-02",19765
 "cases","MB","Winnipeg","2020-01-25",0
 "cases","MB","Winnipeg","2020-01-26",0
 "cases","MB","Winnipeg","2020-01-27",0
@@ -14903,6 +14920,7 @@
 "cases","MB","Winnipeg","2022-04-29",76326
 "cases","MB","Winnipeg","2022-04-30",76326
 "cases","MB","Winnipeg","2022-05-01",76326
+"cases","MB","Winnipeg","2022-05-02",76326
 "cases","NB","Unknown","2020-01-25",0
 "cases","NB","Unknown","2020-01-26",0
 "cases","NB","Unknown","2020-01-27",0
@@ -15731,6 +15749,7 @@
 "cases","NB","Unknown","2022-04-29",0
 "cases","NB","Unknown","2022-04-30",0
 "cases","NB","Unknown","2022-05-01",0
+"cases","NB","Unknown","2022-05-02",0
 "cases","NB","Zone 1 (Moncton area)","2020-01-25",0
 "cases","NB","Zone 1 (Moncton area)","2020-01-26",0
 "cases","NB","Zone 1 (Moncton area)","2020-01-27",0
@@ -16559,6 +16578,7 @@
 "cases","NB","Zone 1 (Moncton area)","2022-04-29",19335
 "cases","NB","Zone 1 (Moncton area)","2022-04-30",19335
 "cases","NB","Zone 1 (Moncton area)","2022-05-01",19335
+"cases","NB","Zone 1 (Moncton area)","2022-05-02",19335
 "cases","NB","Zone 2 (Saint John area)","2020-01-25",0
 "cases","NB","Zone 2 (Saint John area)","2020-01-26",0
 "cases","NB","Zone 2 (Saint John area)","2020-01-27",0
@@ -17387,6 +17407,7 @@
 "cases","NB","Zone 2 (Saint John area)","2022-04-29",13656
 "cases","NB","Zone 2 (Saint John area)","2022-04-30",13656
 "cases","NB","Zone 2 (Saint John area)","2022-05-01",13656
+"cases","NB","Zone 2 (Saint John area)","2022-05-02",13656
 "cases","NB","Zone 3 (Fredericton area)","2020-01-25",0
 "cases","NB","Zone 3 (Fredericton area)","2020-01-26",0
 "cases","NB","Zone 3 (Fredericton area)","2020-01-27",0
@@ -18215,6 +18236,7 @@
 "cases","NB","Zone 3 (Fredericton area)","2022-04-29",10954
 "cases","NB","Zone 3 (Fredericton area)","2022-04-30",10954
 "cases","NB","Zone 3 (Fredericton area)","2022-05-01",10954
+"cases","NB","Zone 3 (Fredericton area)","2022-05-02",10954
 "cases","NB","Zone 4 (Edmundston area)","2020-01-25",0
 "cases","NB","Zone 4 (Edmundston area)","2020-01-26",0
 "cases","NB","Zone 4 (Edmundston area)","2020-01-27",0
@@ -19043,6 +19065,7 @@
 "cases","NB","Zone 4 (Edmundston area)","2022-04-29",5201
 "cases","NB","Zone 4 (Edmundston area)","2022-04-30",5201
 "cases","NB","Zone 4 (Edmundston area)","2022-05-01",5201
+"cases","NB","Zone 4 (Edmundston area)","2022-05-02",5201
 "cases","NB","Zone 5 (Campbellton area)","2020-01-25",0
 "cases","NB","Zone 5 (Campbellton area)","2020-01-26",0
 "cases","NB","Zone 5 (Campbellton area)","2020-01-27",0
@@ -19871,6 +19894,7 @@
 "cases","NB","Zone 5 (Campbellton area)","2022-04-29",2578
 "cases","NB","Zone 5 (Campbellton area)","2022-04-30",2578
 "cases","NB","Zone 5 (Campbellton area)","2022-05-01",2578
+"cases","NB","Zone 5 (Campbellton area)","2022-05-02",2578
 "cases","NB","Zone 6 (Bathurst area)","2020-01-25",0
 "cases","NB","Zone 6 (Bathurst area)","2020-01-26",0
 "cases","NB","Zone 6 (Bathurst area)","2020-01-27",0
@@ -20699,6 +20723,7 @@
 "cases","NB","Zone 6 (Bathurst area)","2022-04-29",5397
 "cases","NB","Zone 6 (Bathurst area)","2022-04-30",5397
 "cases","NB","Zone 6 (Bathurst area)","2022-05-01",5397
+"cases","NB","Zone 6 (Bathurst area)","2022-05-02",5397
 "cases","NB","Zone 7 (Miramichi area)","2020-01-25",0
 "cases","NB","Zone 7 (Miramichi area)","2020-01-26",0
 "cases","NB","Zone 7 (Miramichi area)","2020-01-27",0
@@ -21527,6 +21552,7 @@
 "cases","NB","Zone 7 (Miramichi area)","2022-04-29",3635
 "cases","NB","Zone 7 (Miramichi area)","2022-04-30",3635
 "cases","NB","Zone 7 (Miramichi area)","2022-05-01",3635
+"cases","NB","Zone 7 (Miramichi area)","2022-05-02",3635
 "cases","NL","Central","2020-01-25",0
 "cases","NL","Central","2020-01-26",0
 "cases","NL","Central","2020-01-27",0
@@ -22355,6 +22381,7 @@
 "cases","NL","Central","2022-04-29",4023
 "cases","NL","Central","2022-04-30",4023
 "cases","NL","Central","2022-05-01",4023
+"cases","NL","Central","2022-05-02",4023
 "cases","NL","Eastern","2020-01-25",0
 "cases","NL","Eastern","2020-01-26",0
 "cases","NL","Eastern","2020-01-27",0
@@ -23183,6 +23210,7 @@
 "cases","NL","Eastern","2022-04-29",19720
 "cases","NL","Eastern","2022-04-30",19720
 "cases","NL","Eastern","2022-05-01",19720
+"cases","NL","Eastern","2022-05-02",19720
 "cases","NL","Labrador-Grenfell","2020-01-25",0
 "cases","NL","Labrador-Grenfell","2020-01-26",0
 "cases","NL","Labrador-Grenfell","2020-01-27",0
@@ -24011,6 +24039,7 @@
 "cases","NL","Labrador-Grenfell","2022-04-29",2351
 "cases","NL","Labrador-Grenfell","2022-04-30",2351
 "cases","NL","Labrador-Grenfell","2022-05-01",2351
+"cases","NL","Labrador-Grenfell","2022-05-02",2351
 "cases","NL","Unknown","2020-01-25",0
 "cases","NL","Unknown","2020-01-26",0
 "cases","NL","Unknown","2020-01-27",0
@@ -24837,8 +24866,9 @@
 "cases","NL","Unknown","2022-04-27",14555
 "cases","NL","Unknown","2022-04-28",14681
 "cases","NL","Unknown","2022-04-29",14783
-"cases","NL","Unknown","2022-04-30",14783
-"cases","NL","Unknown","2022-05-01",14783
+"cases","NL","Unknown","2022-04-30",14886
+"cases","NL","Unknown","2022-05-01",14915
+"cases","NL","Unknown","2022-05-02",14980
 "cases","NL","Western","2020-01-25",0
 "cases","NL","Western","2020-01-26",0
 "cases","NL","Western","2020-01-27",0
@@ -25667,6 +25697,7 @@
 "cases","NL","Western","2022-04-29",3271
 "cases","NL","Western","2022-04-30",3271
 "cases","NL","Western","2022-05-01",3271
+"cases","NL","Western","2022-05-02",3271
 "cases","NS","Unknown","2020-01-25",0
 "cases","NS","Unknown","2020-01-26",0
 "cases","NS","Unknown","2020-01-27",0
@@ -26495,6 +26526,7 @@
 "cases","NS","Unknown","2022-04-29",38758
 "cases","NS","Unknown","2022-04-30",38758
 "cases","NS","Unknown","2022-05-01",38758
+"cases","NS","Unknown","2022-05-02",38758
 "cases","NS","Zone 1 - Western","2020-01-25",0
 "cases","NS","Zone 1 - Western","2020-01-26",0
 "cases","NS","Zone 1 - Western","2020-01-27",0
@@ -27323,6 +27355,7 @@
 "cases","NS","Zone 1 - Western","2022-04-29",6943
 "cases","NS","Zone 1 - Western","2022-04-30",6943
 "cases","NS","Zone 1 - Western","2022-05-01",6943
+"cases","NS","Zone 1 - Western","2022-05-02",6943
 "cases","NS","Zone 2 - Northern","2020-01-25",0
 "cases","NS","Zone 2 - Northern","2020-01-26",0
 "cases","NS","Zone 2 - Northern","2020-01-27",0
@@ -28151,6 +28184,7 @@
 "cases","NS","Zone 2 - Northern","2022-04-29",5550
 "cases","NS","Zone 2 - Northern","2022-04-30",5550
 "cases","NS","Zone 2 - Northern","2022-05-01",5550
+"cases","NS","Zone 2 - Northern","2022-05-02",5550
 "cases","NS","Zone 3 - Eastern","2020-01-25",0
 "cases","NS","Zone 3 - Eastern","2020-01-26",0
 "cases","NS","Zone 3 - Eastern","2020-01-27",0
@@ -28979,6 +29013,7 @@
 "cases","NS","Zone 3 - Eastern","2022-04-29",7184
 "cases","NS","Zone 3 - Eastern","2022-04-30",7184
 "cases","NS","Zone 3 - Eastern","2022-05-01",7184
+"cases","NS","Zone 3 - Eastern","2022-05-02",7184
 "cases","NS","Zone 4 - Central","2020-01-25",0
 "cases","NS","Zone 4 - Central","2020-01-26",0
 "cases","NS","Zone 4 - Central","2020-01-27",0
@@ -29807,6 +29842,7 @@
 "cases","NS","Zone 4 - Central","2022-04-29",27564
 "cases","NS","Zone 4 - Central","2022-04-30",27564
 "cases","NS","Zone 4 - Central","2022-05-01",27564
+"cases","NS","Zone 4 - Central","2022-05-02",27564
 "cases","NU","Nunavut","2020-01-25",0
 "cases","NU","Nunavut","2020-01-26",0
 "cases","NU","Nunavut","2020-01-27",0
@@ -30635,6 +30671,7 @@
 "cases","NU","Nunavut","2022-04-29",3531
 "cases","NU","Nunavut","2022-04-30",3531
 "cases","NU","Nunavut","2022-05-01",3531
+"cases","NU","Nunavut","2022-05-02",3531
 "cases","NT","NWT","2020-01-25",0
 "cases","NT","NWT","2020-01-26",0
 "cases","NT","NWT","2020-01-27",0
@@ -31463,6 +31500,7 @@
 "cases","NT","NWT","2022-04-29",11832
 "cases","NT","NWT","2022-04-30",11832
 "cases","NT","NWT","2022-05-01",11832
+"cases","NT","NWT","2022-05-02",11919
 "cases","ON","Algoma","2020-01-25",0
 "cases","ON","Algoma","2020-01-26",0
 "cases","ON","Algoma","2020-01-27",0
@@ -32291,6 +32329,7 @@
 "cases","ON","Algoma","2022-04-29",7960
 "cases","ON","Algoma","2022-04-30",7960
 "cases","ON","Algoma","2022-05-01",7960
+"cases","ON","Algoma","2022-05-02",8028
 "cases","ON","Brant","2020-01-25",0
 "cases","ON","Brant","2020-01-26",0
 "cases","ON","Brant","2020-01-27",0
@@ -33119,6 +33158,7 @@
 "cases","ON","Brant","2022-04-29",9731
 "cases","ON","Brant","2022-04-30",9731
 "cases","ON","Brant","2022-05-01",9731
+"cases","ON","Brant","2022-05-02",9785
 "cases","ON","Chatham-Kent","2020-01-25",0
 "cases","ON","Chatham-Kent","2020-01-26",0
 "cases","ON","Chatham-Kent","2020-01-27",0
@@ -33947,6 +33987,7 @@
 "cases","ON","Chatham-Kent","2022-04-29",8260
 "cases","ON","Chatham-Kent","2022-04-30",8291
 "cases","ON","Chatham-Kent","2022-05-01",8307
+"cases","ON","Chatham-Kent","2022-05-02",8318
 "cases","ON","Durham","2020-01-25",0
 "cases","ON","Durham","2020-01-26",0
 "cases","ON","Durham","2020-01-27",0
@@ -34775,6 +34816,7 @@
 "cases","ON","Durham","2022-04-29",60129
 "cases","ON","Durham","2022-04-30",60242
 "cases","ON","Durham","2022-05-01",60346
+"cases","ON","Durham","2022-05-02",60382
 "cases","ON","Eastern","2020-01-25",0
 "cases","ON","Eastern","2020-01-26",0
 "cases","ON","Eastern","2020-01-27",0
@@ -35603,6 +35645,7 @@
 "cases","ON","Eastern","2022-04-29",15401
 "cases","ON","Eastern","2022-04-30",15435
 "cases","ON","Eastern","2022-05-01",15479
+"cases","ON","Eastern","2022-05-02",15491
 "cases","ON","Grey Bruce","2020-01-25",0
 "cases","ON","Grey Bruce","2020-01-26",0
 "cases","ON","Grey Bruce","2020-01-27",0
@@ -36431,6 +36474,7 @@
 "cases","ON","Grey Bruce","2022-04-29",8363
 "cases","ON","Grey Bruce","2022-04-30",8383
 "cases","ON","Grey Bruce","2022-05-01",8406
+"cases","ON","Grey Bruce","2022-05-02",8420
 "cases","ON","Haldimand-Norfolk","2020-01-25",0
 "cases","ON","Haldimand-Norfolk","2020-01-26",0
 "cases","ON","Haldimand-Norfolk","2020-01-27",0
@@ -37259,6 +37303,7 @@
 "cases","ON","Haldimand-Norfolk","2022-04-29",8333
 "cases","ON","Haldimand-Norfolk","2022-04-30",8356
 "cases","ON","Haldimand-Norfolk","2022-05-01",8372
+"cases","ON","Haldimand-Norfolk","2022-05-02",8378
 "cases","ON","Haliburton Kawartha Pineridge","2020-01-25",0
 "cases","ON","Haliburton Kawartha Pineridge","2020-01-26",0
 "cases","ON","Haliburton Kawartha Pineridge","2020-01-27",0
@@ -38087,6 +38132,7 @@
 "cases","ON","Haliburton Kawartha Pineridge","2022-04-29",8824
 "cases","ON","Haliburton Kawartha Pineridge","2022-04-30",8883
 "cases","ON","Haliburton Kawartha Pineridge","2022-05-01",8912
+"cases","ON","Haliburton Kawartha Pineridge","2022-05-02",8928
 "cases","ON","Halton","2020-01-25",0
 "cases","ON","Halton","2020-01-26",0
 "cases","ON","Halton","2020-01-27",0
@@ -38915,6 +38961,7 @@
 "cases","ON","Halton","2022-04-29",47425
 "cases","ON","Halton","2022-04-30",47525
 "cases","ON","Halton","2022-05-01",47576
+"cases","ON","Halton","2022-05-02",47602
 "cases","ON","Hamilton","2020-01-25",0
 "cases","ON","Hamilton","2020-01-26",0
 "cases","ON","Hamilton","2020-01-27",0
@@ -39743,6 +39790,7 @@
 "cases","ON","Hamilton","2022-04-29",56179
 "cases","ON","Hamilton","2022-04-30",56179
 "cases","ON","Hamilton","2022-05-01",56179
+"cases","ON","Hamilton","2022-05-02",56503
 "cases","ON","Hastings Prince Edward","2020-01-25",0
 "cases","ON","Hastings Prince Edward","2020-01-26",0
 "cases","ON","Hastings Prince Edward","2020-01-27",0
@@ -40571,6 +40619,7 @@
 "cases","ON","Hastings Prince Edward","2022-04-29",9691
 "cases","ON","Hastings Prince Edward","2022-04-30",9691
 "cases","ON","Hastings Prince Edward","2022-05-01",9691
+"cases","ON","Hastings Prince Edward","2022-05-02",9691
 "cases","ON","Huron Perth","2020-01-25",0
 "cases","ON","Huron Perth","2020-01-26",0
 "cases","ON","Huron Perth","2020-01-27",0
@@ -41399,6 +41448,7 @@
 "cases","ON","Huron Perth","2022-04-29",6996
 "cases","ON","Huron Perth","2022-04-30",7007
 "cases","ON","Huron Perth","2022-05-01",7025
+"cases","ON","Huron Perth","2022-05-02",7048
 "cases","ON","Kingston Frontenac Lennox & Addington","2020-01-25",0
 "cases","ON","Kingston Frontenac Lennox & Addington","2020-01-26",0
 "cases","ON","Kingston Frontenac Lennox & Addington","2020-01-27",0
@@ -42227,6 +42277,7 @@
 "cases","ON","Kingston Frontenac Lennox & Addington","2022-04-29",15971
 "cases","ON","Kingston Frontenac Lennox & Addington","2022-04-30",15971
 "cases","ON","Kingston Frontenac Lennox & Addington","2022-05-01",15971
+"cases","ON","Kingston Frontenac Lennox & Addington","2022-05-02",15971
 "cases","ON","Lambton","2020-01-25",0
 "cases","ON","Lambton","2020-01-26",0
 "cases","ON","Lambton","2020-01-27",0
@@ -43055,6 +43106,7 @@
 "cases","ON","Lambton","2022-04-29",11422
 "cases","ON","Lambton","2022-04-30",11458
 "cases","ON","Lambton","2022-05-01",11474
+"cases","ON","Lambton","2022-05-02",11493
 "cases","ON","Leeds Grenville and Lanark","2020-01-25",0
 "cases","ON","Leeds Grenville and Lanark","2020-01-26",0
 "cases","ON","Leeds Grenville and Lanark","2020-01-27",0
@@ -43883,6 +43935,7 @@
 "cases","ON","Leeds Grenville and Lanark","2022-04-29",8660
 "cases","ON","Leeds Grenville and Lanark","2022-04-30",8712
 "cases","ON","Leeds Grenville and Lanark","2022-05-01",8754
+"cases","ON","Leeds Grenville and Lanark","2022-05-02",8775
 "cases","ON","Middlesex-London","2020-01-25",0
 "cases","ON","Middlesex-London","2020-01-26",0
 "cases","ON","Middlesex-London","2020-01-27",0
@@ -44711,6 +44764,7 @@
 "cases","ON","Middlesex-London","2022-04-29",36831
 "cases","ON","Middlesex-London","2022-04-30",36831
 "cases","ON","Middlesex-London","2022-05-01",36831
+"cases","ON","Middlesex-London","2022-05-02",37008
 "cases","ON","Niagara","2020-01-25",0
 "cases","ON","Niagara","2020-01-26",0
 "cases","ON","Niagara","2020-01-27",0
@@ -45539,6 +45593,7 @@
 "cases","ON","Niagara","2022-04-29",39547
 "cases","ON","Niagara","2022-04-30",39547
 "cases","ON","Niagara","2022-05-01",39547
+"cases","ON","Niagara","2022-05-02",39727
 "cases","ON","North Bay Parry Sound","2020-01-25",0
 "cases","ON","North Bay Parry Sound","2020-01-26",0
 "cases","ON","North Bay Parry Sound","2020-01-27",0
@@ -46367,6 +46422,7 @@
 "cases","ON","North Bay Parry Sound","2022-04-29",5539
 "cases","ON","North Bay Parry Sound","2022-04-30",5539
 "cases","ON","North Bay Parry Sound","2022-05-01",5539
+"cases","ON","North Bay Parry Sound","2022-05-02",5605
 "cases","ON","Northwestern","2020-01-25",0
 "cases","ON","Northwestern","2020-01-26",0
 "cases","ON","Northwestern","2020-01-27",0
@@ -47195,6 +47251,7 @@
 "cases","ON","Northwestern","2022-04-29",7806
 "cases","ON","Northwestern","2022-04-30",7806
 "cases","ON","Northwestern","2022-05-01",7806
+"cases","ON","Northwestern","2022-05-02",7806
 "cases","ON","Unknown","2020-01-25",0
 "cases","ON","Unknown","2020-01-26",0
 "cases","ON","Unknown","2020-01-27",0
@@ -48023,6 +48080,7 @@
 "cases","ON","Unknown","2022-04-29",0
 "cases","ON","Unknown","2022-04-30",0
 "cases","ON","Unknown","2022-05-01",0
+"cases","ON","Unknown","2022-05-02",0
 "cases","ON","Ottawa","2020-01-25",0
 "cases","ON","Ottawa","2020-01-26",0
 "cases","ON","Ottawa","2020-01-27",0
@@ -48851,6 +48909,7 @@
 "cases","ON","Ottawa","2022-04-29",71382
 "cases","ON","Ottawa","2022-04-30",71382
 "cases","ON","Ottawa","2022-05-01",71382
+"cases","ON","Ottawa","2022-05-02",71699
 "cases","ON","Peel","2020-01-25",0
 "cases","ON","Peel","2020-01-26",0
 "cases","ON","Peel","2020-01-27",0
@@ -49679,6 +49738,7 @@
 "cases","ON","Peel","2022-04-29",185229
 "cases","ON","Peel","2022-04-30",185229
 "cases","ON","Peel","2022-05-01",185229
+"cases","ON","Peel","2022-05-02",185661
 "cases","ON","Peterborough","2020-01-25",0
 "cases","ON","Peterborough","2020-01-26",0
 "cases","ON","Peterborough","2020-01-27",0
@@ -50507,6 +50567,7 @@
 "cases","ON","Peterborough","2022-04-29",7006
 "cases","ON","Peterborough","2022-04-30",7006
 "cases","ON","Peterborough","2022-05-01",7006
+"cases","ON","Peterborough","2022-05-02",7053
 "cases","ON","Porcupine","2020-01-25",0
 "cases","ON","Porcupine","2020-01-26",0
 "cases","ON","Porcupine","2020-01-27",0
@@ -51335,6 +51396,7 @@
 "cases","ON","Porcupine","2022-04-29",6964
 "cases","ON","Porcupine","2022-04-30",6964
 "cases","ON","Porcupine","2022-05-01",6964
+"cases","ON","Porcupine","2022-05-02",7005
 "cases","ON","Renfrew","2020-01-25",0
 "cases","ON","Renfrew","2020-01-26",0
 "cases","ON","Renfrew","2020-01-27",0
@@ -52163,6 +52225,7 @@
 "cases","ON","Renfrew","2022-04-29",4400
 "cases","ON","Renfrew","2022-04-30",4400
 "cases","ON","Renfrew","2022-05-01",4400
+"cases","ON","Renfrew","2022-05-02",4456
 "cases","ON","Simcoe Muskoka","2020-01-25",0
 "cases","ON","Simcoe Muskoka","2020-01-26",0
 "cases","ON","Simcoe Muskoka","2020-01-27",0
@@ -52991,6 +53054,7 @@
 "cases","ON","Simcoe Muskoka","2022-04-29",43514
 "cases","ON","Simcoe Muskoka","2022-04-30",43514
 "cases","ON","Simcoe Muskoka","2022-05-01",43514
+"cases","ON","Simcoe Muskoka","2022-05-02",43771
 "cases","ON","Southwestern","2020-01-25",0
 "cases","ON","Southwestern","2020-01-26",0
 "cases","ON","Southwestern","2020-01-27",0
@@ -53819,6 +53883,7 @@
 "cases","ON","Southwestern","2022-04-29",13325
 "cases","ON","Southwestern","2022-04-30",13325
 "cases","ON","Southwestern","2022-05-01",13325
+"cases","ON","Southwestern","2022-05-02",13407
 "cases","ON","Sudbury","2020-01-25",0
 "cases","ON","Sudbury","2020-01-26",0
 "cases","ON","Sudbury","2020-01-27",0
@@ -54647,6 +54712,7 @@
 "cases","ON","Sudbury","2022-04-29",14914
 "cases","ON","Sudbury","2022-04-30",14914
 "cases","ON","Sudbury","2022-05-01",14914
+"cases","ON","Sudbury","2022-05-02",15035
 "cases","ON","Thunder Bay","2020-01-25",0
 "cases","ON","Thunder Bay","2020-01-26",0
 "cases","ON","Thunder Bay","2020-01-27",0
@@ -55475,6 +55541,7 @@
 "cases","ON","Thunder Bay","2022-04-29",11211
 "cases","ON","Thunder Bay","2022-04-30",11211
 "cases","ON","Thunder Bay","2022-05-01",11211
+"cases","ON","Thunder Bay","2022-05-02",11322
 "cases","ON","Timiskaming","2020-01-25",0
 "cases","ON","Timiskaming","2020-01-26",0
 "cases","ON","Timiskaming","2020-01-27",0
@@ -56303,6 +56370,7 @@
 "cases","ON","Timiskaming","2022-04-29",1865
 "cases","ON","Timiskaming","2022-04-30",1865
 "cases","ON","Timiskaming","2022-05-01",1865
+"cases","ON","Timiskaming","2022-05-02",1887
 "cases","ON","Toronto","2020-01-25",1
 "cases","ON","Toronto","2020-01-26",1
 "cases","ON","Toronto","2020-01-27",2
@@ -57131,6 +57199,7 @@
 "cases","ON","Toronto","2022-04-29",321025
 "cases","ON","Toronto","2022-04-30",321025
 "cases","ON","Toronto","2022-05-01",321025
+"cases","ON","Toronto","2022-05-02",321025
 "cases","ON","Waterloo","2020-01-25",0
 "cases","ON","Waterloo","2020-01-26",0
 "cases","ON","Waterloo","2020-01-27",0
@@ -57959,6 +58028,7 @@
 "cases","ON","Waterloo","2022-04-29",45170
 "cases","ON","Waterloo","2022-04-30",45170
 "cases","ON","Waterloo","2022-05-01",45170
+"cases","ON","Waterloo","2022-05-02",45357
 "cases","ON","Wellington Dufferin Guelph","2020-01-25",0
 "cases","ON","Wellington Dufferin Guelph","2020-01-26",0
 "cases","ON","Wellington Dufferin Guelph","2020-01-27",0
@@ -58787,6 +58857,7 @@
 "cases","ON","Wellington Dufferin Guelph","2022-04-29",21508
 "cases","ON","Wellington Dufferin Guelph","2022-04-30",21508
 "cases","ON","Wellington Dufferin Guelph","2022-05-01",21508
+"cases","ON","Wellington Dufferin Guelph","2022-05-02",21594
 "cases","ON","Windsor-Essex","2020-01-25",0
 "cases","ON","Windsor-Essex","2020-01-26",0
 "cases","ON","Windsor-Essex","2020-01-27",0
@@ -59615,6 +59686,7 @@
 "cases","ON","Windsor-Essex","2022-04-29",43073
 "cases","ON","Windsor-Essex","2022-04-30",43073
 "cases","ON","Windsor-Essex","2022-05-01",43073
+"cases","ON","Windsor-Essex","2022-05-02",43251
 "cases","ON","York","2020-01-25",0
 "cases","ON","York","2020-01-26",0
 "cases","ON","York","2020-01-27",0
@@ -60443,6 +60515,7 @@
 "cases","ON","York","2022-04-29",107685
 "cases","ON","York","2022-04-30",107685
 "cases","ON","York","2022-05-01",107685
+"cases","ON","York","2022-05-02",107685
 "cases","PE","Prince Edward Island","2020-01-25",0
 "cases","PE","Prince Edward Island","2020-01-26",0
 "cases","PE","Prince Edward Island","2020-01-27",0
@@ -61271,6 +61344,7 @@
 "cases","PE","Prince Edward Island","2022-04-29",34270
 "cases","PE","Prince Edward Island","2022-04-30",34270
 "cases","PE","Prince Edward Island","2022-05-01",34270
+"cases","PE","Prince Edward Island","2022-05-02",34270
 "cases","QC","Abitibi-Témiscamingue","2020-01-25",0
 "cases","QC","Abitibi-Témiscamingue","2020-01-26",0
 "cases","QC","Abitibi-Témiscamingue","2020-01-27",0
@@ -62099,6 +62173,7 @@
 "cases","QC","Abitibi-Témiscamingue","2022-04-29",10490
 "cases","QC","Abitibi-Témiscamingue","2022-04-30",10503
 "cases","QC","Abitibi-Témiscamingue","2022-05-01",10514
+"cases","QC","Abitibi-Témiscamingue","2022-05-02",10524
 "cases","QC","Bas-Saint-Laurent","2020-01-25",0
 "cases","QC","Bas-Saint-Laurent","2020-01-26",0
 "cases","QC","Bas-Saint-Laurent","2020-01-27",0
@@ -62927,6 +63002,7 @@
 "cases","QC","Bas-Saint-Laurent","2022-04-29",19847
 "cases","QC","Bas-Saint-Laurent","2022-04-30",19901
 "cases","QC","Bas-Saint-Laurent","2022-05-01",19944
+"cases","QC","Bas-Saint-Laurent","2022-05-02",19970
 "cases","QC","Capitale-Nationale","2020-01-25",0
 "cases","QC","Capitale-Nationale","2020-01-26",0
 "cases","QC","Capitale-Nationale","2020-01-27",0
@@ -63755,6 +63831,7 @@
 "cases","QC","Capitale-Nationale","2022-04-29",86159
 "cases","QC","Capitale-Nationale","2022-04-30",86309
 "cases","QC","Capitale-Nationale","2022-05-01",86418
+"cases","QC","Capitale-Nationale","2022-05-02",86521
 "cases","QC","Chaudière-Appalaches","2020-01-25",0
 "cases","QC","Chaudière-Appalaches","2020-01-26",0
 "cases","QC","Chaudière-Appalaches","2020-01-27",0
@@ -64583,6 +64660,7 @@
 "cases","QC","Chaudière-Appalaches","2022-04-29",60010
 "cases","QC","Chaudière-Appalaches","2022-04-30",60078
 "cases","QC","Chaudière-Appalaches","2022-05-01",60135
+"cases","QC","Chaudière-Appalaches","2022-05-02",60183
 "cases","QC","Côte-Nord","2020-01-25",0
 "cases","QC","Côte-Nord","2020-01-26",0
 "cases","QC","Côte-Nord","2020-01-27",0
@@ -65411,6 +65489,7 @@
 "cases","QC","Côte-Nord","2022-04-29",7993
 "cases","QC","Côte-Nord","2022-04-30",8019
 "cases","QC","Côte-Nord","2022-05-01",8040
+"cases","QC","Côte-Nord","2022-05-02",8050
 "cases","QC","Estrie","2020-01-25",0
 "cases","QC","Estrie","2020-01-26",0
 "cases","QC","Estrie","2020-01-27",0
@@ -66239,6 +66318,7 @@
 "cases","QC","Estrie","2022-04-29",48116
 "cases","QC","Estrie","2022-04-30",48225
 "cases","QC","Estrie","2022-05-01",48300
+"cases","QC","Estrie","2022-05-02",48342
 "cases","QC","Gaspésie-Îles-de-la-Madeleine","2020-01-25",0
 "cases","QC","Gaspésie-Îles-de-la-Madeleine","2020-01-26",0
 "cases","QC","Gaspésie-Îles-de-la-Madeleine","2020-01-27",0
@@ -67067,6 +67147,7 @@
 "cases","QC","Gaspésie-Îles-de-la-Madeleine","2022-04-29",8709
 "cases","QC","Gaspésie-Îles-de-la-Madeleine","2022-04-30",8729
 "cases","QC","Gaspésie-Îles-de-la-Madeleine","2022-05-01",8744
+"cases","QC","Gaspésie-Îles-de-la-Madeleine","2022-05-02",8757
 "cases","QC","Lanaudière","2020-01-25",0
 "cases","QC","Lanaudière","2020-01-26",0
 "cases","QC","Lanaudière","2020-01-27",0
@@ -67895,6 +67976,7 @@
 "cases","QC","Lanaudière","2022-04-29",68348
 "cases","QC","Lanaudière","2022-04-30",68445
 "cases","QC","Lanaudière","2022-05-01",68506
+"cases","QC","Lanaudière","2022-05-02",68564
 "cases","QC","Laurentides","2020-01-25",0
 "cases","QC","Laurentides","2020-01-26",0
 "cases","QC","Laurentides","2020-01-27",0
@@ -68723,6 +68805,7 @@
 "cases","QC","Laurentides","2022-04-29",77264
 "cases","QC","Laurentides","2022-04-30",77386
 "cases","QC","Laurentides","2022-05-01",77464
+"cases","QC","Laurentides","2022-05-02",77538
 "cases","QC","Laval","2020-01-25",0
 "cases","QC","Laval","2020-01-26",0
 "cases","QC","Laval","2020-01-27",0
@@ -69551,6 +69634,7 @@
 "cases","QC","Laval","2022-04-29",70346
 "cases","QC","Laval","2022-04-30",70406
 "cases","QC","Laval","2022-05-01",70444
+"cases","QC","Laval","2022-05-02",70489
 "cases","QC","Mauricie","2020-01-25",0
 "cases","QC","Mauricie","2020-01-26",0
 "cases","QC","Mauricie","2020-01-27",0
@@ -70379,6 +70463,7 @@
 "cases","QC","Mauricie","2022-04-29",57371
 "cases","QC","Mauricie","2022-04-30",57467
 "cases","QC","Mauricie","2022-05-01",57545
+"cases","QC","Mauricie","2022-05-02",57608
 "cases","QC","Montérégie","2020-01-25",0
 "cases","QC","Montérégie","2020-01-26",0
 "cases","QC","Montérégie","2020-01-27",0
@@ -71207,6 +71292,7 @@
 "cases","QC","Montérégie","2022-04-29",144951
 "cases","QC","Montérégie","2022-04-30",145192
 "cases","QC","Montérégie","2022-05-01",145333
+"cases","QC","Montérégie","2022-05-02",145489
 "cases","QC","Montréal","2020-01-25",0
 "cases","QC","Montréal","2020-01-26",0
 "cases","QC","Montréal","2020-01-27",0
@@ -72035,6 +72121,7 @@
 "cases","QC","Montréal","2022-04-29",303152
 "cases","QC","Montréal","2022-04-30",303512
 "cases","QC","Montréal","2022-05-01",303793
+"cases","QC","Montréal","2022-05-02",303983
 "cases","QC","Nord-du-Québec","2020-01-25",0
 "cases","QC","Nord-du-Québec","2020-01-26",0
 "cases","QC","Nord-du-Québec","2020-01-27",0
@@ -72863,6 +72950,7 @@
 "cases","QC","Nord-du-Québec","2022-04-29",1393
 "cases","QC","Nord-du-Québec","2022-04-30",1399
 "cases","QC","Nord-du-Québec","2022-05-01",1401
+"cases","QC","Nord-du-Québec","2022-05-02",1402
 "cases","QC","Unknown","2020-01-25",0
 "cases","QC","Unknown","2020-01-26",0
 "cases","QC","Unknown","2020-01-27",0
@@ -73691,6 +73779,7 @@
 "cases","QC","Unknown","2022-04-29",2856
 "cases","QC","Unknown","2022-04-30",2857
 "cases","QC","Unknown","2022-05-01",2860
+"cases","QC","Unknown","2022-05-02",2862
 "cases","QC","Nunavik","2020-01-25",0
 "cases","QC","Nunavik","2020-01-26",0
 "cases","QC","Nunavik","2020-01-27",0
@@ -74519,6 +74608,7 @@
 "cases","QC","Nunavik","2022-04-29",2958
 "cases","QC","Nunavik","2022-04-30",2960
 "cases","QC","Nunavik","2022-05-01",2964
+"cases","QC","Nunavik","2022-05-02",2964
 "cases","QC","Outaouais","2020-01-25",0
 "cases","QC","Outaouais","2020-01-26",0
 "cases","QC","Outaouais","2020-01-27",0
@@ -75347,6 +75437,7 @@
 "cases","QC","Outaouais","2022-04-29",38925
 "cases","QC","Outaouais","2022-04-30",38986
 "cases","QC","Outaouais","2022-05-01",39018
+"cases","QC","Outaouais","2022-05-02",39043
 "cases","QC","Saguenay","2020-01-25",0
 "cases","QC","Saguenay","2020-01-26",0
 "cases","QC","Saguenay","2020-01-27",0
@@ -76175,6 +76266,7 @@
 "cases","QC","Saguenay","2022-04-29",29331
 "cases","QC","Saguenay","2022-04-30",29384
 "cases","QC","Saguenay","2022-05-01",29433
+"cases","QC","Saguenay","2022-05-02",29473
 "cases","QC","Terres-Cries-de-la-Baie-James","2020-01-25",0
 "cases","QC","Terres-Cries-de-la-Baie-James","2020-01-26",0
 "cases","QC","Terres-Cries-de-la-Baie-James","2020-01-27",0
@@ -77003,6 +77095,7 @@
 "cases","QC","Terres-Cries-de-la-Baie-James","2022-04-29",2856
 "cases","QC","Terres-Cries-de-la-Baie-James","2022-04-30",2874
 "cases","QC","Terres-Cries-de-la-Baie-James","2022-05-01",2876
+"cases","QC","Terres-Cries-de-la-Baie-James","2022-05-02",2876
 "cases","Repatriated","Unknown","2020-01-25",0
 "cases","Repatriated","Unknown","2020-01-26",0
 "cases","Repatriated","Unknown","2020-01-27",0
@@ -77831,6 +77924,7 @@
 "cases","Repatriated","Unknown","2022-04-29",13
 "cases","Repatriated","Unknown","2022-04-30",13
 "cases","Repatriated","Unknown","2022-05-01",13
+"cases","Repatriated","Unknown","2022-05-02",13
 "cases","SK","Central","2020-01-25",0
 "cases","SK","Central","2020-01-26",0
 "cases","SK","Central","2020-01-27",0
@@ -78659,6 +78753,7 @@
 "cases","SK","Central","2022-04-29",11636
 "cases","SK","Central","2022-04-30",11636
 "cases","SK","Central","2022-05-01",11636
+"cases","SK","Central","2022-05-02",11636
 "cases","SK","Far North","2020-01-25",0
 "cases","SK","Far North","2020-01-26",0
 "cases","SK","Far North","2020-01-27",0
@@ -79487,6 +79582,7 @@
 "cases","SK","Far North","2022-04-29",11059
 "cases","SK","Far North","2022-04-30",11059
 "cases","SK","Far North","2022-05-01",11059
+"cases","SK","Far North","2022-05-02",11059
 "cases","SK","North","2020-01-25",0
 "cases","SK","North","2020-01-26",0
 "cases","SK","North","2020-01-27",0
@@ -80315,6 +80411,7 @@
 "cases","SK","North","2022-04-29",28000
 "cases","SK","North","2022-04-30",28000
 "cases","SK","North","2022-05-01",28000
+"cases","SK","North","2022-05-02",28000
 "cases","SK","Unknown","2020-01-25",0
 "cases","SK","Unknown","2020-01-26",0
 "cases","SK","Unknown","2020-01-27",0
@@ -81143,6 +81240,7 @@
 "cases","SK","Unknown","2022-04-29",2703
 "cases","SK","Unknown","2022-04-30",2703
 "cases","SK","Unknown","2022-05-01",2703
+"cases","SK","Unknown","2022-05-02",2703
 "cases","SK","Regina","2020-01-25",0
 "cases","SK","Regina","2020-01-26",0
 "cases","SK","Regina","2020-01-27",0
@@ -81971,6 +82069,7 @@
 "cases","SK","Regina","2022-04-29",28671
 "cases","SK","Regina","2022-04-30",28671
 "cases","SK","Regina","2022-05-01",28671
+"cases","SK","Regina","2022-05-02",28671
 "cases","SK","Saskatoon","2020-01-25",0
 "cases","SK","Saskatoon","2020-01-26",0
 "cases","SK","Saskatoon","2020-01-27",0
@@ -82799,6 +82898,7 @@
 "cases","SK","Saskatoon","2022-04-29",35130
 "cases","SK","Saskatoon","2022-04-30",35130
 "cases","SK","Saskatoon","2022-05-01",35130
+"cases","SK","Saskatoon","2022-05-02",35130
 "cases","SK","South","2020-01-25",0
 "cases","SK","South","2020-01-26",0
 "cases","SK","South","2020-01-27",0
@@ -83627,6 +83727,7 @@
 "cases","SK","South","2022-04-29",18828
 "cases","SK","South","2022-04-30",18828
 "cases","SK","South","2022-05-01",18828
+"cases","SK","South","2022-05-02",18828
 "cases","YT","Yukon","2020-01-25",0
 "cases","YT","Yukon","2020-01-26",0
 "cases","YT","Yukon","2020-01-27",0
@@ -84455,3 +84556,4 @@
 "cases","YT","Yukon","2022-04-29",4196
 "cases","YT","Yukon","2022-04-30",4196
 "cases","YT","Yukon","2022-05-01",4196
+"cases","YT","Yukon","2022-05-02",4217
