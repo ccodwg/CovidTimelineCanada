@@ -72,30 +72,100 @@ Both the cumulative values (`value`) and the daily differences (`value_daily`) a
 
 ## Detailed description of data sources
 
-### Cases
+<details>
+<summary><b>Cases</b></summary>
 
-**List will be updated shortly**
+| P/T   | Data sources                                                                                                                                                                                                           |
+|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AB    | - Alberta case CSV (2020-03-06–present)                                                                                                                                                                                |
+| BC    | - British Columbia case CSV (2020-01-29–present)                                                                                                                                                                       |
+| MB    | - Manitoba RHA times series CSV (2020-03-14–2022-03-25)<br>- Manitoba weekly surveillance report (2022-03-26–present)                                                                                                  |
+| NB    | - CCODWG Covid19Canada dataset (2020-01-25–2021-03-07)<br>- New Brunswick dashboard (2021-03-08–2022-03-29)<br>- New Brunswick COVIDWATCH weekly report (2022-04-02–present)                                           |
+| NL    | - CCODWG Covid19Canada dataset (2020-01-25–2021-03-15)<br>- Newfoundland & Labrador dashboard (2021-03-16–2022-03-11)<br>- Newfoundland & Labrador dashboard (2022-03-12–present)                                      |
+| NS    | - Nova Scotia case CSV (2021-03-15–2021-01-22)<br>- Nova Scotia dashboard (2021-01-23–2021-12-09)<br>- Nova Scotia daily news release (2021-12-10–2022-03-04)<br>- Nova Scotia weekly data report (2022-03-08–present) |
+| NT    | - Public Health Agency of Canada daily epidemiology update (2020-03-11–present)                                                                                                                                        |
+| NU    | - Public Health Agency of Canada daily epidemiology update (2020-03-11–present)                                                                                                                                        |
+| ON    | - CCODWG Covid19Canada dataset (2020-01-25–2020-03-31)<br>- Ontario PHU summary CSV (2020-04-01–present)                                                                                                               |
+| PE    | - Public Health Agency of Canada daily epidemiology update (2020-03-11–present)                                                                                                                                        |
+| QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                                                      |
+| SK    | - Saskatchewan total cases dashboard & Freedom of Information request (2020-03-11–2022-02-06)<br>- Saskatchewan weekly COVID-19 situation report (2022-02-05–present)                                                  |
+| YT    | - Yukon dashboard (2020-03-19–present)                                                                                                                                                                                 |
+</details>
 
-### Deaths
+<details>
+<summary><b>Deaths</b></summary>
 
-**List will be updated shortly**
+| P/T   | Data sources                                                                                                                                                                                                             |
+|:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AB    | - CCODWG Covid19Canada dataset; Alberta case CSV (2020-03-08–present)                                                                                                                                                    |
+| BC    | - CCODWG Covid19Canada dataset; British Columbia case CSV (2020-03-08–present)                                                                                                                                           |
+| MB    | - Manitoba RHA times series CSV (2020-03-14–2022-03-25)<br>- Manitoba weekly surveillance report (2022-03-26–present)                                                                                                    |
+| NB    | - CCODWG Covid19Canada dataset (2020-01-25–2021-03-07)<br>- New Brunswick dashboard (2021-03-08–2022-03-29)<br>- New Brunswick COVIDWATCH weekly report (2022-04-02–present)                                             |
+| NL    | - CCODWG Covid19Canada dataset (2020-01-25–2021-03-15)<br>- Newfoundland & Labrador dashboard (2021-03-16–2022-03-11)<br>- Newfoundland & Labrador dashboard (2022-03-12–present)                                        |
+| NS    | - CCODWG Covid19Canada dataset (2020-01-25–2021-01-18)<br>- Nova Scotia dashboard (2021-01-19–2022-01-18)<br>- Nova Scotia dashboard (2021-01-23–2021-12-09)<br>- Nova Scotia daily news release (2021-12-10–2022-03-04) |
+| NT    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present)                                                                                                                                          |
+| NU    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present)                                                                                                                                          |
+| ON    | - CCODWG Covid19Canada dataset (2020-01-25–2020-03-31)<br>- Ontario PHU summary CSV (2022-04-01–present)                                                                                                                 |
+| PE    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present)                                                                                                                                          |
+| QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                                                        |
+| SK    | - Saskatchewan total cases dashboard & Freedom of Information request (2020-04-04–2022-02-06)<br>- Saskatchewan weekly COVID-19 situation report (2022-02-05–present)                                                    |
+| YT    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present)                                                                                                                                          |
+</details>
 
-### Hospitalizations
+<details>
+<summary><b>Hospitalizations</b></summary>
 
-**List will be updated shortly**
+| P/T   | Data sources                                                                                                                                                                                                                   |
+|:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AB    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| BC    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| MB    | - covid19tracker.ca dataset (2020-01-25–2021-02-03)<br>- Manitoba dashboard (2021-02-04–2022-03-25)<br>- covid19tracker.ca dataset (2022-03-26–present)                                                                        |
+| NB    | - covid19tracker.ca dataset (2020-01-25–2021-03-07)<br>- New Brunswick dashboard (2021-03-08–2021-09-19)<br>- New Brunswick dashboard (2021-09-20–2022-03-29)<br>- New Brunswick COVIDWATCH weekly report (2022-04-02–present) |
+| NL    | - Newfoundland & Labrador dashboard (2020-03-27–2022-03-11)<br>- covid19tracker.ca dataset (2022-03-12–present)                                                                                                                |
+| NS    | - covid19tracker.ca dataset (2020-01-25–2021-01-18)<br>- Nova Scotia dashboard (2021-01-19–2022-01-18)<br>- covid19tracker.ca dataset (2022-01-19–present)                                                                     |
+| NT    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| NU    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| ON    | - Ontario hospitalization CSV (2020-04-02–present)                                                                                                                                                                             |
+| PE    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| QC    | - MSSS hospitalization CSV (2020-04-11–present)                                                                                                                                                                                |
+| SK    | - Saskatchewan hospitalized cases dashboard (2020-03-26–2022-02-06)<br>- covid19tracker.ca dataset (2022-02-07–present)                                                                                                        |
+| YT    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+</details>
 
-### ICU
+<details>
+<summary><b>ICU</b></summary>
 
-**List will be updated shortly**
+| P/T   | Data sources                                                                                                                                                                                                                   |
+|:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AB    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| BC    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| MB    | - covid19tracker.ca dataset (2022-03-26–present)<br>- Manitoba dashboard (2021-02-04–2022-03-25)<br>- covid19tracker.ca dataset (2022-03-26–present)                                                                           |
+| NB    | - covid19tracker.ca dataset (2020-01-25–2021-03-07)<br>- New Brunswick dashboard (2021-03-08–2021-09-19)<br>- New Brunswick dashboard (2021-09-20–2022-03-29)<br>- New Brunswick COVIDWATCH weekly report (2022-04-02–present) |
+| NL    | - covid19tracker.ca dataset (2020-01-25–2021-03-15)<br>- Newfoundland & Labrador dashboard (2021-03-16–2022-03-11)<br>- covid19tracker.ca dataset (2022-03-12–present)                                                         |
+| NS    | - covid19tracker.ca dataset (2020-01-25–2021-01-18)<br>- Nova Scotia dashboard (2021-01-19–2022-01-18)<br>- covid19tracker.ca dataset (2022-01-19–present)                                                                     |
+| NT    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| NU    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| ON    | - Ontario hospitalization CSV (2020-04-02–present)                                                                                                                                                                             |
+| PE    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| QC    | - MSSS hospitalization CSV (2020-04-11–present)                                                                                                                                                                                |
+| SK    | - Saskatchewan hospitalized cases dashboard (2020-03-26–2022-02-06)<br>- covid19tracker.ca dataset (2022-02-07–present)                                                                                                        |
+| YT    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+</details>
 
-### Tests completed
+<details>
+<summary><b>Tests completed</b></summary>
 
-All data on completed COVID-19 tests are from the [Public Health Agency of Canada](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html).
+All data on completed COVID-19 tests are from the [Public Health Agency of Canada daily epidemiology update](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html).
+</details>
 
-### Vaccine coverage
+<details>
+<summary><b>Vaccine coverage</b></summary>
 
 **Coming soon!**
+</details>
 
-### Vaccine distribution
+<details>
+<summary><b>Vaccine distribution</b></summary>
 
 **Coming soon!**
+</details>
