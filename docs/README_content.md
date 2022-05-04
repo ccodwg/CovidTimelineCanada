@@ -2,19 +2,20 @@
 
 The purpose of this repository is to collaborate on assembling a definitive dataset for COVID-19 in Canada.
 
-⚠️ Beginning April 30, this dataset replaced the original **[Covid19Canada](https://github.com/ccodwg/Covid19Canada)** dataset. ⚠️
+⚠️ Beginning April 30, this dataset replaced the original **[Covid19Canada](https://github.com/ccodwg/Covid19Canada)** dataset.
 
-⚠️ Note that province/territory names are now given using two-letter codes and health region names are given using unique identifiers. See the [geo](https://github.com/ccodwg/CovidTimelineCanada/tree/main/geo) directory for files that can be used to map these values to alternative names. The [JSON API](https://api.opencovid.ca/) is also capable of performing these conversions automatically through the use of the `pt_names` and `hr_names` parameters. ⚠️
+⚠️ Note that province/territory names are now given using two-letter codes and health region names are given using unique identifiers. See the [geo](https://github.com/ccodwg/CovidTimelineCanada/tree/main/geo) directory for files that can be used to map these values to alternative names. The [JSON API](https://api.opencovid.ca/) is also capable of performing these conversions automatically through the use of the `pt_names` and `hr_names` parameters.
 
-🚨 Coming soon: [vaccine coverage](https://github.com/ccodwg/CovidTimelineCanada/issues/21), [vaccine distribution](https://github.com/ccodwg/CovidTimelineCanada/issues/22), ["diffs" datasets](https://github.com/ccodwg/CovidTimelineCanada/issues/20) to show changes since the last time a jurisdiction received a data update 🚨
+❗ For convenience, **case and death datasets using the old column names, date format, province/territory names and health region names are being offered for download as CSV files**. These files should be more-or-less drop-in replacements for the old case and death datasets. However, we encourage users to switch to the new dataset format, as this legacy format will not be supported indefinitely. Download links for the CSV files:
+
+- [Cases (health regions)](https://api.opencovid.ca/timeseries?stat=cases&geo=hr&legacy=true&fmt=csv)
+- [Cases (provinces/territories)](https://api.opencovid.ca/timeseries?stat=cases&geo=pt&legacy=true&fmt=csv)
+- [Deaths (health regions)](https://api.opencovid.ca/timeseries?stat=deaths&geo=hr&legacy=true&fmt=csv)
+- [Deaths (provinces/territories)](https://api.opencovid.ca/timeseries?stat=deaths&geo=pt&legacy=true&fmt=csv)
+
+🚨 Coming soon: [vaccine coverage](https://github.com/ccodwg/CovidTimelineCanada/issues/21), [vaccine distribution](https://github.com/ccodwg/CovidTimelineCanada/issues/22), ["diffs" datasets](https://github.com/ccodwg/CovidTimelineCanada/issues/20) to show changes since the last time a jurisdiction received a data update
 
 This dataset is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project. The goal is for this dataset to eventually conform to the [Data and Metadata Standard for COVID-19 Data in Canada](https://github.com/ccodwg/CovidDataStandard), which is currently being collaboratively developed.
-
-## Contributing
-
-To contribute to this project, please refer to the ongoing discussions in the issues board or open up a new one. We need help identifying the best data sources for each value and harmonizing them into a single dataset. Please add new data sources to the [wiki page](https://github.com/ccodwg/CovidTimelineCanada/wiki/List-of-data-sources).
-
-We must also identify gaps in publicly available data. These data may then be requested from the relevant agencies or acquired via Access to Information requests (see [an example with Sasksatchewan's COVID-19 data](https://data.gripe/covid-19-in-saskatchewan/)).
 
 ## How to download these data
 
@@ -32,6 +33,12 @@ More advanced queries are available via our JSON API: [https://api.opencovid.ca/
 - value: The cumulative value (e.g., cumulative number of cases, number of active hospitalizations)
 - value_daily: The daily value (e.g., daily number of cases, change in the number of active hospitalizations)
 
+## Contributing
+
+To contribute to this project, please refer to the ongoing discussions in the issues board or open up a new one. We need help identifying the best data sources for each value and harmonizing them into a single dataset. Please add new data sources to the [wiki page](https://github.com/ccodwg/CovidTimelineCanada/wiki/List-of-data-sources).
+
+We must also identify gaps in publicly available data. These data may then be requested from the relevant agencies or acquired via Access to Information requests (see [an example with Sasksatchewan's COVID-19 data](https://data.gripe/covid-19-in-saskatchewan/)).
+
 ## How data updates work
 
 The data in this repository are updated using a variety of scripts present in the repository. At present, this process relies on the following R packages:
@@ -44,27 +51,27 @@ The data in this repository are updated using a variety of scripts present in th
 
 The following datasets are included in this repository:
 
-* Cases by province/territory (`cases_pt.csv`) and health region (`cases_hr.csv`)
+* Cases by province/territory (`data/pt/cases_pt.csv`) and health region (`data/hr/cases_hr.csv`)
 
 ![cases](plots/cases_pt.png)
 
 ![cases](plots/cases_hr.png)
 
-* Deaths by province/territory (`deaths_pt.csv`) and health region (`deaths_hr.csv`)
+* Deaths by province/territory (`data/pt/deaths_pt.csv`) and health region (`data/hr/deaths_hr.csv`)
 
 ![deaths](plots/deaths_pt.png)
 
 ![deaths](plots/deaths_hr.png)
 
-* Tests completed by province/territory (`tests_completed_pt.csv`)
+* Tests completed by province/territory (`data/pt/tests_completed_pt.csv`)
 
 ![testing](plots/tests_completed_pt.png)
 
-* Hospitalizations (non-ICU and ICU) by province/territory (`hospitalizations_pt.csv`)
+* Hospitalizations (non-ICU and ICU) by province/territory (`data/pt/hospitalizations_pt.csv`)
 
 ![hosp](plots/hospitalizations_pt.png)
 
-* ICU occupancy by province (`icu_pt.csv`)
+* ICU occupancy by province (`data/pt/icu_pt.csv`)
 
 ![icu](plots/icu_pt.png)
 
