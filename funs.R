@@ -302,10 +302,28 @@ agg2pt <- function(d) {
 
 # aggregate PT data up to CAN
 agg2can <- function(d) {
-  d %>%
+  # fill missing dates for each pt
+  out <- tidyr::expand(
+    d,
+    tidyr::nesting(name, region),
+    date = seq.Date(min(d$date), max(d$date), by = "day"))
+  out <- dplyr::right_join(d, out, by = c("name", "region", "date")) %>%
+    dplyr::select(-.data$value_daily) %>%
+    # fill missing values
+    dplyr::arrange(.data$name, .data$region, .data$date) %>%
+    dplyr::group_by(dplyr::across(c(-date, -value))) %>%
+    tidyr::fill(.data$value, .direction = "down") %>%
+    tidyr::replace_na(list(value = 0)) %>%
+    # calculate daily differences
+    dplyr::mutate(value_daily = c(dplyr::first(.data$value), diff(.data$value))) %>%
+    dplyr::ungroup()
+  # aggregate up to Canada
+  out <- out %>%
     dplyr::mutate(region = "CAN") %>%
     dplyr::group_by(.data$name, .data$region, .data$date) %>%
     dplyr::summarise(value = sum(.data$value), value_daily = sum(.data$value_daily), .groups = "drop")
+  # return data
+  out
 }
 
 # write dataset
