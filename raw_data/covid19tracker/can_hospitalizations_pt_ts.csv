@@ -3315,6 +3315,7 @@
 "hospitalizations","NB","2022-04-30",87
 "hospitalizations","NB","2022-05-01",87
 "hospitalizations","NB","2022-05-02",87
+"hospitalizations","NB","2022-05-03",81
 "hospitalizations","NL","2020-01-25",0
 "hospitalizations","NL","2020-01-26",0
 "hospitalizations","NL","2020-01-27",0
@@ -4968,11 +4969,11 @@
 "hospitalizations","NS","2022-04-25",64
 "hospitalizations","NS","2022-04-26",64
 "hospitalizations","NS","2022-04-27",64
-"hospitalizations","NS","2022-04-28",64
-"hospitalizations","NS","2022-04-29",64
-"hospitalizations","NS","2022-04-30",64
-"hospitalizations","NS","2022-05-01",64
-"hospitalizations","NS","2022-05-02",64
+"hospitalizations","NS","2022-04-28",66
+"hospitalizations","NS","2022-04-29",66
+"hospitalizations","NS","2022-04-30",66
+"hospitalizations","NS","2022-05-01",66
+"hospitalizations","NS","2022-05-02",66
 "hospitalizations","NT","2020-01-25",0
 "hospitalizations","NT","2020-01-26",0
 "hospitalizations","NT","2020-01-27",0
@@ -5802,6 +5803,7 @@
 "hospitalizations","NT","2022-04-30",0
 "hospitalizations","NT","2022-05-01",0
 "hospitalizations","NT","2022-05-02",0
+"hospitalizations","NT","2022-05-03",0
 "hospitalizations","NU","2020-01-25",0
 "hospitalizations","NU","2020-01-26",0
 "hospitalizations","NU","2020-01-27",0
@@ -7460,6 +7462,7 @@
 "hospitalizations","ON","2022-04-30",1676
 "hospitalizations","ON","2022-05-01",1410
 "hospitalizations","ON","2022-05-02",1423
+"hospitalizations","ON","2022-05-03",1699
 "hospitalizations","PE","2020-01-25",0
 "hospitalizations","PE","2020-01-26",0
 "hospitalizations","PE","2020-01-27",0
@@ -8289,6 +8292,7 @@
 "hospitalizations","PE","2022-04-30",14
 "hospitalizations","PE","2022-05-01",14
 "hospitalizations","PE","2022-05-02",14
+"hospitalizations","PE","2022-05-03",13
 "hospitalizations","QC","2020-01-25",0
 "hospitalizations","QC","2020-01-26",0
 "hospitalizations","QC","2020-01-27",0
@@ -9118,6 +9122,7 @@
 "hospitalizations","QC","2022-04-30",2290
 "hospitalizations","QC","2022-05-01",2290
 "hospitalizations","QC","2022-05-02",2170
+"hospitalizations","QC","2022-05-03",2195
 "hospitalizations","SK","2020-01-25",0
 "hospitalizations","SK","2020-01-26",0
 "hospitalizations","SK","2020-01-27",0
@@ -10776,3 +10781,4 @@
 "hospitalizations","YT","2022-04-30",0
 "hospitalizations","YT","2022-05-01",0
 "hospitalizations","YT","2022-05-02",0
+"hospitalizations","YT","2022-05-03",0
