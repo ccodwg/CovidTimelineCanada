@@ -53,27 +53,27 @@ The following datasets are included in this repository:
 
 * Cases by province/territory (`data/pt/cases_pt.csv`) and health region (`data/hr/cases_hr.csv`)
 
-![cases](plots/cases_pt.png)
+![cases](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/cases_pt.png)
 
-![cases](plots/cases_hr.png)
+![cases](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/cases_hr.png)
 
 * Deaths by province/territory (`data/pt/deaths_pt.csv`) and health region (`data/hr/deaths_hr.csv`)
 
-![deaths](plots/deaths_pt.png)
+![deaths](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/deaths_pt.png)
 
-![deaths](plots/deaths_hr.png)
+![deaths](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/deaths_hr.png)
 
 * Tests completed by province/territory (`data/pt/tests_completed_pt.csv`)
 
-![testing](plots/tests_completed_pt.png)
+![testing](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/tests_completed_pt.png)
 
 * Hospitalizations (non-ICU and ICU) by province/territory (`data/pt/hospitalizations_pt.csv`)
 
-![hosp](plots/hospitalizations_pt.png)
+![hosp](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/hospitalizations_pt.png)
 
 * ICU occupancy by province (`data/pt/icu_pt.csv`)
 
-![icu](plots/icu_pt.png)
+![icu](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/icu_pt.png)
 
 Both the cumulative values (`value`) and the daily differences (`value_daily`) are given for each date where data are available.
 
