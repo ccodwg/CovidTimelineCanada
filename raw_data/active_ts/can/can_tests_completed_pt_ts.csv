@@ -830,6 +830,7 @@
 "tests_completed","AB","2022-05-08",7054723
 "tests_completed","AB","2022-05-09",7054723
 "tests_completed","AB","2022-05-10",7054723
+"tests_completed","AB","2022-05-11",7076791
 "tests_completed","BC","2020-01-31",0
 "tests_completed","BC","2020-02-01",0
 "tests_completed","BC","2020-02-02",0
@@ -1661,6 +1662,7 @@
 "tests_completed","BC","2022-05-08",5935655
 "tests_completed","BC","2022-05-09",5947961
 "tests_completed","BC","2022-05-10",5957384
+"tests_completed","BC","2022-05-11",5960646
 "tests_completed","CAN","2020-01-31",0
 "tests_completed","CAN","2020-02-01",0
 "tests_completed","CAN","2020-02-02",0
@@ -2492,6 +2494,7 @@
 "tests_completed","CAN","2022-05-08",61226715
 "tests_completed","CAN","2022-05-09",61306765
 "tests_completed","CAN","2022-05-10",61336687
+"tests_completed","CAN","2022-05-11",61391416
 "tests_completed","MB","2020-01-31",0
 "tests_completed","MB","2020-02-01",0
 "tests_completed","MB","2020-02-02",0
@@ -3323,6 +3326,7 @@
 "tests_completed","MB","2022-05-08",1523169
 "tests_completed","MB","2022-05-09",1524630
 "tests_completed","MB","2022-05-10",1525193
+"tests_completed","MB","2022-05-11",1526037
 "tests_completed","NB","2020-01-31",0
 "tests_completed","NB","2020-02-01",0
 "tests_completed","NB","2020-02-02",0
@@ -4154,6 +4158,7 @@
 "tests_completed","NB","2022-05-08",816033
 "tests_completed","NB","2022-05-09",817047
 "tests_completed","NB","2022-05-10",817352
+"tests_completed","NB","2022-05-11",818023
 "tests_completed","NL","2020-01-31",0
 "tests_completed","NL","2020-02-01",0
 "tests_completed","NL","2020-02-02",0
@@ -4985,6 +4990,7 @@
 "tests_completed","NL","2022-05-08",649334
 "tests_completed","NL","2022-05-09",650448
 "tests_completed","NL","2022-05-10",650810
+"tests_completed","NL","2022-05-11",651924
 "tests_completed","NS","2020-01-31",0
 "tests_completed","NS","2020-02-01",0
 "tests_completed","NS","2020-02-02",0
@@ -5816,6 +5822,7 @@
 "tests_completed","NS","2022-05-08",1932151
 "tests_completed","NS","2022-05-09",1933816
 "tests_completed","NS","2022-05-10",1935129
+"tests_completed","NS","2022-05-11",1936772
 "tests_completed","NT","2020-01-31",0
 "tests_completed","NT","2020-02-01",0
 "tests_completed","NT","2020-02-02",0
@@ -6647,6 +6654,7 @@
 "tests_completed","NT","2022-05-08",41198
 "tests_completed","NT","2022-05-09",41227
 "tests_completed","NT","2022-05-10",41240
+"tests_completed","NT","2022-05-11",41261
 "tests_completed","NU","2020-01-31",0
 "tests_completed","NU","2020-02-01",0
 "tests_completed","NU","2020-02-02",0
@@ -7478,6 +7486,7 @@
 "tests_completed","NU","2022-05-08",39263
 "tests_completed","NU","2022-05-09",39440
 "tests_completed","NU","2022-05-10",39642
+"tests_completed","NU","2022-05-11",39642
 "tests_completed","ON","2020-01-31",0
 "tests_completed","ON","2020-02-01",0
 "tests_completed","ON","2020-02-02",0
@@ -8309,6 +8318,7 @@
 "tests_completed","ON","2022-05-08",24001841
 "tests_completed","ON","2022-05-09",24029189
 "tests_completed","ON","2022-05-10",24036891
+"tests_completed","ON","2022-05-11",24048467
 "tests_completed","PE","2020-01-31",0
 "tests_completed","PE","2020-02-01",0
 "tests_completed","PE","2020-02-02",0
@@ -9140,6 +9150,7 @@
 "tests_completed","PE","2022-05-08",260414
 "tests_completed","PE","2022-05-09",260481
 "tests_completed","PE","2022-05-10",260515
+"tests_completed","PE","2022-05-11",260548
 "tests_completed","QC","2020-01-31",0
 "tests_completed","QC","2020-02-01",0
 "tests_completed","QC","2020-02-02",0
@@ -9971,6 +9982,7 @@
 "tests_completed","QC","2022-05-08",17409222
 "tests_completed","QC","2022-05-09",17443479
 "tests_completed","QC","2022-05-10",17452882
+"tests_completed","QC","2022-05-11",17465234
 "tests_completed","RT","2020-01-31",0
 "tests_completed","RT","2020-02-01",0
 "tests_completed","RT","2020-02-02",0
@@ -10802,6 +10814,7 @@
 "tests_completed","RT","2022-05-08",76
 "tests_completed","RT","2022-05-09",76
 "tests_completed","RT","2022-05-10",76
+"tests_completed","RT","2022-05-11",76
 "tests_completed","SK","2020-01-31",0
 "tests_completed","SK","2020-02-01",0
 "tests_completed","SK","2020-02-02",0
@@ -11633,6 +11646,7 @@
 "tests_completed","SK","2022-05-08",1554507
 "tests_completed","SK","2022-05-09",1555119
 "tests_completed","SK","2022-05-10",1555721
+"tests_completed","SK","2022-05-11",1556866
 "tests_completed","YT","2020-01-31",0
 "tests_completed","YT","2020-02-01",0
 "tests_completed","YT","2020-02-02",0
@@ -12464,3 +12478,4 @@
 "tests_completed","YT","2022-05-08",9129
 "tests_completed","YT","2022-05-09",9129
 "tests_completed","YT","2022-05-10",9129
+"tests_completed","YT","2022-05-11",9129
