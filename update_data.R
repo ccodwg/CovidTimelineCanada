@@ -28,7 +28,7 @@ if (status == 0) {
   cat("No files have changed. Exiting without update...", fill = TRUE)
 } else {
   # generate update time
-  update_time <- Covid19CanadaETL::update_time()
+  update_time <- Covid19CanadaETL::write_update_time()
   # stage data update
   cat("Staging files for update...", fill = TRUE)
   system2(
