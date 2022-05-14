@@ -822,12 +822,12 @@
 "hospitalizations","CAN","2022-04-24",6733,-97
 "hospitalizations","CAN","2022-04-25",6776,43
 "hospitalizations","CAN","2022-04-26",6905,129
-"hospitalizations","CAN","2022-04-27",6963,58
-"hospitalizations","CAN","2022-04-28",6943,-20
-"hospitalizations","CAN","2022-04-29",6921,-22
-"hospitalizations","CAN","2022-04-30",6878,-43
-"hospitalizations","CAN","2022-05-01",6741,-137
-"hospitalizations","CAN","2022-05-02",6768,27
+"hospitalizations","CAN","2022-04-27",6962,57
+"hospitalizations","CAN","2022-04-28",6942,-20
+"hospitalizations","CAN","2022-04-29",6920,-22
+"hospitalizations","CAN","2022-04-30",6877,-43
+"hospitalizations","CAN","2022-05-01",6740,-137
+"hospitalizations","CAN","2022-05-02",6768,28
 "hospitalizations","CAN","2022-05-03",6851,83
 "hospitalizations","CAN","2022-05-04",6846,-5
 "hospitalizations","CAN","2022-05-05",6801,-45
@@ -836,5 +836,6 @@
 "hospitalizations","CAN","2022-05-08",6412,-106
 "hospitalizations","CAN","2022-05-09",6378,-34
 "hospitalizations","CAN","2022-05-10",6407,29
-"hospitalizations","CAN","2022-05-11",6301,-106
-"hospitalizations","CAN","2022-05-12",6198,-103
+"hospitalizations","CAN","2022-05-11",6259,-148
+"hospitalizations","CAN","2022-05-12",6087,-172
+"hospitalizations","CAN","2022-05-13",6022,-65
