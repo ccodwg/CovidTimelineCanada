@@ -91,6 +91,10 @@ The following datasets are included in this repository:
 
 ![vaccine_coverage_dose_3](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_coverage_dose_3_pt.png)
 
+* Vaccine coverage (dose 4) by province/territory (`data/pt/vaccine_coverage_dose_4_pt.csv`)
+
+![vaccine_coverage_dose_4](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_coverage_dose_4_pt.png)
+
 Both the cumulative values (`value`) and the daily differences (`value_daily`) are given for each date where data are available.
 
 ## Detailed description of data sources

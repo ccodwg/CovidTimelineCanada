@@ -15,7 +15,9 @@ The purpose of this repository is to collaborate on assembling a definitive data
 - [Deaths (health regions)](https://api.opencovid.ca/timeseries?stat=deaths&geo=hr&legacy=true&fmt=csv)
 - [Deaths (provinces/territories)](https://api.opencovid.ca/timeseries?stat=deaths&geo=pt&legacy=true&fmt=csv)
 
-🚨 Coming soon: [vaccine coverage](https://github.com/ccodwg/CovidTimelineCanada/issues/21), [vaccine distribution](https://github.com/ccodwg/CovidTimelineCanada/issues/22), ["diffs" datasets](https://github.com/ccodwg/CovidTimelineCanada/issues/20) to show changes since the last time a jurisdiction received a data update
+💡 Recently added: [vaccine coverage](https://github.com/ccodwg/CovidTimelineCanada/issues/21)
+
+🚨 Coming soon: [vaccine distribution](https://github.com/ccodwg/CovidTimelineCanada/issues/22), [wastewater data](https://github.com/ccodwg/CovidTimelineCanada/issues/36), ["diffs" datasets](https://github.com/ccodwg/CovidTimelineCanada/issues/20) to show changes since the last time a jurisdiction received a data update
 
 This dataset is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project. The goal is for this dataset to eventually conform to the [Data and Metadata Standard for COVID-19 Data in Canada](https://github.com/ccodwg/CovidDataStandard), which is currently being collaboratively developed.
 
@@ -73,9 +75,25 @@ The following datasets are included in this repository:
 
 ![hosp](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/hospitalizations_pt.png)
 
-* ICU occupancy by province (`data/pt/icu_pt.csv`)
+* ICU occupancy by province/territory (`data/pt/icu_pt.csv`)
 
 ![icu](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/icu_pt.png)
+
+* Vaccine coverage (dose 1) by province/territory (`data/pt/vaccine_coverage_dose_1_pt.csv`)
+
+![vaccine_coverage_dose_1](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_coverage_dose_1_pt.png)
+
+* Vaccine coverage (dose 2) by province/territory (`data/pt/vaccine_coverage_dose_2_pt.csv`)
+
+![vaccine_coverage_dose_2](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_coverage_dose_2_pt.png)
+
+* Vaccine coverage (dose 3) by province/territory (`data/pt/vaccine_coverage_dose_3_pt.csv`)
+
+![vaccine_coverage_dose_3](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_coverage_dose_3_pt.png)
+
+* Vaccine coverage (dose 4) by province/territory (`data/pt/vaccine_coverage_dose_4_pt.csv`)
+
+![vaccine_coverage_dose_4](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_coverage_dose_4_pt.png)
 
 Both the cumulative values (`value`) and the daily differences (`value_daily`) are given for each date where data are available.
 
