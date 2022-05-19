@@ -836,6 +836,7 @@
 "tests_completed","AB","2022-05-14",7079913,0
 "tests_completed","AB","2022-05-15",7079913,0
 "tests_completed","AB","2022-05-16",7079913,0
+"tests_completed","AB","2022-05-17",7093173,13260
 "tests_completed","BC","2020-01-31",0,0
 "tests_completed","BC","2020-02-01",0,0
 "tests_completed","BC","2020-02-02",0,0
@@ -1673,6 +1674,7 @@
 "tests_completed","BC","2022-05-14",5967849,0
 "tests_completed","BC","2022-05-15",5967849,0
 "tests_completed","BC","2022-05-16",5971974,4125
+"tests_completed","BC","2022-05-17",5981052,9078
 "tests_completed","MB","2020-01-31",0,0
 "tests_completed","MB","2020-02-01",0,0
 "tests_completed","MB","2020-02-02",0,0
@@ -2510,6 +2512,7 @@
 "tests_completed","MB","2022-05-14",1528584,854
 "tests_completed","MB","2022-05-15",1528584,0
 "tests_completed","MB","2022-05-16",1529898,1314
+"tests_completed","MB","2022-05-17",1530401,503
 "tests_completed","NB","2020-01-31",0,0
 "tests_completed","NB","2020-02-01",0,0
 "tests_completed","NB","2020-02-02",0,0
@@ -3347,6 +3350,7 @@
 "tests_completed","NB","2022-05-14",819890,521
 "tests_completed","NB","2022-05-15",819890,0
 "tests_completed","NB","2022-05-16",822434,2544
+"tests_completed","NB","2022-05-17",822979,545
 "tests_completed","NL","2020-01-31",0,0
 "tests_completed","NL","2020-02-01",0,0
 "tests_completed","NL","2020-02-02",0,0
@@ -4184,6 +4188,7 @@
 "tests_completed","NL","2022-05-14",653675,531
 "tests_completed","NL","2022-05-15",653675,0
 "tests_completed","NL","2022-05-16",653675,0
+"tests_completed","NL","2022-05-17",655050,1375
 "tests_completed","NS","2020-01-31",0,0
 "tests_completed","NS","2020-02-01",0,0
 "tests_completed","NS","2020-02-02",0,0
@@ -5021,6 +5026,7 @@
 "tests_completed","NS","2022-05-14",1942799,1704
 "tests_completed","NS","2022-05-15",1944553,1754
 "tests_completed","NS","2022-05-16",1946123,1570
+"tests_completed","NS","2022-05-17",1947427,1304
 "tests_completed","NT","2020-01-31",0,0
 "tests_completed","NT","2020-02-01",0,0
 "tests_completed","NT","2020-02-02",0,0
@@ -5858,6 +5864,7 @@
 "tests_completed","NT","2022-05-14",41326,23
 "tests_completed","NT","2022-05-15",41326,0
 "tests_completed","NT","2022-05-16",41355,29
+"tests_completed","NT","2022-05-17",41365,10
 "tests_completed","NU","2020-01-31",0,0
 "tests_completed","NU","2020-02-01",0,0
 "tests_completed","NU","2020-02-02",0,0
@@ -6695,6 +6702,7 @@
 "tests_completed","NU","2022-05-14",39642,0
 "tests_completed","NU","2022-05-15",39642,0
 "tests_completed","NU","2022-05-16",39642,0
+"tests_completed","NU","2022-05-17",39642,0
 "tests_completed","ON","2020-01-31",0,0
 "tests_completed","ON","2020-02-01",0,0
 "tests_completed","ON","2020-02-02",0,0
@@ -7532,6 +7540,7 @@
 "tests_completed","ON","2022-05-14",24101312,16020
 "tests_completed","ON","2022-05-15",24101312,0
 "tests_completed","ON","2022-05-16",24101312,0
+"tests_completed","ON","2022-05-17",24136796,35484
 "tests_completed","PE","2020-01-31",0,0
 "tests_completed","PE","2020-02-01",0,0
 "tests_completed","PE","2020-02-02",0,0
@@ -8369,6 +8378,7 @@
 "tests_completed","PE","2022-05-14",260675,51
 "tests_completed","PE","2022-05-15",260675,0
 "tests_completed","PE","2022-05-16",260760,85
+"tests_completed","PE","2022-05-17",260781,21
 "tests_completed","QC","2020-01-31",0,0
 "tests_completed","QC","2020-02-01",0,0
 "tests_completed","QC","2020-02-02",0,0
@@ -9206,6 +9216,7 @@
 "tests_completed","QC","2022-05-14",17490312,0
 "tests_completed","QC","2022-05-15",17490312,0
 "tests_completed","QC","2022-05-16",17519947,29635
+"tests_completed","QC","2022-05-17",17528118,8171
 "tests_completed","SK","2020-01-31",0,0
 "tests_completed","SK","2020-02-01",0,0
 "tests_completed","SK","2020-02-02",0,0
@@ -10043,6 +10054,7 @@
 "tests_completed","SK","2022-05-14",1560279,1200
 "tests_completed","SK","2022-05-15",1561322,1043
 "tests_completed","SK","2022-05-16",1562027,705
+"tests_completed","SK","2022-05-17",1562595,568
 "tests_completed","YT","2020-01-31",0,0
 "tests_completed","YT","2020-02-01",0,0
 "tests_completed","YT","2020-02-02",0,0
@@ -10880,3 +10892,4 @@
 "tests_completed","YT","2022-05-14",9129,0
 "tests_completed","YT","2022-05-15",9129,0
 "tests_completed","YT","2022-05-16",9129,0
+"tests_completed","YT","2022-05-17",9129,0
