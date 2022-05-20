@@ -258,6 +258,12 @@ All data on completed COVID-19 tests are from the [Public Health Agency of Canad
 </details>
 
 <details>
+<summary><b>Vaccine administration</b></summary>
+
+**Coming soon!**
+</details>
+
+<details>
 <summary><b>Vaccine distribution</b></summary>
 
 **Coming soon!**
