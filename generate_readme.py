@@ -58,6 +58,14 @@ t_vaccine_coverage = (
     "\n</details>"
 )
 
+
+# vaccine_administration
+t_vaccine_administration = (
+    "<details>\n<summary><b>Vaccine administration</b></summary>\n\n"
+    "**Coming soon!**"
+    "\n</details>"
+)
+
 # vaccine_distribution
 t_vaccine_distribution = (
     "<details>\n<summary><b>Vaccine distribution</b></summary>\n\n"
@@ -67,7 +75,7 @@ t_vaccine_distribution = (
 
 # assemble "data sources" section of README
 data_sources = "\n\n".join(
-    [t_cases, t_deaths, t_hospitalizations, t_icu, t_tests_completed, t_vaccine_coverage, t_vaccine_distribution]
+    [t_cases, t_deaths, t_hospitalizations, t_icu, t_tests_completed, t_vaccine_coverage, t_vaccine_administration, t_vaccine_distribution]
 )
 
 # load README content
