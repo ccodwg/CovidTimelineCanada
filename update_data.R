@@ -22,11 +22,13 @@ if (file.exists("/secrets.json")) {
 }
 
 # check for updated files
-status <- system2("git", c("diff-index", "--quiet HEAD"))
+status <- system2("git", "diff-index --quiet HEAD")
 if (status == 0) {
   # exit without update
   cat("No files have changed. Exiting without update...", fill = TRUE)
 } else {
+  # print files that changed
+  system2("git", "diff --name-only HEAD")
   # generate update time
   update_time <- Covid19CanadaETL::write_update_time()
   # stage data update
