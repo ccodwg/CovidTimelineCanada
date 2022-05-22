@@ -1,3 +1,4 @@
+name: update-readme
 on: push
 jobs:
   build:
