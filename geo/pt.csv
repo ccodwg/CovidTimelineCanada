@@ -1,14 +1,14 @@
-region,pruid,name_canonical,name_canonical_fr,name_ccodwg
-AB,48,Alberta,Alberta,Alberta
-BC,59,British Columbia,Colombie-Britannique,BC
-MB,46,Manitoba,Manitoba,Manitoba
-NB,13,New Brunswick,Nouveau-Brunswick,New Brunswick
-NL,10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,NL
-NS,12,Nova Scotia,Nouvelle-Écosse,Nova Scotia
-NT,61,Northwest Territories,Territoires du Nord-Ouest,NWT
-NU,62,Nunavut,Nunavut,Nunavut
-ON,35,Ontario,Ontario,Ontario
-PE,11,Prince Edward Island,Île-du-Prince-Édouard,PEI
-QC,24,Quebec,Québec,Quebec
-SK,47,Saskatchewan,Saskatchewan,Saskatchewan
-YT,60,Yukon,Yukon,Yukon
+"region","pruid","name_canonical","name_canonical_fr","name_ccodwg","pop","pop_2020_01","pop_2020_04","pop_2020_07","pop_2020_10","pop_2021_01","pop_2021_04","pop_2021_07","pop_2021_10","pop_2022_01"
+"AB",48,"Alberta","Alberta","Alberta",4480486,4401180,4415700,4420029,4424557,4431454,4438772,4442879,4464170,4480486
+"BC",59,"British Columbia","Colombie-Britannique","BC",5264485,5137137,5150616,5158728,5156587,5163919,5185990,5214805,5249635,5264485
+"MB",46,"Manitoba","Manitoba","Manitoba",1390249,1377578,1379735,1380648,1380447,1381459,1383638,1383765,1386333,1390249
+"NB",13,"New Brunswick","Nouveau-Brunswick","New Brunswick",797102,780707,782199,783204,783257,784156,785819,789225,794300,797102
+"NL",10,"Newfoundland and Labrador","Terre-Neuve-et-Labrador","NL",522453,523287,522465,521364,520194,519664,519693,520553,521758,522453
+"NS",12,"Nova Scotia","Nouvelle-Écosse","Nova Scotia",1002586,977519,979175,981889,981552,982012,985776,992055,998832,1002586
+"NT",61,"Northwest Territories","Territoires du Nord-Ouest","NWT",45640,45269,45363,45372,45265,45323,45629,45504,45515,45640
+"NU",62,"Nunavut","Nunavut","Nunavut",39710,38721,38836,39155,39109,39255,39336,39403,39589,39710
+"ON",35,"Ontario","Ontario","Ontario",14951825,14688726,14729324,14745712,14740704,14759431,14795883,14826276,14915270,14951825
+"PE",11,"Prince Edward Island","Île-du-Prince-Édouard","PEI",166331,159387,160417,161329,161402,161514,162596,164318,165936,166331
+"QC",24,"Quebec","Québec","Quebec",8639642,8558033,8574270,8578300,8579476,8579370,8587179,8604495,8631147,8639642
+"SK",47,"Saskatchewan","Saskatchewan","Saskatchewan",1183269,1179355,1179939,1179300,1178164,1178971,1180314,1179844,1180867,1183269
+"YT",60,"Yukon","Yukon","Yukon",42982,41700,42017,42174,42300,42344,42586,42986,43095,42982
