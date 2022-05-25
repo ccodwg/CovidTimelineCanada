@@ -23,7 +23,8 @@ cases,SK,Saskatchewan total cases dashboard & Freedom of Information request,95d
 cases,SK,Saskatchewan weekly COVID-19 situation report,2b3954e7-a659-4555-b02e-3fcc4b1f0960,report,reports,reports/sk/sk_weekly_report.csv,health_region,2022-02-05,present,
 cases,YT,Yukon dashboard,8eb9a22f-a2c0-4bdb-8f6c-ef8134901efe,ts,active_ts,active_ts/yt/yt_cases_pt_ts.csv,province_territory,2020-03-19,present,
 deaths,AB,CCODWG Covid19Canada dataset; Alberta case CSV,CCODWG; 59da1de8-3b4e-429a-9e18-b67ba3834002,archive_ts,active_cumul,active_cumul/ab/ab_cases_hr_ts.csv,health_region,2020-03-08,present,
-deaths,BC,CCODWG Covid19Canada dataset; British Columbia case CSV,CCODWG; ab6abe51-c9b1-4093-b625-93de1ddb6302,archive_ts,active_cumul,active_cumul/bc/bc_cases_hr_ts.csv,health_region,2020-03-08,present,
+deaths,BC,CCODWG Covid19Canada dataset,CCODWG,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2022-04-01,
+deaths,BC,British Columbia dashboard,91367e1d-8b79-422c-b314-9b3441ba4f42,ts,active_cumul,active_cumul/bc/bc_deaths_hr_ts.csv,health_region,2022-04-02,present,
 deaths,MB,Manitoba RHA times series CSV,48417109-97c4-4493-8278-39bcea1447ac,ts,static,static/mb/mb_deaths_hr_ts.csv,health_region,2020-03-14,2022-03-19,1 day forward
 deaths,MB,Manitoba weekly surveillance report,363c937c-c384-4f4e-be24-fbd47fac9e83,report,reports,reports/mb/mb_weekly_report.csv,health_region,2022-03-26,present,
 deaths,NB,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2021-03-07,
