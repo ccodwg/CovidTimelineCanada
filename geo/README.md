@@ -1,5 +1,11 @@
 # Geographic data
 
+Comprehensive names and population data are available for provinces/territories in `pt.csv` and for health regions in `health_regions.csv`.
+
+## Map files
+
+Map files are available in GeoJSON format for provinces/territories in `pt.geojson` and for health regions in `health_regions.geojson`. The map files are derived from TopoJSON files available from the [Public Health Agency of Canada's daily epidemiology update](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html): [Can_PR2016.json](https://health-infobase.canada.ca/src/json/Can_PR2016.json) and [health-regions-2022.json](https://health-infobase.canada.ca/src/json/health-regions-2022.json), respectively. Note that these map files do not contain detailed name and population data but these data may be added by joining `pt.csv` or `health_regions.csv`.
+
 ## Health regions
 
 Health region names and unique identifiers (UIDs) were derived from the [2018 cartographic boundary files for health regions](https://www150.statcan.gc.ca/n1/pub/82-402-x/2018001/hrbf-flrs-eng.htm) provided by Statistics Canada. The following changes were made to reflect updates to health region bounaries and to match the geography used by the province/territory to report COVID-19 data:
