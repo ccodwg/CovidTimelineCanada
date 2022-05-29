@@ -37,6 +37,20 @@ More advanced queries are available via our JSON API: [https://api.opencovid.ca/
 - value: The cumulative value (e.g., cumulative number of cases, number of active hospitalizations)
 - value_daily: The daily value (e.g., daily number of cases, change in the number of active hospitalizations)
 
+## Citation and terms of use
+
+Datasets in our repository are provided under the [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Software and scripts in our repository are provided under the [MIT license](https://opensource.org/licenses/MIT).
+
+Please see [our license file](https://github.com/ccodwg/CovidTimelineCanada/blob/main/LICENSE.md) for a full list of acknowledgements of data sources used in this repository as well as copies of the aforementioned licenses.
+
+We recommend using the citation below:
+
+Berry, I., O’Neill, M., Sturrock, S. L., Wright, J. E., Acharya, K., Brankston, G., Harish, V., Kornas, K., Maani, N., Naganathan, T., Obress, L., Rossi, T., Simmons, A. E., Van Camp, M., Xie, X., Tuite, A. R., Greer, A. L., Fisman, D. N., & Soucy, J.-P. R. (2021). A sub-national real-time epidemiological and vaccination database for the COVID-19 pandemic in Canada. Scientific Data, 8(1). doi: [https://doi.org/10.1038/s41597-021-00955-2](https://doi.org/10.1038/s41597-021-00955-2)
+
+Previously, we recommended the following citation:
+
+Berry, I., Soucy, J.-P. R., Tuite, A., & Fisman, D. (2020). Open access epidemiologic data and an interactive dashboard to monitor the COVID-19 outbreak in Canada. Canadian Medical Association Journal, 192(15), E420. doi: [https://doi.org/10.1503/cmaj.75262](https://doi.org/10.1503/cmaj.75262)
+
 ## Contributing
 
 To contribute to this project, please refer to the ongoing discussions in the issues board or open up a new one. We need help identifying the best data sources for each value and harmonizing them into a single dataset. Please add new data sources to the [wiki page](https://github.com/ccodwg/CovidTimelineCanada/wiki/List-of-data-sources).
@@ -268,3 +282,15 @@ All data on COVID-19 vaccine administration are from the [Public Health Agency o
 
 **Coming soon!**
 </details>
+
+## Acknowledgements
+
+We would like to thank all the individuals and organizations across Canada who have worked tirelessly to provide data to the public during this pandemic.
+
+Additionally, we acknowledge the following individuals and organizations for their support:
+
+[Public Health Agency of Canada](https://www.canada.ca/en/public-health.html) / Joe Murray ([JMA Consulting](https://jmaconsulting.biz/home))
+
+## Contact us
+
+More information about the COVID-19 Canada Open Data Working Group is available at [our website](https://opencovid.ca/). We may also be reached through our [contact page](https://opencovid.ca/contact-us/).
