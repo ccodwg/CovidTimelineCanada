@@ -798,10 +798,10 @@
 "hospitalizations","CAN","2022-03-31",4226,91
 "hospitalizations","CAN","2022-04-01",4252,26
 "hospitalizations","CAN","2022-04-02",4285,33
-"hospitalizations","CAN","2022-04-03",4347,62
-"hospitalizations","CAN","2022-04-04",4535,188
-"hospitalizations","CAN","2022-04-05",4750,215
-"hospitalizations","CAN","2022-04-06",4848,98
+"hospitalizations","CAN","2022-04-03",4351,66
+"hospitalizations","CAN","2022-04-04",4542,191
+"hospitalizations","CAN","2022-04-05",4759,217
+"hospitalizations","CAN","2022-04-06",4848,89
 "hospitalizations","CAN","2022-04-07",4960,112
 "hospitalizations","CAN","2022-04-08",5035,75
 "hospitalizations","CAN","2022-04-09",5154,119
@@ -853,3 +853,4 @@
 "hospitalizations","CAN","2022-05-25",5101,3
 "hospitalizations","CAN","2022-05-26",5015,-86
 "hospitalizations","CAN","2022-05-27",4909,-106
+"hospitalizations","CAN","2022-05-28",4777,-132
