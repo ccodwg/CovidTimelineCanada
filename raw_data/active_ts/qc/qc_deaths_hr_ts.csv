@@ -17068,7 +17068,7 @@
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-05-25",74
 "deaths","QC","Hors Québec","2022-05-25",2
 "deaths","QC","Inconnu","2022-05-25",0
-"deaths","QC","Lanaudière","2022-05-25",771
+"deaths","QC","Lanaudière","2022-05-25",772
 "deaths","QC","Laurentides","2022-05-25",763
 "deaths","QC","Laval","2022-05-25",1114
 "deaths","QC","Mauricie et Centre-du-Québec","2022-05-25",1006
@@ -17088,11 +17088,11 @@
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-05-26",74
 "deaths","QC","Hors Québec","2022-05-26",2
 "deaths","QC","Inconnu","2022-05-26",0
-"deaths","QC","Lanaudière","2022-05-26",772
+"deaths","QC","Lanaudière","2022-05-26",773
 "deaths","QC","Laurentides","2022-05-26",763
 "deaths","QC","Laval","2022-05-26",1114
 "deaths","QC","Mauricie et Centre-du-Québec","2022-05-26",1006
-"deaths","QC","Montérégie","2022-05-26",2235
+"deaths","QC","Montérégie","2022-05-26",2236
 "deaths","QC","Montréal","2022-05-26",5448
 "deaths","QC","Nord-du-Québec","2022-05-26",4
 "deaths","QC","Nunavik","2022-05-26",10
@@ -17108,16 +17108,16 @@
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-05-27",74
 "deaths","QC","Hors Québec","2022-05-27",2
 "deaths","QC","Inconnu","2022-05-27",0
-"deaths","QC","Lanaudière","2022-05-27",772
+"deaths","QC","Lanaudière","2022-05-27",773
 "deaths","QC","Laurentides","2022-05-27",763
-"deaths","QC","Laval","2022-05-27",1114
+"deaths","QC","Laval","2022-05-27",1115
 "deaths","QC","Mauricie et Centre-du-Québec","2022-05-27",1006
-"deaths","QC","Montérégie","2022-05-27",2235
+"deaths","QC","Montérégie","2022-05-27",2236
 "deaths","QC","Montréal","2022-05-27",5448
 "deaths","QC","Nord-du-Québec","2022-05-27",4
 "deaths","QC","Nunavik","2022-05-27",10
 "deaths","QC","Outaouais","2022-05-27",308
-"deaths","QC","Saguenay-Lac-Saint-Jean","2022-05-27",439
+"deaths","QC","Saguenay-Lac-Saint-Jean","2022-05-27",441
 "deaths","QC","Terres-Cries-de-la-Baie-James","2022-05-27",16
 "deaths","QC","Abitibi-Témiscamingue","2022-05-28",111
 "deaths","QC","Bas-Saint-Laurent","2022-05-28",174
@@ -17128,16 +17128,16 @@
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-05-28",74
 "deaths","QC","Hors Québec","2022-05-28",2
 "deaths","QC","Inconnu","2022-05-28",0
-"deaths","QC","Lanaudière","2022-05-28",772
+"deaths","QC","Lanaudière","2022-05-28",773
 "deaths","QC","Laurentides","2022-05-28",763
-"deaths","QC","Laval","2022-05-28",1114
+"deaths","QC","Laval","2022-05-28",1115
 "deaths","QC","Mauricie et Centre-du-Québec","2022-05-28",1006
-"deaths","QC","Montérégie","2022-05-28",2235
+"deaths","QC","Montérégie","2022-05-28",2236
 "deaths","QC","Montréal","2022-05-28",5448
 "deaths","QC","Nord-du-Québec","2022-05-28",4
 "deaths","QC","Nunavik","2022-05-28",10
 "deaths","QC","Outaouais","2022-05-28",308
-"deaths","QC","Saguenay-Lac-Saint-Jean","2022-05-28",439
+"deaths","QC","Saguenay-Lac-Saint-Jean","2022-05-28",441
 "deaths","QC","Terres-Cries-de-la-Baie-James","2022-05-28",16
 "deaths","QC","Abitibi-Témiscamingue","2022-05-29",111
 "deaths","QC","Bas-Saint-Laurent","2022-05-29",174
@@ -17148,14 +17148,34 @@
 "deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-05-29",74
 "deaths","QC","Hors Québec","2022-05-29",2
 "deaths","QC","Inconnu","2022-05-29",0
-"deaths","QC","Lanaudière","2022-05-29",772
+"deaths","QC","Lanaudière","2022-05-29",773
 "deaths","QC","Laurentides","2022-05-29",763
-"deaths","QC","Laval","2022-05-29",1114
+"deaths","QC","Laval","2022-05-29",1115
 "deaths","QC","Mauricie et Centre-du-Québec","2022-05-29",1006
-"deaths","QC","Montérégie","2022-05-29",2235
+"deaths","QC","Montérégie","2022-05-29",2236
 "deaths","QC","Montréal","2022-05-29",5448
 "deaths","QC","Nord-du-Québec","2022-05-29",4
 "deaths","QC","Nunavik","2022-05-29",10
 "deaths","QC","Outaouais","2022-05-29",308
-"deaths","QC","Saguenay-Lac-Saint-Jean","2022-05-29",439
+"deaths","QC","Saguenay-Lac-Saint-Jean","2022-05-29",441
 "deaths","QC","Terres-Cries-de-la-Baie-James","2022-05-29",16
+"deaths","QC","Abitibi-Témiscamingue","2022-05-30",111
+"deaths","QC","Bas-Saint-Laurent","2022-05-30",174
+"deaths","QC","Capitale-Nationale","2022-05-30",1550
+"deaths","QC","Chaudière-Appalaches","2022-05-30",666
+"deaths","QC","Côte-Nord","2022-05-30",38
+"deaths","QC","Estrie","2022-05-30",617
+"deaths","QC","Gaspésie-Îles-de-la-Madeleine","2022-05-30",74
+"deaths","QC","Hors Québec","2022-05-30",2
+"deaths","QC","Inconnu","2022-05-30",0
+"deaths","QC","Lanaudière","2022-05-30",773
+"deaths","QC","Laurentides","2022-05-30",763
+"deaths","QC","Laval","2022-05-30",1116
+"deaths","QC","Mauricie et Centre-du-Québec","2022-05-30",1007
+"deaths","QC","Montérégie","2022-05-30",2236
+"deaths","QC","Montréal","2022-05-30",5448
+"deaths","QC","Nord-du-Québec","2022-05-30",4
+"deaths","QC","Nunavik","2022-05-30",10
+"deaths","QC","Outaouais","2022-05-30",309
+"deaths","QC","Saguenay-Lac-Saint-Jean","2022-05-30",441
+"deaths","QC","Terres-Cries-de-la-Baie-James","2022-05-30",16
