@@ -45,11 +45,7 @@ t_hospitalizations = gen_table(d, "hospitalizations", "Hospitalizations")
 t_icu = gen_table(d, "icu", "ICU")
 
 # tests_completed
-t_tests_completed = (
-    "<details>\n<summary><b>Tests completed</b></summary>\n\n"
-    "All data on completed COVID-19 tests are from the [Public Health Agency of Canada daily epidemiology update](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html)."
-    "\n</details>"
-)
+t_tests_completed = gen_table(d, "tests_completed", "Tests completed")
 
 # vaccine_coverage
 t_vaccine_coverage = (

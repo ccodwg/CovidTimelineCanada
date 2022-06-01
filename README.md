@@ -262,7 +262,21 @@ Both the cumulative values (`value`) and the daily differences (`value_daily`) a
 <details>
 <summary><b>Tests completed</b></summary>
 
-All data on completed COVID-19 tests are from the [Public Health Agency of Canada daily epidemiology update](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html).
+| P/T   | Data sources                                                                    |
+|:------|:--------------------------------------------------------------------------------|
+| AB    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| BC    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| MB    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| NB    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| NL    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| NS    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| NT    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| NU    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| ON    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| PE    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| QC    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| SK    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
+| YT    | - Yukon dashboard (2020-02-27–present)                                          |
 </details>
 
 <details>
