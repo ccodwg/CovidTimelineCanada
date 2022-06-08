@@ -2469,7 +2469,7 @@
 "cases","AB","Central Zone","2021-04-21",14451
 "cases","AB","Edmonton Zone","2021-04-21",64381
 "cases","AB","North Zone","2021-04-21",18068
-"cases","AB","South Zone","2021-04-21",9694
+"cases","AB","South Zone","2021-04-21",9693
 "cases","AB","Unknown","2021-04-21",3
 "cases","AB","Calgary Zone","2021-04-22",70852
 "cases","AB","Central Zone","2021-04-22",14620
@@ -3187,1711 +3187,1753 @@
 "cases","AB","Unknown","2021-08-18",15
 "cases","AB","Calgary Zone","2021-08-19",98850
 "cases","AB","Central Zone","2021-08-19",21715
-"cases","AB","Edmonton Zone","2021-08-19",80489
-"cases","AB","North Zone","2021-08-19",28009
+"cases","AB","Edmonton Zone","2021-08-19",80490
+"cases","AB","North Zone","2021-08-19",28008
 "cases","AB","South Zone","2021-08-19",13808
 "cases","AB","Unknown","2021-08-19",16
 "cases","AB","Calgary Zone","2021-08-20",99092
 "cases","AB","Central Zone","2021-08-20",21822
-"cases","AB","Edmonton Zone","2021-08-20",80734
-"cases","AB","North Zone","2021-08-20",28137
+"cases","AB","Edmonton Zone","2021-08-20",80735
+"cases","AB","North Zone","2021-08-20",28136
 "cases","AB","South Zone","2021-08-20",13893
 "cases","AB","Unknown","2021-08-20",16
 "cases","AB","Calgary Zone","2021-08-21",99286
 "cases","AB","Central Zone","2021-08-21",21910
-"cases","AB","Edmonton Zone","2021-08-21",80943
-"cases","AB","North Zone","2021-08-21",28233
+"cases","AB","Edmonton Zone","2021-08-21",80944
+"cases","AB","North Zone","2021-08-21",28232
 "cases","AB","South Zone","2021-08-21",13983
 "cases","AB","Unknown","2021-08-21",16
 "cases","AB","Calgary Zone","2021-08-22",99434
 "cases","AB","Central Zone","2021-08-22",21956
-"cases","AB","Edmonton Zone","2021-08-22",81108
-"cases","AB","North Zone","2021-08-22",28291
+"cases","AB","Edmonton Zone","2021-08-22",81109
+"cases","AB","North Zone","2021-08-22",28290
 "cases","AB","South Zone","2021-08-22",14033
 "cases","AB","Unknown","2021-08-22",16
 "cases","AB","Calgary Zone","2021-08-23",99596
 "cases","AB","Central Zone","2021-08-23",22019
-"cases","AB","Edmonton Zone","2021-08-23",81289
-"cases","AB","North Zone","2021-08-23",28438
+"cases","AB","Edmonton Zone","2021-08-23",81290
+"cases","AB","North Zone","2021-08-23",28437
 "cases","AB","South Zone","2021-08-23",14120
 "cases","AB","Unknown","2021-08-23",17
-"cases","AB","Calgary Zone","2021-08-24",99912
+"cases","AB","Calgary Zone","2021-08-24",99913
 "cases","AB","Central Zone","2021-08-24",22151
 "cases","AB","Edmonton Zone","2021-08-24",81619
-"cases","AB","North Zone","2021-08-24",28611
+"cases","AB","North Zone","2021-08-24",28610
 "cases","AB","South Zone","2021-08-24",14241
 "cases","AB","Unknown","2021-08-24",18
-"cases","AB","Calgary Zone","2021-08-25",100195
+"cases","AB","Calgary Zone","2021-08-25",100196
 "cases","AB","Central Zone","2021-08-25",22291
 "cases","AB","Edmonton Zone","2021-08-25",81954
-"cases","AB","North Zone","2021-08-25",28856
+"cases","AB","North Zone","2021-08-25",28855
 "cases","AB","South Zone","2021-08-25",14339
 "cases","AB","Unknown","2021-08-25",18
-"cases","AB","Calgary Zone","2021-08-26",100548
+"cases","AB","Calgary Zone","2021-08-26",100549
 "cases","AB","Central Zone","2021-08-26",22392
 "cases","AB","Edmonton Zone","2021-08-26",82318
-"cases","AB","North Zone","2021-08-26",29106
+"cases","AB","North Zone","2021-08-26",29105
 "cases","AB","South Zone","2021-08-26",14434
 "cases","AB","Unknown","2021-08-26",19
-"cases","AB","Calgary Zone","2021-08-27",100874
+"cases","AB","Calgary Zone","2021-08-27",100875
 "cases","AB","Central Zone","2021-08-27",22558
 "cases","AB","Edmonton Zone","2021-08-27",82676
-"cases","AB","North Zone","2021-08-27",29364
+"cases","AB","North Zone","2021-08-27",29363
 "cases","AB","South Zone","2021-08-27",14548
 "cases","AB","Unknown","2021-08-27",19
-"cases","AB","Calgary Zone","2021-08-28",101157
+"cases","AB","Calgary Zone","2021-08-28",101158
 "cases","AB","Central Zone","2021-08-28",22680
 "cases","AB","Edmonton Zone","2021-08-28",82983
-"cases","AB","North Zone","2021-08-28",29509
+"cases","AB","North Zone","2021-08-28",29508
 "cases","AB","South Zone","2021-08-28",14641
 "cases","AB","Unknown","2021-08-28",21
-"cases","AB","Calgary Zone","2021-08-29",101318
+"cases","AB","Calgary Zone","2021-08-29",101319
 "cases","AB","Central Zone","2021-08-29",22782
 "cases","AB","Edmonton Zone","2021-08-29",83265
-"cases","AB","North Zone","2021-08-29",29733
+"cases","AB","North Zone","2021-08-29",29732
 "cases","AB","South Zone","2021-08-29",14734
 "cases","AB","Unknown","2021-08-29",22
-"cases","AB","Calgary Zone","2021-08-30",101500
+"cases","AB","Calgary Zone","2021-08-30",101501
 "cases","AB","Central Zone","2021-08-30",22945
 "cases","AB","Edmonton Zone","2021-08-30",83551
-"cases","AB","North Zone","2021-08-30",29918
+"cases","AB","North Zone","2021-08-30",29917
 "cases","AB","South Zone","2021-08-30",14831
 "cases","AB","Unknown","2021-08-30",25
-"cases","AB","Calgary Zone","2021-08-31",101866
+"cases","AB","Calgary Zone","2021-08-31",101867
 "cases","AB","Central Zone","2021-08-31",23137
 "cases","AB","Edmonton Zone","2021-08-31",83952
-"cases","AB","North Zone","2021-08-31",30149
+"cases","AB","North Zone","2021-08-31",30148
 "cases","AB","South Zone","2021-08-31",14979
 "cases","AB","Unknown","2021-08-31",25
-"cases","AB","Calgary Zone","2021-09-01",102311
+"cases","AB","Calgary Zone","2021-09-01",102312
 "cases","AB","Central Zone","2021-09-01",23304
 "cases","AB","Edmonton Zone","2021-09-01",84315
-"cases","AB","North Zone","2021-09-01",30365
+"cases","AB","North Zone","2021-09-01",30364
 "cases","AB","South Zone","2021-09-01",15123
 "cases","AB","Unknown","2021-09-01",25
-"cases","AB","Calgary Zone","2021-09-02",102735
+"cases","AB","Calgary Zone","2021-09-02",102736
 "cases","AB","Central Zone","2021-09-02",23509
 "cases","AB","Edmonton Zone","2021-09-02",84642
-"cases","AB","North Zone","2021-09-02",30682
+"cases","AB","North Zone","2021-09-02",30681
 "cases","AB","South Zone","2021-09-02",15261
 "cases","AB","Unknown","2021-09-02",25
-"cases","AB","Calgary Zone","2021-09-03",103081
+"cases","AB","Calgary Zone","2021-09-03",103082
 "cases","AB","Central Zone","2021-09-03",23733
 "cases","AB","Edmonton Zone","2021-09-03",85022
-"cases","AB","North Zone","2021-09-03",30910
+"cases","AB","North Zone","2021-09-03",30909
 "cases","AB","South Zone","2021-09-03",15390
 "cases","AB","Unknown","2021-09-03",25
-"cases","AB","Calgary Zone","2021-09-04",103507
+"cases","AB","Calgary Zone","2021-09-04",103508
 "cases","AB","Central Zone","2021-09-04",23953
 "cases","AB","Edmonton Zone","2021-09-04",85420
-"cases","AB","North Zone","2021-09-04",31183
+"cases","AB","North Zone","2021-09-04",31182
 "cases","AB","South Zone","2021-09-04",15515
 "cases","AB","Unknown","2021-09-04",26
-"cases","AB","Calgary Zone","2021-09-05",103690
+"cases","AB","Calgary Zone","2021-09-05",103691
 "cases","AB","Central Zone","2021-09-05",24071
 "cases","AB","Edmonton Zone","2021-09-05",85647
-"cases","AB","North Zone","2021-09-05",31387
+"cases","AB","North Zone","2021-09-05",31386
 "cases","AB","South Zone","2021-09-05",15595
 "cases","AB","Unknown","2021-09-05",27
-"cases","AB","Calgary Zone","2021-09-06",103992
+"cases","AB","Calgary Zone","2021-09-06",103993
 "cases","AB","Central Zone","2021-09-06",24220
 "cases","AB","Edmonton Zone","2021-09-06",86088
-"cases","AB","North Zone","2021-09-06",31630
+"cases","AB","North Zone","2021-09-06",31629
 "cases","AB","South Zone","2021-09-06",15755
 "cases","AB","Unknown","2021-09-06",28
-"cases","AB","Calgary Zone","2021-09-07",104417
+"cases","AB","Calgary Zone","2021-09-07",104418
 "cases","AB","Central Zone","2021-09-07",24376
 "cases","AB","Edmonton Zone","2021-09-07",86437
-"cases","AB","North Zone","2021-09-07",31775
+"cases","AB","North Zone","2021-09-07",31774
 "cases","AB","South Zone","2021-09-07",15898
 "cases","AB","Unknown","2021-09-07",28
-"cases","AB","Calgary Zone","2021-09-08",104825
+"cases","AB","Calgary Zone","2021-09-08",104826
 "cases","AB","Central Zone","2021-09-08",24594
 "cases","AB","Edmonton Zone","2021-09-08",86918
-"cases","AB","North Zone","2021-09-08",32016
+"cases","AB","North Zone","2021-09-08",32015
 "cases","AB","South Zone","2021-09-08",16045
 "cases","AB","Unknown","2021-09-08",28
-"cases","AB","Calgary Zone","2021-09-09",105217
+"cases","AB","Calgary Zone","2021-09-09",105218
 "cases","AB","Central Zone","2021-09-09",24830
 "cases","AB","Edmonton Zone","2021-09-09",87324
-"cases","AB","North Zone","2021-09-09",32315
+"cases","AB","North Zone","2021-09-09",32314
 "cases","AB","South Zone","2021-09-09",16177
 "cases","AB","Unknown","2021-09-09",29
-"cases","AB","Calgary Zone","2021-09-10",105686
+"cases","AB","Calgary Zone","2021-09-10",105687
 "cases","AB","Central Zone","2021-09-10",25157
 "cases","AB","Edmonton Zone","2021-09-10",87769
-"cases","AB","North Zone","2021-09-10",32586
+"cases","AB","North Zone","2021-09-10",32585
 "cases","AB","South Zone","2021-09-10",16310
 "cases","AB","Unknown","2021-09-10",29
-"cases","AB","Calgary Zone","2021-09-11",106218
+"cases","AB","Calgary Zone","2021-09-11",106219
 "cases","AB","Central Zone","2021-09-11",25339
 "cases","AB","Edmonton Zone","2021-09-11",88205
-"cases","AB","North Zone","2021-09-11",32804
+"cases","AB","North Zone","2021-09-11",32803
 "cases","AB","South Zone","2021-09-11",16420
 "cases","AB","Unknown","2021-09-11",29
-"cases","AB","Calgary Zone","2021-09-12",106588
+"cases","AB","Calgary Zone","2021-09-12",106589
 "cases","AB","Central Zone","2021-09-12",25636
 "cases","AB","Edmonton Zone","2021-09-12",88688
-"cases","AB","North Zone","2021-09-12",33071
+"cases","AB","North Zone","2021-09-12",33070
 "cases","AB","South Zone","2021-09-12",16581
 "cases","AB","Unknown","2021-09-12",29
-"cases","AB","Calgary Zone","2021-09-13",106961
+"cases","AB","Calgary Zone","2021-09-13",106962
 "cases","AB","Central Zone","2021-09-13",25781
 "cases","AB","Edmonton Zone","2021-09-13",89069
-"cases","AB","North Zone","2021-09-13",33444
+"cases","AB","North Zone","2021-09-13",33443
 "cases","AB","South Zone","2021-09-13",16725
 "cases","AB","Unknown","2021-09-13",29
-"cases","AB","Calgary Zone","2021-09-14",107474
+"cases","AB","Calgary Zone","2021-09-14",107475
 "cases","AB","Central Zone","2021-09-14",25920
 "cases","AB","Edmonton Zone","2021-09-14",89562
-"cases","AB","North Zone","2021-09-14",33786
+"cases","AB","North Zone","2021-09-14",33785
 "cases","AB","South Zone","2021-09-14",16871
 "cases","AB","Unknown","2021-09-14",29
-"cases","AB","Calgary Zone","2021-09-15",108004
+"cases","AB","Calgary Zone","2021-09-15",108005
 "cases","AB","Central Zone","2021-09-15",26236
 "cases","AB","Edmonton Zone","2021-09-15",90007
-"cases","AB","North Zone","2021-09-15",34075
+"cases","AB","North Zone","2021-09-15",34074
 "cases","AB","South Zone","2021-09-15",17012
 "cases","AB","Unknown","2021-09-15",29
-"cases","AB","Calgary Zone","2021-09-16",108458
+"cases","AB","Calgary Zone","2021-09-16",108459
 "cases","AB","Central Zone","2021-09-16",26809
 "cases","AB","Edmonton Zone","2021-09-16",90448
-"cases","AB","North Zone","2021-09-16",34353
+"cases","AB","North Zone","2021-09-16",34352
 "cases","AB","South Zone","2021-09-16",17264
 "cases","AB","Unknown","2021-09-16",29
-"cases","AB","Calgary Zone","2021-09-17",108903
+"cases","AB","Calgary Zone","2021-09-17",108904
 "cases","AB","Central Zone","2021-09-17",26945
 "cases","AB","Edmonton Zone","2021-09-17",90818
-"cases","AB","North Zone","2021-09-17",34750
+"cases","AB","North Zone","2021-09-17",34749
 "cases","AB","South Zone","2021-09-17",17512
 "cases","AB","Unknown","2021-09-17",29
-"cases","AB","Calgary Zone","2021-09-18",109259
+"cases","AB","Calgary Zone","2021-09-18",109260
 "cases","AB","Central Zone","2021-09-18",27336
 "cases","AB","Edmonton Zone","2021-09-18",91232
-"cases","AB","North Zone","2021-09-18",34991
+"cases","AB","North Zone","2021-09-18",34990
 "cases","AB","South Zone","2021-09-18",17696
 "cases","AB","Unknown","2021-09-18",30
-"cases","AB","Calgary Zone","2021-09-19",109461
+"cases","AB","Calgary Zone","2021-09-19",109462
 "cases","AB","Central Zone","2021-09-19",27716
 "cases","AB","Edmonton Zone","2021-09-19",91632
-"cases","AB","North Zone","2021-09-19",35358
+"cases","AB","North Zone","2021-09-19",35357
 "cases","AB","South Zone","2021-09-19",17776
 "cases","AB","Unknown","2021-09-19",30
-"cases","AB","Calgary Zone","2021-09-20",109758
+"cases","AB","Calgary Zone","2021-09-20",109759
 "cases","AB","Central Zone","2021-09-20",28018
 "cases","AB","Edmonton Zone","2021-09-20",91994
-"cases","AB","North Zone","2021-09-20",35683
+"cases","AB","North Zone","2021-09-20",35682
 "cases","AB","South Zone","2021-09-20",18010
 "cases","AB","Unknown","2021-09-20",30
-"cases","AB","Calgary Zone","2021-09-21",110141
+"cases","AB","Calgary Zone","2021-09-21",110142
 "cases","AB","Central Zone","2021-09-21",28180
 "cases","AB","Edmonton Zone","2021-09-21",92438
-"cases","AB","North Zone","2021-09-21",35863
+"cases","AB","North Zone","2021-09-21",35862
 "cases","AB","South Zone","2021-09-21",18156
 "cases","AB","Unknown","2021-09-21",30
-"cases","AB","Calgary Zone","2021-09-22",110534
+"cases","AB","Calgary Zone","2021-09-22",110535
 "cases","AB","Central Zone","2021-09-22",28519
 "cases","AB","Edmonton Zone","2021-09-22",92841
-"cases","AB","North Zone","2021-09-22",36199
+"cases","AB","North Zone","2021-09-22",36198
 "cases","AB","South Zone","2021-09-22",18374
 "cases","AB","Unknown","2021-09-22",30
-"cases","AB","Calgary Zone","2021-09-23",110910
+"cases","AB","Calgary Zone","2021-09-23",110911
 "cases","AB","Central Zone","2021-09-23",28932
 "cases","AB","Edmonton Zone","2021-09-23",93281
-"cases","AB","North Zone","2021-09-23",36508
+"cases","AB","North Zone","2021-09-23",36507
 "cases","AB","South Zone","2021-09-23",18506
 "cases","AB","Unknown","2021-09-23",30
-"cases","AB","Calgary Zone","2021-09-24",111387
+"cases","AB","Calgary Zone","2021-09-24",111388
 "cases","AB","Central Zone","2021-09-24",29342
 "cases","AB","Edmonton Zone","2021-09-24",93707
-"cases","AB","North Zone","2021-09-24",36867
+"cases","AB","North Zone","2021-09-24",36866
 "cases","AB","South Zone","2021-09-24",18706
 "cases","AB","Unknown","2021-09-24",31
-"cases","AB","Calgary Zone","2021-09-25",111772
+"cases","AB","Calgary Zone","2021-09-25",111773
 "cases","AB","Central Zone","2021-09-25",29579
 "cases","AB","Edmonton Zone","2021-09-25",94062
-"cases","AB","North Zone","2021-09-25",37252
+"cases","AB","North Zone","2021-09-25",37251
 "cases","AB","South Zone","2021-09-25",18870
 "cases","AB","Unknown","2021-09-25",31
-"cases","AB","Calgary Zone","2021-09-26",112110
+"cases","AB","Calgary Zone","2021-09-26",112111
 "cases","AB","Central Zone","2021-09-26",30049
 "cases","AB","Edmonton Zone","2021-09-26",94477
-"cases","AB","North Zone","2021-09-26",37613
+"cases","AB","North Zone","2021-09-26",37612
 "cases","AB","South Zone","2021-09-26",19028
 "cases","AB","Unknown","2021-09-26",31
-"cases","AB","Calgary Zone","2021-09-27",112364
+"cases","AB","Calgary Zone","2021-09-27",112365
 "cases","AB","Central Zone","2021-09-27",30315
 "cases","AB","Edmonton Zone","2021-09-27",94823
-"cases","AB","North Zone","2021-09-27",37867
+"cases","AB","North Zone","2021-09-27",37866
 "cases","AB","South Zone","2021-09-27",19178
 "cases","AB","Unknown","2021-09-27",31
-"cases","AB","Calgary Zone","2021-09-28",112759
+"cases","AB","Calgary Zone","2021-09-28",112760
 "cases","AB","Central Zone","2021-09-28",30655
 "cases","AB","Edmonton Zone","2021-09-28",95212
-"cases","AB","North Zone","2021-09-28",38228
+"cases","AB","North Zone","2021-09-28",38227
 "cases","AB","South Zone","2021-09-28",19399
 "cases","AB","Unknown","2021-09-28",31
-"cases","AB","Calgary Zone","2021-09-29",113177
+"cases","AB","Calgary Zone","2021-09-29",113178
 "cases","AB","Central Zone","2021-09-29",30879
 "cases","AB","Edmonton Zone","2021-09-29",95622
-"cases","AB","North Zone","2021-09-29",38697
+"cases","AB","North Zone","2021-09-29",38696
 "cases","AB","South Zone","2021-09-29",19598
 "cases","AB","Unknown","2021-09-29",31
-"cases","AB","Calgary Zone","2021-09-30",113640
+"cases","AB","Calgary Zone","2021-09-30",113641
 "cases","AB","Central Zone","2021-09-30",31249
 "cases","AB","Edmonton Zone","2021-09-30",95946
-"cases","AB","North Zone","2021-09-30",39035
+"cases","AB","North Zone","2021-09-30",39034
 "cases","AB","South Zone","2021-09-30",19752
 "cases","AB","Unknown","2021-09-30",31
-"cases","AB","Calgary Zone","2021-10-01",113994
+"cases","AB","Calgary Zone","2021-10-01",113995
 "cases","AB","Central Zone","2021-10-01",31606
-"cases","AB","Edmonton Zone","2021-10-01",96281
+"cases","AB","Edmonton Zone","2021-10-01",96280
 "cases","AB","North Zone","2021-10-01",39447
 "cases","AB","South Zone","2021-10-01",19900
 "cases","AB","Unknown","2021-10-01",31
-"cases","AB","Calgary Zone","2021-10-02",114340
+"cases","AB","Calgary Zone","2021-10-02",114341
 "cases","AB","Central Zone","2021-10-02",31914
-"cases","AB","Edmonton Zone","2021-10-02",96564
+"cases","AB","Edmonton Zone","2021-10-02",96563
 "cases","AB","North Zone","2021-10-02",39662
 "cases","AB","South Zone","2021-10-02",20030
 "cases","AB","Unknown","2021-10-02",31
-"cases","AB","Calgary Zone","2021-10-03",114560
+"cases","AB","Calgary Zone","2021-10-03",114561
 "cases","AB","Central Zone","2021-10-03",32306
-"cases","AB","Edmonton Zone","2021-10-03",96789
+"cases","AB","Edmonton Zone","2021-10-03",96788
 "cases","AB","North Zone","2021-10-03",39847
 "cases","AB","South Zone","2021-10-03",20137
 "cases","AB","Unknown","2021-10-03",31
-"cases","AB","Calgary Zone","2021-10-04",114760
+"cases","AB","Calgary Zone","2021-10-04",114761
 "cases","AB","Central Zone","2021-10-04",32389
-"cases","AB","Edmonton Zone","2021-10-04",96956
-"cases","AB","North Zone","2021-10-04",39995
+"cases","AB","Edmonton Zone","2021-10-04",96955
+"cases","AB","North Zone","2021-10-04",39994
 "cases","AB","South Zone","2021-10-04",20238
 "cases","AB","Unknown","2021-10-04",31
-"cases","AB","Calgary Zone","2021-10-05",115085
+"cases","AB","Calgary Zone","2021-10-05",115086
 "cases","AB","Central Zone","2021-10-05",32689
-"cases","AB","Edmonton Zone","2021-10-05",97231
-"cases","AB","North Zone","2021-10-05",40220
+"cases","AB","Edmonton Zone","2021-10-05",97230
+"cases","AB","North Zone","2021-10-05",40219
 "cases","AB","South Zone","2021-10-05",20371
 "cases","AB","Unknown","2021-10-05",32
-"cases","AB","Calgary Zone","2021-10-06",115407
+"cases","AB","Calgary Zone","2021-10-06",115408
 "cases","AB","Central Zone","2021-10-06",32830
-"cases","AB","Edmonton Zone","2021-10-06",97528
-"cases","AB","North Zone","2021-10-06",40526
+"cases","AB","Edmonton Zone","2021-10-06",97527
+"cases","AB","North Zone","2021-10-06",40525
 "cases","AB","South Zone","2021-10-06",20542
 "cases","AB","Unknown","2021-10-06",32
-"cases","AB","Calgary Zone","2021-10-07",115707
+"cases","AB","Calgary Zone","2021-10-07",115708
 "cases","AB","Central Zone","2021-10-07",33133
-"cases","AB","Edmonton Zone","2021-10-07",97841
-"cases","AB","North Zone","2021-10-07",40778
+"cases","AB","Edmonton Zone","2021-10-07",97840
+"cases","AB","North Zone","2021-10-07",40776
 "cases","AB","South Zone","2021-10-07",20637
 "cases","AB","Unknown","2021-10-07",32
-"cases","AB","Calgary Zone","2021-10-08",115977
+"cases","AB","Calgary Zone","2021-10-08",115978
 "cases","AB","Central Zone","2021-10-08",33324
-"cases","AB","Edmonton Zone","2021-10-08",98111
-"cases","AB","North Zone","2021-10-08",41006
+"cases","AB","Edmonton Zone","2021-10-08",98110
+"cases","AB","North Zone","2021-10-08",41004
 "cases","AB","South Zone","2021-10-08",20759
 "cases","AB","Unknown","2021-10-08",32
-"cases","AB","Calgary Zone","2021-10-09",116185
+"cases","AB","Calgary Zone","2021-10-09",116186
 "cases","AB","Central Zone","2021-10-09",33630
-"cases","AB","Edmonton Zone","2021-10-09",98317
-"cases","AB","North Zone","2021-10-09",41224
+"cases","AB","Edmonton Zone","2021-10-09",98316
+"cases","AB","North Zone","2021-10-09",41222
 "cases","AB","South Zone","2021-10-09",20861
 "cases","AB","Unknown","2021-10-09",32
-"cases","AB","Calgary Zone","2021-10-10",116325
+"cases","AB","Calgary Zone","2021-10-10",116326
 "cases","AB","Central Zone","2021-10-10",33712
-"cases","AB","Edmonton Zone","2021-10-10",98491
-"cases","AB","North Zone","2021-10-10",41377
+"cases","AB","Edmonton Zone","2021-10-10",98490
+"cases","AB","North Zone","2021-10-10",41375
 "cases","AB","South Zone","2021-10-10",20943
 "cases","AB","Unknown","2021-10-10",32
-"cases","AB","Calgary Zone","2021-10-11",116509
+"cases","AB","Calgary Zone","2021-10-11",116510
 "cases","AB","Central Zone","2021-10-11",33841
-"cases","AB","Edmonton Zone","2021-10-11",98602
-"cases","AB","North Zone","2021-10-11",41506
+"cases","AB","Edmonton Zone","2021-10-11",98601
+"cases","AB","North Zone","2021-10-11",41504
 "cases","AB","South Zone","2021-10-11",20991
 "cases","AB","Unknown","2021-10-11",32
-"cases","AB","Calgary Zone","2021-10-12",116715
+"cases","AB","Calgary Zone","2021-10-12",116716
 "cases","AB","Central Zone","2021-10-12",33954
-"cases","AB","Edmonton Zone","2021-10-12",98720
-"cases","AB","North Zone","2021-10-12",41634
+"cases","AB","Edmonton Zone","2021-10-12",98719
+"cases","AB","North Zone","2021-10-12",41632
 "cases","AB","South Zone","2021-10-12",21080
 "cases","AB","Unknown","2021-10-12",32
-"cases","AB","Calgary Zone","2021-10-13",116970
+"cases","AB","Calgary Zone","2021-10-13",116971
 "cases","AB","Central Zone","2021-10-13",34087
-"cases","AB","Edmonton Zone","2021-10-13",98992
-"cases","AB","North Zone","2021-10-13",41784
+"cases","AB","Edmonton Zone","2021-10-13",98991
+"cases","AB","North Zone","2021-10-13",41782
 "cases","AB","South Zone","2021-10-13",21200
 "cases","AB","Unknown","2021-10-13",32
-"cases","AB","Calgary Zone","2021-10-14",117197
+"cases","AB","Calgary Zone","2021-10-14",117198
 "cases","AB","Central Zone","2021-10-14",34330
-"cases","AB","Edmonton Zone","2021-10-14",99219
-"cases","AB","North Zone","2021-10-14",42040
+"cases","AB","Edmonton Zone","2021-10-14",99218
+"cases","AB","North Zone","2021-10-14",42038
 "cases","AB","South Zone","2021-10-14",21286
 "cases","AB","Unknown","2021-10-14",32
-"cases","AB","Calgary Zone","2021-10-15",117428
+"cases","AB","Calgary Zone","2021-10-15",117429
 "cases","AB","Central Zone","2021-10-15",34427
-"cases","AB","Edmonton Zone","2021-10-15",99405
-"cases","AB","North Zone","2021-10-15",42224
+"cases","AB","Edmonton Zone","2021-10-15",99404
+"cases","AB","North Zone","2021-10-15",42222
 "cases","AB","South Zone","2021-10-15",21360
 "cases","AB","Unknown","2021-10-15",32
-"cases","AB","Calgary Zone","2021-10-16",117600
+"cases","AB","Calgary Zone","2021-10-16",117601
 "cases","AB","Central Zone","2021-10-16",34648
-"cases","AB","Edmonton Zone","2021-10-16",99572
-"cases","AB","North Zone","2021-10-16",42406
+"cases","AB","Edmonton Zone","2021-10-16",99571
+"cases","AB","North Zone","2021-10-16",42404
 "cases","AB","South Zone","2021-10-16",21408
 "cases","AB","Unknown","2021-10-16",32
-"cases","AB","Calgary Zone","2021-10-17",117725
+"cases","AB","Calgary Zone","2021-10-17",117726
 "cases","AB","Central Zone","2021-10-17",34801
-"cases","AB","Edmonton Zone","2021-10-17",99718
-"cases","AB","North Zone","2021-10-17",42523
+"cases","AB","Edmonton Zone","2021-10-17",99717
+"cases","AB","North Zone","2021-10-17",42521
 "cases","AB","South Zone","2021-10-17",21470
 "cases","AB","Unknown","2021-10-17",32
-"cases","AB","Calgary Zone","2021-10-18",117866
+"cases","AB","Calgary Zone","2021-10-18",117867
 "cases","AB","Central Zone","2021-10-18",34915
-"cases","AB","Edmonton Zone","2021-10-18",99827
-"cases","AB","North Zone","2021-10-18",42635
+"cases","AB","Edmonton Zone","2021-10-18",99826
+"cases","AB","North Zone","2021-10-18",42633
 "cases","AB","South Zone","2021-10-18",21523
 "cases","AB","Unknown","2021-10-18",32
-"cases","AB","Calgary Zone","2021-10-19",118097
+"cases","AB","Calgary Zone","2021-10-19",118098
 "cases","AB","Central Zone","2021-10-19",35009
-"cases","AB","Edmonton Zone","2021-10-19",100053
-"cases","AB","North Zone","2021-10-19",42804
+"cases","AB","Edmonton Zone","2021-10-19",100052
+"cases","AB","North Zone","2021-10-19",42802
 "cases","AB","South Zone","2021-10-19",21612
 "cases","AB","Unknown","2021-10-19",32
-"cases","AB","Calgary Zone","2021-10-20",118257
+"cases","AB","Calgary Zone","2021-10-20",118258
 "cases","AB","Central Zone","2021-10-20",35225
-"cases","AB","Edmonton Zone","2021-10-20",100183
-"cases","AB","North Zone","2021-10-20",42977
+"cases","AB","Edmonton Zone","2021-10-20",100182
+"cases","AB","North Zone","2021-10-20",42975
 "cases","AB","South Zone","2021-10-20",21704
 "cases","AB","Unknown","2021-10-20",32
-"cases","AB","Calgary Zone","2021-10-21",118428
+"cases","AB","Calgary Zone","2021-10-21",118429
 "cases","AB","Central Zone","2021-10-21",35339
-"cases","AB","Edmonton Zone","2021-10-21",100341
-"cases","AB","North Zone","2021-10-21",43121
+"cases","AB","Edmonton Zone","2021-10-21",100340
+"cases","AB","North Zone","2021-10-21",43119
 "cases","AB","South Zone","2021-10-21",21780
 "cases","AB","Unknown","2021-10-21",32
-"cases","AB","Calgary Zone","2021-10-22",118587
+"cases","AB","Calgary Zone","2021-10-22",118588
 "cases","AB","Central Zone","2021-10-22",35530
-"cases","AB","Edmonton Zone","2021-10-22",100491
-"cases","AB","North Zone","2021-10-22",43247
+"cases","AB","Edmonton Zone","2021-10-22",100490
+"cases","AB","North Zone","2021-10-22",43245
 "cases","AB","South Zone","2021-10-22",21858
 "cases","AB","Unknown","2021-10-22",33
-"cases","AB","Calgary Zone","2021-10-23",118727
+"cases","AB","Calgary Zone","2021-10-23",118728
 "cases","AB","Central Zone","2021-10-23",35620
-"cases","AB","Edmonton Zone","2021-10-23",100590
-"cases","AB","North Zone","2021-10-23",43360
+"cases","AB","Edmonton Zone","2021-10-23",100589
+"cases","AB","North Zone","2021-10-23",43358
 "cases","AB","South Zone","2021-10-23",21924
 "cases","AB","Unknown","2021-10-23",33
-"cases","AB","Calgary Zone","2021-10-24",118833
+"cases","AB","Calgary Zone","2021-10-24",118834
 "cases","AB","Central Zone","2021-10-24",35692
-"cases","AB","Edmonton Zone","2021-10-24",100660
-"cases","AB","North Zone","2021-10-24",43445
+"cases","AB","Edmonton Zone","2021-10-24",100659
+"cases","AB","North Zone","2021-10-24",43443
 "cases","AB","South Zone","2021-10-24",21957
 "cases","AB","Unknown","2021-10-24",33
-"cases","AB","Calgary Zone","2021-10-25",118964
+"cases","AB","Calgary Zone","2021-10-25",118965
 "cases","AB","Central Zone","2021-10-25",35761
-"cases","AB","Edmonton Zone","2021-10-25",100764
-"cases","AB","North Zone","2021-10-25",43544
+"cases","AB","Edmonton Zone","2021-10-25",100763
+"cases","AB","North Zone","2021-10-25",43542
 "cases","AB","South Zone","2021-10-25",22010
 "cases","AB","Unknown","2021-10-25",33
-"cases","AB","Calgary Zone","2021-10-26",119133
+"cases","AB","Calgary Zone","2021-10-26",119134
 "cases","AB","Central Zone","2021-10-26",35873
-"cases","AB","Edmonton Zone","2021-10-26",100923
-"cases","AB","North Zone","2021-10-26",43674
+"cases","AB","Edmonton Zone","2021-10-26",100922
+"cases","AB","North Zone","2021-10-26",43672
 "cases","AB","South Zone","2021-10-26",22068
 "cases","AB","Unknown","2021-10-26",33
-"cases","AB","Calgary Zone","2021-10-27",119296
+"cases","AB","Calgary Zone","2021-10-27",119297
 "cases","AB","Central Zone","2021-10-27",35950
-"cases","AB","Edmonton Zone","2021-10-27",101053
-"cases","AB","North Zone","2021-10-27",43799
+"cases","AB","Edmonton Zone","2021-10-27",101052
+"cases","AB","North Zone","2021-10-27",43797
 "cases","AB","South Zone","2021-10-27",22117
 "cases","AB","Unknown","2021-10-27",33
-"cases","AB","Calgary Zone","2021-10-28",119451
+"cases","AB","Calgary Zone","2021-10-28",119452
 "cases","AB","Central Zone","2021-10-28",36079
-"cases","AB","Edmonton Zone","2021-10-28",101172
-"cases","AB","North Zone","2021-10-28",43943
+"cases","AB","Edmonton Zone","2021-10-28",101171
+"cases","AB","North Zone","2021-10-28",43941
 "cases","AB","South Zone","2021-10-28",22176
 "cases","AB","Unknown","2021-10-28",33
-"cases","AB","Calgary Zone","2021-10-29",119562
+"cases","AB","Calgary Zone","2021-10-29",119563
 "cases","AB","Central Zone","2021-10-29",36186
-"cases","AB","Edmonton Zone","2021-10-29",101304
-"cases","AB","North Zone","2021-10-29",44077
+"cases","AB","Edmonton Zone","2021-10-29",101303
+"cases","AB","North Zone","2021-10-29",44075
 "cases","AB","South Zone","2021-10-29",22223
 "cases","AB","Unknown","2021-10-29",33
-"cases","AB","Calgary Zone","2021-10-30",119660
+"cases","AB","Calgary Zone","2021-10-30",119661
 "cases","AB","Central Zone","2021-10-30",36238
-"cases","AB","Edmonton Zone","2021-10-30",101374
-"cases","AB","North Zone","2021-10-30",44152
+"cases","AB","Edmonton Zone","2021-10-30",101373
+"cases","AB","North Zone","2021-10-30",44150
 "cases","AB","South Zone","2021-10-30",22259
 "cases","AB","Unknown","2021-10-30",33
-"cases","AB","Calgary Zone","2021-10-31",119770
+"cases","AB","Calgary Zone","2021-10-31",119771
 "cases","AB","Central Zone","2021-10-31",36317
-"cases","AB","Edmonton Zone","2021-10-31",101445
-"cases","AB","North Zone","2021-10-31",44206
+"cases","AB","Edmonton Zone","2021-10-31",101444
+"cases","AB","North Zone","2021-10-31",44204
 "cases","AB","South Zone","2021-10-31",22284
 "cases","AB","Unknown","2021-10-31",33
-"cases","AB","Calgary Zone","2021-11-01",119856
+"cases","AB","Calgary Zone","2021-11-01",119857
 "cases","AB","Central Zone","2021-11-01",36378
-"cases","AB","Edmonton Zone","2021-11-01",101504
-"cases","AB","North Zone","2021-11-01",44280
+"cases","AB","Edmonton Zone","2021-11-01",101503
+"cases","AB","North Zone","2021-11-01",44278
 "cases","AB","South Zone","2021-11-01",22330
 "cases","AB","Unknown","2021-11-01",33
-"cases","AB","Calgary Zone","2021-11-02",120022
+"cases","AB","Calgary Zone","2021-11-02",120023
 "cases","AB","Central Zone","2021-11-02",36442
-"cases","AB","Edmonton Zone","2021-11-02",101614
-"cases","AB","North Zone","2021-11-02",44388
+"cases","AB","Edmonton Zone","2021-11-02",101613
+"cases","AB","North Zone","2021-11-02",44386
 "cases","AB","South Zone","2021-11-02",22377
 "cases","AB","Unknown","2021-11-02",33
-"cases","AB","Calgary Zone","2021-11-03",120149
+"cases","AB","Calgary Zone","2021-11-03",120150
 "cases","AB","Central Zone","2021-11-03",36569
-"cases","AB","Edmonton Zone","2021-11-03",101724
-"cases","AB","North Zone","2021-11-03",44519
+"cases","AB","Edmonton Zone","2021-11-03",101723
+"cases","AB","North Zone","2021-11-03",44517
 "cases","AB","South Zone","2021-11-03",22422
 "cases","AB","Unknown","2021-11-03",33
-"cases","AB","Calgary Zone","2021-11-04",120312
+"cases","AB","Calgary Zone","2021-11-04",120313
 "cases","AB","Central Zone","2021-11-04",36627
-"cases","AB","Edmonton Zone","2021-11-04",101830
-"cases","AB","North Zone","2021-11-04",44633
+"cases","AB","Edmonton Zone","2021-11-04",101829
+"cases","AB","North Zone","2021-11-04",44631
 "cases","AB","South Zone","2021-11-04",22453
 "cases","AB","Unknown","2021-11-04",33
-"cases","AB","Calgary Zone","2021-11-05",120470
+"cases","AB","Calgary Zone","2021-11-05",120471
 "cases","AB","Central Zone","2021-11-05",36752
-"cases","AB","Edmonton Zone","2021-11-05",101951
-"cases","AB","North Zone","2021-11-05",44766
+"cases","AB","Edmonton Zone","2021-11-05",101950
+"cases","AB","North Zone","2021-11-05",44764
 "cases","AB","South Zone","2021-11-05",22501
 "cases","AB","Unknown","2021-11-05",34
-"cases","AB","Calgary Zone","2021-11-06",120600
+"cases","AB","Calgary Zone","2021-11-06",120601
 "cases","AB","Central Zone","2021-11-06",36822
-"cases","AB","Edmonton Zone","2021-11-06",102043
-"cases","AB","North Zone","2021-11-06",44869
+"cases","AB","Edmonton Zone","2021-11-06",102042
+"cases","AB","North Zone","2021-11-06",44867
 "cases","AB","South Zone","2021-11-06",22539
 "cases","AB","Unknown","2021-11-06",34
-"cases","AB","Calgary Zone","2021-11-07",120694
+"cases","AB","Calgary Zone","2021-11-07",120695
 "cases","AB","Central Zone","2021-11-07",36879
-"cases","AB","Edmonton Zone","2021-11-07",102104
-"cases","AB","North Zone","2021-11-07",44924
+"cases","AB","Edmonton Zone","2021-11-07",102103
+"cases","AB","North Zone","2021-11-07",44922
 "cases","AB","South Zone","2021-11-07",22561
 "cases","AB","Unknown","2021-11-07",34
-"cases","AB","Calgary Zone","2021-11-08",120833
+"cases","AB","Calgary Zone","2021-11-08",120834
 "cases","AB","Central Zone","2021-11-08",36953
-"cases","AB","Edmonton Zone","2021-11-08",102183
-"cases","AB","North Zone","2021-11-08",45015
+"cases","AB","Edmonton Zone","2021-11-08",102182
+"cases","AB","North Zone","2021-11-08",45013
 "cases","AB","South Zone","2021-11-08",22602
 "cases","AB","Unknown","2021-11-08",34
-"cases","AB","Calgary Zone","2021-11-09",121007
+"cases","AB","Calgary Zone","2021-11-09",121008
 "cases","AB","Central Zone","2021-11-09",37027
-"cases","AB","Edmonton Zone","2021-11-09",102299
-"cases","AB","North Zone","2021-11-09",45104
+"cases","AB","Edmonton Zone","2021-11-09",102298
+"cases","AB","North Zone","2021-11-09",45102
 "cases","AB","South Zone","2021-11-09",22651
 "cases","AB","Unknown","2021-11-09",34
-"cases","AB","Calgary Zone","2021-11-10",121138
+"cases","AB","Calgary Zone","2021-11-10",121139
 "cases","AB","Central Zone","2021-11-10",37127
-"cases","AB","Edmonton Zone","2021-11-10",102398
-"cases","AB","North Zone","2021-11-10",45211
+"cases","AB","Edmonton Zone","2021-11-10",102397
+"cases","AB","North Zone","2021-11-10",45209
 "cases","AB","South Zone","2021-11-10",22680
 "cases","AB","Unknown","2021-11-10",34
-"cases","AB","Calgary Zone","2021-11-11",121247
+"cases","AB","Calgary Zone","2021-11-11",121248
 "cases","AB","Central Zone","2021-11-11",37195
-"cases","AB","Edmonton Zone","2021-11-11",102481
-"cases","AB","North Zone","2021-11-11",45292
+"cases","AB","Edmonton Zone","2021-11-11",102480
+"cases","AB","North Zone","2021-11-11",45290
 "cases","AB","South Zone","2021-11-11",22716
 "cases","AB","Unknown","2021-11-11",34
-"cases","AB","Calgary Zone","2021-11-12",121404
+"cases","AB","Calgary Zone","2021-11-12",121405
 "cases","AB","Central Zone","2021-11-12",37268
-"cases","AB","Edmonton Zone","2021-11-12",102569
-"cases","AB","North Zone","2021-11-12",45374
+"cases","AB","Edmonton Zone","2021-11-12",102568
+"cases","AB","North Zone","2021-11-12",45372
 "cases","AB","South Zone","2021-11-12",22751
 "cases","AB","Unknown","2021-11-12",34
-"cases","AB","Calgary Zone","2021-11-13",121562
+"cases","AB","Calgary Zone","2021-11-13",121563
 "cases","AB","Central Zone","2021-11-13",37318
-"cases","AB","Edmonton Zone","2021-11-13",102638
-"cases","AB","North Zone","2021-11-13",45417
+"cases","AB","Edmonton Zone","2021-11-13",102637
+"cases","AB","North Zone","2021-11-13",45415
 "cases","AB","South Zone","2021-11-13",22788
 "cases","AB","Unknown","2021-11-13",34
-"cases","AB","Calgary Zone","2021-11-14",121654
+"cases","AB","Calgary Zone","2021-11-14",121655
 "cases","AB","Central Zone","2021-11-14",37357
-"cases","AB","Edmonton Zone","2021-11-14",102709
-"cases","AB","North Zone","2021-11-14",45474
+"cases","AB","Edmonton Zone","2021-11-14",102708
+"cases","AB","North Zone","2021-11-14",45472
 "cases","AB","South Zone","2021-11-14",22818
 "cases","AB","Unknown","2021-11-14",34
-"cases","AB","Calgary Zone","2021-11-15",121761
+"cases","AB","Calgary Zone","2021-11-15",121762
 "cases","AB","Central Zone","2021-11-15",37407
-"cases","AB","Edmonton Zone","2021-11-15",102774
-"cases","AB","North Zone","2021-11-15",45541
+"cases","AB","Edmonton Zone","2021-11-15",102773
+"cases","AB","North Zone","2021-11-15",45539
 "cases","AB","South Zone","2021-11-15",22849
 "cases","AB","Unknown","2021-11-15",34
-"cases","AB","Calgary Zone","2021-11-16",121927
+"cases","AB","Calgary Zone","2021-11-16",121928
 "cases","AB","Central Zone","2021-11-16",37470
-"cases","AB","Edmonton Zone","2021-11-16",102883
-"cases","AB","North Zone","2021-11-16",45585
+"cases","AB","Edmonton Zone","2021-11-16",102882
+"cases","AB","North Zone","2021-11-16",45583
 "cases","AB","South Zone","2021-11-16",22882
 "cases","AB","Unknown","2021-11-16",34
-"cases","AB","Calgary Zone","2021-11-17",122075
+"cases","AB","Calgary Zone","2021-11-17",122076
 "cases","AB","Central Zone","2021-11-17",37533
-"cases","AB","Edmonton Zone","2021-11-17",102958
-"cases","AB","North Zone","2021-11-17",45666
+"cases","AB","Edmonton Zone","2021-11-17",102957
+"cases","AB","North Zone","2021-11-17",45664
 "cases","AB","South Zone","2021-11-17",22900
 "cases","AB","Unknown","2021-11-17",34
-"cases","AB","Calgary Zone","2021-11-18",122226
+"cases","AB","Calgary Zone","2021-11-18",122227
 "cases","AB","Central Zone","2021-11-18",37601
-"cases","AB","Edmonton Zone","2021-11-18",103043
-"cases","AB","North Zone","2021-11-18",45756
+"cases","AB","Edmonton Zone","2021-11-18",103042
+"cases","AB","North Zone","2021-11-18",45754
 "cases","AB","South Zone","2021-11-18",22923
 "cases","AB","Unknown","2021-11-18",34
-"cases","AB","Calgary Zone","2021-11-19",122405
+"cases","AB","Calgary Zone","2021-11-19",122406
 "cases","AB","Central Zone","2021-11-19",37659
-"cases","AB","Edmonton Zone","2021-11-19",103149
-"cases","AB","North Zone","2021-11-19",45840
+"cases","AB","Edmonton Zone","2021-11-19",103148
+"cases","AB","North Zone","2021-11-19",45838
 "cases","AB","South Zone","2021-11-19",22964
 "cases","AB","Unknown","2021-11-19",34
-"cases","AB","Calgary Zone","2021-11-20",122531
+"cases","AB","Calgary Zone","2021-11-20",122532
 "cases","AB","Central Zone","2021-11-20",37710
-"cases","AB","Edmonton Zone","2021-11-20",103237
-"cases","AB","North Zone","2021-11-20",45930
+"cases","AB","Edmonton Zone","2021-11-20",103236
+"cases","AB","North Zone","2021-11-20",45928
 "cases","AB","South Zone","2021-11-20",22988
 "cases","AB","Unknown","2021-11-20",34
-"cases","AB","Calgary Zone","2021-11-21",122630
+"cases","AB","Calgary Zone","2021-11-21",122631
 "cases","AB","Central Zone","2021-11-21",37766
-"cases","AB","Edmonton Zone","2021-11-21",103293
-"cases","AB","North Zone","2021-11-21",45963
+"cases","AB","Edmonton Zone","2021-11-21",103292
+"cases","AB","North Zone","2021-11-21",45961
 "cases","AB","South Zone","2021-11-21",23014
 "cases","AB","Unknown","2021-11-21",34
-"cases","AB","Calgary Zone","2021-11-22",122731
+"cases","AB","Calgary Zone","2021-11-22",122732
 "cases","AB","Central Zone","2021-11-22",37806
-"cases","AB","Edmonton Zone","2021-11-22",103344
-"cases","AB","North Zone","2021-11-22",46015
+"cases","AB","Edmonton Zone","2021-11-22",103343
+"cases","AB","North Zone","2021-11-22",46013
 "cases","AB","South Zone","2021-11-22",23041
 "cases","AB","Unknown","2021-11-22",34
-"cases","AB","Calgary Zone","2021-11-23",122894
+"cases","AB","Calgary Zone","2021-11-23",122895
 "cases","AB","Central Zone","2021-11-23",37884
-"cases","AB","Edmonton Zone","2021-11-23",103465
-"cases","AB","North Zone","2021-11-23",46089
+"cases","AB","Edmonton Zone","2021-11-23",103464
+"cases","AB","North Zone","2021-11-23",46087
 "cases","AB","South Zone","2021-11-23",23078
 "cases","AB","Unknown","2021-11-23",34
-"cases","AB","Calgary Zone","2021-11-24",123070
+"cases","AB","Calgary Zone","2021-11-24",123071
 "cases","AB","Central Zone","2021-11-24",37925
-"cases","AB","Edmonton Zone","2021-11-24",103557
-"cases","AB","North Zone","2021-11-24",46148
+"cases","AB","Edmonton Zone","2021-11-24",103556
+"cases","AB","North Zone","2021-11-24",46146
 "cases","AB","South Zone","2021-11-24",23105
 "cases","AB","Unknown","2021-11-24",34
-"cases","AB","Calgary Zone","2021-11-25",123207
+"cases","AB","Calgary Zone","2021-11-25",123208
 "cases","AB","Central Zone","2021-11-25",37964
-"cases","AB","Edmonton Zone","2021-11-25",103656
-"cases","AB","North Zone","2021-11-25",46205
+"cases","AB","Edmonton Zone","2021-11-25",103655
+"cases","AB","North Zone","2021-11-25",46203
 "cases","AB","South Zone","2021-11-25",23133
 "cases","AB","Unknown","2021-11-25",35
-"cases","AB","Calgary Zone","2021-11-26",123336
+"cases","AB","Calgary Zone","2021-11-26",123337
 "cases","AB","Central Zone","2021-11-26",38003
-"cases","AB","Edmonton Zone","2021-11-26",103737
-"cases","AB","North Zone","2021-11-26",46260
+"cases","AB","Edmonton Zone","2021-11-26",103736
+"cases","AB","North Zone","2021-11-26",46258
 "cases","AB","South Zone","2021-11-26",23154
 "cases","AB","Unknown","2021-11-26",35
-"cases","AB","Calgary Zone","2021-11-27",123429
+"cases","AB","Calgary Zone","2021-11-27",123430
 "cases","AB","Central Zone","2021-11-27",38043
-"cases","AB","Edmonton Zone","2021-11-27",103804
-"cases","AB","North Zone","2021-11-27",46299
+"cases","AB","Edmonton Zone","2021-11-27",103803
+"cases","AB","North Zone","2021-11-27",46297
 "cases","AB","South Zone","2021-11-27",23166
 "cases","AB","Unknown","2021-11-27",35
-"cases","AB","Calgary Zone","2021-11-28",123529
+"cases","AB","Calgary Zone","2021-11-28",123530
 "cases","AB","Central Zone","2021-11-28",38055
-"cases","AB","Edmonton Zone","2021-11-28",103868
-"cases","AB","North Zone","2021-11-28",46339
+"cases","AB","Edmonton Zone","2021-11-28",103867
+"cases","AB","North Zone","2021-11-28",46337
 "cases","AB","South Zone","2021-11-28",23180
 "cases","AB","Unknown","2021-11-28",35
-"cases","AB","Calgary Zone","2021-11-29",123624
+"cases","AB","Calgary Zone","2021-11-29",123625
 "cases","AB","Central Zone","2021-11-29",38088
-"cases","AB","Edmonton Zone","2021-11-29",103936
-"cases","AB","North Zone","2021-11-29",46363
+"cases","AB","Edmonton Zone","2021-11-29",103935
+"cases","AB","North Zone","2021-11-29",46361
 "cases","AB","South Zone","2021-11-29",23193
 "cases","AB","Unknown","2021-11-29",35
-"cases","AB","Calgary Zone","2021-11-30",123816
+"cases","AB","Calgary Zone","2021-11-30",123817
 "cases","AB","Central Zone","2021-11-30",38131
-"cases","AB","Edmonton Zone","2021-11-30",104044
-"cases","AB","North Zone","2021-11-30",46422
+"cases","AB","Edmonton Zone","2021-11-30",104043
+"cases","AB","North Zone","2021-11-30",46420
 "cases","AB","South Zone","2021-11-30",23224
 "cases","AB","Unknown","2021-11-30",35
-"cases","AB","Calgary Zone","2021-12-01",123956
+"cases","AB","Calgary Zone","2021-12-01",123957
 "cases","AB","Central Zone","2021-12-01",38173
-"cases","AB","Edmonton Zone","2021-12-01",104164
-"cases","AB","North Zone","2021-12-01",46467
+"cases","AB","Edmonton Zone","2021-12-01",104163
+"cases","AB","North Zone","2021-12-01",46465
 "cases","AB","South Zone","2021-12-01",23241
 "cases","AB","Unknown","2021-12-01",35
-"cases","AB","Calgary Zone","2021-12-02",124110
+"cases","AB","Calgary Zone","2021-12-02",124111
 "cases","AB","Central Zone","2021-12-02",38206
-"cases","AB","Edmonton Zone","2021-12-02",104260
-"cases","AB","North Zone","2021-12-02",46499
+"cases","AB","Edmonton Zone","2021-12-02",104259
+"cases","AB","North Zone","2021-12-02",46497
 "cases","AB","South Zone","2021-12-02",23269
 "cases","AB","Unknown","2021-12-02",35
-"cases","AB","Calgary Zone","2021-12-03",124243
+"cases","AB","Calgary Zone","2021-12-03",124244
 "cases","AB","Central Zone","2021-12-03",38260
-"cases","AB","Edmonton Zone","2021-12-03",104376
-"cases","AB","North Zone","2021-12-03",46528
+"cases","AB","Edmonton Zone","2021-12-03",104375
+"cases","AB","North Zone","2021-12-03",46526
 "cases","AB","South Zone","2021-12-03",23285
 "cases","AB","Unknown","2021-12-03",35
-"cases","AB","Calgary Zone","2021-12-04",124352
+"cases","AB","Calgary Zone","2021-12-04",124353
 "cases","AB","Central Zone","2021-12-04",38290
-"cases","AB","Edmonton Zone","2021-12-04",104439
-"cases","AB","North Zone","2021-12-04",46561
+"cases","AB","Edmonton Zone","2021-12-04",104438
+"cases","AB","North Zone","2021-12-04",46559
 "cases","AB","South Zone","2021-12-04",23297
 "cases","AB","Unknown","2021-12-04",35
-"cases","AB","Calgary Zone","2021-12-05",124423
+"cases","AB","Calgary Zone","2021-12-05",124424
 "cases","AB","Central Zone","2021-12-05",38315
-"cases","AB","Edmonton Zone","2021-12-05",104507
-"cases","AB","North Zone","2021-12-05",46570
+"cases","AB","Edmonton Zone","2021-12-05",104506
+"cases","AB","North Zone","2021-12-05",46568
 "cases","AB","South Zone","2021-12-05",23308
 "cases","AB","Unknown","2021-12-05",35
-"cases","AB","Calgary Zone","2021-12-06",124520
+"cases","AB","Calgary Zone","2021-12-06",124521
 "cases","AB","Central Zone","2021-12-06",38345
-"cases","AB","Edmonton Zone","2021-12-06",104576
-"cases","AB","North Zone","2021-12-06",46590
+"cases","AB","Edmonton Zone","2021-12-06",104574
+"cases","AB","North Zone","2021-12-06",46588
 "cases","AB","South Zone","2021-12-06",23327
 "cases","AB","Unknown","2021-12-06",35
-"cases","AB","Calgary Zone","2021-12-07",124676
+"cases","AB","Calgary Zone","2021-12-07",124677
 "cases","AB","Central Zone","2021-12-07",38396
-"cases","AB","Edmonton Zone","2021-12-07",104691
-"cases","AB","North Zone","2021-12-07",46638
+"cases","AB","Edmonton Zone","2021-12-07",104689
+"cases","AB","North Zone","2021-12-07",46636
 "cases","AB","South Zone","2021-12-07",23340
 "cases","AB","Unknown","2021-12-07",35
-"cases","AB","Calgary Zone","2021-12-08",124837
+"cases","AB","Calgary Zone","2021-12-08",124838
 "cases","AB","Central Zone","2021-12-08",38452
-"cases","AB","Edmonton Zone","2021-12-08",104787
-"cases","AB","North Zone","2021-12-08",46664
+"cases","AB","Edmonton Zone","2021-12-08",104785
+"cases","AB","North Zone","2021-12-08",46662
 "cases","AB","South Zone","2021-12-08",23355
 "cases","AB","Unknown","2021-12-08",35
-"cases","AB","Calgary Zone","2021-12-09",124982
+"cases","AB","Calgary Zone","2021-12-09",124983
 "cases","AB","Central Zone","2021-12-09",38510
-"cases","AB","Edmonton Zone","2021-12-09",104874
-"cases","AB","North Zone","2021-12-09",46701
+"cases","AB","Edmonton Zone","2021-12-09",104872
+"cases","AB","North Zone","2021-12-09",46699
 "cases","AB","South Zone","2021-12-09",23373
 "cases","AB","Unknown","2021-12-09",35
-"cases","AB","Calgary Zone","2021-12-10",125102
+"cases","AB","Calgary Zone","2021-12-10",125103
 "cases","AB","Central Zone","2021-12-10",38566
-"cases","AB","Edmonton Zone","2021-12-10",104968
-"cases","AB","North Zone","2021-12-10",46728
+"cases","AB","Edmonton Zone","2021-12-10",104966
+"cases","AB","North Zone","2021-12-10",46726
 "cases","AB","South Zone","2021-12-10",23388
 "cases","AB","Unknown","2021-12-10",35
-"cases","AB","Calgary Zone","2021-12-11",125212
+"cases","AB","Calgary Zone","2021-12-11",125213
 "cases","AB","Central Zone","2021-12-11",38590
-"cases","AB","Edmonton Zone","2021-12-11",105066
-"cases","AB","North Zone","2021-12-11",46741
+"cases","AB","Edmonton Zone","2021-12-11",105064
+"cases","AB","North Zone","2021-12-11",46739
 "cases","AB","South Zone","2021-12-11",23403
 "cases","AB","Unknown","2021-12-11",35
-"cases","AB","Calgary Zone","2021-12-12",125294
+"cases","AB","Calgary Zone","2021-12-12",125295
 "cases","AB","Central Zone","2021-12-12",38609
-"cases","AB","Edmonton Zone","2021-12-12",105135
-"cases","AB","North Zone","2021-12-12",46760
+"cases","AB","Edmonton Zone","2021-12-12",105133
+"cases","AB","North Zone","2021-12-12",46758
 "cases","AB","South Zone","2021-12-12",23414
 "cases","AB","Unknown","2021-12-12",35
-"cases","AB","Calgary Zone","2021-12-13",125450
+"cases","AB","Calgary Zone","2021-12-13",125451
 "cases","AB","Central Zone","2021-12-13",38632
-"cases","AB","Edmonton Zone","2021-12-13",105200
-"cases","AB","North Zone","2021-12-13",46779
+"cases","AB","Edmonton Zone","2021-12-13",105198
+"cases","AB","North Zone","2021-12-13",46777
 "cases","AB","South Zone","2021-12-13",23426
 "cases","AB","Unknown","2021-12-13",35
-"cases","AB","Calgary Zone","2021-12-14",125669
+"cases","AB","Calgary Zone","2021-12-14",125670
 "cases","AB","Central Zone","2021-12-14",38681
-"cases","AB","Edmonton Zone","2021-12-14",105318
-"cases","AB","North Zone","2021-12-14",46822
+"cases","AB","Edmonton Zone","2021-12-14",105316
+"cases","AB","North Zone","2021-12-14",46820
 "cases","AB","South Zone","2021-12-14",23443
 "cases","AB","Unknown","2021-12-14",35
-"cases","AB","Calgary Zone","2021-12-15",125919
+"cases","AB","Calgary Zone","2021-12-15",125920
 "cases","AB","Central Zone","2021-12-15",38701
-"cases","AB","Edmonton Zone","2021-12-15",105453
-"cases","AB","North Zone","2021-12-15",46864
+"cases","AB","Edmonton Zone","2021-12-15",105451
+"cases","AB","North Zone","2021-12-15",46862
 "cases","AB","South Zone","2021-12-15",23464
 "cases","AB","Unknown","2021-12-15",35
-"cases","AB","Calgary Zone","2021-12-16",126257
-"cases","AB","Central Zone","2021-12-16",38744
-"cases","AB","Edmonton Zone","2021-12-16",105586
-"cases","AB","North Zone","2021-12-16",46891
+"cases","AB","Calgary Zone","2021-12-16",126258
+"cases","AB","Central Zone","2021-12-16",38743
+"cases","AB","Edmonton Zone","2021-12-16",105584
+"cases","AB","North Zone","2021-12-16",46889
 "cases","AB","South Zone","2021-12-16",23476
 "cases","AB","Unknown","2021-12-16",35
-"cases","AB","Calgary Zone","2021-12-17",126610
-"cases","AB","Central Zone","2021-12-17",38779
-"cases","AB","Edmonton Zone","2021-12-17",105767
-"cases","AB","North Zone","2021-12-17",46921
+"cases","AB","Calgary Zone","2021-12-17",126611
+"cases","AB","Central Zone","2021-12-17",38778
+"cases","AB","Edmonton Zone","2021-12-17",105765
+"cases","AB","North Zone","2021-12-17",46919
 "cases","AB","South Zone","2021-12-17",23495
 "cases","AB","Unknown","2021-12-17",35
-"cases","AB","Calgary Zone","2021-12-18",127023
-"cases","AB","Central Zone","2021-12-18",38800
-"cases","AB","Edmonton Zone","2021-12-18",105992
-"cases","AB","North Zone","2021-12-18",46947
+"cases","AB","Calgary Zone","2021-12-18",127024
+"cases","AB","Central Zone","2021-12-18",38799
+"cases","AB","Edmonton Zone","2021-12-18",105990
+"cases","AB","North Zone","2021-12-18",46945
 "cases","AB","South Zone","2021-12-18",23519
 "cases","AB","Unknown","2021-12-18",35
-"cases","AB","Calgary Zone","2021-12-19",127387
-"cases","AB","Central Zone","2021-12-19",38830
-"cases","AB","Edmonton Zone","2021-12-19",106136
-"cases","AB","North Zone","2021-12-19",46965
+"cases","AB","Calgary Zone","2021-12-19",127388
+"cases","AB","Central Zone","2021-12-19",38829
+"cases","AB","Edmonton Zone","2021-12-19",106133
+"cases","AB","North Zone","2021-12-19",46963
 "cases","AB","South Zone","2021-12-19",23527
 "cases","AB","Unknown","2021-12-19",35
-"cases","AB","Calgary Zone","2021-12-20",127845
-"cases","AB","Central Zone","2021-12-20",38852
-"cases","AB","Edmonton Zone","2021-12-20",106377
-"cases","AB","North Zone","2021-12-20",47014
+"cases","AB","Calgary Zone","2021-12-20",127846
+"cases","AB","Central Zone","2021-12-20",38851
+"cases","AB","Edmonton Zone","2021-12-20",106374
+"cases","AB","North Zone","2021-12-20",47012
 "cases","AB","South Zone","2021-12-20",23547
 "cases","AB","Unknown","2021-12-20",35
 "cases","AB","Calgary Zone","2021-12-21",128649
-"cases","AB","Central Zone","2021-12-21",38894
-"cases","AB","Edmonton Zone","2021-12-21",106820
-"cases","AB","North Zone","2021-12-21",47057
+"cases","AB","Central Zone","2021-12-21",38893
+"cases","AB","Edmonton Zone","2021-12-21",106817
+"cases","AB","North Zone","2021-12-21",47055
 "cases","AB","South Zone","2021-12-21",23569
 "cases","AB","Unknown","2021-12-21",35
 "cases","AB","Calgary Zone","2021-12-22",129547
-"cases","AB","Central Zone","2021-12-22",38950
-"cases","AB","Edmonton Zone","2021-12-22",107358
-"cases","AB","North Zone","2021-12-22",47111
+"cases","AB","Central Zone","2021-12-22",38949
+"cases","AB","Edmonton Zone","2021-12-22",107355
+"cases","AB","North Zone","2021-12-22",47109
 "cases","AB","South Zone","2021-12-22",23599
 "cases","AB","Unknown","2021-12-22",35
-"cases","AB","Calgary Zone","2021-12-23",130545
-"cases","AB","Central Zone","2021-12-23",39041
-"cases","AB","Edmonton Zone","2021-12-23",108114
-"cases","AB","North Zone","2021-12-23",47179
+"cases","AB","Calgary Zone","2021-12-23",130544
+"cases","AB","Central Zone","2021-12-23",39040
+"cases","AB","Edmonton Zone","2021-12-23",108111
+"cases","AB","North Zone","2021-12-23",47177
 "cases","AB","South Zone","2021-12-23",23656
 "cases","AB","Unknown","2021-12-23",36
-"cases","AB","Calgary Zone","2021-12-24",132063
-"cases","AB","Central Zone","2021-12-24",39098
-"cases","AB","Edmonton Zone","2021-12-24",108886
-"cases","AB","North Zone","2021-12-24",47227
+"cases","AB","Calgary Zone","2021-12-24",132062
+"cases","AB","Central Zone","2021-12-24",39097
+"cases","AB","Edmonton Zone","2021-12-24",108883
+"cases","AB","North Zone","2021-12-24",47225
 "cases","AB","South Zone","2021-12-24",23707
 "cases","AB","Unknown","2021-12-24",37
-"cases","AB","Calgary Zone","2021-12-25",132925
-"cases","AB","Central Zone","2021-12-25",39210
-"cases","AB","Edmonton Zone","2021-12-25",109390
-"cases","AB","North Zone","2021-12-25",47297
+"cases","AB","Calgary Zone","2021-12-25",132923
+"cases","AB","Central Zone","2021-12-25",39209
+"cases","AB","Edmonton Zone","2021-12-25",109387
+"cases","AB","North Zone","2021-12-25",47295
 "cases","AB","South Zone","2021-12-25",23729
 "cases","AB","Unknown","2021-12-25",38
-"cases","AB","Calgary Zone","2021-12-26",133123
-"cases","AB","Central Zone","2021-12-26",39224
-"cases","AB","Edmonton Zone","2021-12-26",109797
-"cases","AB","North Zone","2021-12-26",47319
+"cases","AB","Calgary Zone","2021-12-26",133120
+"cases","AB","Central Zone","2021-12-26",39223
+"cases","AB","Edmonton Zone","2021-12-26",109793
+"cases","AB","North Zone","2021-12-26",47317
 "cases","AB","South Zone","2021-12-26",23771
 "cases","AB","Unknown","2021-12-26",38
-"cases","AB","Calgary Zone","2021-12-27",133625
-"cases","AB","Central Zone","2021-12-27",39275
-"cases","AB","Edmonton Zone","2021-12-27",110515
-"cases","AB","North Zone","2021-12-27",47359
+"cases","AB","Calgary Zone","2021-12-27",133621
+"cases","AB","Central Zone","2021-12-27",39273
+"cases","AB","Edmonton Zone","2021-12-27",110511
+"cases","AB","North Zone","2021-12-27",47357
 "cases","AB","South Zone","2021-12-27",23838
 "cases","AB","Unknown","2021-12-27",39
-"cases","AB","Calgary Zone","2021-12-28",135002
-"cases","AB","Central Zone","2021-12-28",39387
-"cases","AB","Edmonton Zone","2021-12-28",111625
-"cases","AB","North Zone","2021-12-28",47445
+"cases","AB","Calgary Zone","2021-12-28",134998
+"cases","AB","Central Zone","2021-12-28",39385
+"cases","AB","Edmonton Zone","2021-12-28",111621
+"cases","AB","North Zone","2021-12-28",47443
 "cases","AB","South Zone","2021-12-28",23920
 "cases","AB","Unknown","2021-12-28",40
-"cases","AB","Calgary Zone","2021-12-29",136901
-"cases","AB","Central Zone","2021-12-29",39551
-"cases","AB","Edmonton Zone","2021-12-29",113292
-"cases","AB","North Zone","2021-12-29",47573
+"cases","AB","Calgary Zone","2021-12-29",136895
+"cases","AB","Central Zone","2021-12-29",39549
+"cases","AB","Edmonton Zone","2021-12-29",113287
+"cases","AB","North Zone","2021-12-29",47571
 "cases","AB","South Zone","2021-12-29",24030
 "cases","AB","Unknown","2021-12-29",43
-"cases","AB","Calgary Zone","2021-12-30",139067
-"cases","AB","Central Zone","2021-12-30",39775
-"cases","AB","Edmonton Zone","2021-12-30",115006
-"cases","AB","North Zone","2021-12-30",47678
+"cases","AB","Calgary Zone","2021-12-30",139059
+"cases","AB","Central Zone","2021-12-30",39773
+"cases","AB","Edmonton Zone","2021-12-30",115000
+"cases","AB","North Zone","2021-12-30",47676
 "cases","AB","South Zone","2021-12-30",24167
 "cases","AB","Unknown","2021-12-30",50
-"cases","AB","Calgary Zone","2021-12-31",141217
-"cases","AB","Central Zone","2021-12-31",40006
-"cases","AB","Edmonton Zone","2021-12-31",116650
-"cases","AB","North Zone","2021-12-31",47844
+"cases","AB","Calgary Zone","2021-12-31",141207
+"cases","AB","Central Zone","2021-12-31",40004
+"cases","AB","Edmonton Zone","2021-12-31",116643
+"cases","AB","North Zone","2021-12-31",47842
 "cases","AB","South Zone","2021-12-31",24320
 "cases","AB","Unknown","2021-12-31",50
-"cases","AB","Calgary Zone","2022-01-01",143133
-"cases","AB","Central Zone","2022-01-01",40168
-"cases","AB","Edmonton Zone","2022-01-01",117575
-"cases","AB","North Zone","2022-01-01",47976
+"cases","AB","Calgary Zone","2022-01-01",143120
+"cases","AB","Central Zone","2022-01-01",40166
+"cases","AB","Edmonton Zone","2022-01-01",117566
+"cases","AB","North Zone","2022-01-01",47974
 "cases","AB","South Zone","2022-01-01",24389
-"cases","AB","Unknown","2022-01-01",51
-"cases","AB","Calgary Zone","2022-01-02",143976
-"cases","AB","Central Zone","2022-01-02",40326
-"cases","AB","Edmonton Zone","2022-01-02",118272
-"cases","AB","North Zone","2022-01-02",48146
+"cases","AB","Unknown","2022-01-01",50
+"cases","AB","Calgary Zone","2022-01-02",143961
+"cases","AB","Central Zone","2022-01-02",40324
+"cases","AB","Edmonton Zone","2022-01-02",118262
+"cases","AB","North Zone","2022-01-02",48144
 "cases","AB","South Zone","2022-01-02",24479
-"cases","AB","Unknown","2022-01-02",52
-"cases","AB","Calgary Zone","2022-01-03",145275
-"cases","AB","Central Zone","2022-01-03",40504
-"cases","AB","Edmonton Zone","2022-01-03",119414
-"cases","AB","North Zone","2022-01-03",48263
+"cases","AB","Unknown","2022-01-02",51
+"cases","AB","Calgary Zone","2022-01-03",145260
+"cases","AB","Central Zone","2022-01-03",40502
+"cases","AB","Edmonton Zone","2022-01-03",119404
+"cases","AB","North Zone","2022-01-03",48261
 "cases","AB","South Zone","2022-01-03",24678
-"cases","AB","Unknown","2022-01-03",53
-"cases","AB","Calgary Zone","2022-01-04",147667
-"cases","AB","Central Zone","2022-01-04",40736
-"cases","AB","Edmonton Zone","2022-01-04",121150
-"cases","AB","North Zone","2022-01-04",48388
-"cases","AB","South Zone","2022-01-04",24874
-"cases","AB","Unknown","2022-01-04",56
-"cases","AB","Calgary Zone","2022-01-05",149723
-"cases","AB","Central Zone","2022-01-05",41037
-"cases","AB","Edmonton Zone","2022-01-05",122972
-"cases","AB","North Zone","2022-01-05",48672
-"cases","AB","South Zone","2022-01-05",25170
-"cases","AB","Unknown","2022-01-05",60
-"cases","AB","Calgary Zone","2022-01-06",152599
-"cases","AB","Central Zone","2022-01-06",41412
-"cases","AB","Edmonton Zone","2022-01-06",125269
-"cases","AB","North Zone","2022-01-06",48997
-"cases","AB","South Zone","2022-01-06",25422
-"cases","AB","Unknown","2022-01-06",66
-"cases","AB","Calgary Zone","2022-01-07",155777
-"cases","AB","Central Zone","2022-01-07",41759
-"cases","AB","Edmonton Zone","2022-01-07",127398
-"cases","AB","North Zone","2022-01-07",49221
-"cases","AB","South Zone","2022-01-07",25664
-"cases","AB","Unknown","2022-01-07",68
-"cases","AB","Calgary Zone","2022-01-08",158702
-"cases","AB","Central Zone","2022-01-08",42144
-"cases","AB","Edmonton Zone","2022-01-08",129735
-"cases","AB","North Zone","2022-01-08",49465
-"cases","AB","South Zone","2022-01-08",25912
-"cases","AB","Unknown","2022-01-08",71
-"cases","AB","Calgary Zone","2022-01-09",161534
-"cases","AB","Central Zone","2022-01-09",42462
-"cases","AB","Edmonton Zone","2022-01-09",131377
-"cases","AB","North Zone","2022-01-09",49725
-"cases","AB","South Zone","2022-01-09",26143
-"cases","AB","Unknown","2022-01-09",77
-"cases","AB","Calgary Zone","2022-01-10",163562
-"cases","AB","Central Zone","2022-01-10",42707
-"cases","AB","Edmonton Zone","2022-01-10",133230
-"cases","AB","North Zone","2022-01-10",49991
-"cases","AB","South Zone","2022-01-10",26366
-"cases","AB","Unknown","2022-01-10",80
-"cases","AB","Calgary Zone","2022-01-11",166307
-"cases","AB","Central Zone","2022-01-11",42993
-"cases","AB","Edmonton Zone","2022-01-11",136242
-"cases","AB","North Zone","2022-01-11",50417
-"cases","AB","South Zone","2022-01-11",26668
-"cases","AB","Unknown","2022-01-11",82
-"cases","AB","Calgary Zone","2022-01-12",168771
-"cases","AB","Central Zone","2022-01-12",43491
-"cases","AB","Edmonton Zone","2022-01-12",138529
-"cases","AB","North Zone","2022-01-12",50713
-"cases","AB","South Zone","2022-01-12",26978
-"cases","AB","Unknown","2022-01-12",84
-"cases","AB","Calgary Zone","2022-01-13",171611
-"cases","AB","Central Zone","2022-01-13",43893
-"cases","AB","Edmonton Zone","2022-01-13",140932
-"cases","AB","North Zone","2022-01-13",51007
-"cases","AB","South Zone","2022-01-13",27283
-"cases","AB","Unknown","2022-01-13",91
-"cases","AB","Calgary Zone","2022-01-14",174868
-"cases","AB","Central Zone","2022-01-14",44289
-"cases","AB","Edmonton Zone","2022-01-14",142994
-"cases","AB","North Zone","2022-01-14",51220
-"cases","AB","South Zone","2022-01-14",27459
-"cases","AB","Unknown","2022-01-14",93
-"cases","AB","Calgary Zone","2022-01-15",178200
-"cases","AB","Central Zone","2022-01-15",44593
-"cases","AB","Edmonton Zone","2022-01-15",144346
-"cases","AB","North Zone","2022-01-15",51379
-"cases","AB","South Zone","2022-01-15",27656
-"cases","AB","Unknown","2022-01-15",94
-"cases","AB","Calgary Zone","2022-01-16",180703
-"cases","AB","Central Zone","2022-01-16",44857
-"cases","AB","Edmonton Zone","2022-01-16",145490
-"cases","AB","North Zone","2022-01-16",51483
-"cases","AB","South Zone","2022-01-16",27767
-"cases","AB","Unknown","2022-01-16",97
-"cases","AB","Calgary Zone","2022-01-17",182549
-"cases","AB","Central Zone","2022-01-17",45102
-"cases","AB","Edmonton Zone","2022-01-17",146543
-"cases","AB","North Zone","2022-01-17",51653
+"cases","AB","Unknown","2022-01-03",52
+"cases","AB","Calgary Zone","2022-01-04",147652
+"cases","AB","Central Zone","2022-01-04",40734
+"cases","AB","Edmonton Zone","2022-01-04",121140
+"cases","AB","North Zone","2022-01-04",48386
+"cases","AB","South Zone","2022-01-04",24873
+"cases","AB","Unknown","2022-01-04",55
+"cases","AB","Calgary Zone","2022-01-05",149706
+"cases","AB","Central Zone","2022-01-05",41035
+"cases","AB","Edmonton Zone","2022-01-05",122959
+"cases","AB","North Zone","2022-01-05",48670
+"cases","AB","South Zone","2022-01-05",25169
+"cases","AB","Unknown","2022-01-05",58
+"cases","AB","Calgary Zone","2022-01-06",152580
+"cases","AB","Central Zone","2022-01-06",41409
+"cases","AB","Edmonton Zone","2022-01-06",125255
+"cases","AB","North Zone","2022-01-06",48994
+"cases","AB","South Zone","2022-01-06",25421
+"cases","AB","Unknown","2022-01-06",62
+"cases","AB","Calgary Zone","2022-01-07",155757
+"cases","AB","Central Zone","2022-01-07",41756
+"cases","AB","Edmonton Zone","2022-01-07",127381
+"cases","AB","North Zone","2022-01-07",49218
+"cases","AB","South Zone","2022-01-07",25663
+"cases","AB","Unknown","2022-01-07",64
+"cases","AB","Calgary Zone","2022-01-08",158682
+"cases","AB","Central Zone","2022-01-08",42141
+"cases","AB","Edmonton Zone","2022-01-08",129718
+"cases","AB","North Zone","2022-01-08",49462
+"cases","AB","South Zone","2022-01-08",25911
+"cases","AB","Unknown","2022-01-08",67
+"cases","AB","Calgary Zone","2022-01-09",161513
+"cases","AB","Central Zone","2022-01-09",42459
+"cases","AB","Edmonton Zone","2022-01-09",131360
+"cases","AB","North Zone","2022-01-09",49722
+"cases","AB","South Zone","2022-01-09",26142
+"cases","AB","Unknown","2022-01-09",73
+"cases","AB","Calgary Zone","2022-01-10",163541
+"cases","AB","Central Zone","2022-01-10",42705
+"cases","AB","Edmonton Zone","2022-01-10",133213
+"cases","AB","North Zone","2022-01-10",49988
+"cases","AB","South Zone","2022-01-10",26365
+"cases","AB","Unknown","2022-01-10",76
+"cases","AB","Calgary Zone","2022-01-11",166284
+"cases","AB","Central Zone","2022-01-11",42991
+"cases","AB","Edmonton Zone","2022-01-11",136223
+"cases","AB","North Zone","2022-01-11",50414
+"cases","AB","South Zone","2022-01-11",26667
+"cases","AB","Unknown","2022-01-11",78
+"cases","AB","Calgary Zone","2022-01-12",168746
+"cases","AB","Central Zone","2022-01-12",43489
+"cases","AB","Edmonton Zone","2022-01-12",138509
+"cases","AB","North Zone","2022-01-12",50710
+"cases","AB","South Zone","2022-01-12",26977
+"cases","AB","Unknown","2022-01-12",80
+"cases","AB","Calgary Zone","2022-01-13",171585
+"cases","AB","Central Zone","2022-01-13",43891
+"cases","AB","Edmonton Zone","2022-01-13",140907
+"cases","AB","North Zone","2022-01-13",51004
+"cases","AB","South Zone","2022-01-13",27282
+"cases","AB","Unknown","2022-01-13",86
+"cases","AB","Calgary Zone","2022-01-14",174842
+"cases","AB","Central Zone","2022-01-14",44287
+"cases","AB","Edmonton Zone","2022-01-14",142968
+"cases","AB","North Zone","2022-01-14",51217
+"cases","AB","South Zone","2022-01-14",27458
+"cases","AB","Unknown","2022-01-14",88
+"cases","AB","Calgary Zone","2022-01-15",178174
+"cases","AB","Central Zone","2022-01-15",44591
+"cases","AB","Edmonton Zone","2022-01-15",144319
+"cases","AB","North Zone","2022-01-15",51376
+"cases","AB","South Zone","2022-01-15",27655
+"cases","AB","Unknown","2022-01-15",89
+"cases","AB","Calgary Zone","2022-01-16",180677
+"cases","AB","Central Zone","2022-01-16",44856
+"cases","AB","Edmonton Zone","2022-01-16",145462
+"cases","AB","North Zone","2022-01-16",51480
+"cases","AB","South Zone","2022-01-16",27766
+"cases","AB","Unknown","2022-01-16",91
+"cases","AB","Calgary Zone","2022-01-17",182523
+"cases","AB","Central Zone","2022-01-17",45100
+"cases","AB","Edmonton Zone","2022-01-17",146515
+"cases","AB","North Zone","2022-01-17",51650
 "cases","AB","South Zone","2022-01-17",27934
-"cases","AB","Unknown","2022-01-17",100
-"cases","AB","Calgary Zone","2022-01-18",184408
-"cases","AB","Central Zone","2022-01-18",45272
-"cases","AB","Edmonton Zone","2022-01-18",147878
-"cases","AB","North Zone","2022-01-18",51813
+"cases","AB","Unknown","2022-01-17",93
+"cases","AB","Calgary Zone","2022-01-18",184383
+"cases","AB","Central Zone","2022-01-18",45270
+"cases","AB","Edmonton Zone","2022-01-18",147850
+"cases","AB","North Zone","2022-01-18",51810
 "cases","AB","South Zone","2022-01-18",28182
-"cases","AB","Unknown","2022-01-18",103
-"cases","AB","Calgary Zone","2022-01-19",185921
-"cases","AB","Central Zone","2022-01-19",45693
-"cases","AB","Edmonton Zone","2022-01-19",149061
-"cases","AB","North Zone","2022-01-19",52139
+"cases","AB","Unknown","2022-01-18",95
+"cases","AB","Calgary Zone","2022-01-19",185894
+"cases","AB","Central Zone","2022-01-19",45691
+"cases","AB","Edmonton Zone","2022-01-19",149030
+"cases","AB","North Zone","2022-01-19",52136
 "cases","AB","South Zone","2022-01-19",28371
-"cases","AB","Unknown","2022-01-19",104
-"cases","AB","Calgary Zone","2022-01-20",187639
-"cases","AB","Central Zone","2022-01-20",46024
-"cases","AB","Edmonton Zone","2022-01-20",150229
-"cases","AB","North Zone","2022-01-20",52365
+"cases","AB","Unknown","2022-01-19",96
+"cases","AB","Calgary Zone","2022-01-20",187611
+"cases","AB","Central Zone","2022-01-20",46021
+"cases","AB","Edmonton Zone","2022-01-20",150193
+"cases","AB","North Zone","2022-01-20",52362
 "cases","AB","South Zone","2022-01-20",28612
-"cases","AB","Unknown","2022-01-20",105
-"cases","AB","Calgary Zone","2022-01-21",189530
-"cases","AB","Central Zone","2022-01-21",46304
-"cases","AB","Edmonton Zone","2022-01-21",151414
-"cases","AB","North Zone","2022-01-21",52617
+"cases","AB","Unknown","2022-01-20",97
+"cases","AB","Calgary Zone","2022-01-21",189502
+"cases","AB","Central Zone","2022-01-21",46301
+"cases","AB","Edmonton Zone","2022-01-21",151376
+"cases","AB","North Zone","2022-01-21",52614
 "cases","AB","South Zone","2022-01-21",28877
-"cases","AB","Unknown","2022-01-21",109
-"cases","AB","Calgary Zone","2022-01-22",190698
-"cases","AB","Central Zone","2022-01-22",46537
-"cases","AB","Edmonton Zone","2022-01-22",152280
-"cases","AB","North Zone","2022-01-22",52790
+"cases","AB","Unknown","2022-01-21",98
+"cases","AB","Calgary Zone","2022-01-22",190671
+"cases","AB","Central Zone","2022-01-22",46534
+"cases","AB","Edmonton Zone","2022-01-22",152242
+"cases","AB","North Zone","2022-01-22",52787
 "cases","AB","South Zone","2022-01-22",29041
-"cases","AB","Unknown","2022-01-22",110
-"cases","AB","Calgary Zone","2022-01-23",191455
-"cases","AB","Central Zone","2022-01-23",46755
-"cases","AB","Edmonton Zone","2022-01-23",152685
-"cases","AB","North Zone","2022-01-23",52932
+"cases","AB","Unknown","2022-01-22",99
+"cases","AB","Calgary Zone","2022-01-23",191427
+"cases","AB","Central Zone","2022-01-23",46752
+"cases","AB","Edmonton Zone","2022-01-23",152647
+"cases","AB","North Zone","2022-01-23",52929
 "cases","AB","South Zone","2022-01-23",29194
-"cases","AB","Unknown","2022-01-23",111
-"cases","AB","Calgary Zone","2022-01-24",192626
-"cases","AB","Central Zone","2022-01-24",47001
-"cases","AB","Edmonton Zone","2022-01-24",153738
-"cases","AB","North Zone","2022-01-24",53122
+"cases","AB","Unknown","2022-01-23",99
+"cases","AB","Calgary Zone","2022-01-24",192599
+"cases","AB","Central Zone","2022-01-24",46998
+"cases","AB","Edmonton Zone","2022-01-24",153699
+"cases","AB","North Zone","2022-01-24",53119
 "cases","AB","South Zone","2022-01-24",29371
-"cases","AB","Unknown","2022-01-24",114
-"cases","AB","Calgary Zone","2022-01-25",193916
-"cases","AB","Central Zone","2022-01-25",47365
-"cases","AB","Edmonton Zone","2022-01-25",154931
-"cases","AB","North Zone","2022-01-25",53362
-"cases","AB","South Zone","2022-01-25",29638
-"cases","AB","Unknown","2022-01-25",117
-"cases","AB","Calgary Zone","2022-01-26",195256
-"cases","AB","Central Zone","2022-01-26",47710
-"cases","AB","Edmonton Zone","2022-01-26",155993
-"cases","AB","North Zone","2022-01-26",53621
-"cases","AB","South Zone","2022-01-26",29862
-"cases","AB","Unknown","2022-01-26",120
-"cases","AB","Calgary Zone","2022-01-27",196582
-"cases","AB","Central Zone","2022-01-27",48017
-"cases","AB","Edmonton Zone","2022-01-27",156900
-"cases","AB","North Zone","2022-01-27",53897
-"cases","AB","South Zone","2022-01-27",30123
-"cases","AB","Unknown","2022-01-27",123
-"cases","AB","Calgary Zone","2022-01-28",197746
-"cases","AB","Central Zone","2022-01-28",48349
-"cases","AB","Edmonton Zone","2022-01-28",157908
-"cases","AB","North Zone","2022-01-28",54165
-"cases","AB","South Zone","2022-01-28",30302
-"cases","AB","Unknown","2022-01-28",123
-"cases","AB","Calgary Zone","2022-01-29",198534
-"cases","AB","Central Zone","2022-01-29",48573
-"cases","AB","Edmonton Zone","2022-01-29",158275
-"cases","AB","North Zone","2022-01-29",54370
-"cases","AB","South Zone","2022-01-29",30539
-"cases","AB","Unknown","2022-01-29",127
-"cases","AB","Calgary Zone","2022-01-30",199106
-"cases","AB","Central Zone","2022-01-30",48798
-"cases","AB","Edmonton Zone","2022-01-30",158875
-"cases","AB","North Zone","2022-01-30",54543
-"cases","AB","South Zone","2022-01-30",30703
-"cases","AB","Unknown","2022-01-30",128
-"cases","AB","Calgary Zone","2022-01-31",200140
-"cases","AB","Central Zone","2022-01-31",48967
-"cases","AB","Edmonton Zone","2022-01-31",159354
-"cases","AB","North Zone","2022-01-31",54715
-"cases","AB","South Zone","2022-01-31",30865
-"cases","AB","Unknown","2022-01-31",128
-"cases","AB","Calgary Zone","2022-02-01",201451
-"cases","AB","Central Zone","2022-02-01",49282
-"cases","AB","Edmonton Zone","2022-02-01",160272
-"cases","AB","North Zone","2022-02-01",54974
-"cases","AB","South Zone","2022-02-01",31097
-"cases","AB","Unknown","2022-02-01",128
-"cases","AB","Calgary Zone","2022-02-02",202454
-"cases","AB","Central Zone","2022-02-02",49619
-"cases","AB","Edmonton Zone","2022-02-02",160913
-"cases","AB","North Zone","2022-02-02",55228
-"cases","AB","South Zone","2022-02-02",31340
-"cases","AB","Unknown","2022-02-02",128
-"cases","AB","Calgary Zone","2022-02-03",203231
-"cases","AB","Central Zone","2022-02-03",49870
-"cases","AB","Edmonton Zone","2022-02-03",161517
-"cases","AB","North Zone","2022-02-03",55445
-"cases","AB","South Zone","2022-02-03",31585
-"cases","AB","Unknown","2022-02-03",129
-"cases","AB","Calgary Zone","2022-02-04",204080
-"cases","AB","Central Zone","2022-02-04",50110
-"cases","AB","Edmonton Zone","2022-02-04",162085
-"cases","AB","North Zone","2022-02-04",55663
-"cases","AB","South Zone","2022-02-04",31727
-"cases","AB","Unknown","2022-02-04",131
-"cases","AB","Calgary Zone","2022-02-05",204645
-"cases","AB","Central Zone","2022-02-05",50293
-"cases","AB","Edmonton Zone","2022-02-05",162447
-"cases","AB","North Zone","2022-02-05",55812
-"cases","AB","South Zone","2022-02-05",31842
-"cases","AB","Unknown","2022-02-05",134
-"cases","AB","Calgary Zone","2022-02-06",205076
-"cases","AB","Central Zone","2022-02-06",50440
-"cases","AB","Edmonton Zone","2022-02-06",162746
-"cases","AB","North Zone","2022-02-06",55945
-"cases","AB","South Zone","2022-02-06",31949
-"cases","AB","Unknown","2022-02-06",135
-"cases","AB","Calgary Zone","2022-02-07",205736
-"cases","AB","Central Zone","2022-02-07",50570
-"cases","AB","Edmonton Zone","2022-02-07",163209
-"cases","AB","North Zone","2022-02-07",56103
-"cases","AB","South Zone","2022-02-07",32083
-"cases","AB","Unknown","2022-02-07",136
-"cases","AB","Calgary Zone","2022-02-08",206503
-"cases","AB","Central Zone","2022-02-08",50773
-"cases","AB","Edmonton Zone","2022-02-08",163733
-"cases","AB","North Zone","2022-02-08",56287
-"cases","AB","South Zone","2022-02-08",32207
-"cases","AB","Unknown","2022-02-08",136
-"cases","AB","Calgary Zone","2022-02-09",206994
-"cases","AB","Central Zone","2022-02-09",50980
-"cases","AB","Edmonton Zone","2022-02-09",164146
-"cases","AB","North Zone","2022-02-09",56496
-"cases","AB","South Zone","2022-02-09",32349
-"cases","AB","Unknown","2022-02-09",137
-"cases","AB","Calgary Zone","2022-02-10",207568
-"cases","AB","Central Zone","2022-02-10",51142
-"cases","AB","Edmonton Zone","2022-02-10",164542
-"cases","AB","North Zone","2022-02-10",56660
-"cases","AB","South Zone","2022-02-10",32455
-"cases","AB","Unknown","2022-02-10",137
-"cases","AB","Calgary Zone","2022-02-11",207929
-"cases","AB","Central Zone","2022-02-11",51272
-"cases","AB","Edmonton Zone","2022-02-11",164872
-"cases","AB","North Zone","2022-02-11",56827
-"cases","AB","South Zone","2022-02-11",32571
-"cases","AB","Unknown","2022-02-11",137
-"cases","AB","Calgary Zone","2022-02-12",208238
-"cases","AB","Central Zone","2022-02-12",51372
-"cases","AB","Edmonton Zone","2022-02-12",165119
-"cases","AB","North Zone","2022-02-12",56934
-"cases","AB","South Zone","2022-02-12",32655
-"cases","AB","Unknown","2022-02-12",137
-"cases","AB","Calgary Zone","2022-02-13",208432
-"cases","AB","Central Zone","2022-02-13",51459
-"cases","AB","Edmonton Zone","2022-02-13",165315
-"cases","AB","North Zone","2022-02-13",57023
-"cases","AB","South Zone","2022-02-13",32718
-"cases","AB","Unknown","2022-02-13",137
-"cases","AB","Calgary Zone","2022-02-14",208781
-"cases","AB","Central Zone","2022-02-14",51573
-"cases","AB","Edmonton Zone","2022-02-14",165533
-"cases","AB","North Zone","2022-02-14",57108
-"cases","AB","South Zone","2022-02-14",32813
-"cases","AB","Unknown","2022-02-14",138
-"cases","AB","Calgary Zone","2022-02-15",209114
-"cases","AB","Central Zone","2022-02-15",51705
-"cases","AB","Edmonton Zone","2022-02-15",165837
-"cases","AB","North Zone","2022-02-15",57288
-"cases","AB","South Zone","2022-02-15",32913
-"cases","AB","Unknown","2022-02-15",139
-"cases","AB","Calgary Zone","2022-02-16",209480
-"cases","AB","Central Zone","2022-02-16",51843
-"cases","AB","Edmonton Zone","2022-02-16",166063
-"cases","AB","North Zone","2022-02-16",57421
-"cases","AB","South Zone","2022-02-16",33011
-"cases","AB","Unknown","2022-02-16",140
-"cases","AB","Calgary Zone","2022-02-17",209703
-"cases","AB","Central Zone","2022-02-17",51986
-"cases","AB","Edmonton Zone","2022-02-17",166312
-"cases","AB","North Zone","2022-02-17",57532
-"cases","AB","South Zone","2022-02-17",33089
-"cases","AB","Unknown","2022-02-17",141
-"cases","AB","Calgary Zone","2022-02-18",209958
-"cases","AB","Central Zone","2022-02-18",52089
-"cases","AB","Edmonton Zone","2022-02-18",166481
-"cases","AB","North Zone","2022-02-18",57674
-"cases","AB","South Zone","2022-02-18",33155
-"cases","AB","Unknown","2022-02-18",142
-"cases","AB","Calgary Zone","2022-02-19",210102
-"cases","AB","Central Zone","2022-02-19",52164
-"cases","AB","Edmonton Zone","2022-02-19",166610
-"cases","AB","North Zone","2022-02-19",57756
-"cases","AB","South Zone","2022-02-19",33195
-"cases","AB","Unknown","2022-02-19",142
-"cases","AB","Calgary Zone","2022-02-20",210249
-"cases","AB","Central Zone","2022-02-20",52224
-"cases","AB","Edmonton Zone","2022-02-20",166734
-"cases","AB","North Zone","2022-02-20",57846
-"cases","AB","South Zone","2022-02-20",33237
-"cases","AB","Unknown","2022-02-20",142
-"cases","AB","Calgary Zone","2022-02-21",210415
-"cases","AB","Central Zone","2022-02-21",52262
-"cases","AB","Edmonton Zone","2022-02-21",166842
-"cases","AB","North Zone","2022-02-21",57920
-"cases","AB","South Zone","2022-02-21",33305
-"cases","AB","Unknown","2022-02-21",143
-"cases","AB","Calgary Zone","2022-02-22",210676
-"cases","AB","Central Zone","2022-02-22",52361
-"cases","AB","Edmonton Zone","2022-02-22",167061
-"cases","AB","North Zone","2022-02-22",58022
-"cases","AB","South Zone","2022-02-22",33376
-"cases","AB","Unknown","2022-02-22",143
-"cases","AB","Calgary Zone","2022-02-23",210901
-"cases","AB","Central Zone","2022-02-23",52479
-"cases","AB","Edmonton Zone","2022-02-23",167265
-"cases","AB","North Zone","2022-02-23",58128
-"cases","AB","South Zone","2022-02-23",33464
-"cases","AB","Unknown","2022-02-23",143
-"cases","AB","Calgary Zone","2022-02-24",211094
-"cases","AB","Central Zone","2022-02-24",52580
-"cases","AB","Edmonton Zone","2022-02-24",167448
-"cases","AB","North Zone","2022-02-24",58234
-"cases","AB","South Zone","2022-02-24",33539
-"cases","AB","Unknown","2022-02-24",143
-"cases","AB","Calgary Zone","2022-02-25",211307
-"cases","AB","Central Zone","2022-02-25",52675
-"cases","AB","Edmonton Zone","2022-02-25",167578
-"cases","AB","North Zone","2022-02-25",58336
-"cases","AB","South Zone","2022-02-25",33600
-"cases","AB","Unknown","2022-02-25",144
-"cases","AB","Calgary Zone","2022-02-26",211429
-"cases","AB","Central Zone","2022-02-26",52751
-"cases","AB","Edmonton Zone","2022-02-26",167742
-"cases","AB","North Zone","2022-02-26",58396
-"cases","AB","South Zone","2022-02-26",33641
-"cases","AB","Unknown","2022-02-26",144
-"cases","AB","Calgary Zone","2022-02-27",211557
-"cases","AB","Central Zone","2022-02-27",52799
-"cases","AB","Edmonton Zone","2022-02-27",167840
-"cases","AB","North Zone","2022-02-27",58445
-"cases","AB","South Zone","2022-02-27",33694
-"cases","AB","Unknown","2022-02-27",144
-"cases","AB","Calgary Zone","2022-02-28",211701
-"cases","AB","Central Zone","2022-02-28",52862
-"cases","AB","Edmonton Zone","2022-02-28",168023
-"cases","AB","North Zone","2022-02-28",58518
-"cases","AB","South Zone","2022-02-28",33755
-"cases","AB","Unknown","2022-02-28",144
-"cases","AB","Calgary Zone","2022-03-01",211884
-"cases","AB","Central Zone","2022-03-01",52951
-"cases","AB","Edmonton Zone","2022-03-01",168182
-"cases","AB","North Zone","2022-03-01",58593
-"cases","AB","South Zone","2022-03-01",33799
-"cases","AB","Unknown","2022-03-01",144
-"cases","AB","Calgary Zone","2022-03-02",212087
-"cases","AB","Central Zone","2022-03-02",53042
-"cases","AB","Edmonton Zone","2022-03-02",168349
-"cases","AB","North Zone","2022-03-02",58696
-"cases","AB","South Zone","2022-03-02",33878
-"cases","AB","Unknown","2022-03-02",145
-"cases","AB","Calgary Zone","2022-03-03",212212
-"cases","AB","Central Zone","2022-03-03",53113
-"cases","AB","Edmonton Zone","2022-03-03",168501
-"cases","AB","North Zone","2022-03-03",58781
-"cases","AB","South Zone","2022-03-03",33934
-"cases","AB","Unknown","2022-03-03",145
-"cases","AB","Calgary Zone","2022-03-04",212358
-"cases","AB","Central Zone","2022-03-04",53177
-"cases","AB","Edmonton Zone","2022-03-04",168617
-"cases","AB","North Zone","2022-03-04",58837
-"cases","AB","South Zone","2022-03-04",33975
-"cases","AB","Unknown","2022-03-04",145
-"cases","AB","Calgary Zone","2022-03-05",212492
-"cases","AB","Central Zone","2022-03-05",53240
-"cases","AB","Edmonton Zone","2022-03-05",168734
-"cases","AB","North Zone","2022-03-05",58880
-"cases","AB","South Zone","2022-03-05",34016
-"cases","AB","Unknown","2022-03-05",145
-"cases","AB","Calgary Zone","2022-03-06",212587
-"cases","AB","Central Zone","2022-03-06",53290
-"cases","AB","Edmonton Zone","2022-03-06",168814
-"cases","AB","North Zone","2022-03-06",58916
-"cases","AB","South Zone","2022-03-06",34036
-"cases","AB","Unknown","2022-03-06",145
-"cases","AB","Calgary Zone","2022-03-07",212782
-"cases","AB","Central Zone","2022-03-07",53348
-"cases","AB","Edmonton Zone","2022-03-07",168942
-"cases","AB","North Zone","2022-03-07",58961
-"cases","AB","South Zone","2022-03-07",34083
-"cases","AB","Unknown","2022-03-07",145
-"cases","AB","Calgary Zone","2022-03-08",212941
-"cases","AB","Central Zone","2022-03-08",53433
-"cases","AB","Edmonton Zone","2022-03-08",169141
-"cases","AB","North Zone","2022-03-08",59026
-"cases","AB","South Zone","2022-03-08",34120
-"cases","AB","Unknown","2022-03-08",145
-"cases","AB","Calgary Zone","2022-03-09",213144
-"cases","AB","Central Zone","2022-03-09",53506
-"cases","AB","Edmonton Zone","2022-03-09",169307
-"cases","AB","North Zone","2022-03-09",59105
-"cases","AB","South Zone","2022-03-09",34179
-"cases","AB","Unknown","2022-03-09",145
-"cases","AB","Calgary Zone","2022-03-10",213317
-"cases","AB","Central Zone","2022-03-10",53582
-"cases","AB","Edmonton Zone","2022-03-10",169436
-"cases","AB","North Zone","2022-03-10",59163
-"cases","AB","South Zone","2022-03-10",34213
-"cases","AB","Unknown","2022-03-10",146
-"cases","AB","Calgary Zone","2022-03-11",213494
-"cases","AB","Central Zone","2022-03-11",53655
-"cases","AB","Edmonton Zone","2022-03-11",169607
-"cases","AB","North Zone","2022-03-11",59197
-"cases","AB","South Zone","2022-03-11",34260
-"cases","AB","Unknown","2022-03-11",147
-"cases","AB","Calgary Zone","2022-03-12",213609
-"cases","AB","Central Zone","2022-03-12",53713
-"cases","AB","Edmonton Zone","2022-03-12",169718
-"cases","AB","North Zone","2022-03-12",59265
-"cases","AB","South Zone","2022-03-12",34304
-"cases","AB","Unknown","2022-03-12",147
-"cases","AB","Calgary Zone","2022-03-13",213785
-"cases","AB","Central Zone","2022-03-13",53774
-"cases","AB","Edmonton Zone","2022-03-13",169847
-"cases","AB","North Zone","2022-03-13",59307
-"cases","AB","South Zone","2022-03-13",34335
-"cases","AB","Unknown","2022-03-13",147
-"cases","AB","Calgary Zone","2022-03-14",213962
-"cases","AB","Central Zone","2022-03-14",53834
-"cases","AB","Edmonton Zone","2022-03-14",169978
-"cases","AB","North Zone","2022-03-14",59350
-"cases","AB","South Zone","2022-03-14",34397
-"cases","AB","Unknown","2022-03-14",149
-"cases","AB","Calgary Zone","2022-03-15",214182
-"cases","AB","Central Zone","2022-03-15",53899
-"cases","AB","Edmonton Zone","2022-03-15",170156
-"cases","AB","North Zone","2022-03-15",59396
-"cases","AB","South Zone","2022-03-15",34466
-"cases","AB","Unknown","2022-03-15",150
-"cases","AB","Calgary Zone","2022-03-16",214397
+"cases","AB","Unknown","2022-01-24",102
+"cases","AB","Calgary Zone","2022-01-25",193887
+"cases","AB","Central Zone","2022-01-25",47362
+"cases","AB","Edmonton Zone","2022-01-25",154888
+"cases","AB","North Zone","2022-01-25",53359
+"cases","AB","South Zone","2022-01-25",29639
+"cases","AB","Unknown","2022-01-25",104
+"cases","AB","Calgary Zone","2022-01-26",195228
+"cases","AB","Central Zone","2022-01-26",47708
+"cases","AB","Edmonton Zone","2022-01-26",155949
+"cases","AB","North Zone","2022-01-26",53618
+"cases","AB","South Zone","2022-01-26",29863
+"cases","AB","Unknown","2022-01-26",107
+"cases","AB","Calgary Zone","2022-01-27",196553
+"cases","AB","Central Zone","2022-01-27",48015
+"cases","AB","Edmonton Zone","2022-01-27",156853
+"cases","AB","North Zone","2022-01-27",53894
+"cases","AB","South Zone","2022-01-27",30124
+"cases","AB","Unknown","2022-01-27",110
+"cases","AB","Calgary Zone","2022-01-28",197718
+"cases","AB","Central Zone","2022-01-28",48347
+"cases","AB","Edmonton Zone","2022-01-28",157854
+"cases","AB","North Zone","2022-01-28",54162
+"cases","AB","South Zone","2022-01-28",30303
+"cases","AB","Unknown","2022-01-28",110
+"cases","AB","Calgary Zone","2022-01-29",198506
+"cases","AB","Central Zone","2022-01-29",48571
+"cases","AB","Edmonton Zone","2022-01-29",158221
+"cases","AB","North Zone","2022-01-29",54367
+"cases","AB","South Zone","2022-01-29",30541
+"cases","AB","Unknown","2022-01-29",112
+"cases","AB","Calgary Zone","2022-01-30",199079
+"cases","AB","Central Zone","2022-01-30",48796
+"cases","AB","Edmonton Zone","2022-01-30",158821
+"cases","AB","North Zone","2022-01-30",54540
+"cases","AB","South Zone","2022-01-30",30705
+"cases","AB","Unknown","2022-01-30",113
+"cases","AB","Calgary Zone","2022-01-31",200111
+"cases","AB","Central Zone","2022-01-31",48965
+"cases","AB","Edmonton Zone","2022-01-31",159300
+"cases","AB","North Zone","2022-01-31",54712
+"cases","AB","South Zone","2022-01-31",30867
+"cases","AB","Unknown","2022-01-31",113
+"cases","AB","Calgary Zone","2022-02-01",201420
+"cases","AB","Central Zone","2022-02-01",49280
+"cases","AB","Edmonton Zone","2022-02-01",160218
+"cases","AB","North Zone","2022-02-01",54971
+"cases","AB","South Zone","2022-02-01",31100
+"cases","AB","Unknown","2022-02-01",113
+"cases","AB","Calgary Zone","2022-02-02",202423
+"cases","AB","Central Zone","2022-02-02",49617
+"cases","AB","Edmonton Zone","2022-02-02",160857
+"cases","AB","North Zone","2022-02-02",55225
+"cases","AB","South Zone","2022-02-02",31343
+"cases","AB","Unknown","2022-02-02",113
+"cases","AB","Calgary Zone","2022-02-03",203200
+"cases","AB","Central Zone","2022-02-03",49868
+"cases","AB","Edmonton Zone","2022-02-03",161460
+"cases","AB","North Zone","2022-02-03",55442
+"cases","AB","South Zone","2022-02-03",31588
+"cases","AB","Unknown","2022-02-03",114
+"cases","AB","Calgary Zone","2022-02-04",204050
+"cases","AB","Central Zone","2022-02-04",50107
+"cases","AB","Edmonton Zone","2022-02-04",162028
+"cases","AB","North Zone","2022-02-04",55660
+"cases","AB","South Zone","2022-02-04",31731
+"cases","AB","Unknown","2022-02-04",116
+"cases","AB","Calgary Zone","2022-02-05",204615
+"cases","AB","Central Zone","2022-02-05",50291
+"cases","AB","Edmonton Zone","2022-02-05",162389
+"cases","AB","North Zone","2022-02-05",55809
+"cases","AB","South Zone","2022-02-05",31846
+"cases","AB","Unknown","2022-02-05",118
+"cases","AB","Calgary Zone","2022-02-06",205047
+"cases","AB","Central Zone","2022-02-06",50438
+"cases","AB","Edmonton Zone","2022-02-06",162688
+"cases","AB","North Zone","2022-02-06",55942
+"cases","AB","South Zone","2022-02-06",31953
+"cases","AB","Unknown","2022-02-06",119
+"cases","AB","Calgary Zone","2022-02-07",205707
+"cases","AB","Central Zone","2022-02-07",50568
+"cases","AB","Edmonton Zone","2022-02-07",163148
+"cases","AB","North Zone","2022-02-07",56100
+"cases","AB","South Zone","2022-02-07",32087
+"cases","AB","Unknown","2022-02-07",119
+"cases","AB","Calgary Zone","2022-02-08",206475
+"cases","AB","Central Zone","2022-02-08",50771
+"cases","AB","Edmonton Zone","2022-02-08",163672
+"cases","AB","North Zone","2022-02-08",56284
+"cases","AB","South Zone","2022-02-08",32211
+"cases","AB","Unknown","2022-02-08",119
+"cases","AB","Calgary Zone","2022-02-09",206967
+"cases","AB","Central Zone","2022-02-09",50978
+"cases","AB","Edmonton Zone","2022-02-09",164083
+"cases","AB","North Zone","2022-02-09",56493
+"cases","AB","South Zone","2022-02-09",32353
+"cases","AB","Unknown","2022-02-09",120
+"cases","AB","Calgary Zone","2022-02-10",207540
+"cases","AB","Central Zone","2022-02-10",51140
+"cases","AB","Edmonton Zone","2022-02-10",164479
+"cases","AB","North Zone","2022-02-10",56657
+"cases","AB","South Zone","2022-02-10",32459
+"cases","AB","Unknown","2022-02-10",120
+"cases","AB","Calgary Zone","2022-02-11",207900
+"cases","AB","Central Zone","2022-02-11",51270
+"cases","AB","Edmonton Zone","2022-02-11",164809
+"cases","AB","North Zone","2022-02-11",56824
+"cases","AB","South Zone","2022-02-11",32575
+"cases","AB","Unknown","2022-02-11",120
+"cases","AB","Calgary Zone","2022-02-12",208208
+"cases","AB","Central Zone","2022-02-12",51371
+"cases","AB","Edmonton Zone","2022-02-12",165056
+"cases","AB","North Zone","2022-02-12",56931
+"cases","AB","South Zone","2022-02-12",32659
+"cases","AB","Unknown","2022-02-12",120
+"cases","AB","Calgary Zone","2022-02-13",208403
+"cases","AB","Central Zone","2022-02-13",51458
+"cases","AB","Edmonton Zone","2022-02-13",165252
+"cases","AB","North Zone","2022-02-13",57020
+"cases","AB","South Zone","2022-02-13",32720
+"cases","AB","Unknown","2022-02-13",120
+"cases","AB","Calgary Zone","2022-02-14",208750
+"cases","AB","Central Zone","2022-02-14",51572
+"cases","AB","Edmonton Zone","2022-02-14",165469
+"cases","AB","North Zone","2022-02-14",57105
+"cases","AB","South Zone","2022-02-14",32815
+"cases","AB","Unknown","2022-02-14",121
+"cases","AB","Calgary Zone","2022-02-15",209083
+"cases","AB","Central Zone","2022-02-15",51704
+"cases","AB","Edmonton Zone","2022-02-15",165774
+"cases","AB","North Zone","2022-02-15",57285
+"cases","AB","South Zone","2022-02-15",32915
+"cases","AB","Unknown","2022-02-15",122
+"cases","AB","Calgary Zone","2022-02-16",209449
+"cases","AB","Central Zone","2022-02-16",51842
+"cases","AB","Edmonton Zone","2022-02-16",165998
+"cases","AB","North Zone","2022-02-16",57418
+"cases","AB","South Zone","2022-02-16",33013
+"cases","AB","Unknown","2022-02-16",123
+"cases","AB","Calgary Zone","2022-02-17",209672
+"cases","AB","Central Zone","2022-02-17",51985
+"cases","AB","Edmonton Zone","2022-02-17",166247
+"cases","AB","North Zone","2022-02-17",57529
+"cases","AB","South Zone","2022-02-17",33091
+"cases","AB","Unknown","2022-02-17",124
+"cases","AB","Calgary Zone","2022-02-18",209927
+"cases","AB","Central Zone","2022-02-18",52088
+"cases","AB","Edmonton Zone","2022-02-18",166417
+"cases","AB","North Zone","2022-02-18",57671
+"cases","AB","South Zone","2022-02-18",33157
+"cases","AB","Unknown","2022-02-18",125
+"cases","AB","Calgary Zone","2022-02-19",210071
+"cases","AB","Central Zone","2022-02-19",52163
+"cases","AB","Edmonton Zone","2022-02-19",166546
+"cases","AB","North Zone","2022-02-19",57753
+"cases","AB","South Zone","2022-02-19",33197
+"cases","AB","Unknown","2022-02-19",125
+"cases","AB","Calgary Zone","2022-02-20",210219
+"cases","AB","Central Zone","2022-02-20",52223
+"cases","AB","Edmonton Zone","2022-02-20",166670
+"cases","AB","North Zone","2022-02-20",57843
+"cases","AB","South Zone","2022-02-20",33239
+"cases","AB","Unknown","2022-02-20",125
+"cases","AB","Calgary Zone","2022-02-21",210385
+"cases","AB","Central Zone","2022-02-21",52261
+"cases","AB","Edmonton Zone","2022-02-21",166777
+"cases","AB","North Zone","2022-02-21",57917
+"cases","AB","South Zone","2022-02-21",33307
+"cases","AB","Unknown","2022-02-21",126
+"cases","AB","Calgary Zone","2022-02-22",210646
+"cases","AB","Central Zone","2022-02-22",52360
+"cases","AB","Edmonton Zone","2022-02-22",166996
+"cases","AB","North Zone","2022-02-22",58019
+"cases","AB","South Zone","2022-02-22",33378
+"cases","AB","Unknown","2022-02-22",126
+"cases","AB","Calgary Zone","2022-02-23",210872
+"cases","AB","Central Zone","2022-02-23",52478
+"cases","AB","Edmonton Zone","2022-02-23",167199
+"cases","AB","North Zone","2022-02-23",58125
+"cases","AB","South Zone","2022-02-23",33466
+"cases","AB","Unknown","2022-02-23",126
+"cases","AB","Calgary Zone","2022-02-24",211065
+"cases","AB","Central Zone","2022-02-24",52579
+"cases","AB","Edmonton Zone","2022-02-24",167380
+"cases","AB","North Zone","2022-02-24",58231
+"cases","AB","South Zone","2022-02-24",33541
+"cases","AB","Unknown","2022-02-24",126
+"cases","AB","Calgary Zone","2022-02-25",211278
+"cases","AB","Central Zone","2022-02-25",52674
+"cases","AB","Edmonton Zone","2022-02-25",167510
+"cases","AB","North Zone","2022-02-25",58333
+"cases","AB","South Zone","2022-02-25",33601
+"cases","AB","Unknown","2022-02-25",127
+"cases","AB","Calgary Zone","2022-02-26",211400
+"cases","AB","Central Zone","2022-02-26",52750
+"cases","AB","Edmonton Zone","2022-02-26",167674
+"cases","AB","North Zone","2022-02-26",58393
+"cases","AB","South Zone","2022-02-26",33642
+"cases","AB","Unknown","2022-02-26",127
+"cases","AB","Calgary Zone","2022-02-27",211528
+"cases","AB","Central Zone","2022-02-27",52798
+"cases","AB","Edmonton Zone","2022-02-27",167772
+"cases","AB","North Zone","2022-02-27",58442
+"cases","AB","South Zone","2022-02-27",33695
+"cases","AB","Unknown","2022-02-27",127
+"cases","AB","Calgary Zone","2022-02-28",211672
+"cases","AB","Central Zone","2022-02-28",52861
+"cases","AB","Edmonton Zone","2022-02-28",167956
+"cases","AB","North Zone","2022-02-28",58515
+"cases","AB","South Zone","2022-02-28",33756
+"cases","AB","Unknown","2022-02-28",127
+"cases","AB","Calgary Zone","2022-03-01",211855
+"cases","AB","Central Zone","2022-03-01",52950
+"cases","AB","Edmonton Zone","2022-03-01",168115
+"cases","AB","North Zone","2022-03-01",58590
+"cases","AB","South Zone","2022-03-01",33800
+"cases","AB","Unknown","2022-03-01",127
+"cases","AB","Calgary Zone","2022-03-02",212059
+"cases","AB","Central Zone","2022-03-02",53041
+"cases","AB","Edmonton Zone","2022-03-02",168281
+"cases","AB","North Zone","2022-03-02",58693
+"cases","AB","South Zone","2022-03-02",33879
+"cases","AB","Unknown","2022-03-02",127
+"cases","AB","Calgary Zone","2022-03-03",212184
+"cases","AB","Central Zone","2022-03-03",53112
+"cases","AB","Edmonton Zone","2022-03-03",168433
+"cases","AB","North Zone","2022-03-03",58778
+"cases","AB","South Zone","2022-03-03",33935
+"cases","AB","Unknown","2022-03-03",127
+"cases","AB","Calgary Zone","2022-03-04",212330
+"cases","AB","Central Zone","2022-03-04",53176
+"cases","AB","Edmonton Zone","2022-03-04",168549
+"cases","AB","North Zone","2022-03-04",58834
+"cases","AB","South Zone","2022-03-04",33976
+"cases","AB","Unknown","2022-03-04",127
+"cases","AB","Calgary Zone","2022-03-05",212464
+"cases","AB","Central Zone","2022-03-05",53239
+"cases","AB","Edmonton Zone","2022-03-05",168666
+"cases","AB","North Zone","2022-03-05",58877
+"cases","AB","South Zone","2022-03-05",34017
+"cases","AB","Unknown","2022-03-05",127
+"cases","AB","Calgary Zone","2022-03-06",212559
+"cases","AB","Central Zone","2022-03-06",53289
+"cases","AB","Edmonton Zone","2022-03-06",168746
+"cases","AB","North Zone","2022-03-06",58913
+"cases","AB","South Zone","2022-03-06",34037
+"cases","AB","Unknown","2022-03-06",127
+"cases","AB","Calgary Zone","2022-03-07",212754
+"cases","AB","Central Zone","2022-03-07",53347
+"cases","AB","Edmonton Zone","2022-03-07",168874
+"cases","AB","North Zone","2022-03-07",58958
+"cases","AB","South Zone","2022-03-07",34084
+"cases","AB","Unknown","2022-03-07",127
+"cases","AB","Calgary Zone","2022-03-08",212913
+"cases","AB","Central Zone","2022-03-08",53432
+"cases","AB","Edmonton Zone","2022-03-08",169073
+"cases","AB","North Zone","2022-03-08",59023
+"cases","AB","South Zone","2022-03-08",34121
+"cases","AB","Unknown","2022-03-08",127
+"cases","AB","Calgary Zone","2022-03-09",213116
+"cases","AB","Central Zone","2022-03-09",53505
+"cases","AB","Edmonton Zone","2022-03-09",169238
+"cases","AB","North Zone","2022-03-09",59102
+"cases","AB","South Zone","2022-03-09",34180
+"cases","AB","Unknown","2022-03-09",127
+"cases","AB","Calgary Zone","2022-03-10",213289
+"cases","AB","Central Zone","2022-03-10",53581
+"cases","AB","Edmonton Zone","2022-03-10",169366
+"cases","AB","North Zone","2022-03-10",59160
+"cases","AB","South Zone","2022-03-10",34214
+"cases","AB","Unknown","2022-03-10",128
+"cases","AB","Calgary Zone","2022-03-11",213466
+"cases","AB","Central Zone","2022-03-11",53654
+"cases","AB","Edmonton Zone","2022-03-11",169537
+"cases","AB","North Zone","2022-03-11",59194
+"cases","AB","South Zone","2022-03-11",34261
+"cases","AB","Unknown","2022-03-11",128
+"cases","AB","Calgary Zone","2022-03-12",213581
+"cases","AB","Central Zone","2022-03-12",53712
+"cases","AB","Edmonton Zone","2022-03-12",169648
+"cases","AB","North Zone","2022-03-12",59262
+"cases","AB","South Zone","2022-03-12",34305
+"cases","AB","Unknown","2022-03-12",128
+"cases","AB","Calgary Zone","2022-03-13",213757
+"cases","AB","Central Zone","2022-03-13",53773
+"cases","AB","Edmonton Zone","2022-03-13",169776
+"cases","AB","North Zone","2022-03-13",59304
+"cases","AB","South Zone","2022-03-13",34336
+"cases","AB","Unknown","2022-03-13",128
+"cases","AB","Calgary Zone","2022-03-14",213934
+"cases","AB","Central Zone","2022-03-14",53833
+"cases","AB","Edmonton Zone","2022-03-14",169906
+"cases","AB","North Zone","2022-03-14",59347
+"cases","AB","South Zone","2022-03-14",34398
+"cases","AB","Unknown","2022-03-14",130
+"cases","AB","Calgary Zone","2022-03-15",214154
+"cases","AB","Central Zone","2022-03-15",53898
+"cases","AB","Edmonton Zone","2022-03-15",170083
+"cases","AB","North Zone","2022-03-15",59393
+"cases","AB","South Zone","2022-03-15",34467
+"cases","AB","Unknown","2022-03-15",130
+"cases","AB","Calgary Zone","2022-03-16",214369
 "cases","AB","Central Zone","2022-03-16",53959
-"cases","AB","Edmonton Zone","2022-03-16",170335
-"cases","AB","North Zone","2022-03-16",59445
-"cases","AB","South Zone","2022-03-16",34533
-"cases","AB","Unknown","2022-03-16",150
-"cases","AB","Calgary Zone","2022-03-17",214696
+"cases","AB","Edmonton Zone","2022-03-16",170261
+"cases","AB","North Zone","2022-03-16",59442
+"cases","AB","South Zone","2022-03-16",34534
+"cases","AB","Unknown","2022-03-16",130
+"cases","AB","Calgary Zone","2022-03-17",214668
 "cases","AB","Central Zone","2022-03-17",54011
-"cases","AB","Edmonton Zone","2022-03-17",170494
-"cases","AB","North Zone","2022-03-17",59491
-"cases","AB","South Zone","2022-03-17",34579
-"cases","AB","Unknown","2022-03-17",151
-"cases","AB","Calgary Zone","2022-03-18",214931
+"cases","AB","Edmonton Zone","2022-03-17",170420
+"cases","AB","North Zone","2022-03-17",59488
+"cases","AB","South Zone","2022-03-17",34580
+"cases","AB","Unknown","2022-03-17",131
+"cases","AB","Calgary Zone","2022-03-18",214902
 "cases","AB","Central Zone","2022-03-18",54074
-"cases","AB","Edmonton Zone","2022-03-18",170654
-"cases","AB","North Zone","2022-03-18",59540
-"cases","AB","South Zone","2022-03-18",34629
-"cases","AB","Unknown","2022-03-18",151
-"cases","AB","Calgary Zone","2022-03-19",215108
+"cases","AB","Edmonton Zone","2022-03-18",170580
+"cases","AB","North Zone","2022-03-18",59537
+"cases","AB","South Zone","2022-03-18",34630
+"cases","AB","Unknown","2022-03-18",131
+"cases","AB","Calgary Zone","2022-03-19",215079
 "cases","AB","Central Zone","2022-03-19",54123
-"cases","AB","Edmonton Zone","2022-03-19",170825
-"cases","AB","North Zone","2022-03-19",59581
-"cases","AB","South Zone","2022-03-19",34672
-"cases","AB","Unknown","2022-03-19",151
-"cases","AB","Calgary Zone","2022-03-20",215222
+"cases","AB","Edmonton Zone","2022-03-19",170749
+"cases","AB","North Zone","2022-03-19",59578
+"cases","AB","South Zone","2022-03-19",34673
+"cases","AB","Unknown","2022-03-19",131
+"cases","AB","Calgary Zone","2022-03-20",215193
 "cases","AB","Central Zone","2022-03-20",54191
-"cases","AB","Edmonton Zone","2022-03-20",170931
-"cases","AB","North Zone","2022-03-20",59606
-"cases","AB","South Zone","2022-03-20",34702
-"cases","AB","Unknown","2022-03-20",151
-"cases","AB","Calgary Zone","2022-03-21",215405
+"cases","AB","Edmonton Zone","2022-03-20",170855
+"cases","AB","North Zone","2022-03-20",59603
+"cases","AB","South Zone","2022-03-20",34703
+"cases","AB","Unknown","2022-03-20",131
+"cases","AB","Calgary Zone","2022-03-21",215374
 "cases","AB","Central Zone","2022-03-21",54253
-"cases","AB","Edmonton Zone","2022-03-21",171089
-"cases","AB","North Zone","2022-03-21",59647
+"cases","AB","Edmonton Zone","2022-03-21",171013
+"cases","AB","North Zone","2022-03-21",59644
 "cases","AB","South Zone","2022-03-21",34748
-"cases","AB","Unknown","2022-03-21",151
-"cases","AB","Calgary Zone","2022-03-22",215712
+"cases","AB","Unknown","2022-03-21",131
+"cases","AB","Calgary Zone","2022-03-22",215680
 "cases","AB","Central Zone","2022-03-22",54345
-"cases","AB","Edmonton Zone","2022-03-22",171358
-"cases","AB","North Zone","2022-03-22",59692
+"cases","AB","Edmonton Zone","2022-03-22",171282
+"cases","AB","North Zone","2022-03-22",59689
 "cases","AB","South Zone","2022-03-22",34807
-"cases","AB","Unknown","2022-03-22",151
-"cases","AB","Calgary Zone","2022-03-23",216014
+"cases","AB","Unknown","2022-03-22",131
+"cases","AB","Calgary Zone","2022-03-23",215979
 "cases","AB","Central Zone","2022-03-23",54433
-"cases","AB","Edmonton Zone","2022-03-23",171610
-"cases","AB","North Zone","2022-03-23",59756
-"cases","AB","South Zone","2022-03-23",34843
-"cases","AB","Unknown","2022-03-23",151
-"cases","AB","Calgary Zone","2022-03-24",216356
+"cases","AB","Edmonton Zone","2022-03-23",171533
+"cases","AB","North Zone","2022-03-23",59753
+"cases","AB","South Zone","2022-03-23",34844
+"cases","AB","Unknown","2022-03-23",131
+"cases","AB","Calgary Zone","2022-03-24",216320
 "cases","AB","Central Zone","2022-03-24",54538
-"cases","AB","Edmonton Zone","2022-03-24",171863
-"cases","AB","North Zone","2022-03-24",59816
-"cases","AB","South Zone","2022-03-24",34906
-"cases","AB","Unknown","2022-03-24",151
-"cases","AB","Calgary Zone","2022-03-25",216624
+"cases","AB","Edmonton Zone","2022-03-24",171786
+"cases","AB","North Zone","2022-03-24",59813
+"cases","AB","South Zone","2022-03-24",34907
+"cases","AB","Unknown","2022-03-24",131
+"cases","AB","Calgary Zone","2022-03-25",216589
 "cases","AB","Central Zone","2022-03-25",54602
-"cases","AB","Edmonton Zone","2022-03-25",172107
-"cases","AB","North Zone","2022-03-25",59881
-"cases","AB","South Zone","2022-03-25",34954
-"cases","AB","Unknown","2022-03-25",152
-"cases","AB","Calgary Zone","2022-03-26",216830
+"cases","AB","Edmonton Zone","2022-03-25",172030
+"cases","AB","North Zone","2022-03-25",59878
+"cases","AB","South Zone","2022-03-25",34955
+"cases","AB","Unknown","2022-03-25",131
+"cases","AB","Calgary Zone","2022-03-26",216795
 "cases","AB","Central Zone","2022-03-26",54662
-"cases","AB","Edmonton Zone","2022-03-26",172274
-"cases","AB","North Zone","2022-03-26",59924
-"cases","AB","South Zone","2022-03-26",35005
-"cases","AB","Unknown","2022-03-26",152
-"cases","AB","Calgary Zone","2022-03-27",217001
+"cases","AB","Edmonton Zone","2022-03-26",172196
+"cases","AB","North Zone","2022-03-26",59921
+"cases","AB","South Zone","2022-03-26",35006
+"cases","AB","Unknown","2022-03-26",131
+"cases","AB","Calgary Zone","2022-03-27",216966
 "cases","AB","Central Zone","2022-03-27",54718
-"cases","AB","Edmonton Zone","2022-03-27",172422
-"cases","AB","North Zone","2022-03-27",59968
-"cases","AB","South Zone","2022-03-27",35045
-"cases","AB","Unknown","2022-03-27",152
-"cases","AB","Calgary Zone","2022-03-28",217249
+"cases","AB","Edmonton Zone","2022-03-27",172344
+"cases","AB","North Zone","2022-03-27",59965
+"cases","AB","South Zone","2022-03-27",35046
+"cases","AB","Unknown","2022-03-27",131
+"cases","AB","Calgary Zone","2022-03-28",217212
 "cases","AB","Central Zone","2022-03-28",54787
-"cases","AB","Edmonton Zone","2022-03-28",172558
-"cases","AB","North Zone","2022-03-28",60029
-"cases","AB","South Zone","2022-03-28",35105
-"cases","AB","Unknown","2022-03-28",152
-"cases","AB","Calgary Zone","2022-03-29",217601
+"cases","AB","Edmonton Zone","2022-03-28",172479
+"cases","AB","North Zone","2022-03-28",60026
+"cases","AB","South Zone","2022-03-28",35106
+"cases","AB","Unknown","2022-03-28",131
+"cases","AB","Calgary Zone","2022-03-29",217563
 "cases","AB","Central Zone","2022-03-29",54876
-"cases","AB","Edmonton Zone","2022-03-29",172854
-"cases","AB","North Zone","2022-03-29",60113
-"cases","AB","South Zone","2022-03-29",35161
-"cases","AB","Unknown","2022-03-29",152
-"cases","AB","Calgary Zone","2022-03-30",217944
+"cases","AB","Edmonton Zone","2022-03-29",172775
+"cases","AB","North Zone","2022-03-29",60110
+"cases","AB","South Zone","2022-03-29",35162
+"cases","AB","Unknown","2022-03-29",131
+"cases","AB","Calgary Zone","2022-03-30",217906
 "cases","AB","Central Zone","2022-03-30",54995
-"cases","AB","Edmonton Zone","2022-03-30",173091
-"cases","AB","North Zone","2022-03-30",60189
-"cases","AB","South Zone","2022-03-30",35254
-"cases","AB","Unknown","2022-03-30",152
-"cases","AB","Calgary Zone","2022-03-31",218276
+"cases","AB","Edmonton Zone","2022-03-30",173012
+"cases","AB","North Zone","2022-03-30",60186
+"cases","AB","South Zone","2022-03-30",35255
+"cases","AB","Unknown","2022-03-30",131
+"cases","AB","Calgary Zone","2022-03-31",218238
 "cases","AB","Central Zone","2022-03-31",55148
-"cases","AB","Edmonton Zone","2022-03-31",173364
-"cases","AB","North Zone","2022-03-31",60261
-"cases","AB","South Zone","2022-03-31",35330
-"cases","AB","Unknown","2022-03-31",153
-"cases","AB","Calgary Zone","2022-04-01",218617
+"cases","AB","Edmonton Zone","2022-03-31",173285
+"cases","AB","North Zone","2022-03-31",60258
+"cases","AB","South Zone","2022-03-31",35331
+"cases","AB","Unknown","2022-03-31",132
+"cases","AB","Calgary Zone","2022-04-01",218579
 "cases","AB","Central Zone","2022-04-01",55231
-"cases","AB","Edmonton Zone","2022-04-01",173696
-"cases","AB","North Zone","2022-04-01",60322
-"cases","AB","South Zone","2022-04-01",35371
-"cases","AB","Unknown","2022-04-01",153
-"cases","AB","Calgary Zone","2022-04-02",218918
+"cases","AB","Edmonton Zone","2022-04-01",173617
+"cases","AB","North Zone","2022-04-01",60319
+"cases","AB","South Zone","2022-04-01",35372
+"cases","AB","Unknown","2022-04-01",132
+"cases","AB","Calgary Zone","2022-04-02",218880
 "cases","AB","Central Zone","2022-04-02",55304
-"cases","AB","Edmonton Zone","2022-04-02",173882
-"cases","AB","North Zone","2022-04-02",60368
-"cases","AB","South Zone","2022-04-02",35427
-"cases","AB","Unknown","2022-04-02",154
-"cases","AB","Calgary Zone","2022-04-03",219191
+"cases","AB","Edmonton Zone","2022-04-02",173803
+"cases","AB","North Zone","2022-04-02",60365
+"cases","AB","South Zone","2022-04-02",35428
+"cases","AB","Unknown","2022-04-02",133
+"cases","AB","Calgary Zone","2022-04-03",219150
 "cases","AB","Central Zone","2022-04-03",55351
-"cases","AB","Edmonton Zone","2022-04-03",174024
-"cases","AB","North Zone","2022-04-03",60402
-"cases","AB","South Zone","2022-04-03",35455
-"cases","AB","Unknown","2022-04-03",154
-"cases","AB","Calgary Zone","2022-04-04",219549
-"cases","AB","Central Zone","2022-04-04",55451
-"cases","AB","Edmonton Zone","2022-04-04",174270
-"cases","AB","North Zone","2022-04-04",60445
-"cases","AB","South Zone","2022-04-04",35531
-"cases","AB","Unknown","2022-04-04",154
-"cases","AB","Calgary Zone","2022-04-05",219936
-"cases","AB","Central Zone","2022-04-05",55582
-"cases","AB","Edmonton Zone","2022-04-05",174648
-"cases","AB","North Zone","2022-04-05",60511
-"cases","AB","South Zone","2022-04-05",35601
-"cases","AB","Unknown","2022-04-05",154
-"cases","AB","Calgary Zone","2022-04-06",220334
-"cases","AB","Central Zone","2022-04-06",55740
-"cases","AB","Edmonton Zone","2022-04-06",174937
-"cases","AB","North Zone","2022-04-06",60602
-"cases","AB","South Zone","2022-04-06",35674
-"cases","AB","Unknown","2022-04-06",154
-"cases","AB","Calgary Zone","2022-04-07",220671
-"cases","AB","Central Zone","2022-04-07",55835
-"cases","AB","Edmonton Zone","2022-04-07",175314
-"cases","AB","North Zone","2022-04-07",60656
-"cases","AB","South Zone","2022-04-07",35730
-"cases","AB","Unknown","2022-04-07",154
-"cases","AB","Calgary Zone","2022-04-08",221038
-"cases","AB","Central Zone","2022-04-08",55968
-"cases","AB","Edmonton Zone","2022-04-08",175632
-"cases","AB","North Zone","2022-04-08",60726
-"cases","AB","South Zone","2022-04-08",35776
-"cases","AB","Unknown","2022-04-08",154
-"cases","AB","Calgary Zone","2022-04-09",221370
-"cases","AB","Central Zone","2022-04-09",56063
-"cases","AB","Edmonton Zone","2022-04-09",175942
-"cases","AB","North Zone","2022-04-09",60781
-"cases","AB","South Zone","2022-04-09",35807
-"cases","AB","Unknown","2022-04-09",154
-"cases","AB","Calgary Zone","2022-04-10",221611
-"cases","AB","Central Zone","2022-04-10",56145
-"cases","AB","Edmonton Zone","2022-04-10",176125
-"cases","AB","North Zone","2022-04-10",60830
-"cases","AB","South Zone","2022-04-10",35841
-"cases","AB","Unknown","2022-04-10",154
-"cases","AB","Calgary Zone","2022-04-11",221970
-"cases","AB","Central Zone","2022-04-11",56262
-"cases","AB","Edmonton Zone","2022-04-11",176369
-"cases","AB","North Zone","2022-04-11",60891
-"cases","AB","South Zone","2022-04-11",35894
-"cases","AB","Unknown","2022-04-11",154
-"cases","AB","Calgary Zone","2022-04-12",222389
-"cases","AB","Central Zone","2022-04-12",56377
-"cases","AB","Edmonton Zone","2022-04-12",176742
-"cases","AB","North Zone","2022-04-12",60942
-"cases","AB","South Zone","2022-04-12",35952
-"cases","AB","Unknown","2022-04-12",154
-"cases","AB","Calgary Zone","2022-04-13",222815
-"cases","AB","Central Zone","2022-04-13",56505
-"cases","AB","Edmonton Zone","2022-04-13",177079
-"cases","AB","North Zone","2022-04-13",61022
-"cases","AB","South Zone","2022-04-13",36008
-"cases","AB","Unknown","2022-04-13",154
-"cases","AB","Calgary Zone","2022-04-14",223190
-"cases","AB","Central Zone","2022-04-14",56663
-"cases","AB","Edmonton Zone","2022-04-14",177430
-"cases","AB","North Zone","2022-04-14",61100
-"cases","AB","South Zone","2022-04-14",36065
-"cases","AB","Unknown","2022-04-14",154
-"cases","AB","Calgary Zone","2022-04-15",223583
-"cases","AB","Central Zone","2022-04-15",56738
-"cases","AB","Edmonton Zone","2022-04-15",177696
-"cases","AB","North Zone","2022-04-15",61154
-"cases","AB","South Zone","2022-04-15",36125
-"cases","AB","Unknown","2022-04-15",154
-"cases","AB","Calgary Zone","2022-04-16",223927
-"cases","AB","Central Zone","2022-04-16",56804
-"cases","AB","Edmonton Zone","2022-04-16",177921
-"cases","AB","North Zone","2022-04-16",61211
-"cases","AB","South Zone","2022-04-16",36172
-"cases","AB","Unknown","2022-04-16",154
-"cases","AB","Calgary Zone","2022-04-17",224194
-"cases","AB","Central Zone","2022-04-17",56869
-"cases","AB","Edmonton Zone","2022-04-17",178118
-"cases","AB","North Zone","2022-04-17",61264
-"cases","AB","South Zone","2022-04-17",36227
-"cases","AB","Unknown","2022-04-17",154
-"cases","AB","Calgary Zone","2022-04-18",224552
-"cases","AB","Central Zone","2022-04-18",56979
-"cases","AB","Edmonton Zone","2022-04-18",178351
-"cases","AB","North Zone","2022-04-18",61314
-"cases","AB","South Zone","2022-04-18",36288
-"cases","AB","Unknown","2022-04-18",154
-"cases","AB","Calgary Zone","2022-04-19",224992
-"cases","AB","Central Zone","2022-04-19",57083
-"cases","AB","Edmonton Zone","2022-04-19",178785
-"cases","AB","North Zone","2022-04-19",61376
-"cases","AB","South Zone","2022-04-19",36374
-"cases","AB","Unknown","2022-04-19",154
-"cases","AB","Calgary Zone","2022-04-20",225479
-"cases","AB","Central Zone","2022-04-20",57197
-"cases","AB","Edmonton Zone","2022-04-20",179237
-"cases","AB","North Zone","2022-04-20",61465
+"cases","AB","Edmonton Zone","2022-04-03",173945
+"cases","AB","North Zone","2022-04-03",60399
+"cases","AB","South Zone","2022-04-03",35456
+"cases","AB","Unknown","2022-04-03",133
+"cases","AB","Calgary Zone","2022-04-04",219508
+"cases","AB","Central Zone","2022-04-04",55450
+"cases","AB","Edmonton Zone","2022-04-04",174191
+"cases","AB","North Zone","2022-04-04",60442
+"cases","AB","South Zone","2022-04-04",35532
+"cases","AB","Unknown","2022-04-04",133
+"cases","AB","Calgary Zone","2022-04-05",219895
+"cases","AB","Central Zone","2022-04-05",55581
+"cases","AB","Edmonton Zone","2022-04-05",174567
+"cases","AB","North Zone","2022-04-05",60508
+"cases","AB","South Zone","2022-04-05",35602
+"cases","AB","Unknown","2022-04-05",133
+"cases","AB","Calgary Zone","2022-04-06",220293
+"cases","AB","Central Zone","2022-04-06",55739
+"cases","AB","Edmonton Zone","2022-04-06",174856
+"cases","AB","North Zone","2022-04-06",60599
+"cases","AB","South Zone","2022-04-06",35675
+"cases","AB","Unknown","2022-04-06",133
+"cases","AB","Calgary Zone","2022-04-07",220629
+"cases","AB","Central Zone","2022-04-07",55834
+"cases","AB","Edmonton Zone","2022-04-07",175233
+"cases","AB","North Zone","2022-04-07",60653
+"cases","AB","South Zone","2022-04-07",35731
+"cases","AB","Unknown","2022-04-07",133
+"cases","AB","Calgary Zone","2022-04-08",220996
+"cases","AB","Central Zone","2022-04-08",55967
+"cases","AB","Edmonton Zone","2022-04-08",175551
+"cases","AB","North Zone","2022-04-08",60723
+"cases","AB","South Zone","2022-04-08",35777
+"cases","AB","Unknown","2022-04-08",133
+"cases","AB","Calgary Zone","2022-04-09",221326
+"cases","AB","Central Zone","2022-04-09",56062
+"cases","AB","Edmonton Zone","2022-04-09",175860
+"cases","AB","North Zone","2022-04-09",60778
+"cases","AB","South Zone","2022-04-09",35808
+"cases","AB","Unknown","2022-04-09",133
+"cases","AB","Calgary Zone","2022-04-10",221566
+"cases","AB","Central Zone","2022-04-10",56144
+"cases","AB","Edmonton Zone","2022-04-10",176043
+"cases","AB","North Zone","2022-04-10",60827
+"cases","AB","South Zone","2022-04-10",35842
+"cases","AB","Unknown","2022-04-10",133
+"cases","AB","Calgary Zone","2022-04-11",221925
+"cases","AB","Central Zone","2022-04-11",56261
+"cases","AB","Edmonton Zone","2022-04-11",176287
+"cases","AB","North Zone","2022-04-11",60888
+"cases","AB","South Zone","2022-04-11",35895
+"cases","AB","Unknown","2022-04-11",133
+"cases","AB","Calgary Zone","2022-04-12",222343
+"cases","AB","Central Zone","2022-04-12",56376
+"cases","AB","Edmonton Zone","2022-04-12",176658
+"cases","AB","North Zone","2022-04-12",60939
+"cases","AB","South Zone","2022-04-12",35953
+"cases","AB","Unknown","2022-04-12",133
+"cases","AB","Calgary Zone","2022-04-13",222769
+"cases","AB","Central Zone","2022-04-13",56504
+"cases","AB","Edmonton Zone","2022-04-13",176992
+"cases","AB","North Zone","2022-04-13",61019
+"cases","AB","South Zone","2022-04-13",36009
+"cases","AB","Unknown","2022-04-13",133
+"cases","AB","Calgary Zone","2022-04-14",223143
+"cases","AB","Central Zone","2022-04-14",56662
+"cases","AB","Edmonton Zone","2022-04-14",177343
+"cases","AB","North Zone","2022-04-14",61097
+"cases","AB","South Zone","2022-04-14",36066
+"cases","AB","Unknown","2022-04-14",133
+"cases","AB","Calgary Zone","2022-04-15",223535
+"cases","AB","Central Zone","2022-04-15",56736
+"cases","AB","Edmonton Zone","2022-04-15",177609
+"cases","AB","North Zone","2022-04-15",61151
+"cases","AB","South Zone","2022-04-15",36126
+"cases","AB","Unknown","2022-04-15",133
+"cases","AB","Calgary Zone","2022-04-16",223879
+"cases","AB","Central Zone","2022-04-16",56802
+"cases","AB","Edmonton Zone","2022-04-16",177833
+"cases","AB","North Zone","2022-04-16",61208
+"cases","AB","South Zone","2022-04-16",36173
+"cases","AB","Unknown","2022-04-16",133
+"cases","AB","Calgary Zone","2022-04-17",224146
+"cases","AB","Central Zone","2022-04-17",56867
+"cases","AB","Edmonton Zone","2022-04-17",178030
+"cases","AB","North Zone","2022-04-17",61261
+"cases","AB","South Zone","2022-04-17",36228
+"cases","AB","Unknown","2022-04-17",133
+"cases","AB","Calgary Zone","2022-04-18",224504
+"cases","AB","Central Zone","2022-04-18",56977
+"cases","AB","Edmonton Zone","2022-04-18",178263
+"cases","AB","North Zone","2022-04-18",61311
+"cases","AB","South Zone","2022-04-18",36289
+"cases","AB","Unknown","2022-04-18",133
+"cases","AB","Calgary Zone","2022-04-19",224944
+"cases","AB","Central Zone","2022-04-19",57081
+"cases","AB","Edmonton Zone","2022-04-19",178696
+"cases","AB","North Zone","2022-04-19",61373
+"cases","AB","South Zone","2022-04-19",36375
+"cases","AB","Unknown","2022-04-19",133
+"cases","AB","Calgary Zone","2022-04-20",225431
+"cases","AB","Central Zone","2022-04-20",57195
+"cases","AB","Edmonton Zone","2022-04-20",179147
+"cases","AB","North Zone","2022-04-20",61462
 "cases","AB","South Zone","2022-04-20",36460
-"cases","AB","Unknown","2022-04-20",154
-"cases","AB","Calgary Zone","2022-04-21",225871
-"cases","AB","Central Zone","2022-04-21",57318
-"cases","AB","Edmonton Zone","2022-04-21",179599
-"cases","AB","North Zone","2022-04-21",61555
+"cases","AB","Unknown","2022-04-20",133
+"cases","AB","Calgary Zone","2022-04-21",225823
+"cases","AB","Central Zone","2022-04-21",57316
+"cases","AB","Edmonton Zone","2022-04-21",179509
+"cases","AB","North Zone","2022-04-21",61552
 "cases","AB","South Zone","2022-04-21",36530
-"cases","AB","Unknown","2022-04-21",154
-"cases","AB","Calgary Zone","2022-04-22",226307
-"cases","AB","Central Zone","2022-04-22",57410
-"cases","AB","Edmonton Zone","2022-04-22",179917
-"cases","AB","North Zone","2022-04-22",61625
+"cases","AB","Unknown","2022-04-21",133
+"cases","AB","Calgary Zone","2022-04-22",226258
+"cases","AB","Central Zone","2022-04-22",57408
+"cases","AB","Edmonton Zone","2022-04-22",179827
+"cases","AB","North Zone","2022-04-22",61622
 "cases","AB","South Zone","2022-04-22",36581
-"cases","AB","Unknown","2022-04-22",154
-"cases","AB","Calgary Zone","2022-04-23",226643
-"cases","AB","Central Zone","2022-04-23",57498
-"cases","AB","Edmonton Zone","2022-04-23",180221
-"cases","AB","North Zone","2022-04-23",61682
+"cases","AB","Unknown","2022-04-22",133
+"cases","AB","Calgary Zone","2022-04-23",226593
+"cases","AB","Central Zone","2022-04-23",57495
+"cases","AB","Edmonton Zone","2022-04-23",180131
+"cases","AB","North Zone","2022-04-23",61679
 "cases","AB","South Zone","2022-04-23",36636
-"cases","AB","Unknown","2022-04-23",154
-"cases","AB","Calgary Zone","2022-04-24",226930
-"cases","AB","Central Zone","2022-04-24",57538
-"cases","AB","Edmonton Zone","2022-04-24",180487
-"cases","AB","North Zone","2022-04-24",61711
+"cases","AB","Unknown","2022-04-23",133
+"cases","AB","Calgary Zone","2022-04-24",226878
+"cases","AB","Central Zone","2022-04-24",57535
+"cases","AB","Edmonton Zone","2022-04-24",180397
+"cases","AB","North Zone","2022-04-24",61708
 "cases","AB","South Zone","2022-04-24",36689
-"cases","AB","Unknown","2022-04-24",154
-"cases","AB","Calgary Zone","2022-04-25",227299
-"cases","AB","Central Zone","2022-04-25",57590
-"cases","AB","Edmonton Zone","2022-04-25",180670
-"cases","AB","North Zone","2022-04-25",61758
+"cases","AB","Unknown","2022-04-24",133
+"cases","AB","Calgary Zone","2022-04-25",227246
+"cases","AB","Central Zone","2022-04-25",57587
+"cases","AB","Edmonton Zone","2022-04-25",180580
+"cases","AB","North Zone","2022-04-25",61755
 "cases","AB","South Zone","2022-04-25",36740
-"cases","AB","Unknown","2022-04-25",154
-"cases","AB","Calgary Zone","2022-04-26",227741
-"cases","AB","Central Zone","2022-04-26",57716
-"cases","AB","Edmonton Zone","2022-04-26",181048
-"cases","AB","North Zone","2022-04-26",61814
-"cases","AB","South Zone","2022-04-26",36817
-"cases","AB","Unknown","2022-04-26",154
-"cases","AB","Calgary Zone","2022-04-27",228128
-"cases","AB","Central Zone","2022-04-27",57836
-"cases","AB","Edmonton Zone","2022-04-27",181357
-"cases","AB","North Zone","2022-04-27",61863
-"cases","AB","South Zone","2022-04-27",36894
-"cases","AB","Unknown","2022-04-27",154
-"cases","AB","Calgary Zone","2022-04-28",228540
-"cases","AB","Central Zone","2022-04-28",57939
-"cases","AB","Edmonton Zone","2022-04-28",181637
-"cases","AB","North Zone","2022-04-28",61923
-"cases","AB","South Zone","2022-04-28",36957
-"cases","AB","Unknown","2022-04-28",154
-"cases","AB","Calgary Zone","2022-04-29",228805
-"cases","AB","Central Zone","2022-04-29",58003
-"cases","AB","Edmonton Zone","2022-04-29",181940
-"cases","AB","North Zone","2022-04-29",61995
-"cases","AB","South Zone","2022-04-29",37009
-"cases","AB","Unknown","2022-04-29",154
-"cases","AB","Calgary Zone","2022-04-30",229137
-"cases","AB","Central Zone","2022-04-30",58067
-"cases","AB","Edmonton Zone","2022-04-30",182159
-"cases","AB","North Zone","2022-04-30",62070
-"cases","AB","South Zone","2022-04-30",37046
-"cases","AB","Unknown","2022-04-30",154
-"cases","AB","Calgary Zone","2022-05-01",229432
-"cases","AB","Central Zone","2022-05-01",58115
-"cases","AB","Edmonton Zone","2022-05-01",182326
-"cases","AB","North Zone","2022-05-01",62128
-"cases","AB","South Zone","2022-05-01",37081
-"cases","AB","Unknown","2022-05-01",154
-"cases","AB","Calgary Zone","2022-05-02",229710
-"cases","AB","Central Zone","2022-05-02",58181
-"cases","AB","Edmonton Zone","2022-05-02",182552
-"cases","AB","North Zone","2022-05-02",62168
-"cases","AB","South Zone","2022-05-02",37142
-"cases","AB","Unknown","2022-05-02",154
-"cases","AB","Calgary Zone","2022-05-03",230035
-"cases","AB","Central Zone","2022-05-03",58236
-"cases","AB","Edmonton Zone","2022-05-03",182839
-"cases","AB","North Zone","2022-05-03",62211
-"cases","AB","South Zone","2022-05-03",37192
-"cases","AB","Unknown","2022-05-03",154
-"cases","AB","Calgary Zone","2022-05-04",230350
-"cases","AB","Central Zone","2022-05-04",58324
-"cases","AB","Edmonton Zone","2022-05-04",183085
-"cases","AB","North Zone","2022-05-04",62285
-"cases","AB","South Zone","2022-05-04",37241
-"cases","AB","Unknown","2022-05-04",154
-"cases","AB","Calgary Zone","2022-05-05",230693
-"cases","AB","Central Zone","2022-05-05",58389
-"cases","AB","Edmonton Zone","2022-05-05",183331
-"cases","AB","North Zone","2022-05-05",62342
-"cases","AB","South Zone","2022-05-05",37304
-"cases","AB","Unknown","2022-05-05",154
-"cases","AB","Calgary Zone","2022-05-06",230977
-"cases","AB","Central Zone","2022-05-06",58462
-"cases","AB","Edmonton Zone","2022-05-06",183543
-"cases","AB","North Zone","2022-05-06",62413
-"cases","AB","South Zone","2022-05-06",37350
-"cases","AB","Unknown","2022-05-06",154
-"cases","AB","Calgary Zone","2022-05-07",231228
-"cases","AB","Central Zone","2022-05-07",58511
-"cases","AB","Edmonton Zone","2022-05-07",183757
-"cases","AB","North Zone","2022-05-07",62458
-"cases","AB","South Zone","2022-05-07",37380
-"cases","AB","Unknown","2022-05-07",154
-"cases","AB","Calgary Zone","2022-05-08",231280
-"cases","AB","Central Zone","2022-05-08",58528
-"cases","AB","Edmonton Zone","2022-05-08",183797
-"cases","AB","North Zone","2022-05-08",62473
-"cases","AB","South Zone","2022-05-08",37390
-"cases","AB","Unknown","2022-05-08",154
-"cases","AB","Calgary Zone","2022-05-09",231670
-"cases","AB","Central Zone","2022-05-09",58586
-"cases","AB","Edmonton Zone","2022-05-09",184070
-"cases","AB","North Zone","2022-05-09",62523
-"cases","AB","South Zone","2022-05-09",37437
-"cases","AB","Unknown","2022-05-09",154
-"cases","AB","Calgary Zone","2022-05-10",231947
-"cases","AB","Central Zone","2022-05-10",58644
-"cases","AB","Edmonton Zone","2022-05-10",184303
-"cases","AB","North Zone","2022-05-10",62575
-"cases","AB","South Zone","2022-05-10",37474
-"cases","AB","Unknown","2022-05-10",154
-"cases","AB","Calgary Zone","2022-05-11",232219
-"cases","AB","Central Zone","2022-05-11",58697
-"cases","AB","Edmonton Zone","2022-05-11",184487
-"cases","AB","North Zone","2022-05-11",62618
-"cases","AB","South Zone","2022-05-11",37508
-"cases","AB","Unknown","2022-05-11",154
-"cases","AB","Calgary Zone","2022-05-12",232513
-"cases","AB","Central Zone","2022-05-12",58753
-"cases","AB","Edmonton Zone","2022-05-12",184669
-"cases","AB","North Zone","2022-05-12",62679
-"cases","AB","South Zone","2022-05-12",37521
-"cases","AB","Unknown","2022-05-12",155
-"cases","AB","Calgary Zone","2022-05-13",232718
-"cases","AB","Central Zone","2022-05-13",58788
-"cases","AB","Edmonton Zone","2022-05-13",184845
-"cases","AB","North Zone","2022-05-13",62712
-"cases","AB","South Zone","2022-05-13",37541
-"cases","AB","Unknown","2022-05-13",155
-"cases","AB","Calgary Zone","2022-05-14",232894
-"cases","AB","Central Zone","2022-05-14",58830
-"cases","AB","Edmonton Zone","2022-05-14",185029
-"cases","AB","North Zone","2022-05-14",62747
-"cases","AB","South Zone","2022-05-14",37555
-"cases","AB","Unknown","2022-05-14",155
-"cases","AB","Calgary Zone","2022-05-15",233092
-"cases","AB","Central Zone","2022-05-15",58842
-"cases","AB","Edmonton Zone","2022-05-15",185126
-"cases","AB","North Zone","2022-05-15",62771
-"cases","AB","South Zone","2022-05-15",37577
-"cases","AB","Unknown","2022-05-15",155
-"cases","AB","Calgary Zone","2022-05-16",233330
-"cases","AB","Central Zone","2022-05-16",58898
-"cases","AB","Edmonton Zone","2022-05-16",185245
-"cases","AB","North Zone","2022-05-16",62797
-"cases","AB","South Zone","2022-05-16",37621
-"cases","AB","Unknown","2022-05-16",155
-"cases","AB","Calgary Zone","2022-05-17",233552
-"cases","AB","Central Zone","2022-05-17",58956
-"cases","AB","Edmonton Zone","2022-05-17",185425
-"cases","AB","North Zone","2022-05-17",62833
-"cases","AB","South Zone","2022-05-17",37670
-"cases","AB","Unknown","2022-05-17",155
-"cases","AB","Calgary Zone","2022-05-18",233742
-"cases","AB","Central Zone","2022-05-18",58994
-"cases","AB","Edmonton Zone","2022-05-18",185597
-"cases","AB","North Zone","2022-05-18",62854
-"cases","AB","South Zone","2022-05-18",37720
-"cases","AB","Unknown","2022-05-18",155
-"cases","AB","Calgary Zone","2022-05-19",233986
-"cases","AB","Central Zone","2022-05-19",59030
-"cases","AB","Edmonton Zone","2022-05-19",185737
-"cases","AB","North Zone","2022-05-19",62895
-"cases","AB","South Zone","2022-05-19",37750
-"cases","AB","Unknown","2022-05-19",155
-"cases","AB","Calgary Zone","2022-05-20",234159
-"cases","AB","Central Zone","2022-05-20",59066
-"cases","AB","Edmonton Zone","2022-05-20",185850
-"cases","AB","North Zone","2022-05-20",62916
-"cases","AB","South Zone","2022-05-20",37769
-"cases","AB","Unknown","2022-05-20",156
-"cases","AB","Calgary Zone","2022-05-21",234301
-"cases","AB","Central Zone","2022-05-21",59093
-"cases","AB","Edmonton Zone","2022-05-21",185952
-"cases","AB","North Zone","2022-05-21",62923
-"cases","AB","South Zone","2022-05-21",37783
-"cases","AB","Unknown","2022-05-21",156
-"cases","AB","Calgary Zone","2022-05-22",234423
-"cases","AB","Central Zone","2022-05-22",59111
-"cases","AB","Edmonton Zone","2022-05-22",186021
-"cases","AB","North Zone","2022-05-22",62939
-"cases","AB","South Zone","2022-05-22",37790
-"cases","AB","Unknown","2022-05-22",156
-"cases","AB","Calgary Zone","2022-05-23",234590
-"cases","AB","Central Zone","2022-05-23",59146
-"cases","AB","Edmonton Zone","2022-05-23",186115
-"cases","AB","North Zone","2022-05-23",62951
-"cases","AB","South Zone","2022-05-23",37806
-"cases","AB","Unknown","2022-05-23",156
-"cases","AB","Calgary Zone","2022-05-24",234835
-"cases","AB","Central Zone","2022-05-24",59186
-"cases","AB","Edmonton Zone","2022-05-24",186189
-"cases","AB","North Zone","2022-05-24",62971
-"cases","AB","South Zone","2022-05-24",37820
-"cases","AB","Unknown","2022-05-24",156
-"cases","AB","Calgary Zone","2022-05-25",235038
-"cases","AB","Central Zone","2022-05-25",59236
-"cases","AB","Edmonton Zone","2022-05-25",186338
-"cases","AB","North Zone","2022-05-25",63002
-"cases","AB","South Zone","2022-05-25",37842
-"cases","AB","Unknown","2022-05-25",156
-"cases","AB","Calgary Zone","2022-05-26",235219
-"cases","AB","Central Zone","2022-05-26",59268
-"cases","AB","Edmonton Zone","2022-05-26",186449
-"cases","AB","North Zone","2022-05-26",63015
-"cases","AB","South Zone","2022-05-26",37865
-"cases","AB","Unknown","2022-05-26",156
-"cases","AB","Calgary Zone","2022-05-27",235376
-"cases","AB","Central Zone","2022-05-27",59305
-"cases","AB","Edmonton Zone","2022-05-27",186554
-"cases","AB","North Zone","2022-05-27",63032
+"cases","AB","Unknown","2022-04-25",133
+"cases","AB","Calgary Zone","2022-04-26",227688
+"cases","AB","Central Zone","2022-04-26",57713
+"cases","AB","Edmonton Zone","2022-04-26",180958
+"cases","AB","North Zone","2022-04-26",61811
+"cases","AB","South Zone","2022-04-26",36816
+"cases","AB","Unknown","2022-04-26",133
+"cases","AB","Calgary Zone","2022-04-27",228074
+"cases","AB","Central Zone","2022-04-27",57833
+"cases","AB","Edmonton Zone","2022-04-27",181267
+"cases","AB","North Zone","2022-04-27",61860
+"cases","AB","South Zone","2022-04-27",36893
+"cases","AB","Unknown","2022-04-27",133
+"cases","AB","Calgary Zone","2022-04-28",228485
+"cases","AB","Central Zone","2022-04-28",57936
+"cases","AB","Edmonton Zone","2022-04-28",181547
+"cases","AB","North Zone","2022-04-28",61920
+"cases","AB","South Zone","2022-04-28",36956
+"cases","AB","Unknown","2022-04-28",133
+"cases","AB","Calgary Zone","2022-04-29",228750
+"cases","AB","Central Zone","2022-04-29",57999
+"cases","AB","Edmonton Zone","2022-04-29",181848
+"cases","AB","North Zone","2022-04-29",61992
+"cases","AB","South Zone","2022-04-29",37008
+"cases","AB","Unknown","2022-04-29",133
+"cases","AB","Calgary Zone","2022-04-30",229081
+"cases","AB","Central Zone","2022-04-30",58063
+"cases","AB","Edmonton Zone","2022-04-30",182067
+"cases","AB","North Zone","2022-04-30",62067
+"cases","AB","South Zone","2022-04-30",37045
+"cases","AB","Unknown","2022-04-30",133
+"cases","AB","Calgary Zone","2022-05-01",229376
+"cases","AB","Central Zone","2022-05-01",58111
+"cases","AB","Edmonton Zone","2022-05-01",182234
+"cases","AB","North Zone","2022-05-01",62125
+"cases","AB","South Zone","2022-05-01",37080
+"cases","AB","Unknown","2022-05-01",133
+"cases","AB","Calgary Zone","2022-05-02",229654
+"cases","AB","Central Zone","2022-05-02",58177
+"cases","AB","Edmonton Zone","2022-05-02",182460
+"cases","AB","North Zone","2022-05-02",62165
+"cases","AB","South Zone","2022-05-02",37141
+"cases","AB","Unknown","2022-05-02",133
+"cases","AB","Calgary Zone","2022-05-03",229979
+"cases","AB","Central Zone","2022-05-03",58232
+"cases","AB","Edmonton Zone","2022-05-03",182747
+"cases","AB","North Zone","2022-05-03",62208
+"cases","AB","South Zone","2022-05-03",37191
+"cases","AB","Unknown","2022-05-03",133
+"cases","AB","Calgary Zone","2022-05-04",230294
+"cases","AB","Central Zone","2022-05-04",58320
+"cases","AB","Edmonton Zone","2022-05-04",182993
+"cases","AB","North Zone","2022-05-04",62282
+"cases","AB","South Zone","2022-05-04",37240
+"cases","AB","Unknown","2022-05-04",133
+"cases","AB","Calgary Zone","2022-05-05",230637
+"cases","AB","Central Zone","2022-05-05",58385
+"cases","AB","Edmonton Zone","2022-05-05",183238
+"cases","AB","North Zone","2022-05-05",62339
+"cases","AB","South Zone","2022-05-05",37303
+"cases","AB","Unknown","2022-05-05",133
+"cases","AB","Calgary Zone","2022-05-06",230921
+"cases","AB","Central Zone","2022-05-06",58458
+"cases","AB","Edmonton Zone","2022-05-06",183450
+"cases","AB","North Zone","2022-05-06",62410
+"cases","AB","South Zone","2022-05-06",37349
+"cases","AB","Unknown","2022-05-06",133
+"cases","AB","Calgary Zone","2022-05-07",231172
+"cases","AB","Central Zone","2022-05-07",58507
+"cases","AB","Edmonton Zone","2022-05-07",183664
+"cases","AB","North Zone","2022-05-07",62455
+"cases","AB","South Zone","2022-05-07",37379
+"cases","AB","Unknown","2022-05-07",133
+"cases","AB","Calgary Zone","2022-05-08",231224
+"cases","AB","Central Zone","2022-05-08",58524
+"cases","AB","Edmonton Zone","2022-05-08",183704
+"cases","AB","North Zone","2022-05-08",62470
+"cases","AB","South Zone","2022-05-08",37389
+"cases","AB","Unknown","2022-05-08",133
+"cases","AB","Calgary Zone","2022-05-09",231614
+"cases","AB","Central Zone","2022-05-09",58582
+"cases","AB","Edmonton Zone","2022-05-09",183977
+"cases","AB","North Zone","2022-05-09",62520
+"cases","AB","South Zone","2022-05-09",37436
+"cases","AB","Unknown","2022-05-09",133
+"cases","AB","Calgary Zone","2022-05-10",231891
+"cases","AB","Central Zone","2022-05-10",58640
+"cases","AB","Edmonton Zone","2022-05-10",184210
+"cases","AB","North Zone","2022-05-10",62572
+"cases","AB","South Zone","2022-05-10",37473
+"cases","AB","Unknown","2022-05-10",133
+"cases","AB","Calgary Zone","2022-05-11",232163
+"cases","AB","Central Zone","2022-05-11",58693
+"cases","AB","Edmonton Zone","2022-05-11",184394
+"cases","AB","North Zone","2022-05-11",62615
+"cases","AB","South Zone","2022-05-11",37507
+"cases","AB","Unknown","2022-05-11",133
+"cases","AB","Calgary Zone","2022-05-12",232457
+"cases","AB","Central Zone","2022-05-12",58749
+"cases","AB","Edmonton Zone","2022-05-12",184576
+"cases","AB","North Zone","2022-05-12",62676
+"cases","AB","South Zone","2022-05-12",37520
+"cases","AB","Unknown","2022-05-12",134
+"cases","AB","Calgary Zone","2022-05-13",232662
+"cases","AB","Central Zone","2022-05-13",58784
+"cases","AB","Edmonton Zone","2022-05-13",184752
+"cases","AB","North Zone","2022-05-13",62709
+"cases","AB","South Zone","2022-05-13",37540
+"cases","AB","Unknown","2022-05-13",134
+"cases","AB","Calgary Zone","2022-05-14",232838
+"cases","AB","Central Zone","2022-05-14",58826
+"cases","AB","Edmonton Zone","2022-05-14",184936
+"cases","AB","North Zone","2022-05-14",62744
+"cases","AB","South Zone","2022-05-14",37554
+"cases","AB","Unknown","2022-05-14",134
+"cases","AB","Calgary Zone","2022-05-15",233036
+"cases","AB","Central Zone","2022-05-15",58838
+"cases","AB","Edmonton Zone","2022-05-15",185033
+"cases","AB","North Zone","2022-05-15",62768
+"cases","AB","South Zone","2022-05-15",37576
+"cases","AB","Unknown","2022-05-15",134
+"cases","AB","Calgary Zone","2022-05-16",233274
+"cases","AB","Central Zone","2022-05-16",58894
+"cases","AB","Edmonton Zone","2022-05-16",185152
+"cases","AB","North Zone","2022-05-16",62794
+"cases","AB","South Zone","2022-05-16",37620
+"cases","AB","Unknown","2022-05-16",134
+"cases","AB","Calgary Zone","2022-05-17",233496
+"cases","AB","Central Zone","2022-05-17",58952
+"cases","AB","Edmonton Zone","2022-05-17",185332
+"cases","AB","North Zone","2022-05-17",62830
+"cases","AB","South Zone","2022-05-17",37669
+"cases","AB","Unknown","2022-05-17",134
+"cases","AB","Calgary Zone","2022-05-18",233686
+"cases","AB","Central Zone","2022-05-18",58990
+"cases","AB","Edmonton Zone","2022-05-18",185504
+"cases","AB","North Zone","2022-05-18",62851
+"cases","AB","South Zone","2022-05-18",37719
+"cases","AB","Unknown","2022-05-18",134
+"cases","AB","Calgary Zone","2022-05-19",233930
+"cases","AB","Central Zone","2022-05-19",59026
+"cases","AB","Edmonton Zone","2022-05-19",185644
+"cases","AB","North Zone","2022-05-19",62892
+"cases","AB","South Zone","2022-05-19",37749
+"cases","AB","Unknown","2022-05-19",134
+"cases","AB","Calgary Zone","2022-05-20",234103
+"cases","AB","Central Zone","2022-05-20",59062
+"cases","AB","Edmonton Zone","2022-05-20",185757
+"cases","AB","North Zone","2022-05-20",62913
+"cases","AB","South Zone","2022-05-20",37768
+"cases","AB","Unknown","2022-05-20",134
+"cases","AB","Calgary Zone","2022-05-21",234245
+"cases","AB","Central Zone","2022-05-21",59089
+"cases","AB","Edmonton Zone","2022-05-21",185859
+"cases","AB","North Zone","2022-05-21",62920
+"cases","AB","South Zone","2022-05-21",37782
+"cases","AB","Unknown","2022-05-21",134
+"cases","AB","Calgary Zone","2022-05-22",234367
+"cases","AB","Central Zone","2022-05-22",59107
+"cases","AB","Edmonton Zone","2022-05-22",185928
+"cases","AB","North Zone","2022-05-22",62936
+"cases","AB","South Zone","2022-05-22",37789
+"cases","AB","Unknown","2022-05-22",134
+"cases","AB","Calgary Zone","2022-05-23",234534
+"cases","AB","Central Zone","2022-05-23",59142
+"cases","AB","Edmonton Zone","2022-05-23",186022
+"cases","AB","North Zone","2022-05-23",62948
+"cases","AB","South Zone","2022-05-23",37805
+"cases","AB","Unknown","2022-05-23",134
+"cases","AB","Calgary Zone","2022-05-24",234779
+"cases","AB","Central Zone","2022-05-24",59182
+"cases","AB","Edmonton Zone","2022-05-24",186096
+"cases","AB","North Zone","2022-05-24",62968
+"cases","AB","South Zone","2022-05-24",37819
+"cases","AB","Unknown","2022-05-24",134
+"cases","AB","Calgary Zone","2022-05-25",234982
+"cases","AB","Central Zone","2022-05-25",59232
+"cases","AB","Edmonton Zone","2022-05-25",186246
+"cases","AB","North Zone","2022-05-25",62998
+"cases","AB","South Zone","2022-05-25",37841
+"cases","AB","Unknown","2022-05-25",134
+"cases","AB","Calgary Zone","2022-05-26",235163
+"cases","AB","Central Zone","2022-05-26",59264
+"cases","AB","Edmonton Zone","2022-05-26",186357
+"cases","AB","North Zone","2022-05-26",63011
+"cases","AB","South Zone","2022-05-26",37864
+"cases","AB","Unknown","2022-05-26",134
+"cases","AB","Calgary Zone","2022-05-27",235319
+"cases","AB","Central Zone","2022-05-27",59302
+"cases","AB","Edmonton Zone","2022-05-27",186462
+"cases","AB","North Zone","2022-05-27",63028
 "cases","AB","South Zone","2022-05-27",37885
-"cases","AB","Unknown","2022-05-27",157
-"cases","AB","Calgary Zone","2022-05-28",235504
-"cases","AB","Central Zone","2022-05-28",59325
-"cases","AB","Edmonton Zone","2022-05-28",186637
-"cases","AB","North Zone","2022-05-28",63049
+"cases","AB","Unknown","2022-05-27",134
+"cases","AB","Calgary Zone","2022-05-28",235447
+"cases","AB","Central Zone","2022-05-28",59322
+"cases","AB","Edmonton Zone","2022-05-28",186544
+"cases","AB","North Zone","2022-05-28",63045
 "cases","AB","South Zone","2022-05-28",37900
-"cases","AB","Unknown","2022-05-28",158
-"cases","AB","Calgary Zone","2022-05-29",235542
-"cases","AB","Central Zone","2022-05-29",59330
-"cases","AB","Edmonton Zone","2022-05-29",186676
-"cases","AB","North Zone","2022-05-29",63051
+"cases","AB","Unknown","2022-05-28",134
+"cases","AB","Calgary Zone","2022-05-29",235485
+"cases","AB","Central Zone","2022-05-29",59327
+"cases","AB","Edmonton Zone","2022-05-29",186583
+"cases","AB","North Zone","2022-05-29",63047
 "cases","AB","South Zone","2022-05-29",37906
-"cases","AB","Unknown","2022-05-29",159
-"cases","AB","Calgary Zone","2022-05-30",235802
-"cases","AB","Central Zone","2022-05-30",59363
-"cases","AB","Edmonton Zone","2022-05-30",186793
-"cases","AB","North Zone","2022-05-30",63070
-"cases","AB","South Zone","2022-05-30",37921
-"cases","AB","Unknown","2022-05-30",163
+"cases","AB","Unknown","2022-05-29",134
+"cases","AB","Calgary Zone","2022-05-30",235743
+"cases","AB","Central Zone","2022-05-30",59360
+"cases","AB","Edmonton Zone","2022-05-30",186700
+"cases","AB","North Zone","2022-05-30",63066
+"cases","AB","South Zone","2022-05-30",37920
+"cases","AB","Unknown","2022-05-30",134
+"cases","AB","Calgary Zone","2022-05-31",235912
+"cases","AB","Central Zone","2022-05-31",59401
+"cases","AB","Edmonton Zone","2022-05-31",186817
+"cases","AB","North Zone","2022-05-31",63083
+"cases","AB","South Zone","2022-05-31",37933
+"cases","AB","Unknown","2022-05-31",134
+"cases","AB","Calgary Zone","2022-06-01",236050
+"cases","AB","Central Zone","2022-06-01",59423
+"cases","AB","Edmonton Zone","2022-06-01",186899
+"cases","AB","North Zone","2022-06-01",63099
+"cases","AB","South Zone","2022-06-01",37950
+"cases","AB","Unknown","2022-06-01",134
+"cases","AB","Calgary Zone","2022-06-02",236232
+"cases","AB","Central Zone","2022-06-02",59450
+"cases","AB","Edmonton Zone","2022-06-02",186972
+"cases","AB","North Zone","2022-06-02",63110
+"cases","AB","South Zone","2022-06-02",37959
+"cases","AB","Unknown","2022-06-02",135
+"cases","AB","Calgary Zone","2022-06-03",236386
+"cases","AB","Central Zone","2022-06-03",59477
+"cases","AB","Edmonton Zone","2022-06-03",187039
+"cases","AB","North Zone","2022-06-03",63123
+"cases","AB","South Zone","2022-06-03",37968
+"cases","AB","Unknown","2022-06-03",136
+"cases","AB","Calgary Zone","2022-06-04",236480
+"cases","AB","Central Zone","2022-06-04",59498
+"cases","AB","Edmonton Zone","2022-06-04",187096
+"cases","AB","North Zone","2022-06-04",63128
+"cases","AB","South Zone","2022-06-04",37981
+"cases","AB","Unknown","2022-06-04",137
+"cases","AB","Calgary Zone","2022-06-05",236591
+"cases","AB","Central Zone","2022-06-05",59512
+"cases","AB","Edmonton Zone","2022-06-05",187144
+"cases","AB","North Zone","2022-06-05",63137
+"cases","AB","South Zone","2022-06-05",37988
+"cases","AB","Unknown","2022-06-05",144
+"cases","AB","Calgary Zone","2022-06-06",236722
+"cases","AB","Central Zone","2022-06-06",59530
+"cases","AB","Edmonton Zone","2022-06-06",187201
+"cases","AB","North Zone","2022-06-06",63144
+"cases","AB","South Zone","2022-06-06",37998
+"cases","AB","Unknown","2022-06-06",168
