@@ -264,7 +264,7 @@ Both the cumulative values (`value`) and the daily differences (`value_daily`) a
 
 | P/T   | Data sources                                                              |
 |:------|:--------------------------------------------------------------------------|
-| AB    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| AB    | - COVID-19 Alberta statistics app (2020-01-04–present)                    |
 | BC    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
 | MB    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
 | NB    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |

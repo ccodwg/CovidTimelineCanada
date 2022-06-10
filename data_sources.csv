@@ -93,7 +93,7 @@ icu,QC,MSSS hospitalization CSV,f0c25e20-2a6c-4f9a-adc3-61b28ab97245,ts,active_t
 icu,SK,Saskatchewan hospitalized cases dashboard,927b7ff1-c2e5-4074-80ab-35015022a8e6; 6e5dd7b2-c6b8-4fd0-8236-ef34873233d2,ts,static,static/sk/sk_icu_ts.csv,province_territory,2020-03-26,2022-02-06,
 icu,SK,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-02-07,present,
 icu,YT,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,
-tests_completed,AB,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
+tests_completed,AB,COVID-19 Alberta statistics app,24a572ea-0de3-4f83-b9b7-8764ea203eb6,ts,active_ts,active_ts/ab/ab_tests_completed_pt_ts.csv,province_territory,2020-01-04,present,
 tests_completed,BC,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
 tests_completed,MB,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
 tests_completed,NB,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
