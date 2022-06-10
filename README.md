@@ -190,10 +190,10 @@ Both the cumulative values (`value`) and the daily differences (`value_daily`) a
 | NB    | - CCODWG Covid19Canada dataset (2020-01-25–2021-03-07)<br>- New Brunswick dashboard (2021-03-08–2022-03-29)<br>- New Brunswick COVIDWATCH weekly report (2022-04-02–present)                                           |
 | NL    | - CCODWG Covid19Canada dataset (2020-01-25–2021-03-15)<br>- Newfoundland & Labrador dashboard (2021-03-16–2022-03-11)<br>- Newfoundland & Labrador dashboard (2022-03-12–present)                                      |
 | NS    | - Nova Scotia case CSV (2021-03-15–2021-01-22)<br>- Nova Scotia dashboard (2021-01-23–2021-12-09)<br>- Nova Scotia daily news release (2021-12-10–2022-03-04)<br>- Nova Scotia weekly data report (2022-03-08–present) |
-| NT    | - Public Health Agency of Canada daily epidemiology update (2020-03-11–present)                                                                                                                                        |
-| NU    | - Public Health Agency of Canada daily epidemiology update (2020-03-11–present)                                                                                                                                        |
+| NT    | - Public Health Agency of Canada epidemiology update (2020-03-11–present)                                                                                                                                              |
+| NU    | - Public Health Agency of Canada epidemiology update (2020-03-11–present)                                                                                                                                              |
 | ON    | - CCODWG Covid19Canada dataset (2020-01-25–2020-03-31)<br>- Ontario PHU summary CSV (2020-04-01–present)                                                                                                               |
-| PE    | - Public Health Agency of Canada daily epidemiology update (2020-03-11–present)                                                                                                                                        |
+| PE    | - Public Health Agency of Canada epidemiology update (2020-03-11–present)                                                                                                                                              |
 | QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                                                      |
 | SK    | - Saskatchewan total cases dashboard & Freedom of Information request (2020-03-11–2022-02-06)<br>- Saskatchewan weekly COVID-19 situation report (2022-02-05–present)                                                  |
 | YT    | - Yukon dashboard (2020-03-19–present)                                                                                                                                                                                 |
@@ -210,13 +210,13 @@ Both the cumulative values (`value`) and the daily differences (`value_daily`) a
 | NB    | - CCODWG Covid19Canada dataset (2020-01-25–2021-03-07)<br>- New Brunswick dashboard (2021-03-08–2022-03-29)<br>- New Brunswick COVIDWATCH weekly report (2022-04-02–present)                                                                     |
 | NL    | - CCODWG Covid19Canada dataset (2020-01-25–2021-03-15)<br>- Newfoundland & Labrador dashboard (2021-03-16–2022-03-11)<br>- Newfoundland & Labrador dashboard (2022-03-15–2022-05-05)<br>- Newfoundland & Labrador dashboard (2022-05-06–present) |
 | NS    | - CCODWG Covid19Canada dataset (2020-01-25–2021-01-18)<br>- Nova Scotia dashboard (2021-01-19–2022-01-18)<br>- Nova Scotia dashboard (2021-01-23–2021-12-09)<br>- Nova Scotia daily news release (2021-12-10–2022-03-04)                         |
-| NT    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present)                                                                                                                                                                  |
-| NU    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present)                                                                                                                                                                  |
+| NT    | - Public Health Agency of Canada epidemiology update (2020-01-31–present)                                                                                                                                                                        |
+| NU    | - Public Health Agency of Canada epidemiology update (2020-01-31–present)                                                                                                                                                                        |
 | ON    | - CCODWG Covid19Canada dataset (2020-01-25–2020-03-31)<br>- Ontario PHU summary CSV (2022-04-01–present)                                                                                                                                         |
-| PE    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present)                                                                                                                                                                  |
+| PE    | - Public Health Agency of Canada epidemiology update (2020-01-31–present)                                                                                                                                                                        |
 | QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                                                                                |
 | SK    | - Saskatchewan total cases dashboard & Freedom of Information request (2020-04-04–2022-02-06)<br>- Saskatchewan weekly COVID-19 situation report (2022-02-05–present)                                                                            |
-| YT    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present)                                                                                                                                                                  |
+| YT    | - Public Health Agency of Canada epidemiology update (2020-01-31–present)                                                                                                                                                                        |
 </details>
 
 <details>
@@ -262,21 +262,21 @@ Both the cumulative values (`value`) and the daily differences (`value_daily`) a
 <details>
 <summary><b>Tests completed</b></summary>
 
-| P/T   | Data sources                                                                    |
-|:------|:--------------------------------------------------------------------------------|
-| AB    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| BC    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| MB    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| NB    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| NL    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| NS    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| NT    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| NU    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| ON    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| PE    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| QC    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| SK    | - Public Health Agency of Canada daily epidemiology update (2020-01-31–present) |
-| YT    | - Yukon dashboard (2020-02-27–present)                                          |
+| P/T   | Data sources                                                              |
+|:------|:--------------------------------------------------------------------------|
+| AB    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| BC    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| MB    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| NB    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| NL    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| NS    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| NT    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| NU    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| ON    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| PE    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| QC    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| SK    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
+| YT    | - Yukon dashboard (2020-02-27–present)                                    |
 </details>
 
 <details>
