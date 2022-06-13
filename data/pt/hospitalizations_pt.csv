@@ -5133,7 +5133,7 @@
 "hospitalizations","NS","2022-06-06",32,0
 "hospitalizations","NS","2022-06-07",32,0
 "hospitalizations","NS","2022-06-08",32,0
-"hospitalizations","NS","2022-06-09",32,0
+"hospitalizations","NS","2022-06-09",36,4
 "hospitalizations","NT","2020-01-25",0,0
 "hospitalizations","NT","2020-01-26",0,0
 "hospitalizations","NT","2020-01-27",0,0
@@ -7669,7 +7669,8 @@
 "hospitalizations","ON","2022-06-09",549,7
 "hospitalizations","ON","2022-06-10",536,-13
 "hospitalizations","ON","2022-06-11",528,-8
-"hospitalizations","ON","2022-06-12",370,-158
+"hospitalizations","ON","2022-06-12",379,-149
+"hospitalizations","ON","2022-06-13",383,4
 "hospitalizations","PE","2020-01-25",0,0
 "hospitalizations","PE","2020-01-26",0,0
 "hospitalizations","PE","2020-01-27",0,0
