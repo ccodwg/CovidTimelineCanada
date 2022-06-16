@@ -871,6 +871,7 @@
 "hospitalizations","AB","2022-06-12",816,0
 "hospitalizations","AB","2022-06-13",816,0
 "hospitalizations","AB","2022-06-14",816,0
+"hospitalizations","AB","2022-06-15",719,-97
 "hospitalizations","BC","2020-01-25",0,0
 "hospitalizations","BC","2020-01-26",0,0
 "hospitalizations","BC","2020-01-27",0,0
@@ -1743,6 +1744,7 @@
 "hospitalizations","BC","2022-06-12",325,0
 "hospitalizations","BC","2022-06-13",325,0
 "hospitalizations","BC","2022-06-14",325,0
+"hospitalizations","BC","2022-06-15",325,0
 "hospitalizations","MB","2020-01-25",0,0
 "hospitalizations","MB","2020-01-26",0,0
 "hospitalizations","MB","2020-01-27",0,0
@@ -2615,6 +2617,7 @@
 "hospitalizations","MB","2022-06-12",579,0
 "hospitalizations","MB","2022-06-13",579,0
 "hospitalizations","MB","2022-06-14",579,0
+"hospitalizations","MB","2022-06-15",579,0
 "hospitalizations","NB","2020-01-25",0,0
 "hospitalizations","NB","2020-01-26",0,0
 "hospitalizations","NB","2020-01-27",0,0
@@ -4294,6 +4297,7 @@
 "hospitalizations","NL","2022-06-12",5,0
 "hospitalizations","NL","2022-06-13",5,0
 "hospitalizations","NL","2022-06-14",5,0
+"hospitalizations","NL","2022-06-15",5,0
 "hospitalizations","NS","2020-01-25",0,0
 "hospitalizations","NS","2020-01-26",0,0
 "hospitalizations","NS","2020-01-27",0,0
@@ -5166,6 +5170,7 @@
 "hospitalizations","NS","2022-06-12",36,0
 "hospitalizations","NS","2022-06-13",36,0
 "hospitalizations","NS","2022-06-14",36,0
+"hospitalizations","NS","2022-06-15",36,0
 "hospitalizations","NT","2020-01-25",0,0
 "hospitalizations","NT","2020-01-26",0,0
 "hospitalizations","NT","2020-01-27",0,0
@@ -6038,6 +6043,7 @@
 "hospitalizations","NT","2022-06-12",0,0
 "hospitalizations","NT","2022-06-13",0,0
 "hospitalizations","NT","2022-06-14",0,0
+"hospitalizations","NT","2022-06-15",0,0
 "hospitalizations","NU","2020-01-25",0,0
 "hospitalizations","NU","2020-01-26",0,0
 "hospitalizations","NU","2020-01-27",0,0
@@ -6910,6 +6916,7 @@
 "hospitalizations","NU","2022-06-12",0,0
 "hospitalizations","NU","2022-06-13",0,0
 "hospitalizations","NU","2022-06-14",0,0
+"hospitalizations","NU","2022-06-15",0,0
 "hospitalizations","ON","2020-04-02",407,407
 "hospitalizations","ON","2020-04-03",446,39
 "hospitalizations","ON","2020-04-04",475,29
@@ -7655,8 +7662,8 @@
 "hospitalizations","ON","2022-04-14",1400,33
 "hospitalizations","ON","2022-04-15",1445,45
 "hospitalizations","ON","2022-04-16",1455,10
-"hospitalizations","ON","2022-04-17",1529,74
-"hospitalizations","ON","2022-04-18",1511,-18
+"hospitalizations","ON","2022-04-17",1513,58
+"hospitalizations","ON","2022-04-18",1511,-2
 "hospitalizations","ON","2022-04-19",1572,61
 "hospitalizations","ON","2022-04-20",1670,98
 "hospitalizations","ON","2022-04-21",1638,-32
@@ -7669,8 +7676,8 @@
 "hospitalizations","ON","2022-04-28",1698,-43
 "hospitalizations","ON","2022-04-29",1712,14
 "hospitalizations","ON","2022-04-30",1712,0
-"hospitalizations","ON","2022-05-01",1646,-66
-"hospitalizations","ON","2022-05-02",1686,40
+"hospitalizations","ON","2022-05-01",1635,-77
+"hospitalizations","ON","2022-05-02",1686,51
 "hospitalizations","ON","2022-05-03",1745,59
 "hospitalizations","ON","2022-05-04",1722,-23
 "hospitalizations","ON","2022-05-05",1727,5
@@ -7707,14 +7714,15 @@
 "hospitalizations","ON","2022-06-05",606,-65
 "hospitalizations","ON","2022-06-06",570,-36
 "hospitalizations","ON","2022-06-07",567,-3
-"hospitalizations","ON","2022-06-08",542,-25
-"hospitalizations","ON","2022-06-09",549,7
-"hospitalizations","ON","2022-06-10",542,-7
-"hospitalizations","ON","2022-06-11",528,-14
-"hospitalizations","ON","2022-06-12",496,-32
-"hospitalizations","ON","2022-06-13",502,6
-"hospitalizations","ON","2022-06-14",517,15
+"hospitalizations","ON","2022-06-08",543,-24
+"hospitalizations","ON","2022-06-09",556,13
+"hospitalizations","ON","2022-06-10",544,-12
+"hospitalizations","ON","2022-06-11",535,-9
+"hospitalizations","ON","2022-06-12",496,-39
+"hospitalizations","ON","2022-06-13",506,10
+"hospitalizations","ON","2022-06-14",517,11
 "hospitalizations","ON","2022-06-15",506,-11
+"hospitalizations","ON","2022-06-16",491,-15
 "hospitalizations","PE","2020-01-25",0,0
 "hospitalizations","PE","2020-01-26",0,0
 "hospitalizations","PE","2020-01-27",0,0
@@ -8587,6 +8595,7 @@
 "hospitalizations","PE","2022-06-12",7,0
 "hospitalizations","PE","2022-06-13",7,0
 "hospitalizations","PE","2022-06-14",7,0
+"hospitalizations","PE","2022-06-15",7,0
 "hospitalizations","QC","2020-04-11",758,758
 "hospitalizations","QC","2020-04-12",790,32
 "hospitalizations","QC","2020-04-13",830,40
@@ -10194,6 +10203,7 @@
 "hospitalizations","SK","2022-06-12",187,0
 "hospitalizations","SK","2022-06-13",187,0
 "hospitalizations","SK","2022-06-14",187,0
+"hospitalizations","SK","2022-06-15",187,0
 "hospitalizations","YT","2020-01-25",0,0
 "hospitalizations","YT","2020-01-26",0,0
 "hospitalizations","YT","2020-01-27",0,0
@@ -11066,3 +11076,4 @@
 "hospitalizations","YT","2022-06-12",0,0
 "hospitalizations","YT","2022-06-13",0,0
 "hospitalizations","YT","2022-06-14",0,0
+"hospitalizations","YT","2022-06-15",0,0
