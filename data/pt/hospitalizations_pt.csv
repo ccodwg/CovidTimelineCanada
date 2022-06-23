@@ -7755,8 +7755,8 @@
 "hospitalizations","ON","2022-06-04",671,2
 "hospitalizations","ON","2022-06-05",606,-65
 "hospitalizations","ON","2022-06-06",570,-36
-"hospitalizations","ON","2022-06-07",567,-3
-"hospitalizations","ON","2022-06-08",543,-24
+"hospitalizations","ON","2022-06-07",569,-1
+"hospitalizations","ON","2022-06-08",543,-26
 "hospitalizations","ON","2022-06-09",556,13
 "hospitalizations","ON","2022-06-10",544,-12
 "hospitalizations","ON","2022-06-11",535,-9
@@ -7765,6 +7765,13 @@
 "hospitalizations","ON","2022-06-14",517,11
 "hospitalizations","ON","2022-06-15",506,-11
 "hospitalizations","ON","2022-06-16",491,-15
+"hospitalizations","ON","2022-06-17",470,-21
+"hospitalizations","ON","2022-06-18",490,20
+"hospitalizations","ON","2022-06-19",430,-60
+"hospitalizations","ON","2022-06-20",454,24
+"hospitalizations","ON","2022-06-21",502,48
+"hospitalizations","ON","2022-06-22",464,-38
+"hospitalizations","ON","2022-06-23",486,22
 "hospitalizations","PE","2020-01-25",0,0
 "hospitalizations","PE","2020-01-26",0,0
 "hospitalizations","PE","2020-01-27",0,0
