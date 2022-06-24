@@ -877,6 +877,7 @@
 "hospitalizations","AB","2022-06-18",719
 "hospitalizations","AB","2022-06-19",719
 "hospitalizations","AB","2022-06-20",719
+"hospitalizations","AB","2022-06-22",661
 "hospitalizations","BC","2020-01-25",0
 "hospitalizations","BC","2020-01-26",0
 "hospitalizations","BC","2020-01-27",0
@@ -1755,6 +1756,7 @@
 "hospitalizations","BC","2022-06-18",276
 "hospitalizations","BC","2022-06-19",276
 "hospitalizations","BC","2022-06-20",276
+"hospitalizations","BC","2022-06-23",273
 "hospitalizations","MB","2020-01-25",0
 "hospitalizations","MB","2020-01-26",0
 "hospitalizations","MB","2020-01-27",0
@@ -3511,6 +3513,7 @@
 "hospitalizations","NB","2022-06-18",27
 "hospitalizations","NB","2022-06-19",27
 "hospitalizations","NB","2022-06-20",27
+"hospitalizations","NB","2022-06-21",25
 "hospitalizations","NL","2020-01-25",0
 "hospitalizations","NL","2020-01-26",0
 "hospitalizations","NL","2020-01-27",0
@@ -7898,9 +7901,12 @@
 "hospitalizations","ON","2022-06-15",506
 "hospitalizations","ON","2022-06-16",491
 "hospitalizations","ON","2022-06-17",491
-"hospitalizations","ON","2022-06-18",491
-"hospitalizations","ON","2022-06-19",491
-"hospitalizations","ON","2022-06-20",491
+"hospitalizations","ON","2022-06-18",490
+"hospitalizations","ON","2022-06-19",343
+"hospitalizations","ON","2022-06-20",369
+"hospitalizations","ON","2022-06-21",487
+"hospitalizations","ON","2022-06-22",464
+"hospitalizations","ON","2022-06-23",486
 "hospitalizations","PE","2020-01-25",0
 "hospitalizations","PE","2020-01-26",0
 "hospitalizations","PE","2020-01-27",0
@@ -8779,6 +8785,7 @@
 "hospitalizations","PE","2022-06-18",11
 "hospitalizations","PE","2022-06-19",11
 "hospitalizations","PE","2022-06-20",11
+"hospitalizations","PE","2022-06-23",11
 "hospitalizations","QC","2020-01-25",0
 "hospitalizations","QC","2020-01-26",0
 "hospitalizations","QC","2020-01-27",0
@@ -9656,7 +9663,10 @@
 "hospitalizations","QC","2022-06-17",1010
 "hospitalizations","QC","2022-06-18",1010
 "hospitalizations","QC","2022-06-19",1010
-"hospitalizations","QC","2022-06-20",1010
+"hospitalizations","QC","2022-06-20",1029
+"hospitalizations","QC","2022-06-21",1041
+"hospitalizations","QC","2022-06-22",1084
+"hospitalizations","QC","2022-06-23",1080
 "hospitalizations","SK","2020-01-25",0
 "hospitalizations","SK","2020-01-26",0
 "hospitalizations","SK","2020-01-27",0
@@ -10535,6 +10545,7 @@
 "hospitalizations","SK","2022-06-18",165
 "hospitalizations","SK","2022-06-19",165
 "hospitalizations","SK","2022-06-20",165
+"hospitalizations","SK","2022-06-23",157
 "hospitalizations","YT","2020-01-25",0
 "hospitalizations","YT","2020-01-26",0
 "hospitalizations","YT","2020-01-27",0
