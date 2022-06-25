@@ -1,3 +1,7 @@
+- [Acknowledgements](#acknowledgements)
+- [License for datasets in this repository](#license-for-datasets-in-this-repository) (CC BY 4.0)
+- [License for software and scripts in this repository](#license-for-software-and-scripts-in-this-repository) (MIT)
+
 ## Acknowledgements
 
 We acknowledge using datasets from the below sources in the creation of this repository.
