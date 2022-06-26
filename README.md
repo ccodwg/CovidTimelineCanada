@@ -4,6 +4,8 @@ The Timeline of COVID-19 in Canada (`CovidTimelineCanada`) is intended to be the
 
 Datasets in this repository are found in the [`data`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/data) directory and are updated automatically several times per day by [`Covid19CanadaBot`](https://github.com/ccodwg/Covid19CanadaBot). Map, population and other spatial data are provided in the [`geo`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/geo) directory.
 
+This repository is maintained by the [COVID-19 Canada Open Data Working Group](https://opencovid.ca/) and is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project. The data in this repository will eventually conform to the [Data and Metadata Standard for COVID-19 Data in Canada](https://github.com/ccodwg/CovidDataStandard), which is undergoing collaborative development.
+
 Note that on April 30, 2022, `CovidTimelineCanada` superseded the original **[`Covid19Canada`](https://github.com/ccodwg/Covid19Canada)** dataset, which was first made available in March of 2020. For those familiar with the original dataset, please see the notes below about working with the new dataset.
 
 <details>
@@ -21,13 +23,11 @@ Note that on April 30, 2022, `CovidTimelineCanada` superseded the original **[`C
   - [Deaths (provinces/territories)](https://api.opencovid.ca/timeseries?stat=deaths&geo=pt&legacy=true&fmt=csv)
 </details>
 
-Some recent updates to the dataset:
+Some recent announcements regarding the dataset:
 
 - 💡 Recently added: [vaccine coverage](https://github.com/ccodwg/CovidTimelineCanada/issues/21) (doses 1–4), [vaccine administration](https://github.com/ccodwg/CovidTimelineCanada/issues/47) (doses 1–3, total doses)
  
 - 🚨 Coming soon: [vaccine distribution](https://github.com/ccodwg/CovidTimelineCanada/issues/22), [wastewater data](https://github.com/ccodwg/CovidTimelineCanada/issues/36), ["diffs" datasets](https://github.com/ccodwg/CovidTimelineCanada/issues/20) to show changes since the last time a jurisdiction received a data update
-
-This dataset is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project. The goal is for this dataset to eventually conform to the [Data and Metadata Standard for COVID-19 Data in Canada](https://github.com/ccodwg/CovidDataStandard), which is currently being developed collaboratively.
 
 ## How to download these data
 
