@@ -1,0 +1,16 @@
+"date","source","date_start","date_end","region","sub_region_1","cases","deaths","new_hospitalizations","new_icu","positivity_rate"
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK",,628,22,229,15,4
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","Far North West",,,,,3.3
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","Far North Central",,,,,0
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","Far North East",,,,,2.8
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","North West",,,,,6.3
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","North Central",,,,,3.9
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","North East",,,,,1.9
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","Saskatoon",,,,,5.6
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","Central West",,,,,9.5
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","Central East",,,,,4.5
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","Regina",,,,,7.7
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","South West",,,,,6.9
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","South Central",,,,,2.1
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","South East",,,,,3.8
+"2022-07-21","https://pubsaskdev.blob.core.windows.net/pubsask-prod/136146/Integrated%252BEpi%252BSit%252BMonthly%252BReport%252BJuly%252B21%252B2022.pdf","2022-06-26","2022-07-16","SK","Unknown",628,22,,,
