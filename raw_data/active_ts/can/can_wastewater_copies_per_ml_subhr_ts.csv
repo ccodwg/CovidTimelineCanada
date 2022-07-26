@@ -977,6 +977,20 @@
 "wastewater_copies_per_ml","2022-07-03","BC","Vancouver","Vancouver Northwest Langley",107.519815
 "wastewater_copies_per_ml","2022-07-07","BC","Vancouver","Vancouver Northwest Langley",142.197415
 "wastewater_copies_per_ml","2022-07-10","BC","Vancouver","Vancouver Northwest Langley",63.453735
+"wastewater_copies_per_ml","2022-05-27","MB","Brandon","Brandon",27.10578
+"wastewater_copies_per_ml","2022-05-31","MB","Brandon","Brandon",25.578635
+"wastewater_copies_per_ml","2022-06-03","MB","Brandon","Brandon",24.38199
+"wastewater_copies_per_ml","2022-06-07","MB","Brandon","Brandon",11.007345
+"wastewater_copies_per_ml","2022-06-10","MB","Brandon","Brandon",14.63255
+"wastewater_copies_per_ml","2022-06-14","MB","Brandon","Brandon",1.03826
+"wastewater_copies_per_ml","2022-06-17","MB","Brandon","Brandon",4.263995
+"wastewater_copies_per_ml","2022-06-21","MB","Brandon","Brandon",3.26255666666667
+"wastewater_copies_per_ml","2022-06-24","MB","Brandon","Brandon",1.583415
+"wastewater_copies_per_ml","2022-06-28","MB","Brandon","Brandon",2.67638
+"wastewater_copies_per_ml","2022-07-01","MB","Brandon","Brandon",16.778235
+"wastewater_copies_per_ml","2022-07-05","MB","Brandon","Brandon",14.01871
+"wastewater_copies_per_ml","2022-07-08","MB","Brandon","Brandon",9.711445
+"wastewater_copies_per_ml","2022-07-12","MB","Brandon","Brandon",4.677475
 "wastewater_copies_per_ml","2021-04-13","MB","Winnipeg","Winnipeg North End",14.7045725
 "wastewater_copies_per_ml","2021-04-20","MB","Winnipeg","Winnipeg North End",51.8545825
 "wastewater_copies_per_ml","2021-04-27","MB","Winnipeg","Winnipeg North End",446.3551575
@@ -1903,6 +1917,85 @@
 "wastewater_copies_per_ml","2022-07-16","MB","Winnipeg","Winnipeg West End",62.628325
 "wastewater_copies_per_ml","2022-07-17","MB","Winnipeg","Winnipeg West End",56.7746
 "wastewater_copies_per_ml","2022-07-18","MB","Winnipeg","Winnipeg West End",34.408645
+"wastewater_copies_per_ml","2021-05-10","NL","St. John's","St. John's",1.19527
+"wastewater_copies_per_ml","2021-07-29","NL","St. John's","St. John's",1.84115
+"wastewater_copies_per_ml","2021-08-19","NL","St. John's","St. John's",1.25872
+"wastewater_copies_per_ml","2021-08-23","NL","St. John's","St. John's",1.31509
+"wastewater_copies_per_ml","2021-08-26","NL","St. John's","St. John's",1.431725
+"wastewater_copies_per_ml","2021-09-07","NL","St. John's","St. John's",0.42086
+"wastewater_copies_per_ml","2021-09-13","NL","St. John's","St. John's",1.23814
+"wastewater_copies_per_ml","2021-09-16","NL","St. John's","St. John's",1.12403
+"wastewater_copies_per_ml","2021-10-04","NL","St. John's","St. John's",2.28231
+"wastewater_copies_per_ml","2021-10-07","NL","St. John's","St. John's",6.145125
+"wastewater_copies_per_ml","2021-10-18","NL","St. John's","St. John's",0.84049
+"wastewater_copies_per_ml","2021-10-25","NL","St. John's","St. John's",0.98291
+"wastewater_copies_per_ml","2021-11-01","NL","St. John's","St. John's",1.03821
+"wastewater_copies_per_ml","2021-11-04","NL","St. John's","St. John's",1.24029
+"wastewater_copies_per_ml","2021-11-08","NL","St. John's","St. John's",2.41009
+"wastewater_copies_per_ml","2021-11-15","NL","St. John's","St. John's",1.70801
+"wastewater_copies_per_ml","2021-11-25","NL","St. John's","St. John's",13.773725
+"wastewater_copies_per_ml","2021-11-29","NL","St. John's","St. John's",1.08018
+"wastewater_copies_per_ml","2021-12-02","NL","St. John's","St. John's",0.94013
+"wastewater_copies_per_ml","2021-12-13","NL","St. John's","St. John's",0.84478
+"wastewater_copies_per_ml","2021-12-16","NL","St. John's","St. John's",2.03805
+"wastewater_copies_per_ml","2021-12-20","NL","St. John's","St. John's",11.821155
+"wastewater_copies_per_ml","2021-12-29","NL","St. John's","St. John's",136.11832
+"wastewater_copies_per_ml","2022-01-04","NL","St. John's","St. John's",25.13483
+"wastewater_copies_per_ml","2022-01-06","NL","St. John's","St. John's",72.21148
+"wastewater_copies_per_ml","2022-01-10","NL","St. John's","St. John's",29.22039
+"wastewater_copies_per_ml","2022-01-13","NL","St. John's","St. John's",110.84796
+"wastewater_copies_per_ml","2022-01-17","NL","St. John's","St. John's",17.46972
+"wastewater_copies_per_ml","2022-01-20","NL","St. John's","St. John's",12.359605
+"wastewater_copies_per_ml","2022-01-24","NL","St. John's","St. John's",115.87435
+"wastewater_copies_per_ml","2022-01-27","NL","St. John's","St. John's",9.82752
+"wastewater_copies_per_ml","2022-02-01","NL","St. John's","St. John's",3.098
+"wastewater_copies_per_ml","2022-02-03","NL","St. John's","St. John's",6.61189875
+"wastewater_copies_per_ml","2022-02-08","NL","St. John's","St. John's",3.851215
+"wastewater_copies_per_ml","2022-02-10","NL","St. John's","St. John's",5.54449
+"wastewater_copies_per_ml","2022-02-14","NL","St. John's","St. John's",31.664975
+"wastewater_copies_per_ml","2022-02-22","NL","St. John's","St. John's",3.9271
+"wastewater_copies_per_ml","2022-02-24","NL","St. John's","St. John's",10.79571
+"wastewater_copies_per_ml","2022-02-28","NL","St. John's","St. John's",34.894185
+"wastewater_copies_per_ml","2022-03-03","NL","St. John's","St. John's",25.803995
+"wastewater_copies_per_ml","2022-03-07","NL","St. John's","St. John's",88.411075
+"wastewater_copies_per_ml","2022-03-10","NL","St. John's","St. John's",31.312295
+"wastewater_copies_per_ml","2022-03-15","NL","St. John's","St. John's",12.76498
+"wastewater_copies_per_ml","2022-03-17","NL","St. John's","St. John's",74.67535
+"wastewater_copies_per_ml","2022-03-21","NL","St. John's","St. John's",42.212295
+"wastewater_copies_per_ml","2022-03-24","NL","St. John's","St. John's",79.162785
+"wastewater_copies_per_ml","2022-03-28","NL","St. John's","St. John's",91.781565
+"wastewater_copies_per_ml","2022-03-31","NL","St. John's","St. John's",26.21679
+"wastewater_copies_per_ml","2022-04-04","NL","St. John's","St. John's",35.04533
+"wastewater_copies_per_ml","2022-04-07","NL","St. John's","St. John's",33.89358
+"wastewater_copies_per_ml","2022-04-11","NL","St. John's","St. John's",3.734275
+"wastewater_copies_per_ml","2022-04-14","NL","St. John's","St. John's",15.135275
+"wastewater_copies_per_ml","2022-04-18","NL","St. John's","St. John's",42.99429
+"wastewater_copies_per_ml","2022-04-21","NL","St. John's","St. John's",38.839025
+"wastewater_copies_per_ml","2022-04-26","NL","St. John's","St. John's",18.505275
+"wastewater_copies_per_ml","2022-04-28","NL","St. John's","St. John's",19.74917
+"wastewater_copies_per_ml","2022-05-02","NL","St. John's","St. John's",43.529355
+"wastewater_copies_per_ml","2022-05-05","NL","St. John's","St. John's",22.32284
+"wastewater_copies_per_ml","2022-05-09","NL","St. John's","St. John's",96.504085
+"wastewater_copies_per_ml","2022-05-12","NL","St. John's","St. John's",15.057485
+"wastewater_copies_per_ml","2022-05-16","NL","St. John's","St. John's",21.57325
+"wastewater_copies_per_ml","2022-05-19","NL","St. John's","St. John's",17.29789
+"wastewater_copies_per_ml","2022-05-24","NL","St. John's","St. John's",39.113375
+"wastewater_copies_per_ml","2022-05-26","NL","St. John's","St. John's",36.926465
+"wastewater_copies_per_ml","2022-05-30","NL","St. John's","St. John's",109.39481
+"wastewater_copies_per_ml","2022-06-02","NL","St. John's","St. John's",35.59823
+"wastewater_copies_per_ml","2022-06-06","NL","St. John's","St. John's",54.67279
+"wastewater_copies_per_ml","2022-06-09","NL","St. John's","St. John's",78.6946
+"wastewater_copies_per_ml","2022-06-13","NL","St. John's","St. John's",31.753375
+"wastewater_copies_per_ml","2022-06-16","NL","St. John's","St. John's",27.79359
+"wastewater_copies_per_ml","2022-06-20","NL","St. John's","St. John's",15.002595
+"wastewater_copies_per_ml","2022-06-23","NL","St. John's","St. John's",18.673145
+"wastewater_copies_per_ml","2022-06-28","NL","St. John's","St. John's",12.568765
+"wastewater_copies_per_ml","2022-06-30","NL","St. John's","St. John's",34.76904
+"wastewater_copies_per_ml","2022-07-04","NL","St. John's","St. John's",52.19361
+"wastewater_copies_per_ml","2022-07-07","NL","St. John's","St. John's",41.31033
+"wastewater_copies_per_ml","2022-07-12","NL","St. John's","St. John's",41.31673
+"wastewater_copies_per_ml","2022-07-14","NL","St. John's","St. John's",90.491275
+"wastewater_copies_per_ml","2022-07-18","NL","St. John's","St. John's",77.29298
 "wastewater_copies_per_ml","2020-11-12","NS","Halifax","Halifax Dartmouth",2.76399
 "wastewater_copies_per_ml","2020-11-19","NS","Halifax","Halifax Dartmouth",2.17665
 "wastewater_copies_per_ml","2020-11-23","NS","Halifax","Halifax Dartmouth",1.11886
@@ -2985,6 +3078,49 @@
 "wastewater_copies_per_ml","2022-07-05","ON","Toronto","Toronto North Toronto",54.13814
 "wastewater_copies_per_ml","2022-07-10","ON","Toronto","Toronto North Toronto",41.725695
 "wastewater_copies_per_ml","2022-07-12","ON","Toronto","Toronto North Toronto",256.58971
+"wastewater_copies_per_ml","2022-05-05","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",13.016705
+"wastewater_copies_per_ml","2022-05-09","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",38.3632
+"wastewater_copies_per_ml","2022-05-12","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",55.188915
+"wastewater_copies_per_ml","2022-05-16","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",39.75249
+"wastewater_copies_per_ml","2022-05-19","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",48.39099
+"wastewater_copies_per_ml","2022-05-24","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",53.274445
+"wastewater_copies_per_ml","2022-05-26","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",139.385535
+"wastewater_copies_per_ml","2022-05-30","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",33.746805
+"wastewater_copies_per_ml","2022-06-02","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",38.8122
+"wastewater_copies_per_ml","2022-06-06","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",111.806655
+"wastewater_copies_per_ml","2022-06-09","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",42.946625
+"wastewater_copies_per_ml","2022-06-13","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",33.79275
+"wastewater_copies_per_ml","2022-06-16","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",4.057295
+"wastewater_copies_per_ml","2022-06-20","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",8.499025
+"wastewater_copies_per_ml","2022-06-23","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",28.705835
+"wastewater_copies_per_ml","2022-06-27","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",21.57182
+"wastewater_copies_per_ml","2022-06-30","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",41.64682
+"wastewater_copies_per_ml","2022-07-04","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",55.99058
+"wastewater_copies_per_ml","2022-07-07","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",8.44165
+"wastewater_copies_per_ml","2022-07-11","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",55.84637
+"wastewater_copies_per_ml","2022-07-14","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",66.243745
+"wastewater_copies_per_ml","2022-07-18","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",636.940135
+"wastewater_copies_per_ml","2022-05-05","PE","Summerside","Summerside",62.31405
+"wastewater_copies_per_ml","2022-05-09","PE","Summerside","Summerside",45.41878
+"wastewater_copies_per_ml","2022-05-12","PE","Summerside","Summerside",47.954725
+"wastewater_copies_per_ml","2022-05-16","PE","Summerside","Summerside",117.812275
+"wastewater_copies_per_ml","2022-05-20","PE","Summerside","Summerside",46.66777
+"wastewater_copies_per_ml","2022-05-24","PE","Summerside","Summerside",12.62237
+"wastewater_copies_per_ml","2022-05-30","PE","Summerside","Summerside",24.963555
+"wastewater_copies_per_ml","2022-06-02","PE","Summerside","Summerside",53.952305
+"wastewater_copies_per_ml","2022-06-06","PE","Summerside","Summerside",60.251115
+"wastewater_copies_per_ml","2022-06-09","PE","Summerside","Summerside",36.34426
+"wastewater_copies_per_ml","2022-06-13","PE","Summerside","Summerside",57.631685
+"wastewater_copies_per_ml","2022-06-16","PE","Summerside","Summerside",3.97982
+"wastewater_copies_per_ml","2022-06-20","PE","Summerside","Summerside",13.77282
+"wastewater_copies_per_ml","2022-06-23","PE","Summerside","Summerside",11.129905
+"wastewater_copies_per_ml","2022-06-27","PE","Summerside","Summerside",23.65822
+"wastewater_copies_per_ml","2022-06-30","PE","Summerside","Summerside",265.161735
+"wastewater_copies_per_ml","2022-07-04","PE","Summerside","Summerside",57.0317
+"wastewater_copies_per_ml","2022-07-07","PE","Summerside","Summerside",193.657135
+"wastewater_copies_per_ml","2022-07-11","PE","Summerside","Summerside",121.871625
+"wastewater_copies_per_ml","2022-07-14","PE","Summerside","Summerside",895.165095
+"wastewater_copies_per_ml","2022-07-18","PE","Summerside","Summerside",159.06625
 "wastewater_copies_per_ml","2020-10-29","QC","Montreal","Montreal North",4.2712
 "wastewater_copies_per_ml","2020-11-01","QC","Montreal","Montreal North",11.03286
 "wastewater_copies_per_ml","2020-11-05","QC","Montreal","Montreal North",6.401845
@@ -3477,139 +3613,3 @@
 "wastewater_copies_per_ml","2022-07-03","SK","Regina","Regina",35.825285
 "wastewater_copies_per_ml","2022-07-05","SK","Regina","Regina",162.63586
 "wastewater_copies_per_ml","2022-07-10","SK","Regina","Regina",14.515655
-"wastewater_copies_per_ml","2022-05-27",,"Brandon","Brandon",27.10578
-"wastewater_copies_per_ml","2022-05-31",,"Brandon","Brandon",25.578635
-"wastewater_copies_per_ml","2022-06-03",,"Brandon","Brandon",24.38199
-"wastewater_copies_per_ml","2022-06-07",,"Brandon","Brandon",11.007345
-"wastewater_copies_per_ml","2022-06-10",,"Brandon","Brandon",14.63255
-"wastewater_copies_per_ml","2022-06-14",,"Brandon","Brandon",1.03826
-"wastewater_copies_per_ml","2022-06-17",,"Brandon","Brandon",4.263995
-"wastewater_copies_per_ml","2022-06-21",,"Brandon","Brandon",3.26255666666667
-"wastewater_copies_per_ml","2022-06-24",,"Brandon","Brandon",1.583415
-"wastewater_copies_per_ml","2022-06-28",,"Brandon","Brandon",2.67638
-"wastewater_copies_per_ml","2022-07-01",,"Brandon","Brandon",16.778235
-"wastewater_copies_per_ml","2022-07-05",,"Brandon","Brandon",14.01871
-"wastewater_copies_per_ml","2022-07-08",,"Brandon","Brandon",9.711445
-"wastewater_copies_per_ml","2022-07-12",,"Brandon","Brandon",4.677475
-"wastewater_copies_per_ml","2022-05-05",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",13.016705
-"wastewater_copies_per_ml","2022-05-09",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",38.3632
-"wastewater_copies_per_ml","2022-05-12",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",55.188915
-"wastewater_copies_per_ml","2022-05-16",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",39.75249
-"wastewater_copies_per_ml","2022-05-19",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",48.39099
-"wastewater_copies_per_ml","2022-05-24",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",53.274445
-"wastewater_copies_per_ml","2022-05-26",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",139.385535
-"wastewater_copies_per_ml","2022-05-30",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",33.746805
-"wastewater_copies_per_ml","2022-06-02",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",38.8122
-"wastewater_copies_per_ml","2022-06-06",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",111.806655
-"wastewater_copies_per_ml","2022-06-09",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",42.946625
-"wastewater_copies_per_ml","2022-06-13",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",33.79275
-"wastewater_copies_per_ml","2022-06-16",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",4.057295
-"wastewater_copies_per_ml","2022-06-20",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",8.499025
-"wastewater_copies_per_ml","2022-06-23",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",28.705835
-"wastewater_copies_per_ml","2022-06-27",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",21.57182
-"wastewater_copies_per_ml","2022-06-30",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",41.64682
-"wastewater_copies_per_ml","2022-07-04",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",55.99058
-"wastewater_copies_per_ml","2022-07-07",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",8.44165
-"wastewater_copies_per_ml","2022-07-11",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",55.84637
-"wastewater_copies_per_ml","2022-07-14",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",66.243745
-"wastewater_copies_per_ml","2022-07-18",,"City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",636.940135
-"wastewater_copies_per_ml","2021-05-10",,"St. John's","St. John's",1.19527
-"wastewater_copies_per_ml","2021-07-29",,"St. John's","St. John's",1.84115
-"wastewater_copies_per_ml","2021-08-19",,"St. John's","St. John's",1.25872
-"wastewater_copies_per_ml","2021-08-23",,"St. John's","St. John's",1.31509
-"wastewater_copies_per_ml","2021-08-26",,"St. John's","St. John's",1.431725
-"wastewater_copies_per_ml","2021-09-07",,"St. John's","St. John's",0.42086
-"wastewater_copies_per_ml","2021-09-13",,"St. John's","St. John's",1.23814
-"wastewater_copies_per_ml","2021-09-16",,"St. John's","St. John's",1.12403
-"wastewater_copies_per_ml","2021-10-04",,"St. John's","St. John's",2.28231
-"wastewater_copies_per_ml","2021-10-07",,"St. John's","St. John's",6.145125
-"wastewater_copies_per_ml","2021-10-18",,"St. John's","St. John's",0.84049
-"wastewater_copies_per_ml","2021-10-25",,"St. John's","St. John's",0.98291
-"wastewater_copies_per_ml","2021-11-01",,"St. John's","St. John's",1.03821
-"wastewater_copies_per_ml","2021-11-04",,"St. John's","St. John's",1.24029
-"wastewater_copies_per_ml","2021-11-08",,"St. John's","St. John's",2.41009
-"wastewater_copies_per_ml","2021-11-15",,"St. John's","St. John's",1.70801
-"wastewater_copies_per_ml","2021-11-25",,"St. John's","St. John's",13.773725
-"wastewater_copies_per_ml","2021-11-29",,"St. John's","St. John's",1.08018
-"wastewater_copies_per_ml","2021-12-02",,"St. John's","St. John's",0.94013
-"wastewater_copies_per_ml","2021-12-13",,"St. John's","St. John's",0.84478
-"wastewater_copies_per_ml","2021-12-16",,"St. John's","St. John's",2.03805
-"wastewater_copies_per_ml","2021-12-20",,"St. John's","St. John's",11.821155
-"wastewater_copies_per_ml","2021-12-29",,"St. John's","St. John's",136.11832
-"wastewater_copies_per_ml","2022-01-04",,"St. John's","St. John's",25.13483
-"wastewater_copies_per_ml","2022-01-06",,"St. John's","St. John's",72.21148
-"wastewater_copies_per_ml","2022-01-10",,"St. John's","St. John's",29.22039
-"wastewater_copies_per_ml","2022-01-13",,"St. John's","St. John's",110.84796
-"wastewater_copies_per_ml","2022-01-17",,"St. John's","St. John's",17.46972
-"wastewater_copies_per_ml","2022-01-20",,"St. John's","St. John's",12.359605
-"wastewater_copies_per_ml","2022-01-24",,"St. John's","St. John's",115.87435
-"wastewater_copies_per_ml","2022-01-27",,"St. John's","St. John's",9.82752
-"wastewater_copies_per_ml","2022-02-01",,"St. John's","St. John's",3.098
-"wastewater_copies_per_ml","2022-02-03",,"St. John's","St. John's",6.61189875
-"wastewater_copies_per_ml","2022-02-08",,"St. John's","St. John's",3.851215
-"wastewater_copies_per_ml","2022-02-10",,"St. John's","St. John's",5.54449
-"wastewater_copies_per_ml","2022-02-14",,"St. John's","St. John's",31.664975
-"wastewater_copies_per_ml","2022-02-22",,"St. John's","St. John's",3.9271
-"wastewater_copies_per_ml","2022-02-24",,"St. John's","St. John's",10.79571
-"wastewater_copies_per_ml","2022-02-28",,"St. John's","St. John's",34.894185
-"wastewater_copies_per_ml","2022-03-03",,"St. John's","St. John's",25.803995
-"wastewater_copies_per_ml","2022-03-07",,"St. John's","St. John's",88.411075
-"wastewater_copies_per_ml","2022-03-10",,"St. John's","St. John's",31.312295
-"wastewater_copies_per_ml","2022-03-15",,"St. John's","St. John's",12.76498
-"wastewater_copies_per_ml","2022-03-17",,"St. John's","St. John's",74.67535
-"wastewater_copies_per_ml","2022-03-21",,"St. John's","St. John's",42.212295
-"wastewater_copies_per_ml","2022-03-24",,"St. John's","St. John's",79.162785
-"wastewater_copies_per_ml","2022-03-28",,"St. John's","St. John's",91.781565
-"wastewater_copies_per_ml","2022-03-31",,"St. John's","St. John's",26.21679
-"wastewater_copies_per_ml","2022-04-04",,"St. John's","St. John's",35.04533
-"wastewater_copies_per_ml","2022-04-07",,"St. John's","St. John's",33.89358
-"wastewater_copies_per_ml","2022-04-11",,"St. John's","St. John's",3.734275
-"wastewater_copies_per_ml","2022-04-14",,"St. John's","St. John's",15.135275
-"wastewater_copies_per_ml","2022-04-18",,"St. John's","St. John's",42.99429
-"wastewater_copies_per_ml","2022-04-21",,"St. John's","St. John's",38.839025
-"wastewater_copies_per_ml","2022-04-26",,"St. John's","St. John's",18.505275
-"wastewater_copies_per_ml","2022-04-28",,"St. John's","St. John's",19.74917
-"wastewater_copies_per_ml","2022-05-02",,"St. John's","St. John's",43.529355
-"wastewater_copies_per_ml","2022-05-05",,"St. John's","St. John's",22.32284
-"wastewater_copies_per_ml","2022-05-09",,"St. John's","St. John's",96.504085
-"wastewater_copies_per_ml","2022-05-12",,"St. John's","St. John's",15.057485
-"wastewater_copies_per_ml","2022-05-16",,"St. John's","St. John's",21.57325
-"wastewater_copies_per_ml","2022-05-19",,"St. John's","St. John's",17.29789
-"wastewater_copies_per_ml","2022-05-24",,"St. John's","St. John's",39.113375
-"wastewater_copies_per_ml","2022-05-26",,"St. John's","St. John's",36.926465
-"wastewater_copies_per_ml","2022-05-30",,"St. John's","St. John's",109.39481
-"wastewater_copies_per_ml","2022-06-02",,"St. John's","St. John's",35.59823
-"wastewater_copies_per_ml","2022-06-06",,"St. John's","St. John's",54.67279
-"wastewater_copies_per_ml","2022-06-09",,"St. John's","St. John's",78.6946
-"wastewater_copies_per_ml","2022-06-13",,"St. John's","St. John's",31.753375
-"wastewater_copies_per_ml","2022-06-16",,"St. John's","St. John's",27.79359
-"wastewater_copies_per_ml","2022-06-20",,"St. John's","St. John's",15.002595
-"wastewater_copies_per_ml","2022-06-23",,"St. John's","St. John's",18.673145
-"wastewater_copies_per_ml","2022-06-28",,"St. John's","St. John's",12.568765
-"wastewater_copies_per_ml","2022-06-30",,"St. John's","St. John's",34.76904
-"wastewater_copies_per_ml","2022-07-04",,"St. John's","St. John's",52.19361
-"wastewater_copies_per_ml","2022-07-07",,"St. John's","St. John's",41.31033
-"wastewater_copies_per_ml","2022-07-12",,"St. John's","St. John's",41.31673
-"wastewater_copies_per_ml","2022-07-14",,"St. John's","St. John's",90.491275
-"wastewater_copies_per_ml","2022-07-18",,"St. John's","St. John's",77.29298
-"wastewater_copies_per_ml","2022-05-05",,"Summerside","Summerside",62.31405
-"wastewater_copies_per_ml","2022-05-09",,"Summerside","Summerside",45.41878
-"wastewater_copies_per_ml","2022-05-12",,"Summerside","Summerside",47.954725
-"wastewater_copies_per_ml","2022-05-16",,"Summerside","Summerside",117.812275
-"wastewater_copies_per_ml","2022-05-20",,"Summerside","Summerside",46.66777
-"wastewater_copies_per_ml","2022-05-24",,"Summerside","Summerside",12.62237
-"wastewater_copies_per_ml","2022-05-30",,"Summerside","Summerside",24.963555
-"wastewater_copies_per_ml","2022-06-02",,"Summerside","Summerside",53.952305
-"wastewater_copies_per_ml","2022-06-06",,"Summerside","Summerside",60.251115
-"wastewater_copies_per_ml","2022-06-09",,"Summerside","Summerside",36.34426
-"wastewater_copies_per_ml","2022-06-13",,"Summerside","Summerside",57.631685
-"wastewater_copies_per_ml","2022-06-16",,"Summerside","Summerside",3.97982
-"wastewater_copies_per_ml","2022-06-20",,"Summerside","Summerside",13.77282
-"wastewater_copies_per_ml","2022-06-23",,"Summerside","Summerside",11.129905
-"wastewater_copies_per_ml","2022-06-27",,"Summerside","Summerside",23.65822
-"wastewater_copies_per_ml","2022-06-30",,"Summerside","Summerside",265.161735
-"wastewater_copies_per_ml","2022-07-04",,"Summerside","Summerside",57.0317
-"wastewater_copies_per_ml","2022-07-07",,"Summerside","Summerside",193.657135
-"wastewater_copies_per_ml","2022-07-11",,"Summerside","Summerside",121.871625
-"wastewater_copies_per_ml","2022-07-14",,"Summerside","Summerside",895.165095
-"wastewater_copies_per_ml","2022-07-18",,"Summerside","Summerside",159.06625
