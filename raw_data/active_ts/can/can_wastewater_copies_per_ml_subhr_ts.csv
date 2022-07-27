@@ -152,6 +152,10 @@
 "wastewater_copies_per_ml","2022-06-26","AB","Edmonton","Edmonton Goldbar",11.033715
 "wastewater_copies_per_ml","2022-06-30","AB","Edmonton","Edmonton Goldbar",95.28613
 "wastewater_copies_per_ml","2022-07-03","AB","Edmonton","Edmonton Goldbar",42.869595
+"wastewater_copies_per_ml","2022-07-07","AB","Edmonton","Edmonton Goldbar",97.20506
+"wastewater_copies_per_ml","2022-07-10","AB","Edmonton","Edmonton Goldbar",149.02325
+"wastewater_copies_per_ml","2022-07-14","AB","Edmonton","Edmonton Goldbar",130.226675
+"wastewater_copies_per_ml","2022-07-17","AB","Edmonton","Edmonton Goldbar",116.401315
 "wastewater_copies_per_ml","2020-11-06","BC","Vancouver","Vancouver Annacis Island",15.76413
 "wastewater_copies_per_ml","2020-11-08","BC","Vancouver","Vancouver Annacis Island",17.107665
 "wastewater_copies_per_ml","2020-11-12","BC","Vancouver","Vancouver Annacis Island",48.847155
@@ -341,6 +345,8 @@
 "wastewater_copies_per_ml","2022-06-30","BC","Vancouver","Vancouver Annacis Island",190.568585
 "wastewater_copies_per_ml","2022-07-07","BC","Vancouver","Vancouver Annacis Island",85.41219
 "wastewater_copies_per_ml","2022-07-10","BC","Vancouver","Vancouver Annacis Island",66.420045
+"wastewater_copies_per_ml","2022-07-14","BC","Vancouver","Vancouver Annacis Island",279.942115
+"wastewater_copies_per_ml","2022-07-17","BC","Vancouver","Vancouver Annacis Island",428.055275
 "wastewater_copies_per_ml","2021-02-07","BC","Vancouver","Vancouver Iona Island",4.387195
 "wastewater_copies_per_ml","2021-02-09","BC","Vancouver","Vancouver Iona Island",6.648565
 "wastewater_copies_per_ml","2021-02-11","BC","Vancouver","Vancouver Iona Island",8.875415
@@ -512,6 +518,8 @@
 "wastewater_copies_per_ml","2022-07-03","BC","Vancouver","Vancouver Iona Island",197.45547
 "wastewater_copies_per_ml","2022-07-07","BC","Vancouver","Vancouver Iona Island",85.123905
 "wastewater_copies_per_ml","2022-07-10","BC","Vancouver","Vancouver Iona Island",97.642815
+"wastewater_copies_per_ml","2022-07-14","BC","Vancouver","Vancouver Iona Island",325.396265
+"wastewater_copies_per_ml","2022-07-17","BC","Vancouver","Vancouver Iona Island",208.03656
 "wastewater_copies_per_ml","2021-02-07","BC","Vancouver","Vancouver Lions Gate",8.677755
 "wastewater_copies_per_ml","2021-02-09","BC","Vancouver","Vancouver Lions Gate",20.474925
 "wastewater_copies_per_ml","2021-02-11","BC","Vancouver","Vancouver Lions Gate",11.169755
@@ -543,7 +551,7 @@
 "wastewater_copies_per_ml","2021-04-18","BC","Vancouver","Vancouver Lions Gate",21.550145
 "wastewater_copies_per_ml","2021-04-22","BC","Vancouver","Vancouver Lions Gate",25.14783
 "wastewater_copies_per_ml","2021-04-25","BC","Vancouver","Vancouver Lions Gate",26.1529
-"wastewater_copies_per_ml","2021-04-29","BC","Vancouver","Vancouver Lions Gate",18.719745
+"wastewater_copies_per_ml","2021-04-29","BC","Vancouver","Vancouver Lions Gate",18.71974
 "wastewater_copies_per_ml","2021-05-02","BC","Vancouver","Vancouver Lions Gate",19.42616
 "wastewater_copies_per_ml","2021-05-06","BC","Vancouver","Vancouver Lions Gate",15.85082
 "wastewater_copies_per_ml","2021-05-09","BC","Vancouver","Vancouver Lions Gate",23.125065
@@ -668,6 +676,8 @@
 "wastewater_copies_per_ml","2022-07-03","BC","Vancouver","Vancouver Lions Gate",169.45244
 "wastewater_copies_per_ml","2022-07-07","BC","Vancouver","Vancouver Lions Gate",145.414205
 "wastewater_copies_per_ml","2022-07-10","BC","Vancouver","Vancouver Lions Gate",175.656715
+"wastewater_copies_per_ml","2022-07-14","BC","Vancouver","Vancouver Lions Gate",151.036825
+"wastewater_copies_per_ml","2022-07-17","BC","Vancouver","Vancouver Lions Gate",150.900715
 "wastewater_copies_per_ml","2021-02-07","BC","Vancouver","Vancouver Lulu Island",10.543265
 "wastewater_copies_per_ml","2021-02-09","BC","Vancouver","Vancouver Lulu Island",6.001515
 "wastewater_copies_per_ml","2021-02-11","BC","Vancouver","Vancouver Lulu Island",5.069655
@@ -766,7 +776,7 @@
 "wastewater_copies_per_ml","2021-12-16","BC","Vancouver","Vancouver Lulu Island",11.95748
 "wastewater_copies_per_ml","2021-12-19","BC","Vancouver","Vancouver Lulu Island",92.712685
 "wastewater_copies_per_ml","2021-12-23","BC","Vancouver","Vancouver Lulu Island",135.9224
-"wastewater_copies_per_ml","2021-12-26","BC","Vancouver","Vancouver Lulu Island",298.01526
+"wastewater_copies_per_ml","2021-12-26","BC","Vancouver","Vancouver Lulu Island",298.015265
 "wastewater_copies_per_ml","2021-12-30","BC","Vancouver","Vancouver Lulu Island",115.596825
 "wastewater_copies_per_ml","2022-01-02","BC","Vancouver","Vancouver Lulu Island",678.44501
 "wastewater_copies_per_ml","2022-01-06","BC","Vancouver","Vancouver Lulu Island",342.0148
@@ -823,6 +833,8 @@
 "wastewater_copies_per_ml","2022-07-03","BC","Vancouver","Vancouver Lulu Island",153.45178
 "wastewater_copies_per_ml","2022-07-07","BC","Vancouver","Vancouver Lulu Island",252.726475
 "wastewater_copies_per_ml","2022-07-10","BC","Vancouver","Vancouver Lulu Island",470.37661
+"wastewater_copies_per_ml","2022-07-14","BC","Vancouver","Vancouver Lulu Island",390.597415
+"wastewater_copies_per_ml","2022-07-17","BC","Vancouver","Vancouver Lulu Island",405.239175
 "wastewater_copies_per_ml","2021-02-07","BC","Vancouver","Vancouver Northwest Langley",3.914785
 "wastewater_copies_per_ml","2021-02-09","BC","Vancouver","Vancouver Northwest Langley",12.95689
 "wastewater_copies_per_ml","2021-02-11","BC","Vancouver","Vancouver Northwest Langley",20.77402
@@ -977,6 +989,8 @@
 "wastewater_copies_per_ml","2022-07-03","BC","Vancouver","Vancouver Northwest Langley",107.519815
 "wastewater_copies_per_ml","2022-07-07","BC","Vancouver","Vancouver Northwest Langley",142.197415
 "wastewater_copies_per_ml","2022-07-10","BC","Vancouver","Vancouver Northwest Langley",63.453735
+"wastewater_copies_per_ml","2022-07-14","BC","Vancouver","Vancouver Northwest Langley",390.940055
+"wastewater_copies_per_ml","2022-07-17","BC","Vancouver","Vancouver Northwest Langley",175.980335
 "wastewater_copies_per_ml","2022-05-27","MB","Brandon","Brandon",27.10578
 "wastewater_copies_per_ml","2022-05-31","MB","Brandon","Brandon",25.578635
 "wastewater_copies_per_ml","2022-06-03","MB","Brandon","Brandon",24.38199
@@ -991,6 +1005,8 @@
 "wastewater_copies_per_ml","2022-07-05","MB","Brandon","Brandon",14.01871
 "wastewater_copies_per_ml","2022-07-08","MB","Brandon","Brandon",9.711445
 "wastewater_copies_per_ml","2022-07-12","MB","Brandon","Brandon",4.677475
+"wastewater_copies_per_ml","2022-07-15","MB","Brandon","Brandon",22.8904
+"wastewater_copies_per_ml","2022-07-19","MB","Brandon","Brandon",34.91586
 "wastewater_copies_per_ml","2021-04-13","MB","Winnipeg","Winnipeg North End",14.7045725
 "wastewater_copies_per_ml","2021-04-20","MB","Winnipeg","Winnipeg North End",51.8545825
 "wastewater_copies_per_ml","2021-04-27","MB","Winnipeg","Winnipeg North End",446.3551575
@@ -1165,7 +1181,7 @@
 "wastewater_copies_per_ml","2022-01-06","MB","Winnipeg","Winnipeg North End",387.820095
 "wastewater_copies_per_ml","2022-01-08","MB","Winnipeg","Winnipeg North End",526.291135
 "wastewater_copies_per_ml","2022-01-09","MB","Winnipeg","Winnipeg North End",478.04034
-"wastewater_copies_per_ml","2022-01-10","MB","Winnipeg","Winnipeg North End",480.282555
+"wastewater_copies_per_ml","2022-01-10","MB","Winnipeg","Winnipeg North End",480.28255
 "wastewater_copies_per_ml","2022-01-12","MB","Winnipeg","Winnipeg North End",261.354335
 "wastewater_copies_per_ml","2022-01-13","MB","Winnipeg","Winnipeg North End",222.148485
 "wastewater_copies_per_ml","2022-01-15","MB","Winnipeg","Winnipeg North End",352.44658
@@ -1298,13 +1314,15 @@
 "wastewater_copies_per_ml","2022-07-16","MB","Winnipeg","Winnipeg North End",27.60066
 "wastewater_copies_per_ml","2022-07-17","MB","Winnipeg","Winnipeg North End",26.086405
 "wastewater_copies_per_ml","2022-07-18","MB","Winnipeg","Winnipeg North End",24.24999
+"wastewater_copies_per_ml","2022-07-20","MB","Winnipeg","Winnipeg North End",46.093825
+"wastewater_copies_per_ml","2022-07-21","MB","Winnipeg","Winnipeg North End",121.606895
 "wastewater_copies_per_ml","2021-04-14","MB","Winnipeg","Winnipeg South End",49.66872
 "wastewater_copies_per_ml","2021-04-21","MB","Winnipeg","Winnipeg South End",42.6184125
 "wastewater_copies_per_ml","2021-04-28","MB","Winnipeg","Winnipeg South End",131.3792325
 "wastewater_copies_per_ml","2021-05-05","MB","Winnipeg","Winnipeg South End",54.0596825
 "wastewater_copies_per_ml","2021-05-11","MB","Winnipeg","Winnipeg South End",204.331705
 "wastewater_copies_per_ml","2021-05-12","MB","Winnipeg","Winnipeg South End",92.708765
-"wastewater_copies_per_ml","2021-05-15","MB","Winnipeg","Winnipeg South End",157.237305
+"wastewater_copies_per_ml","2021-05-15","MB","Winnipeg","Winnipeg South End",157.23731
 "wastewater_copies_per_ml","2021-05-16","MB","Winnipeg","Winnipeg South End",97.37722
 "wastewater_copies_per_ml","2021-05-17","MB","Winnipeg","Winnipeg South End",67.76621
 "wastewater_copies_per_ml","2021-05-18","MB","Winnipeg","Winnipeg South End",47.99074
@@ -1612,6 +1630,8 @@
 "wastewater_copies_per_ml","2022-07-16","MB","Winnipeg","Winnipeg South End",87.48815
 "wastewater_copies_per_ml","2022-07-17","MB","Winnipeg","Winnipeg South End",64.2731
 "wastewater_copies_per_ml","2022-07-18","MB","Winnipeg","Winnipeg South End",186.48043
+"wastewater_copies_per_ml","2022-07-20","MB","Winnipeg","Winnipeg South End",60.286735
+"wastewater_copies_per_ml","2022-07-21","MB","Winnipeg","Winnipeg South End",76.354275
 "wastewater_copies_per_ml","2021-04-14","MB","Winnipeg","Winnipeg West End",2.9501775
 "wastewater_copies_per_ml","2021-04-21","MB","Winnipeg","Winnipeg West End",4.7541475
 "wastewater_copies_per_ml","2021-04-28","MB","Winnipeg","Winnipeg West End",12.6400925
@@ -1786,7 +1806,7 @@
 "wastewater_copies_per_ml","2022-01-08","MB","Winnipeg","Winnipeg West End",170.522285
 "wastewater_copies_per_ml","2022-01-09","MB","Winnipeg","Winnipeg West End",230.215525
 "wastewater_copies_per_ml","2022-01-10","MB","Winnipeg","Winnipeg West End",111.555765
-"wastewater_copies_per_ml","2022-01-12","MB","Winnipeg","Winnipeg West End",120.431945
+"wastewater_copies_per_ml","2022-01-12","MB","Winnipeg","Winnipeg West End",120.43195
 "wastewater_copies_per_ml","2022-01-13","MB","Winnipeg","Winnipeg West End",239.6333
 "wastewater_copies_per_ml","2022-01-15","MB","Winnipeg","Winnipeg West End",82.425245
 "wastewater_copies_per_ml","2022-01-16","MB","Winnipeg","Winnipeg West End",106.66816
@@ -1917,6 +1937,7 @@
 "wastewater_copies_per_ml","2022-07-16","MB","Winnipeg","Winnipeg West End",62.628325
 "wastewater_copies_per_ml","2022-07-17","MB","Winnipeg","Winnipeg West End",56.7746
 "wastewater_copies_per_ml","2022-07-18","MB","Winnipeg","Winnipeg West End",34.408645
+"wastewater_copies_per_ml","2022-07-21","MB","Winnipeg","Winnipeg West End",33.229885
 "wastewater_copies_per_ml","2021-05-10","NL","St. John's","St. John's",1.19527
 "wastewater_copies_per_ml","2021-07-29","NL","St. John's","St. John's",1.84115
 "wastewater_copies_per_ml","2021-08-19","NL","St. John's","St. John's",1.25872
@@ -2437,6 +2458,677 @@
 "wastewater_copies_per_ml","2022-07-06","NS","Halifax","Halifax Millcove",125.30063
 "wastewater_copies_per_ml","2022-07-11","NS","Halifax","Halifax Millcove",155.8015
 "wastewater_copies_per_ml","2022-07-13","NS","Halifax","Halifax Millcove",216.667385
+"wastewater_copies_per_ml","2020-11-18","ON","Toronto","Ashbridge Treatment Plant",36746228673.9622
+"wastewater_copies_per_ml","2020-11-23","ON","Toronto","Ashbridge Treatment Plant",70590620961.7605
+"wastewater_copies_per_ml","2020-11-25","ON","Toronto","Ashbridge Treatment Plant",49791122395.6761
+"wastewater_copies_per_ml","2020-11-29","ON","Toronto","Ashbridge Treatment Plant",35307317203.3053
+"wastewater_copies_per_ml","2020-11-30","ON","Toronto","Ashbridge Treatment Plant",54269177181.7652
+"wastewater_copies_per_ml","2020-12-02","ON","Toronto","Ashbridge Treatment Plant",46102880176.3387
+"wastewater_copies_per_ml","2020-12-06","ON","Toronto","Ashbridge Treatment Plant",93776095003.3894
+"wastewater_copies_per_ml","2020-12-07","ON","Toronto","Ashbridge Treatment Plant",188677825393.108
+"wastewater_copies_per_ml","2020-12-09","ON","Toronto","Ashbridge Treatment Plant",88125366565.9361
+"wastewater_copies_per_ml","2020-12-13","ON","Toronto","Ashbridge Treatment Plant",46048195408.4412
+"wastewater_copies_per_ml","2020-12-14","ON","Toronto","Ashbridge Treatment Plant",116012600939.821
+"wastewater_copies_per_ml","2020-12-16","ON","Toronto","Ashbridge Treatment Plant",32096428413.4688
+"wastewater_copies_per_ml","2020-12-20","ON","Toronto","Ashbridge Treatment Plant",143496619687.414
+"wastewater_copies_per_ml","2020-12-21","ON","Toronto","Ashbridge Treatment Plant",126423831142.013
+"wastewater_copies_per_ml","2020-12-23","ON","Toronto","Ashbridge Treatment Plant",98352195283.4651
+"wastewater_copies_per_ml","2020-12-27","ON","Toronto","Ashbridge Treatment Plant",141000255279.843
+"wastewater_copies_per_ml","2020-12-28","ON","Toronto","Ashbridge Treatment Plant",160510491245.843
+"wastewater_copies_per_ml","2020-12-30","ON","Toronto","Ashbridge Treatment Plant",72403133209.5318
+"wastewater_copies_per_ml","2021-01-03","ON","Toronto","Ashbridge Treatment Plant",205117668164.713
+"wastewater_copies_per_ml","2021-01-04","ON","Toronto","Ashbridge Treatment Plant",220644081044.91
+"wastewater_copies_per_ml","2021-01-06","ON","Toronto","Ashbridge Treatment Plant",129481534516.9
+"wastewater_copies_per_ml","2021-01-10","ON","Toronto","Ashbridge Treatment Plant",199550091875.538
+"wastewater_copies_per_ml","2021-01-11","ON","Toronto","Ashbridge Treatment Plant",146577809709.769
+"wastewater_copies_per_ml","2021-01-13","ON","Toronto","Ashbridge Treatment Plant",318422023536.438
+"wastewater_copies_per_ml","2021-01-17","ON","Toronto","Ashbridge Treatment Plant",148230738419.943
+"wastewater_copies_per_ml","2021-01-18","ON","Toronto","Ashbridge Treatment Plant",33668318216.6909
+"wastewater_copies_per_ml","2021-01-20","ON","Toronto","Ashbridge Treatment Plant",66964036784.9778
+"wastewater_copies_per_ml","2021-01-24","ON","Toronto","Ashbridge Treatment Plant",35119159500.7999
+"wastewater_copies_per_ml","2021-01-25","ON","Toronto","Ashbridge Treatment Plant",126540606838.084
+"wastewater_copies_per_ml","2021-01-27","ON","Toronto","Ashbridge Treatment Plant",178169121543.618
+"wastewater_copies_per_ml","2021-01-31","ON","Toronto","Ashbridge Treatment Plant",49728836623.0322
+"wastewater_copies_per_ml","2021-02-01","ON","Toronto","Ashbridge Treatment Plant",22739245092.7257
+"wastewater_copies_per_ml","2021-02-03","ON","Toronto","Ashbridge Treatment Plant",32568201620.4288
+"wastewater_copies_per_ml","2021-02-07","ON","Toronto","Ashbridge Treatment Plant",28020883873.5231
+"wastewater_copies_per_ml","2021-02-08","ON","Toronto","Ashbridge Treatment Plant",98425109670.0171
+"wastewater_copies_per_ml","2021-02-09","ON","Toronto","Ashbridge Treatment Plant",83251915400.3896
+"wastewater_copies_per_ml","2021-02-10","ON","Toronto","Ashbridge Treatment Plant",105436124016.141
+"wastewater_copies_per_ml","2021-02-11","ON","Toronto","Ashbridge Treatment Plant",23.80987
+"wastewater_copies_per_ml","2021-02-14","ON","Toronto","Ashbridge Treatment Plant",335482315667.479
+"wastewater_copies_per_ml","2021-02-15","ON","Toronto","Ashbridge Treatment Plant",106285948341.284
+"wastewater_copies_per_ml","2021-02-16","ON","Toronto","Ashbridge Treatment Plant",20825382124.4859
+"wastewater_copies_per_ml","2021-02-17","ON","Toronto","Ashbridge Treatment Plant",64245796527.0639
+"wastewater_copies_per_ml","2021-02-18","ON","Toronto","Ashbridge Treatment Plant",213598256324.121
+"wastewater_copies_per_ml","2021-02-21","ON","Toronto","Ashbridge Treatment Plant",117968967563.485
+"wastewater_copies_per_ml","2021-02-22","ON","Toronto","Ashbridge Treatment Plant",540711761015.461
+"wastewater_copies_per_ml","2021-02-23","ON","Toronto","Ashbridge Treatment Plant",95247892936.457
+"wastewater_copies_per_ml","2021-02-24","ON","Toronto","Ashbridge Treatment Plant",101605419676.251
+"wastewater_copies_per_ml","2021-02-25","ON","Toronto","Ashbridge Treatment Plant",66509469214.0357
+"wastewater_copies_per_ml","2021-02-28","ON","Toronto","Ashbridge Treatment Plant",97321655227.4637
+"wastewater_copies_per_ml","2021-03-02","ON","Toronto","Ashbridge Treatment Plant",52010229384.8873
+"wastewater_copies_per_ml","2021-03-03","ON","Toronto","Ashbridge Treatment Plant",64383945111.7693
+"wastewater_copies_per_ml","2021-03-04","ON","Toronto","Ashbridge Treatment Plant",92866096649.5446
+"wastewater_copies_per_ml","2021-03-07","ON","Toronto","Ashbridge Treatment Plant",50581922104.6861
+"wastewater_copies_per_ml","2021-03-08","ON","Toronto","Ashbridge Treatment Plant",27656345708.5827
+"wastewater_copies_per_ml","2021-03-09","ON","Toronto","Ashbridge Treatment Plant",66780400866.8819
+"wastewater_copies_per_ml","2021-03-10","ON","Toronto","Ashbridge Treatment Plant",48102416817.7425
+"wastewater_copies_per_ml","2021-03-11","ON","Toronto","Ashbridge Treatment Plant",111430756349.327
+"wastewater_copies_per_ml","2021-03-14","ON","Toronto","Ashbridge Treatment Plant",65733101990.3589
+"wastewater_copies_per_ml","2021-03-15","ON","Toronto","Ashbridge Treatment Plant",60578189601.4231
+"wastewater_copies_per_ml","2021-03-16","ON","Toronto","Ashbridge Treatment Plant",66351486320.5574
+"wastewater_copies_per_ml","2021-03-17","ON","Toronto","Ashbridge Treatment Plant",52704601819.0516
+"wastewater_copies_per_ml","2021-03-18","ON","Toronto","Ashbridge Treatment Plant",74473190016.0327
+"wastewater_copies_per_ml","2021-03-21","ON","Toronto","Ashbridge Treatment Plant",101349697792.711
+"wastewater_copies_per_ml","2021-03-22","ON","Toronto","Ashbridge Treatment Plant",46474299843.6311
+"wastewater_copies_per_ml","2021-03-23","ON","Toronto","Ashbridge Treatment Plant",194316673251.877
+"wastewater_copies_per_ml","2021-03-24","ON","Toronto","Ashbridge Treatment Plant",203589970245.237
+"wastewater_copies_per_ml","2021-03-25","ON","Toronto","Ashbridge Treatment Plant",245154598204.103
+"wastewater_copies_per_ml","2021-03-28","ON","Toronto","Ashbridge Treatment Plant",352026893482.82
+"wastewater_copies_per_ml","2021-03-29","ON","Toronto","Ashbridge Treatment Plant",155257739014.65
+"wastewater_copies_per_ml","2021-03-30","ON","Toronto","Ashbridge Treatment Plant",191015329789.247
+"wastewater_copies_per_ml","2021-03-31","ON","Toronto","Ashbridge Treatment Plant",130348376568.89
+"wastewater_copies_per_ml","2021-04-01","ON","Toronto","Ashbridge Treatment Plant",86603238634.1205
+"wastewater_copies_per_ml","2021-04-04","ON","Toronto","Ashbridge Treatment Plant",142289855669.833
+"wastewater_copies_per_ml","2021-04-05","ON","Toronto","Ashbridge Treatment Plant",86983818096.1344
+"wastewater_copies_per_ml","2021-04-06","ON","Toronto","Ashbridge Treatment Plant",175865577585.238
+"wastewater_copies_per_ml","2021-04-08","ON","Toronto","Ashbridge Treatment Plant",258711220855.298
+"wastewater_copies_per_ml","2021-04-11","ON","Toronto","Ashbridge Treatment Plant",687478433227.338
+"wastewater_copies_per_ml","2021-04-14","ON","Toronto","Ashbridge Treatment Plant",137436201117.835
+"wastewater_copies_per_ml","2021-04-15","ON","Toronto","Ashbridge Treatment Plant",283336271116.167
+"wastewater_copies_per_ml","2021-04-21","ON","Toronto","Ashbridge Treatment Plant",150358842334.831
+"wastewater_copies_per_ml","2021-04-22","ON","Toronto","Ashbridge Treatment Plant",192050309218.455
+"wastewater_copies_per_ml","2021-04-25","ON","Toronto","Ashbridge Treatment Plant",174773623003.901
+"wastewater_copies_per_ml","2021-04-28","ON","Toronto","Ashbridge Treatment Plant",436038688500.709
+"wastewater_copies_per_ml","2021-04-29","ON","Toronto","Ashbridge Treatment Plant",676684669786.597
+"wastewater_copies_per_ml","2021-05-02","ON","Toronto","Ashbridge Treatment Plant",171537789331.856
+"wastewater_copies_per_ml","2021-05-04","ON","Toronto","Ashbridge Treatment Plant",102903115538.948
+"wastewater_copies_per_ml","2021-05-06","ON","Toronto","Ashbridge Treatment Plant",148753143450.479
+"wastewater_copies_per_ml","2021-05-09","ON","Toronto","Ashbridge Treatment Plant",113581765975.473
+"wastewater_copies_per_ml","2021-05-11","ON","Toronto","Ashbridge Treatment Plant",225049328612.008
+"wastewater_copies_per_ml","2021-05-13","ON","Toronto","Ashbridge Treatment Plant",128665972911.376
+"wastewater_copies_per_ml","2021-05-16","ON","Toronto","Ashbridge Treatment Plant",44510907004.8072
+"wastewater_copies_per_ml","2021-05-18","ON","Toronto","Ashbridge Treatment Plant",172942041204.564
+"wastewater_copies_per_ml","2021-05-19","ON","Toronto","Ashbridge Treatment Plant",73974295758.8641
+"wastewater_copies_per_ml","2021-05-24","ON","Toronto","Ashbridge Treatment Plant",51235252208.6773
+"wastewater_copies_per_ml","2021-05-25","ON","Toronto","Ashbridge Treatment Plant",57012408638.1769
+"wastewater_copies_per_ml","2021-05-27","ON","Toronto","Ashbridge Treatment Plant",46351728781.937
+"wastewater_copies_per_ml","2021-05-30","ON","Toronto","Ashbridge Treatment Plant",58411016049.1579
+"wastewater_copies_per_ml","2021-06-01","ON","Toronto","Ashbridge Treatment Plant",30390419830.7483
+"wastewater_copies_per_ml","2021-06-03","ON","Toronto","Ashbridge Treatment Plant",44366133932.3031
+"wastewater_copies_per_ml","2021-06-06","ON","Toronto","Ashbridge Treatment Plant",10224183992.5996
+"wastewater_copies_per_ml","2021-06-08","ON","Toronto","Ashbridge Treatment Plant",29764025433.3919
+"wastewater_copies_per_ml","2021-06-10","ON","Toronto","Ashbridge Treatment Plant",7076280400.95547
+"wastewater_copies_per_ml","2021-06-13","ON","Toronto","Ashbridge Treatment Plant",65264454555.5659
+"wastewater_copies_per_ml","2021-06-15","ON","Toronto","Ashbridge Treatment Plant",1195013718.17454
+"wastewater_copies_per_ml","2021-06-17","ON","Toronto","Ashbridge Treatment Plant",6945908918.46664
+"wastewater_copies_per_ml","2021-06-20","ON","Toronto","Ashbridge Treatment Plant",7423313085.84063
+"wastewater_copies_per_ml","2021-06-22","ON","Toronto","Ashbridge Treatment Plant",6930939582.50025
+"wastewater_copies_per_ml","2021-06-24","ON","Toronto","Ashbridge Treatment Plant",6539653861.52453
+"wastewater_copies_per_ml","2021-06-27","ON","Toronto","Ashbridge Treatment Plant",6162098279.76991
+"wastewater_copies_per_ml","2021-06-28","ON","Toronto","Ashbridge Treatment Plant",5514180184.64054
+"wastewater_copies_per_ml","2021-06-29","ON","Toronto","Ashbridge Treatment Plant",4140921451.35951
+"wastewater_copies_per_ml","2021-07-04","ON","Toronto","Ashbridge Treatment Plant",0.36165
+"wastewater_copies_per_ml","2021-07-06","ON","Toronto","Ashbridge Treatment Plant",2139764839.05251
+"wastewater_copies_per_ml","2021-07-08","ON","Toronto","Ashbridge Treatment Plant",2857596545.67374
+"wastewater_copies_per_ml","2021-07-11","ON","Toronto","Ashbridge Treatment Plant",946117807.488979
+"wastewater_copies_per_ml","2021-07-13","ON","Toronto","Ashbridge Treatment Plant",2679765695.79112
+"wastewater_copies_per_ml","2021-07-15","ON","Toronto","Ashbridge Treatment Plant",1660837223.31556
+"wastewater_copies_per_ml","2021-07-18","ON","Toronto","Ashbridge Treatment Plant",10412858146.4437
+"wastewater_copies_per_ml","2021-07-19","ON","Toronto","Ashbridge Treatment Plant",1819057349.5749
+"wastewater_copies_per_ml","2021-07-20","ON","Toronto","Ashbridge Treatment Plant",1494224951.43452
+"wastewater_copies_per_ml","2021-07-21","ON","Toronto","Ashbridge Treatment Plant",4762363981.28366
+"wastewater_copies_per_ml","2021-07-22","ON","Toronto","Ashbridge Treatment Plant",2511673856.11203
+"wastewater_copies_per_ml","2021-07-25","ON","Toronto","Ashbridge Treatment Plant",2055254129.1461
+"wastewater_copies_per_ml","2021-07-26","ON","Toronto","Ashbridge Treatment Plant",6528451073.3174
+"wastewater_copies_per_ml","2021-07-27","ON","Toronto","Ashbridge Treatment Plant",2454649555.56463
+"wastewater_copies_per_ml","2021-07-29","ON","Toronto","Ashbridge Treatment Plant",3512466924.32143
+"wastewater_copies_per_ml","2021-08-02","ON","Toronto","Ashbridge Treatment Plant",2388953331.54698
+"wastewater_copies_per_ml","2021-08-03","ON","Toronto","Ashbridge Treatment Plant",2067492822.56199
+"wastewater_copies_per_ml","2021-08-04","ON","Toronto","Ashbridge Treatment Plant",15319996653.8205
+"wastewater_copies_per_ml","2021-08-05","ON","Toronto","Ashbridge Treatment Plant",5206087116.66888
+"wastewater_copies_per_ml","2021-08-08","ON","Toronto","Ashbridge Treatment Plant",9160460592.35658
+"wastewater_copies_per_ml","2021-08-09","ON","Toronto","Ashbridge Treatment Plant",5379421513.52224
+"wastewater_copies_per_ml","2021-08-10","ON","Toronto","Ashbridge Treatment Plant",4611271746.90578
+"wastewater_copies_per_ml","2021-08-11","ON","Toronto","Ashbridge Treatment Plant",5781000007.81944
+"wastewater_copies_per_ml","2021-08-12","ON","Toronto","Ashbridge Treatment Plant",14265629024.487
+"wastewater_copies_per_ml","2021-08-15","ON","Toronto","Ashbridge Treatment Plant",5661866061.90189
+"wastewater_copies_per_ml","2021-08-16","ON","Toronto","Ashbridge Treatment Plant",27453202176.1233
+"wastewater_copies_per_ml","2021-08-17","ON","Toronto","Ashbridge Treatment Plant",9209546984.11491
+"wastewater_copies_per_ml","2021-08-18","ON","Toronto","Ashbridge Treatment Plant",12683625802.9322
+"wastewater_copies_per_ml","2021-08-19","ON","Toronto","Ashbridge Treatment Plant",16657407976.5506
+"wastewater_copies_per_ml","2021-08-22","ON","Toronto","Ashbridge Treatment Plant",13082364019.3079
+"wastewater_copies_per_ml","2021-08-23","ON","Toronto","Ashbridge Treatment Plant",8520913238.5225
+"wastewater_copies_per_ml","2021-08-24","ON","Toronto","Ashbridge Treatment Plant",10412982626.2379
+"wastewater_copies_per_ml","2021-08-26","ON","Toronto","Ashbridge Treatment Plant",39593195534.7938
+"wastewater_copies_per_ml","2021-08-29","ON","Toronto","Ashbridge Treatment Plant",19556251049.3624
+"wastewater_copies_per_ml","2021-08-31","ON","Toronto","Ashbridge Treatment Plant",11665437649.7211
+"wastewater_copies_per_ml","2021-09-02","ON","Toronto","Ashbridge Treatment Plant",14846261136.2095
+"wastewater_copies_per_ml","2021-09-06","ON","Toronto","Ashbridge Treatment Plant",8752288448.7973
+"wastewater_copies_per_ml","2021-09-07","ON","Toronto","Ashbridge Treatment Plant",24250236982.6552
+"wastewater_copies_per_ml","2021-09-09","ON","Toronto","Ashbridge Treatment Plant",6890106826.70059
+"wastewater_copies_per_ml","2021-09-12","ON","Toronto","Ashbridge Treatment Plant",11925947180.195
+"wastewater_copies_per_ml","2021-09-14","ON","Toronto","Ashbridge Treatment Plant",10399283494.525
+"wastewater_copies_per_ml","2021-09-16","ON","Toronto","Ashbridge Treatment Plant",13924805317.9994
+"wastewater_copies_per_ml","2021-09-19","ON","Toronto","Ashbridge Treatment Plant",10789132213.2416
+"wastewater_copies_per_ml","2021-09-21","ON","Toronto","Ashbridge Treatment Plant",33421219262.7182
+"wastewater_copies_per_ml","2021-09-23","ON","Toronto","Ashbridge Treatment Plant",59704085421.6021
+"wastewater_copies_per_ml","2021-09-26","ON","Toronto","Ashbridge Treatment Plant",33839944540.9286
+"wastewater_copies_per_ml","2021-09-28","ON","Toronto","Ashbridge Treatment Plant",17262269612.715
+"wastewater_copies_per_ml","2021-09-30","ON","Toronto","Ashbridge Treatment Plant",9827135434.46971
+"wastewater_copies_per_ml","2021-10-03","ON","Toronto","Ashbridge Treatment Plant",45447822465.9278
+"wastewater_copies_per_ml","2021-10-05","ON","Toronto","Ashbridge Treatment Plant",25000863904.9856
+"wastewater_copies_per_ml","2021-10-07","ON","Toronto","Ashbridge Treatment Plant",5260407923.06231
+"wastewater_copies_per_ml","2021-10-12","ON","Toronto","Ashbridge Treatment Plant",12642696361.7793
+"wastewater_copies_per_ml","2021-10-14","ON","Toronto","Ashbridge Treatment Plant",4724102980.69921
+"wastewater_copies_per_ml","2021-10-17","ON","Toronto","Ashbridge Treatment Plant",7481475069.9096
+"wastewater_copies_per_ml","2021-10-19","ON","Toronto","Ashbridge Treatment Plant",7180269564.66584
+"wastewater_copies_per_ml","2021-10-21","ON","Toronto","Ashbridge Treatment Plant",3390708487.60115
+"wastewater_copies_per_ml","2021-10-24","ON","Toronto","Ashbridge Treatment Plant",4438478489.95514
+"wastewater_copies_per_ml","2021-10-26","ON","Toronto","Ashbridge Treatment Plant",9736411842.62133
+"wastewater_copies_per_ml","2021-10-28","ON","Toronto","Ashbridge Treatment Plant",33914205476.7978
+"wastewater_copies_per_ml","2021-10-31","ON","Toronto","Ashbridge Treatment Plant",9625305390.39784
+"wastewater_copies_per_ml","2021-11-02","ON","Toronto","Ashbridge Treatment Plant",5661501359.88434
+"wastewater_copies_per_ml","2021-11-04","ON","Toronto","Ashbridge Treatment Plant",10183368513.6543
+"wastewater_copies_per_ml","2021-11-07","ON","Toronto","Ashbridge Treatment Plant",3428744367.99506
+"wastewater_copies_per_ml","2021-11-09","ON","Toronto","Ashbridge Treatment Plant",4382575062.22135
+"wastewater_copies_per_ml","2021-11-11","ON","Toronto","Ashbridge Treatment Plant",3460479275.85631
+"wastewater_copies_per_ml","2021-11-14","ON","Toronto","Ashbridge Treatment Plant",4595964973.93719
+"wastewater_copies_per_ml","2021-11-16","ON","Toronto","Ashbridge Treatment Plant",10098764694.1804
+"wastewater_copies_per_ml","2021-11-18","ON","Toronto","Ashbridge Treatment Plant",29630430210.4508
+"wastewater_copies_per_ml","2021-11-21","ON","Toronto","Ashbridge Treatment Plant",8553855850.04197
+"wastewater_copies_per_ml","2021-11-23","ON","Toronto","Ashbridge Treatment Plant",5682204947.62143
+"wastewater_copies_per_ml","2021-11-24","ON","Toronto","Ashbridge Treatment Plant",8390746116.17041
+"wastewater_copies_per_ml","2021-11-25","ON","Toronto","Ashbridge Treatment Plant",94486905557.9046
+"wastewater_copies_per_ml","2021-11-28","ON","Toronto","Ashbridge Treatment Plant",3964173547.4418
+"wastewater_copies_per_ml","2021-11-30","ON","Toronto","Ashbridge Treatment Plant",3276790856.30826
+"wastewater_copies_per_ml","2021-12-02","ON","Toronto","Ashbridge Treatment Plant",6146884820.73039
+"wastewater_copies_per_ml","2021-12-05","ON","Toronto","Ashbridge Treatment Plant",8377400078.35377
+"wastewater_copies_per_ml","2021-12-07","ON","Toronto","Ashbridge Treatment Plant",6070743920.40586
+"wastewater_copies_per_ml","2021-12-09","ON","Toronto","Ashbridge Treatment Plant",37776922656.3582
+"wastewater_copies_per_ml","2021-12-12","ON","Toronto","Ashbridge Treatment Plant",16574134162.2675
+"wastewater_copies_per_ml","2021-12-14","ON","Toronto","Ashbridge Treatment Plant",27282873136.6212
+"wastewater_copies_per_ml","2021-12-15","ON","Toronto","Ashbridge Treatment Plant",48172891398.5222
+"wastewater_copies_per_ml","2021-12-16","ON","Toronto","Ashbridge Treatment Plant",113487275918.278
+"wastewater_copies_per_ml","2021-12-19","ON","Toronto","Ashbridge Treatment Plant",96570972304.0681
+"wastewater_copies_per_ml","2021-12-21","ON","Toronto","Ashbridge Treatment Plant",153177257223.387
+"wastewater_copies_per_ml","2021-12-28","ON","Toronto","Ashbridge Treatment Plant",865864387636.953
+"wastewater_copies_per_ml","2022-01-04","ON","Toronto","Ashbridge Treatment Plant",505183347928.909
+"wastewater_copies_per_ml","2022-01-06","ON","Toronto","Ashbridge Treatment Plant",794374536435.72
+"wastewater_copies_per_ml","2022-01-09","ON","Toronto","Ashbridge Treatment Plant",701412448726.458
+"wastewater_copies_per_ml","2022-01-11","ON","Toronto","Ashbridge Treatment Plant",367280715928.502
+"wastewater_copies_per_ml","2022-01-13","ON","Toronto","Ashbridge Treatment Plant",382326336688.202
+"wastewater_copies_per_ml","2022-01-17","ON","Toronto","Ashbridge Treatment Plant",399469691931.587
+"wastewater_copies_per_ml","2022-01-18","ON","Toronto","Ashbridge Treatment Plant",169652131154.28
+"wastewater_copies_per_ml","2022-01-20","ON","Toronto","Ashbridge Treatment Plant",186268514304.282
+"wastewater_copies_per_ml","2022-01-23","ON","Toronto","Ashbridge Treatment Plant",330031883438.698
+"wastewater_copies_per_ml","2022-01-25","ON","Toronto","Ashbridge Treatment Plant",356441854533.951
+"wastewater_copies_per_ml","2022-01-27","ON","Toronto","Ashbridge Treatment Plant",190598335344.693
+"wastewater_copies_per_ml","2022-01-30","ON","Toronto","Ashbridge Treatment Plant",117269602430.463
+"wastewater_copies_per_ml","2022-02-01","ON","Toronto","Ashbridge Treatment Plant",127574297597.051
+"wastewater_copies_per_ml","2022-02-03","ON","Toronto","Ashbridge Treatment Plant",187588914466.453
+"wastewater_copies_per_ml","2022-02-06","ON","Toronto","Ashbridge Treatment Plant",71662509456.3306
+"wastewater_copies_per_ml","2022-02-08","ON","Toronto","Ashbridge Treatment Plant",103002006018.119
+"wastewater_copies_per_ml","2022-02-10","ON","Toronto","Ashbridge Treatment Plant",87145590175.1725
+"wastewater_copies_per_ml","2022-02-13","ON","Toronto","Ashbridge Treatment Plant",72826866931.0608
+"wastewater_copies_per_ml","2022-02-15","ON","Toronto","Ashbridge Treatment Plant",55031997018.6102
+"wastewater_copies_per_ml","2022-02-17","ON","Toronto","Ashbridge Treatment Plant",393028954981.269
+"wastewater_copies_per_ml","2022-02-20","ON","Toronto","Ashbridge Treatment Plant",44210977004.5411
+"wastewater_copies_per_ml","2022-02-22","ON","Toronto","Ashbridge Treatment Plant",29146557049.8115
+"wastewater_copies_per_ml","2022-02-24","ON","Toronto","Ashbridge Treatment Plant",31835325776.7281
+"wastewater_copies_per_ml","2022-02-27","ON","Toronto","Ashbridge Treatment Plant",112419294666.719
+"wastewater_copies_per_ml","2022-03-01","ON","Toronto","Ashbridge Treatment Plant",80817368719.8708
+"wastewater_copies_per_ml","2022-03-03","ON","Toronto","Ashbridge Treatment Plant",49691558305.9406
+"wastewater_copies_per_ml","2022-03-06","ON","Toronto","Ashbridge Treatment Plant",138704301407.413
+"wastewater_copies_per_ml","2022-03-08","ON","Toronto","Ashbridge Treatment Plant",86822544692.5049
+"wastewater_copies_per_ml","2022-03-10","ON","Toronto","Ashbridge Treatment Plant",92509093130.9309
+"wastewater_copies_per_ml","2022-03-13","ON","Toronto","Ashbridge Treatment Plant",67900680128.1959
+"wastewater_copies_per_ml","2022-03-15","ON","Toronto","Ashbridge Treatment Plant",103751262907.281
+"wastewater_copies_per_ml","2022-03-17","ON","Toronto","Ashbridge Treatment Plant",375959930956.452
+"wastewater_copies_per_ml","2022-03-20","ON","Toronto","Ashbridge Treatment Plant",139764715112.52
+"wastewater_copies_per_ml","2022-03-22","ON","Toronto","Ashbridge Treatment Plant",186808817679.782
+"wastewater_copies_per_ml","2022-03-24","ON","Toronto","Ashbridge Treatment Plant",477348317015.533
+"wastewater_copies_per_ml","2022-03-27","ON","Toronto","Ashbridge Treatment Plant",181219472686.082
+"wastewater_copies_per_ml","2022-03-29","ON","Toronto","Ashbridge Treatment Plant",167546508474.174
+"wastewater_copies_per_ml","2022-03-31","ON","Toronto","Ashbridge Treatment Plant",795216398581.36
+"wastewater_copies_per_ml","2022-04-03","ON","Toronto","Ashbridge Treatment Plant",409722666804.069
+"wastewater_copies_per_ml","2022-04-05","ON","Toronto","Ashbridge Treatment Plant",777683418382.093
+"wastewater_copies_per_ml","2022-04-07","ON","Toronto","Ashbridge Treatment Plant",586496548762.834
+"wastewater_copies_per_ml","2022-04-10","ON","Toronto","Ashbridge Treatment Plant",648968817554.081
+"wastewater_copies_per_ml","2022-04-12","ON","Toronto","Ashbridge Treatment Plant",473713906315.599
+"wastewater_copies_per_ml","2022-04-14","ON","Toronto","Ashbridge Treatment Plant",518151638498.012
+"wastewater_copies_per_ml","2022-04-17","ON","Toronto","Ashbridge Treatment Plant",346440804802.636
+"wastewater_copies_per_ml","2022-04-19","ON","Toronto","Ashbridge Treatment Plant",761555292119.373
+"wastewater_copies_per_ml","2022-04-21","ON","Toronto","Ashbridge Treatment Plant",926728786867.15
+"wastewater_copies_per_ml","2022-04-24","ON","Toronto","Ashbridge Treatment Plant",430835953458.934
+"wastewater_copies_per_ml","2022-04-26","ON","Toronto","Ashbridge Treatment Plant",420983120075.218
+"wastewater_copies_per_ml","2022-04-28","ON","Toronto","Ashbridge Treatment Plant",219944216638.891
+"wastewater_copies_per_ml","2022-05-01","ON","Toronto","Ashbridge Treatment Plant",329859357428.112
+"wastewater_copies_per_ml","2022-05-03","ON","Toronto","Ashbridge Treatment Plant",183851483636.086
+"wastewater_copies_per_ml","2022-05-05","ON","Toronto","Ashbridge Treatment Plant",474272124950.455
+"wastewater_copies_per_ml","2022-05-08","ON","Toronto","Ashbridge Treatment Plant",168479912733.638
+"wastewater_copies_per_ml","2022-05-10","ON","Toronto","Ashbridge Treatment Plant",327976721010.796
+"wastewater_copies_per_ml","2022-05-12","ON","Toronto","Ashbridge Treatment Plant",591542763873.628
+"wastewater_copies_per_ml","2022-05-15","ON","Toronto","Ashbridge Treatment Plant",704327186528.923
+"wastewater_copies_per_ml","2022-05-17","ON","Toronto","Ashbridge Treatment Plant",131854986988.282
+"wastewater_copies_per_ml","2022-05-19","ON","Toronto","Ashbridge Treatment Plant",232709527093.995
+"wastewater_copies_per_ml","2022-05-22","ON","Toronto","Ashbridge Treatment Plant",151590844268.082
+"wastewater_copies_per_ml","2022-05-24","ON","Toronto","Ashbridge Treatment Plant",337063231649.303
+"wastewater_copies_per_ml","2022-05-26","ON","Toronto","Ashbridge Treatment Plant",90701873315.6483
+"wastewater_copies_per_ml","2022-05-29","ON","Toronto","Ashbridge Treatment Plant",105386584660.452
+"wastewater_copies_per_ml","2022-05-31","ON","Toronto","Ashbridge Treatment Plant",366857914091.074
+"wastewater_copies_per_ml","2022-06-02","ON","Toronto","Ashbridge Treatment Plant",168147208405.695
+"wastewater_copies_per_ml","2022-06-05","ON","Toronto","Ashbridge Treatment Plant",59396349687.3739
+"wastewater_copies_per_ml","2022-06-07","ON","Toronto","Ashbridge Treatment Plant",469623398177.743
+"wastewater_copies_per_ml","2022-06-09","ON","Toronto","Ashbridge Treatment Plant",105437715069.941
+"wastewater_copies_per_ml","2022-06-12","ON","Toronto","Ashbridge Treatment Plant",186385918278.518
+"wastewater_copies_per_ml","2022-06-14","ON","Toronto","Ashbridge Treatment Plant",184506877362.578
+"wastewater_copies_per_ml","2022-06-16","ON","Toronto","Ashbridge Treatment Plant",143068827186.094
+"wastewater_copies_per_ml","2022-06-19","ON","Toronto","Ashbridge Treatment Plant",279443248974.271
+"wastewater_copies_per_ml","2022-06-21","ON","Toronto","Ashbridge Treatment Plant",343743149753.708
+"wastewater_copies_per_ml","2022-06-23","ON","Toronto","Ashbridge Treatment Plant",187973573072.379
+"wastewater_copies_per_ml","2022-06-26","ON","Toronto","Ashbridge Treatment Plant",257185148469.027
+"wastewater_copies_per_ml","2022-06-28","ON","Toronto","Ashbridge Treatment Plant",473459256041.4
+"wastewater_copies_per_ml","2022-06-29","ON","Toronto","Ashbridge Treatment Plant",232159314232.435
+"wastewater_copies_per_ml","2022-07-03","ON","Toronto","Ashbridge Treatment Plant",559584752846.314
+"wastewater_copies_per_ml","2022-07-05","ON","Toronto","Ashbridge Treatment Plant",600528359624.98
+"wastewater_copies_per_ml","2022-07-07","ON","Toronto","Ashbridge Treatment Plant",409211300961.452
+"wastewater_copies_per_ml","2020-11-23","ON","Toronto","Humber WWTP",45953167092.7145
+"wastewater_copies_per_ml","2020-11-24","ON","Toronto","Humber WWTP",289027480366.802
+"wastewater_copies_per_ml","2020-11-26","ON","Toronto","Humber WWTP",76168985354.3614
+"wastewater_copies_per_ml","2020-11-30","ON","Toronto","Humber WWTP",32914968808.9446
+"wastewater_copies_per_ml","2020-12-01","ON","Toronto","Humber WWTP",72364629501.5816
+"wastewater_copies_per_ml","2020-12-03","ON","Toronto","Humber WWTP",82573763424.5653
+"wastewater_copies_per_ml","2020-12-07","ON","Toronto","Humber WWTP",61006728046.7505
+"wastewater_copies_per_ml","2020-12-08","ON","Toronto","Humber WWTP",90911787437.1148
+"wastewater_copies_per_ml","2020-12-10","ON","Toronto","Humber WWTP",214741708504.517
+"wastewater_copies_per_ml","2020-12-14","ON","Toronto","Humber WWTP",65275517036.9243
+"wastewater_copies_per_ml","2020-12-15","ON","Toronto","Humber WWTP",54973261456.4418
+"wastewater_copies_per_ml","2020-12-17","ON","Toronto","Humber WWTP",157582270269.37
+"wastewater_copies_per_ml","2020-12-21","ON","Toronto","Humber WWTP",140982228861.158
+"wastewater_copies_per_ml","2020-12-22","ON","Toronto","Humber WWTP",153456996510.971
+"wastewater_copies_per_ml","2020-12-24","ON","Toronto","Humber WWTP",135181782917.946
+"wastewater_copies_per_ml","2020-12-28","ON","Toronto","Humber WWTP",182912969309.662
+"wastewater_copies_per_ml","2020-12-29","ON","Toronto","Humber WWTP",175433668987.211
+"wastewater_copies_per_ml","2020-12-31","ON","Toronto","Humber WWTP",327852948921.178
+"wastewater_copies_per_ml","2021-01-04","ON","Toronto","Humber WWTP",217528594556.751
+"wastewater_copies_per_ml","2021-01-05","ON","Toronto","Humber WWTP",187634935554.613
+"wastewater_copies_per_ml","2021-01-06","ON","Toronto","Humber WWTP",122.750455
+"wastewater_copies_per_ml","2021-01-07","ON","Toronto","Humber WWTP",280358397209.523
+"wastewater_copies_per_ml","2021-01-11","ON","Toronto","Humber WWTP",53174848193.7516
+"wastewater_copies_per_ml","2021-01-12","ON","Toronto","Humber WWTP",200037806314.039
+"wastewater_copies_per_ml","2021-01-14","ON","Toronto","Humber WWTP",338487969646.964
+"wastewater_copies_per_ml","2021-01-18","ON","Toronto","Humber WWTP",143435460901.812
+"wastewater_copies_per_ml","2021-01-19","ON","Toronto","Humber WWTP",17547351159.6649
+"wastewater_copies_per_ml","2021-01-21","ON","Toronto","Humber WWTP",25922379845.8726
+"wastewater_copies_per_ml","2021-01-25","ON","Toronto","Humber WWTP",32529644786.9792
+"wastewater_copies_per_ml","2021-01-26","ON","Toronto","Humber WWTP",29061648925.8023
+"wastewater_copies_per_ml","2021-01-28","ON","Toronto","Humber WWTP",153342241605.536
+"wastewater_copies_per_ml","2021-02-01","ON","Toronto","Humber WWTP",23515882659.2983
+"wastewater_copies_per_ml","2021-02-02","ON","Toronto","Humber WWTP",35695852981.8095
+"wastewater_copies_per_ml","2021-02-04","ON","Toronto","Humber WWTP",19446410017.8325
+"wastewater_copies_per_ml","2021-02-08","ON","Toronto","Humber WWTP",7266757148.633
+"wastewater_copies_per_ml","2021-02-09","ON","Toronto","Humber WWTP",32557935659.0068
+"wastewater_copies_per_ml","2021-02-10","ON","Toronto","Humber WWTP",73794863978.0056
+"wastewater_copies_per_ml","2021-02-12","ON","Toronto","Humber WWTP",85513961543.8427
+"wastewater_copies_per_ml","2021-02-15","ON","Toronto","Humber WWTP",59902918182.9226
+"wastewater_copies_per_ml","2021-02-16","ON","Toronto","Humber WWTP",90876604363.8876
+"wastewater_copies_per_ml","2021-02-17","ON","Toronto","Humber WWTP",69629116581.8908
+"wastewater_copies_per_ml","2021-02-18","ON","Toronto","Humber WWTP",118549420476.809
+"wastewater_copies_per_ml","2021-02-19","ON","Toronto","Humber WWTP",88971644615.3232
+"wastewater_copies_per_ml","2021-02-22","ON","Toronto","Humber WWTP",60474261788.4331
+"wastewater_copies_per_ml","2021-02-23","ON","Toronto","Humber WWTP",50634277559.8725
+"wastewater_copies_per_ml","2021-02-24","ON","Toronto","Humber WWTP",70271540127.7261
+"wastewater_copies_per_ml","2021-02-25","ON","Toronto","Humber WWTP",96544416360.6767
+"wastewater_copies_per_ml","2021-02-26","ON","Toronto","Humber WWTP",117169813009.558
+"wastewater_copies_per_ml","2021-03-01","ON","Toronto","Humber WWTP",8927676037.23094
+"wastewater_copies_per_ml","2021-03-02","ON","Toronto","Humber WWTP",51422623866.943
+"wastewater_copies_per_ml","2021-03-03","ON","Toronto","Humber WWTP",8647355888.04152
+"wastewater_copies_per_ml","2021-03-04","ON","Toronto","Humber WWTP",26764287948.4797
+"wastewater_copies_per_ml","2021-03-05","ON","Toronto","Humber WWTP",53145071657.221
+"wastewater_copies_per_ml","2021-03-08","ON","Toronto","Humber WWTP",245742701871.031
+"wastewater_copies_per_ml","2021-03-09","ON","Toronto","Humber WWTP",22093681537.4954
+"wastewater_copies_per_ml","2021-03-10","ON","Toronto","Humber WWTP",60828189306.546
+"wastewater_copies_per_ml","2021-03-11","ON","Toronto","Humber WWTP",29260890369.6864
+"wastewater_copies_per_ml","2021-03-12","ON","Toronto","Humber WWTP",48148166871.0705
+"wastewater_copies_per_ml","2021-03-15","ON","Toronto","Humber WWTP",97288128100.6896
+"wastewater_copies_per_ml","2021-03-16","ON","Toronto","Humber WWTP",132976700301.725
+"wastewater_copies_per_ml","2021-03-17","ON","Toronto","Humber WWTP",49494675624.7791
+"wastewater_copies_per_ml","2021-03-18","ON","Toronto","Humber WWTP",172305468683.671
+"wastewater_copies_per_ml","2021-03-19","ON","Toronto","Humber WWTP",332463991607.716
+"wastewater_copies_per_ml","2021-03-22","ON","Toronto","Humber WWTP",73105730942.1169
+"wastewater_copies_per_ml","2021-03-23","ON","Toronto","Humber WWTP",59796218947.675
+"wastewater_copies_per_ml","2021-03-24","ON","Toronto","Humber WWTP",120636600005.934
+"wastewater_copies_per_ml","2021-03-25","ON","Toronto","Humber WWTP",122311818172.427
+"wastewater_copies_per_ml","2021-03-26","ON","Toronto","Humber WWTP",248993945059.54
+"wastewater_copies_per_ml","2021-03-29","ON","Toronto","Humber WWTP",60603610102.5533
+"wastewater_copies_per_ml","2021-03-30","ON","Toronto","Humber WWTP",113602204431.262
+"wastewater_copies_per_ml","2021-03-31","ON","Toronto","Humber WWTP",261159965014.148
+"wastewater_copies_per_ml","2021-04-01","ON","Toronto","Humber WWTP",493631895500.229
+"wastewater_copies_per_ml","2021-04-02","ON","Toronto","Humber WWTP",50206365573.4663
+"wastewater_copies_per_ml","2021-04-05","ON","Toronto","Humber WWTP",36537529376.0404
+"wastewater_copies_per_ml","2021-04-06","ON","Toronto","Humber WWTP",49240366746.4607
+"wastewater_copies_per_ml","2021-04-07","ON","Toronto","Humber WWTP",67141634226.7197
+"wastewater_copies_per_ml","2021-04-08","ON","Toronto","Humber WWTP",120473793279.144
+"wastewater_copies_per_ml","2021-04-09","ON","Toronto","Humber WWTP",45793394435.6622
+"wastewater_copies_per_ml","2021-04-12","ON","Toronto","Humber WWTP",167372933180.425
+"wastewater_copies_per_ml","2021-04-13","ON","Toronto","Humber WWTP",45376204601.9369
+"wastewater_copies_per_ml","2021-04-14","ON","Toronto","Humber WWTP",81393060410.2756
+"wastewater_copies_per_ml","2021-04-15","ON","Toronto","Humber WWTP",25816603832.6731
+"wastewater_copies_per_ml","2021-04-16","ON","Toronto","Humber WWTP",246265219767.145
+"wastewater_copies_per_ml","2021-04-19","ON","Toronto","Humber WWTP",102841212343.96
+"wastewater_copies_per_ml","2021-04-20","ON","Toronto","Humber WWTP",140789524573.157
+"wastewater_copies_per_ml","2021-04-21","ON","Toronto","Humber WWTP",335757643763.857
+"wastewater_copies_per_ml","2021-04-22","ON","Toronto","Humber WWTP",223677868960.514
+"wastewater_copies_per_ml","2021-04-23","ON","Toronto","Humber WWTP",236896540965.926
+"wastewater_copies_per_ml","2021-04-26","ON","Toronto","Humber WWTP",167043886612.145
+"wastewater_copies_per_ml","2021-04-27","ON","Toronto","Humber WWTP",839201042232.839
+"wastewater_copies_per_ml","2021-04-28","ON","Toronto","Humber WWTP",471189136763.381
+"wastewater_copies_per_ml","2021-04-29","ON","Toronto","Humber WWTP",258036801842.068
+"wastewater_copies_per_ml","2021-04-30","ON","Toronto","Humber WWTP",849773924229.753
+"wastewater_copies_per_ml","2021-05-03","ON","Toronto","Humber WWTP",783615357005.397
+"wastewater_copies_per_ml","2021-05-04","ON","Toronto","Humber WWTP",362939968288.57
+"wastewater_copies_per_ml","2021-05-05","ON","Toronto","Humber WWTP",698061278236.701
+"wastewater_copies_per_ml","2021-05-10","ON","Toronto","Humber WWTP",235988680342.094
+"wastewater_copies_per_ml","2021-05-11","ON","Toronto","Humber WWTP",70164781976.3828
+"wastewater_copies_per_ml","2021-05-12","ON","Toronto","Humber WWTP",164355141976.29
+"wastewater_copies_per_ml","2021-05-13","ON","Toronto","Humber WWTP",140792292072.575
+"wastewater_copies_per_ml","2021-05-14","ON","Toronto","Humber WWTP",99814520426.9988
+"wastewater_copies_per_ml","2021-05-17","ON","Toronto","Humber WWTP",406674176432.787
+"wastewater_copies_per_ml","2021-05-18","ON","Toronto","Humber WWTP",121410968293.425
+"wastewater_copies_per_ml","2021-05-19","ON","Toronto","Humber WWTP",200046593385.04
+"wastewater_copies_per_ml","2021-05-20","ON","Toronto","Humber WWTP",100936588323.41
+"wastewater_copies_per_ml","2021-05-21","ON","Toronto","Humber WWTP",55148908636.9395
+"wastewater_copies_per_ml","2021-05-24","ON","Toronto","Humber WWTP",76446357383.6164
+"wastewater_copies_per_ml","2021-05-25","ON","Toronto","Humber WWTP",215438994113.385
+"wastewater_copies_per_ml","2021-05-26","ON","Toronto","Humber WWTP",87918598311.0427
+"wastewater_copies_per_ml","2021-05-27","ON","Toronto","Humber WWTP",138136718569.803
+"wastewater_copies_per_ml","2021-05-28","ON","Toronto","Humber WWTP",36136322780.5203
+"wastewater_copies_per_ml","2021-05-31","ON","Toronto","Humber WWTP",49555904368.6717
+"wastewater_copies_per_ml","2021-06-01","ON","Toronto","Humber WWTP",53823860479.7187
+"wastewater_copies_per_ml","2021-06-02","ON","Toronto","Humber WWTP",13923456476.8938
+"wastewater_copies_per_ml","2021-06-03","ON","Toronto","Humber WWTP",5556223431.10683
+"wastewater_copies_per_ml","2021-06-04","ON","Toronto","Humber WWTP",3536170544.82282
+"wastewater_copies_per_ml","2021-06-07","ON","Toronto","Humber WWTP",32012303672.1978
+"wastewater_copies_per_ml","2021-06-08","ON","Toronto","Humber WWTP",71996748721.4722
+"wastewater_copies_per_ml","2021-06-09","ON","Toronto","Humber WWTP",32213006468.9945
+"wastewater_copies_per_ml","2021-06-10","ON","Toronto","Humber WWTP",150227034780.558
+"wastewater_copies_per_ml","2021-06-11","ON","Toronto","Humber WWTP",3232519338.25276
+"wastewater_copies_per_ml","2021-06-14","ON","Toronto","Humber WWTP",20171266175.5843
+"wastewater_copies_per_ml","2021-06-15","ON","Toronto","Humber WWTP",24971825720.6422
+"wastewater_copies_per_ml","2021-06-16","ON","Toronto","Humber WWTP",79288728852.738
+"wastewater_copies_per_ml","2021-06-17","ON","Toronto","Humber WWTP",5672526383.68522
+"wastewater_copies_per_ml","2021-06-18","ON","Toronto","Humber WWTP",22592447852.5945
+"wastewater_copies_per_ml","2021-06-21","ON","Toronto","Humber WWTP",16192655651.5438
+"wastewater_copies_per_ml","2021-06-22","ON","Toronto","Humber WWTP",15096385656.6444
+"wastewater_copies_per_ml","2021-06-23","ON","Toronto","Humber WWTP",18810611313.5639
+"wastewater_copies_per_ml","2021-06-24","ON","Toronto","Humber WWTP",5790030477.25907
+"wastewater_copies_per_ml","2021-06-25","ON","Toronto","Humber WWTP",4889738977.21584
+"wastewater_copies_per_ml","2021-06-28","ON","Toronto","Humber WWTP",35354597415.0805
+"wastewater_copies_per_ml","2021-06-29","ON","Toronto","Humber WWTP",235097271.931034
+"wastewater_copies_per_ml","2021-06-30","ON","Toronto","Humber WWTP",247892704.058839
+"wastewater_copies_per_ml","2021-07-01","ON","Toronto","Humber WWTP",7201958623.34703
+"wastewater_copies_per_ml","2021-07-02","ON","Toronto","Humber WWTP",2024668789.41461
+"wastewater_copies_per_ml","2021-07-05","ON","Toronto","Humber WWTP",12880339476.9706
+"wastewater_copies_per_ml","2021-07-06","ON","Toronto","Humber WWTP",11408532485.5001
+"wastewater_copies_per_ml","2021-07-07","ON","Toronto","Humber WWTP",285361721.342732
+"wastewater_copies_per_ml","2021-07-08","ON","Toronto","Humber WWTP",494760953.287416
+"wastewater_copies_per_ml","2021-07-09","ON","Toronto","Humber WWTP",19218110988.3033
+"wastewater_copies_per_ml","2021-07-12","ON","Toronto","Humber WWTP",6225935592.53075
+"wastewater_copies_per_ml","2021-07-13","ON","Toronto","Humber WWTP",5363702731.67976
+"wastewater_copies_per_ml","2021-07-14","ON","Toronto","Humber WWTP",2460169533.8199
+"wastewater_copies_per_ml","2021-07-15","ON","Toronto","Humber WWTP",9193373633.30295
+"wastewater_copies_per_ml","2021-07-16","ON","Toronto","Humber WWTP",3671367071.20485
+"wastewater_copies_per_ml","2021-07-19","ON","Toronto","Humber WWTP",24432066160.1174
+"wastewater_copies_per_ml","2021-07-20","ON","Toronto","Humber WWTP",9019295495.74071
+"wastewater_copies_per_ml","2021-07-21","ON","Toronto","Humber WWTP",51524294875.7296
+"wastewater_copies_per_ml","2021-07-22","ON","Toronto","Humber WWTP",40431284342.4554
+"wastewater_copies_per_ml","2021-07-23","ON","Toronto","Humber WWTP",23188154729.1356
+"wastewater_copies_per_ml","2021-07-26","ON","Toronto","Humber WWTP",11641703749.2517
+"wastewater_copies_per_ml","2021-07-27","ON","Toronto","Humber WWTP",8251045597.55816
+"wastewater_copies_per_ml","2021-07-29","ON","Toronto","Humber WWTP",443668211.896543
+"wastewater_copies_per_ml","2021-07-30","ON","Toronto","Humber WWTP",3427488091.5607
+"wastewater_copies_per_ml","2021-08-02","ON","Toronto","Humber WWTP",22078642365.0462
+"wastewater_copies_per_ml","2021-08-03","ON","Toronto","Humber WWTP",15638599814.3134
+"wastewater_copies_per_ml","2021-08-04","ON","Toronto","Humber WWTP",16654545687.2472
+"wastewater_copies_per_ml","2021-08-05","ON","Toronto","Humber WWTP",22505514870.8562
+"wastewater_copies_per_ml","2021-08-06","ON","Toronto","Humber WWTP",10149567851.4379
+"wastewater_copies_per_ml","2021-08-09","ON","Toronto","Humber WWTP",19132304249.5467
+"wastewater_copies_per_ml","2021-08-10","ON","Toronto","Humber WWTP",31540210036.0749
+"wastewater_copies_per_ml","2021-08-11","ON","Toronto","Humber WWTP",60266135236.4044
+"wastewater_copies_per_ml","2021-08-12","ON","Toronto","Humber WWTP",4095256877.07147
+"wastewater_copies_per_ml","2021-08-13","ON","Toronto","Humber WWTP",16305316914.6204
+"wastewater_copies_per_ml","2021-08-16","ON","Toronto","Humber WWTP",18669656752.9563
+"wastewater_copies_per_ml","2021-08-17","ON","Toronto","Humber WWTP",39693706751.8849
+"wastewater_copies_per_ml","2021-08-18","ON","Toronto","Humber WWTP",64145215748.8272
+"wastewater_copies_per_ml","2021-08-19","ON","Toronto","Humber WWTP",28214831471.4035
+"wastewater_copies_per_ml","2021-08-20","ON","Toronto","Humber WWTP",38317438500.3344
+"wastewater_copies_per_ml","2021-08-23","ON","Toronto","Humber WWTP",47135791542.1639
+"wastewater_copies_per_ml","2021-08-24","ON","Toronto","Humber WWTP",60350565085.2677
+"wastewater_copies_per_ml","2021-08-25","ON","Toronto","Humber WWTP",31071527747.2565
+"wastewater_copies_per_ml","2021-08-26","ON","Toronto","Humber WWTP",135964352516.094
+"wastewater_copies_per_ml","2021-08-27","ON","Toronto","Humber WWTP",24872773142.8565
+"wastewater_copies_per_ml","2021-08-30","ON","Toronto","Humber WWTP",182859894391.1
+"wastewater_copies_per_ml","2021-08-31","ON","Toronto","Humber WWTP",111234576358.067
+"wastewater_copies_per_ml","2021-09-01","ON","Toronto","Humber WWTP",43610544908.1901
+"wastewater_copies_per_ml","2021-09-02","ON","Toronto","Humber WWTP",30645900639.1065
+"wastewater_copies_per_ml","2021-09-03","ON","Toronto","Humber WWTP",269473294705.472
+"wastewater_copies_per_ml","2021-09-06","ON","Toronto","Humber WWTP",71697883314.8521
+"wastewater_copies_per_ml","2021-09-07","ON","Toronto","Humber WWTP",36508040337.3174
+"wastewater_copies_per_ml","2021-09-08","ON","Toronto","Humber WWTP",72698411465.6626
+"wastewater_copies_per_ml","2021-09-09","ON","Toronto","Humber WWTP",172863067374.265
+"wastewater_copies_per_ml","2021-09-10","ON","Toronto","Humber WWTP",81787972588.7658
+"wastewater_copies_per_ml","2021-09-13","ON","Toronto","Humber WWTP",26164201137.3727
+"wastewater_copies_per_ml","2021-09-14","ON","Toronto","Humber WWTP",33260577021.8142
+"wastewater_copies_per_ml","2021-09-15","ON","Toronto","Humber WWTP",89317178755.7952
+"wastewater_copies_per_ml","2021-09-16","ON","Toronto","Humber WWTP",6779008911.07794
+"wastewater_copies_per_ml","2021-09-17","ON","Toronto","Humber WWTP",40451932004.0851
+"wastewater_copies_per_ml","2021-09-20","ON","Toronto","Humber WWTP",65512216793.7829
+"wastewater_copies_per_ml","2021-09-21","ON","Toronto","Humber WWTP",65497382987.1475
+"wastewater_copies_per_ml","2021-09-22","ON","Toronto","Humber WWTP",61026032361.3533
+"wastewater_copies_per_ml","2021-09-23","ON","Toronto","Humber WWTP",67291968934.1761
+"wastewater_copies_per_ml","2021-09-24","ON","Toronto","Humber WWTP",186051175847.852
+"wastewater_copies_per_ml","2021-09-27","ON","Toronto","Humber WWTP",28891158055.8991
+"wastewater_copies_per_ml","2021-09-28","ON","Toronto","Humber WWTP",173004407277.926
+"wastewater_copies_per_ml","2021-09-29","ON","Toronto","Humber WWTP",138420243891.15
+"wastewater_copies_per_ml","2021-09-30","ON","Toronto","Humber WWTP",48927602242.8194
+"wastewater_copies_per_ml","2021-10-01","ON","Toronto","Humber WWTP",73581439690.748
+"wastewater_copies_per_ml","2021-10-04","ON","Toronto","Humber WWTP",78609513158.959
+"wastewater_copies_per_ml","2021-10-05","ON","Toronto","Humber WWTP",75244401246.1123
+"wastewater_copies_per_ml","2021-10-06","ON","Toronto","Humber WWTP",38847139891.8636
+"wastewater_copies_per_ml","2021-10-07","ON","Toronto","Humber WWTP",11894589096.0598
+"wastewater_copies_per_ml","2021-10-08","ON","Toronto","Humber WWTP",29073146170.6172
+"wastewater_copies_per_ml","2021-10-11","ON","Toronto","Humber WWTP",49112672393.4978
+"wastewater_copies_per_ml","2021-10-12","ON","Toronto","Humber WWTP",98862791184.6383
+"wastewater_copies_per_ml","2021-10-13","ON","Toronto","Humber WWTP",256776952531.72
+"wastewater_copies_per_ml","2021-10-14","ON","Toronto","Humber WWTP",16779609858.8627
+"wastewater_copies_per_ml","2021-10-15","ON","Toronto","Humber WWTP",100107013520.684
+"wastewater_copies_per_ml","2021-10-18","ON","Toronto","Humber WWTP",129772209480.373
+"wastewater_copies_per_ml","2021-10-19","ON","Toronto","Humber WWTP",70574042698.9055
+"wastewater_copies_per_ml","2021-10-21","ON","Toronto","Humber WWTP",23032478048.1736
+"wastewater_copies_per_ml","2021-10-22","ON","Toronto","Humber WWTP",41424948095.5647
+"wastewater_copies_per_ml","2021-10-25","ON","Toronto","Humber WWTP",130867117836.448
+"wastewater_copies_per_ml","2021-10-26","ON","Toronto","Humber WWTP",251248147744.569
+"wastewater_copies_per_ml","2021-10-27","ON","Toronto","Humber WWTP",149747204043.385
+"wastewater_copies_per_ml","2021-10-28","ON","Toronto","Humber WWTP",47030084532.5097
+"wastewater_copies_per_ml","2021-10-29","ON","Toronto","Humber WWTP",92318411333.6423
+"wastewater_copies_per_ml","2021-11-01","ON","Toronto","Humber WWTP",59272579042.0905
+"wastewater_copies_per_ml","2021-11-02","ON","Toronto","Humber WWTP",115016470707.253
+"wastewater_copies_per_ml","2021-11-03","ON","Toronto","Humber WWTP",9664666748.49241
+"wastewater_copies_per_ml","2021-11-04","ON","Toronto","Humber WWTP",459106888257.917
+"wastewater_copies_per_ml","2021-11-05","ON","Toronto","Humber WWTP",15437379903.3643
+"wastewater_copies_per_ml","2021-11-08","ON","Toronto","Humber WWTP",52151053985.998
+"wastewater_copies_per_ml","2021-11-09","ON","Toronto","Humber WWTP",17231194377.8426
+"wastewater_copies_per_ml","2021-11-10","ON","Toronto","Humber WWTP",5074588612.48257
+"wastewater_copies_per_ml","2021-11-11","ON","Toronto","Humber WWTP",28608113612.2733
+"wastewater_copies_per_ml","2021-11-12","ON","Toronto","Humber WWTP",20358161562.3429
+"wastewater_copies_per_ml","2021-11-15","ON","Toronto","Humber WWTP",12254555095.9267
+"wastewater_copies_per_ml","2021-11-16","ON","Toronto","Humber WWTP",84361399103.8653
+"wastewater_copies_per_ml","2021-11-17","ON","Toronto","Humber WWTP",24023284719.465
+"wastewater_copies_per_ml","2021-11-18","ON","Toronto","Humber WWTP",38065008412.6199
+"wastewater_copies_per_ml","2021-11-22","ON","Toronto","Humber WWTP",40841337533.2004
+"wastewater_copies_per_ml","2021-11-23","ON","Toronto","Humber WWTP",88936012625.8678
+"wastewater_copies_per_ml","2021-11-24","ON","Toronto","Humber WWTP",9990184457.95984
+"wastewater_copies_per_ml","2021-11-25","ON","Toronto","Humber WWTP",62057642253.1451
+"wastewater_copies_per_ml","2021-11-26","ON","Toronto","Humber WWTP",145802697733.085
+"wastewater_copies_per_ml","2021-11-29","ON","Toronto","Humber WWTP",361485088314.007
+"wastewater_copies_per_ml","2021-11-30","ON","Toronto","Humber WWTP",110406475487.163
+"wastewater_copies_per_ml","2021-12-01","ON","Toronto","Humber WWTP",18990401094.0103
+"wastewater_copies_per_ml","2021-12-02","ON","Toronto","Humber WWTP",34031228466.5611
+"wastewater_copies_per_ml","2021-12-03","ON","Toronto","Humber WWTP",10074790272.6263
+"wastewater_copies_per_ml","2021-12-06","ON","Toronto","Humber WWTP",32644033140.7264
+"wastewater_copies_per_ml","2021-12-07","ON","Toronto","Humber WWTP",419412394901.909
+"wastewater_copies_per_ml","2021-12-08","ON","Toronto","Humber WWTP",158887285260.191
+"wastewater_copies_per_ml","2021-12-09","ON","Toronto","Humber WWTP",152080893506.957
+"wastewater_copies_per_ml","2021-12-10","ON","Toronto","Humber WWTP",132484988970.76
+"wastewater_copies_per_ml","2021-12-13","ON","Toronto","Humber WWTP",129404063152.281
+"wastewater_copies_per_ml","2021-12-14","ON","Toronto","Humber WWTP",196380679088.897
+"wastewater_copies_per_ml","2021-12-15","ON","Toronto","Humber WWTP",198139350763.384
+"wastewater_copies_per_ml","2021-12-16","ON","Toronto","Humber WWTP",219591182325.308
+"wastewater_copies_per_ml","2021-12-17","ON","Toronto","Humber WWTP",144871552969.66
+"wastewater_copies_per_ml","2021-12-20","ON","Toronto","Humber WWTP",2661252700186.19
+"wastewater_copies_per_ml","2021-12-21","ON","Toronto","Humber WWTP",805015117262.171
+"wastewater_copies_per_ml","2021-12-22","ON","Toronto","Humber WWTP",1267308995769.71
+"wastewater_copies_per_ml","2021-12-23","ON","Toronto","Humber WWTP",377259445714.778
+"wastewater_copies_per_ml","2021-12-24","ON","Toronto","Humber WWTP",540649587482.185
+"wastewater_copies_per_ml","2021-12-27","ON","Toronto","Humber WWTP",1278356360216.88
+"wastewater_copies_per_ml","2021-12-28","ON","Toronto","Humber WWTP",1846479254771.71
+"wastewater_copies_per_ml","2021-12-29","ON","Toronto","Humber WWTP",2223793836997.38
+"wastewater_copies_per_ml","2021-12-30","ON","Toronto","Humber WWTP",1975177028043.94
+"wastewater_copies_per_ml","2021-12-31","ON","Toronto","Humber WWTP",2782462867278.71
+"wastewater_copies_per_ml","2022-01-03","ON","Toronto","Humber WWTP",2175077329039.95
+"wastewater_copies_per_ml","2022-01-04","ON","Toronto","Humber WWTP",1668351213430.4
+"wastewater_copies_per_ml","2022-01-05","ON","Toronto","Humber WWTP",719353965618.854
+"wastewater_copies_per_ml","2022-01-06","ON","Toronto","Humber WWTP",1592531727681.13
+"wastewater_copies_per_ml","2022-01-07","ON","Toronto","Humber WWTP",2548863302181.23
+"wastewater_copies_per_ml","2022-01-10","ON","Toronto","Humber WWTP",1379391470284.18
+"wastewater_copies_per_ml","2022-01-11","ON","Toronto","Humber WWTP",1021704351480.65
+"wastewater_copies_per_ml","2022-01-12","ON","Toronto","Humber WWTP",561344204405.603
+"wastewater_copies_per_ml","2022-01-13","ON","Toronto","Humber WWTP",1763693054859.76
+"wastewater_copies_per_ml","2022-01-14","ON","Toronto","Humber WWTP",1379760929258.12
+"wastewater_copies_per_ml","2022-01-17","ON","Toronto","Humber WWTP",1134734181763.61
+"wastewater_copies_per_ml","2022-01-18","ON","Toronto","Humber WWTP",2786379366255.6
+"wastewater_copies_per_ml","2022-01-19","ON","Toronto","Humber WWTP",1468196323126.53
+"wastewater_copies_per_ml","2022-01-20","ON","Toronto","Humber WWTP",825730653196.404
+"wastewater_copies_per_ml","2022-01-21","ON","Toronto","Humber WWTP",1097560060602.81
+"wastewater_copies_per_ml","2022-01-24","ON","Toronto","Humber WWTP",378832162497.834
+"wastewater_copies_per_ml","2022-01-25","ON","Toronto","Humber WWTP",735306334748.037
+"wastewater_copies_per_ml","2022-01-26","ON","Toronto","Humber WWTP",612321483010.276
+"wastewater_copies_per_ml","2022-01-27","ON","Toronto","Humber WWTP",843764144285.907
+"wastewater_copies_per_ml","2022-01-28","ON","Toronto","Humber WWTP",1310512545740.68
+"wastewater_copies_per_ml","2022-01-31","ON","Toronto","Humber WWTP",483638908943.64
+"wastewater_copies_per_ml","2022-02-01","ON","Toronto","Humber WWTP",2759066541052.34
+"wastewater_copies_per_ml","2022-02-02","ON","Toronto","Humber WWTP",299454873544.2
+"wastewater_copies_per_ml","2022-02-03","ON","Toronto","Humber WWTP",275725266473.38
+"wastewater_copies_per_ml","2022-02-04","ON","Toronto","Humber WWTP",404909825563.521
+"wastewater_copies_per_ml","2022-02-07","ON","Toronto","Humber WWTP",165131503915.269
+"wastewater_copies_per_ml","2022-02-08","ON","Toronto","Humber WWTP",189595934709.244
+"wastewater_copies_per_ml","2022-02-09","ON","Toronto","Humber WWTP",206747583621.114
+"wastewater_copies_per_ml","2022-02-10","ON","Toronto","Humber WWTP",508511820946.725
+"wastewater_copies_per_ml","2022-02-11","ON","Toronto","Humber WWTP",214675479124.727
+"wastewater_copies_per_ml","2022-02-14","ON","Toronto","Humber WWTP",121795171720.469
+"wastewater_copies_per_ml","2022-02-15","ON","Toronto","Humber WWTP",97316903405.6236
+"wastewater_copies_per_ml","2022-02-16","ON","Toronto","Humber WWTP",94314583761.8866
+"wastewater_copies_per_ml","2022-02-17","ON","Toronto","Humber WWTP",196045734008.89
+"wastewater_copies_per_ml","2022-02-18","ON","Toronto","Humber WWTP",569098400299.768
+"wastewater_copies_per_ml","2022-02-21","ON","Toronto","Humber WWTP",185177030984.309
+"wastewater_copies_per_ml","2022-02-22","ON","Toronto","Humber WWTP",342095921830.836
+"wastewater_copies_per_ml","2022-02-23","ON","Toronto","Humber WWTP",135534683341.614
+"wastewater_copies_per_ml","2022-02-24","ON","Toronto","Humber WWTP",1045149495987.64
+"wastewater_copies_per_ml","2022-02-25","ON","Toronto","Humber WWTP",444394383508.92
+"wastewater_copies_per_ml","2022-02-28","ON","Toronto","Humber WWTP",196971607952.872
+"wastewater_copies_per_ml","2022-03-01","ON","Toronto","Humber WWTP",107015487728.801
+"wastewater_copies_per_ml","2022-03-02","ON","Toronto","Humber WWTP",117832521711.68
+"wastewater_copies_per_ml","2022-03-03","ON","Toronto","Humber WWTP",144958381605.532
+"wastewater_copies_per_ml","2022-03-04","ON","Toronto","Humber WWTP",114626312148.152
+"wastewater_copies_per_ml","2022-03-07","ON","Toronto","Humber WWTP",358106684696.633
+"wastewater_copies_per_ml","2022-03-08","ON","Toronto","Humber WWTP",1306010398514.96
+"wastewater_copies_per_ml","2022-03-09","ON","Toronto","Humber WWTP",361271349069.505
+"wastewater_copies_per_ml","2022-03-10","ON","Toronto","Humber WWTP",292102110135.587
+"wastewater_copies_per_ml","2022-03-11","ON","Toronto","Humber WWTP",138624053245.487
+"wastewater_copies_per_ml","2022-03-14","ON","Toronto","Humber WWTP",243004959440.647
+"wastewater_copies_per_ml","2022-03-15","ON","Toronto","Humber WWTP",181125980529.609
+"wastewater_copies_per_ml","2022-03-16","ON","Toronto","Humber WWTP",438967115788.077
+"wastewater_copies_per_ml","2022-03-17","ON","Toronto","Humber WWTP",388574962603.836
+"wastewater_copies_per_ml","2022-03-18","ON","Toronto","Humber WWTP",1955028349222.38
+"wastewater_copies_per_ml","2022-03-21","ON","Toronto","Humber WWTP",2487973432957.4
+"wastewater_copies_per_ml","2022-03-22","ON","Toronto","Humber WWTP",305311432948.907
+"wastewater_copies_per_ml","2022-03-23","ON","Toronto","Humber WWTP",773050121064.57
+"wastewater_copies_per_ml","2022-03-24","ON","Toronto","Humber WWTP",855305917636.279
+"wastewater_copies_per_ml","2022-03-25","ON","Toronto","Humber WWTP",1099461794343.95
+"wastewater_copies_per_ml","2022-03-28","ON","Toronto","Humber WWTP",1125194109483.61
+"wastewater_copies_per_ml","2022-03-29","ON","Toronto","Humber WWTP",3611388175912.26
+"wastewater_copies_per_ml","2022-03-30","ON","Toronto","Humber WWTP",1135589362220.46
+"wastewater_copies_per_ml","2022-03-31","ON","Toronto","Humber WWTP",458528588328.937
+"wastewater_copies_per_ml","2022-04-01","ON","Toronto","Humber WWTP",1155783725772.45
+"wastewater_copies_per_ml","2022-04-04","ON","Toronto","Humber WWTP",412045510968.643
+"wastewater_copies_per_ml","2022-04-05","ON","Toronto","Humber WWTP",1838489453984.07
+"wastewater_copies_per_ml","2022-04-06","ON","Toronto","Humber WWTP",503206501132.538
+"wastewater_copies_per_ml","2022-04-07","ON","Toronto","Humber WWTP",910683654916.182
+"wastewater_copies_per_ml","2022-04-08","ON","Toronto","Humber WWTP",998461904115.623
+"wastewater_copies_per_ml","2022-04-11","ON","Toronto","Humber WWTP",111873322877.89
+"wastewater_copies_per_ml","2022-04-12","ON","Toronto","Humber WWTP",1494740038012.74
+"wastewater_copies_per_ml","2022-04-13","ON","Toronto","Humber WWTP",1026929344028.19
+"wastewater_copies_per_ml","2022-04-14","ON","Toronto","Humber WWTP",1996005275860.13
+"wastewater_copies_per_ml","2022-04-15","ON","Toronto","Humber WWTP",556046010049.099
+"wastewater_copies_per_ml","2022-04-18","ON","Toronto","Humber WWTP",550135715482.583
+"wastewater_copies_per_ml","2022-04-19","ON","Toronto","Humber WWTP",423978824941.471
+"wastewater_copies_per_ml","2022-04-20","ON","Toronto","Humber WWTP",205099432974.571
+"wastewater_copies_per_ml","2022-04-21","ON","Toronto","Humber WWTP",461823996432.551
+"wastewater_copies_per_ml","2022-04-22","ON","Toronto","Humber WWTP",1331106273274.06
+"wastewater_copies_per_ml","2022-04-25","ON","Toronto","Humber WWTP",912481871029.808
+"wastewater_copies_per_ml","2022-04-26","ON","Toronto","Humber WWTP",373196299403.03
+"wastewater_copies_per_ml","2022-04-27","ON","Toronto","Humber WWTP",994882092978.938
+"wastewater_copies_per_ml","2022-04-28","ON","Toronto","Humber WWTP",175638191667.556
+"wastewater_copies_per_ml","2022-04-29","ON","Toronto","Humber WWTP",546850159681.842
+"wastewater_copies_per_ml","2022-05-02","ON","Toronto","Humber WWTP",150087870772.827
+"wastewater_copies_per_ml","2022-05-03","ON","Toronto","Humber WWTP",462325460582.299
+"wastewater_copies_per_ml","2022-05-04","ON","Toronto","Humber WWTP",167006616780.462
+"wastewater_copies_per_ml","2022-05-05","ON","Toronto","Humber WWTP",1333992636929.71
+"wastewater_copies_per_ml","2022-05-06","ON","Toronto","Humber WWTP",684320803783.302
+"wastewater_copies_per_ml","2022-05-09","ON","Toronto","Humber WWTP",415775472220.798
+"wastewater_copies_per_ml","2022-05-10","ON","Toronto","Humber WWTP",1005334037839.95
+"wastewater_copies_per_ml","2022-05-11","ON","Toronto","Humber WWTP",610777617299.706
+"wastewater_copies_per_ml","2022-05-12","ON","Toronto","Humber WWTP",333562716996.917
+"wastewater_copies_per_ml","2022-05-13","ON","Toronto","Humber WWTP",261066993495.036
+"wastewater_copies_per_ml","2022-05-16","ON","Toronto","Humber WWTP",406254289297.204
+"wastewater_copies_per_ml","2022-05-17","ON","Toronto","Humber WWTP",974866791043.871
+"wastewater_copies_per_ml","2022-05-18","ON","Toronto","Humber WWTP",344883453995.394
+"wastewater_copies_per_ml","2022-05-19","ON","Toronto","Humber WWTP",143594894583.862
+"wastewater_copies_per_ml","2022-05-20","ON","Toronto","Humber WWTP",1089707101.43629
+"wastewater_copies_per_ml","2022-05-23","ON","Toronto","Humber WWTP",31005608330.0429
+"wastewater_copies_per_ml","2022-05-24","ON","Toronto","Humber WWTP",78355357424.0734
+"wastewater_copies_per_ml","2022-05-25","ON","Toronto","Humber WWTP",50158447317.8362
+"wastewater_copies_per_ml","2022-05-26","ON","Toronto","Humber WWTP",134325504435.408
+"wastewater_copies_per_ml","2022-05-30","ON","Toronto","Humber WWTP",63544423128.8899
+"wastewater_copies_per_ml","2022-05-31","ON","Toronto","Humber WWTP",191696124815.541
+"wastewater_copies_per_ml","2022-06-01","ON","Toronto","Humber WWTP",128125731162.192
+"wastewater_copies_per_ml","2022-06-02","ON","Toronto","Humber WWTP",99037318445.4643
+"wastewater_copies_per_ml","2022-06-03","ON","Toronto","Humber WWTP",41960045298.8606
+"wastewater_copies_per_ml","2022-06-06","ON","Toronto","Humber WWTP",58093733840.8764
+"wastewater_copies_per_ml","2022-06-07","ON","Toronto","Humber WWTP",77965130654.6606
+"wastewater_copies_per_ml","2022-06-08","ON","Toronto","Humber WWTP",263085598176.092
+"wastewater_copies_per_ml","2022-06-09","ON","Toronto","Humber WWTP",528584220716.774
+"wastewater_copies_per_ml","2022-06-10","ON","Toronto","Humber WWTP",164704775500.123
+"wastewater_copies_per_ml","2022-06-13","ON","Toronto","Humber WWTP",80217095091.4586
+"wastewater_copies_per_ml","2022-06-14","ON","Toronto","Humber WWTP",57662784108.2626
+"wastewater_copies_per_ml","2022-06-15","ON","Toronto","Humber WWTP",413041654471.313
+"wastewater_copies_per_ml","2022-06-16","ON","Toronto","Humber WWTP",338479992736.915
+"wastewater_copies_per_ml","2022-06-17","ON","Toronto","Humber WWTP",171794281548.637
+"wastewater_copies_per_ml","2022-06-20","ON","Toronto","Humber WWTP",83178894880.6392
+"wastewater_copies_per_ml","2022-06-21","ON","Toronto","Humber WWTP",190511188863.288
+"wastewater_copies_per_ml","2022-06-22","ON","Toronto","Humber WWTP",529080841326.456
+"wastewater_copies_per_ml","2022-06-23","ON","Toronto","Humber WWTP",60188222985.3526
+"wastewater_copies_per_ml","2022-06-24","ON","Toronto","Humber WWTP",105756166770.58
+"wastewater_copies_per_ml","2022-06-27","ON","Toronto","Humber WWTP",228601585929.714
+"wastewater_copies_per_ml","2022-06-28","ON","Toronto","Humber WWTP",1.1166325
+"wastewater_copies_per_ml","2022-06-29","ON","Toronto","Humber WWTP",0.880735
+"wastewater_copies_per_ml","2022-06-30","ON","Toronto","Humber WWTP",4.79338
+"wastewater_copies_per_ml","2022-07-01","ON","Toronto","Humber WWTP",0.768965
+"wastewater_copies_per_ml","2022-07-04","ON","Toronto","Humber WWTP",12.741175
+"wastewater_copies_per_ml","2022-07-05","ON","Toronto","Humber WWTP",6.058405
+"wastewater_copies_per_ml","2022-07-06","ON","Toronto","Humber WWTP",3.9978475
 "wastewater_copies_per_ml","2021-01-05","ON","Toronto","Toronto Ashbridges Bay",145.86941
 "wastewater_copies_per_ml","2021-01-06","ON","Toronto","Toronto Ashbridges Bay",163.470215
 "wastewater_copies_per_ml","2021-01-07","ON","Toronto","Toronto Ashbridges Bay",221.12673
@@ -2597,6 +3289,7 @@
 "wastewater_copies_per_ml","2022-07-05","ON","Toronto","Toronto Ashbridges Bay",36.191745
 "wastewater_copies_per_ml","2022-07-10","ON","Toronto","Toronto Ashbridges Bay",28.00901
 "wastewater_copies_per_ml","2022-07-12","ON","Toronto","Toronto Ashbridges Bay",136.6133
+"wastewater_copies_per_ml","2022-07-17","ON","Toronto","Toronto Ashbridges Bay",160.81728
 "wastewater_copies_per_ml","2021-02-11","ON","Toronto","Toronto Highland Creek",32.71126
 "wastewater_copies_per_ml","2021-02-16","ON","Toronto","Toronto Highland Creek",28.145275
 "wastewater_copies_per_ml","2021-02-18","ON","Toronto","Toronto Highland Creek",5.610275
@@ -2743,6 +3436,7 @@
 "wastewater_copies_per_ml","2022-07-05","ON","Toronto","Toronto Highland Creek",211.140735
 "wastewater_copies_per_ml","2022-07-10","ON","Toronto","Toronto Highland Creek",68.164015
 "wastewater_copies_per_ml","2022-07-12","ON","Toronto","Toronto Highland Creek",117.13628
+"wastewater_copies_per_ml","2022-07-17","ON","Toronto","Toronto Highland Creek",165.99765
 "wastewater_copies_per_ml","2020-11-05","ON","Toronto","Toronto Humber",48.94275
 "wastewater_copies_per_ml","2020-11-09","ON","Toronto","Toronto Humber",62.25407
 "wastewater_copies_per_ml","2020-11-12","ON","Toronto","Toronto Humber",9.987685
@@ -2927,6 +3621,7 @@
 "wastewater_copies_per_ml","2022-07-05","ON","Toronto","Toronto Humber",36.637965
 "wastewater_copies_per_ml","2022-07-10","ON","Toronto","Toronto Humber",79.73568
 "wastewater_copies_per_ml","2022-07-12","ON","Toronto","Toronto Humber",127.3851
+"wastewater_copies_per_ml","2022-07-17","ON","Toronto","Toronto Humber",216.66334
 "wastewater_copies_per_ml","2021-02-11","ON","Toronto","Toronto North Toronto",31.51935
 "wastewater_copies_per_ml","2021-02-14","ON","Toronto","Toronto North Toronto",13.39593
 "wastewater_copies_per_ml","2021-02-16","ON","Toronto","Toronto North Toronto",7.47974
@@ -3078,6 +3773,7 @@
 "wastewater_copies_per_ml","2022-07-05","ON","Toronto","Toronto North Toronto",54.13814
 "wastewater_copies_per_ml","2022-07-10","ON","Toronto","Toronto North Toronto",41.725695
 "wastewater_copies_per_ml","2022-07-12","ON","Toronto","Toronto North Toronto",256.58971
+"wastewater_copies_per_ml","2022-07-17","ON","Toronto","Toronto North Toronto",260.23661
 "wastewater_copies_per_ml","2022-05-05","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",13.016705
 "wastewater_copies_per_ml","2022-05-09","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",38.3632
 "wastewater_copies_per_ml","2022-05-12","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",55.188915
