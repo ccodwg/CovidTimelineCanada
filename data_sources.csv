@@ -1,115 +1,115 @@
-value_name,region,source_name,uuid,source_type,source_status,file,geo,date_begin,date_end,date_shift
-cases,AB,Alberta case CSV,59da1de8-3b4e-429a-9e18-b67ba3834002,ts,active_ts,active_ts/ab/ab_cases_hr_ts.csv,health_region,2020-03-06,present,
-cases,BC,British Columbia case CSV,ab6abe51-c9b1-4093-b625-93de1ddb6302,ts,active_ts,active_ts/bc/bc_cases_hr_ts.csv,health_region,2020-01-29,present,
-cases,MB,Manitoba RHA times series CSV,48417109-97c4-4493-8278-39bcea1447ac,ts,static,static/mb/mb_cases_hr_ts.csv,health_region,2020-03-14,2022-03-25,1 day forward
-cases,MB,Manitoba weekly surveillance report,363c937c-c384-4f4e-be24-fbd47fac9e83,report,reports,reports/mb/mb_weekly_report.csv,health_region,2022-03-26,present,
-cases,NB,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_cases_hr_ts.csv,health_region,2020-01-25,2021-03-07,
-cases,NB,New Brunswick dashboard,4f194e3b-39fd-4fe0-b420-8cefa9001f7e,archive_ts,static,static/nb/nb_cases_hr_ts.csv,health_region,2021-03-08,2022-03-29,
-cases,NB,New Brunswick COVIDWATCH weekly report,e693aab1-343f-452c-968b-9e785cbfbbb9,report,reports,reports/nb/nb_weekly_report.csv,health_region,2022-04-02,present,
-cases,NL,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_cases_hr_ts.csv,health_region,2020-01-25,2021-03-15,
-cases,NL,Newfoundland & Labrador dashboard,f0e10f54-a4db-48d8-9c4e-8571e663ca28,archive_ts,static,static/nl/nl_cases_hr_ts.csv,health_region,2021-03-16,2022-03-11,
-cases,NL,Newfoundland & Labrador dashboard,b19daaca-6b32-47f5-944f-c69eebd63c07,ts,active_ts,active_ts/nl/nl_cases_pt_ts.csv,province_territory,2022-03-12,present,
-cases,NS,Nova Scotia case CSV,1983f024-2073-43db-a02a-271a28a3a017,ts,static,static/ns/ns_cases_hr_ts_1.csv,health_region,2021-03-15,2021-01-22,
-cases,NS,Nova Scotia dashboard,43c7d333-d384-41a4-a6bd-1f2cc0326eec,ts_daily,static,static/ns/ns_cases_hr_ts_2.csv,health_region,2021-01-23,2021-12-09,
-cases,NS,Nova Scotia daily news release,7b7be246-cd65-4f35-b354-faa705cacecc,report,reports,reports/ns/ns_daily_news_release.csv,health_region,2021-12-10,2022-03-04,
-cases,NS,Nova Scotia weekly data report,7b7be246-cd65-4f35-b354-faa705cacecc,report,reports,reports/ns/ns_weekly_report.csv,province_territory,2022-03-08,present,
-cases,NT,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_cases_pt_ts.csv,province_territory,2020-03-11,2022-06-08,
-cases,NT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_cases_pt_ts.csv,province_territory,2022-06-11,present,
-cases,NU,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_cases_pt_ts.csv,province_territory,2020-03-11,2022-06-08,
-cases,NU,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_cases_pt_ts.csv,province_territory,2022-06-11,present,
-cases,ON,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_cases_hr_ts.csv,health_region,2020-01-25,2020-03-31,
-cases,ON,Ontario PHU summary CSV,73fffd44-fbad-4de8-8d32-00cc5ae180a6,ts,active_ts,active_ts/on/on_cases_hr_ts.csv,health_region,2020-04-01,present,
-cases,PE,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_cases_pt_ts.csv,province_territory,2020-03-11,2022-06-08,
-cases,PE,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_cases_pt_ts.csv,province_territory,2022-06-11,present,
-cases,QC,INSPQ time series data CSV,3b93b663-4b3f-43b4-a23d-cbf6d149d2c5,ts,active_ts,active_ts/qc/qc_cases_hr_ts.csv,health_region,2020-01-24,present,1 day forward
-cases,SK,Saskatchewan total cases dashboard & Freedom of Information request,95de79d5-5e5c-45c2-bbab-41daf3dbee5d; 61cfdd06-7749-4ae6-9975-d8b4f10d5651,ts,static,static/sk/sk_cases_hr_ts.csv,health_region,2020-03-11,2022-02-06,
-cases,SK,Saskatchewan weekly COVID-19 situation report,2b3954e7-a659-4555-b02e-3fcc4b1f0960,report,reports,reports/sk/sk_weekly_report.csv,health_region,2022-02-05,present,
-cases,YT,Yukon dashboard,8eb9a22f-a2c0-4bdb-8f6c-ef8134901efe,ts,active_ts,active_ts/yt/yt_cases_pt_ts.csv,province_territory,2020-03-19,present,
-deaths,AB,CCODWG Covid19Canada dataset,CCODWG,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2020-06-22,
-deaths,AB,Alberta case CSV,59da1de8-3b4e-429a-9e18-b67ba3834002,archive_ts,active_cumul,active_cumul/ab/ab_cases_hr_ts.csv,health_region,2020-06-23,present,
-deaths,BC,CCODWG Covid19Canada dataset,CCODWG,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2022-04-01,
-deaths,BC,British Columbia dashboard,91367e1d-8b79-422c-b314-9b3441ba4f42,archive_ts,active_cumul,active_cumul/bc/bc_deaths_hr_ts.csv,health_region,2022-04-02,present,
-deaths,MB,Manitoba RHA times series CSV,48417109-97c4-4493-8278-39bcea1447ac,ts,static,static/mb/mb_deaths_hr_ts.csv,health_region,2020-03-14,2022-03-19,1 day forward
-deaths,MB,Manitoba weekly surveillance report,363c937c-c384-4f4e-be24-fbd47fac9e83,report,reports,reports/mb/mb_weekly_report.csv,health_region,2022-03-26,present,
-deaths,NB,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2021-03-07,
-deaths,NB,New Brunswick dashboard,4f194e3b-39fd-4fe0-b420-8cefa9001f7e,archive_ts,static,static/nb/nb_deaths_hr_ts.csv,health_region,2021-03-08,2022-03-29,
-deaths,NB,New Brunswick COVIDWATCH weekly report,e693aab1-343f-452c-968b-9e785cbfbbb9,report,reports,reports/nb/nb_weekly_report.csv,health_region,2022-04-02,present,
-deaths,NL,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2021-03-15,
-deaths,NL,Newfoundland & Labrador dashboard,f0e10f54-a4db-48d8-9c4e-8571e663ca28,archive_ts,static,static/nl/nl_deaths_hr_ts_1.csv,health_region,2021-03-16,2022-03-11,
-deaths,NL,Newfoundland & Labrador dashboard,34f45670-34ed-415c-86a6-e14d77fcf6db,archive_ts,static,static/nl/nl_deaths_hr_ts_2.csv,health_region,2022-03-15,2022-05-05,
-deaths,NL,Newfoundland & Labrador dashboard,34f45670-34ed-415c-86a6-e14d77fcf6db,archive_ts,active_cumul,active_cumul/nl/nl_deaths_hr_ts.csv,health_region,2022-05-06,present,
-deaths,NS,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2021-01-18,
-deaths,NS,Nova Scotia dashboard,b4ee30c3-2a01-400d-9e60-963f114814e8,archive_ts,static,static/ns/ns_deaths_hr_ts_1.csv,health_region,2021-01-19,2022-01-18,
-deaths,NS,Nova Scotia dashboard,43c7d333-d384-41a4-a6bd-1f2cc0326eec,ts_daily,static,static/ns/ns_cases_hr_ts_2.csv,health_region,2021-01-23,2021-12-09,
-deaths,NS,Nova Scotia daily news release,7b7be246-cd65-4f35-b354-faa705cacecc,report,reports,reports/ns/ns_daily_news_release.csv,health_region,2021-12-10,2022-03-04,
-deaths,NT,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,
-deaths,NT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,
-deaths,NU,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,
-deaths,NU,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,
-deaths,ON,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2020-03-31,
-deaths,ON,Ontario PHU summary CSV,73fffd44-fbad-4de8-8d32-00cc5ae180a6,ts,active_ts,active_ts/on/on_deaths_hr_ts.csv,health_region,2022-04-01,present,
-deaths,PE,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,
-deaths,PE,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,
-deaths,QC,INSPQ time series data CSV,3b93b663-4b3f-43b4-a23d-cbf6d149d2c5,ts,active_ts,active_ts/qc/qc_deaths_hr_ts.csv,health_region,2020-01-24,present,1 day forward
-deaths,SK,Saskatchewan total cases dashboard & Freedom of Information request,95de79d5-5e5c-45c2-bbab-41daf3dbee5d; 61cfdd06-7749-4ae6-9975-d8b4f10d5651,ts,static,static/sk/sk_deaths_hr_ts.csv,health_region,2020-04-04,2022-02-06,
-deaths,SK,Saskatchewan weekly COVID-19 situation report,2b3954e7-a659-4555-b02e-3fcc4b1f0960,report,reports,reports/sk/sk_weekly_report.csv,health_region,2022-02-05,present,
-deaths,YT,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,
-deaths,YT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,
-hospitalizations,AB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,
-hospitalizations,BC,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,
-hospitalizations,MB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,2021-02-03,
-hospitalizations,MB,Manitoba dashboard,8cb83971-19f0-4dfc-b832-69efc1036ddd,archive_ts,static,static/mb/mb_hospitalizations_pt_ts.csv,province_territory,2021-02-04,2022-03-25,
-hospitalizations,MB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2022-03-26,present,
-hospitalizations,NB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,2021-03-07,
-hospitalizations,NB,New Brunswick dashboard,4f194e3b-39fd-4fe0-b420-8cefa9001f7e,archive_ts,static,static/nb/nb_hospitalizations_pt_ts_1.csv,province_territory,2021-03-08,2021-09-19,
-hospitalizations,NB,New Brunswick dashboard,40d93d2b-5c85-4592-b844-fb78b5ae5cec,ts,static,static/nb/nb_hospitalizations_pt_ts_2.csv,province_territory,2021-09-20,2022-03-29,
-hospitalizations,NB,New Brunswick COVIDWATCH weekly report,e693aab1-343f-452c-968b-9e785cbfbbb9,report,reports,reports/nb/nb_weekly_report.csv,province_territory,2022-04-02,present,
-hospitalizations,NL,Newfoundland & Labrador dashboard,13a35524-89bf-46a2-afc5-d88ef81bfa82,ts,static,static/nl/nl_hospitalizations_pt_ts.csv,province_territory,2020-03-27,2022-03-11,
-hospitalizations,NL,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2022-03-12,present,
-hospitalizations,NS,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,2021-01-18,
-hospitalizations,NS,Nova Scotia dashboard,0e7a1f46-5d31-4267-be97-831172fa7081,archive_ts,static,static/ns/ns_hospitalizations_pt_ts.csv,province_territory,2021-01-19,2022-01-18,
-hospitalizations,NS,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2022-01-19,present,
-hospitalizations,NT,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,
-hospitalizations,NU,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,
-hospitalizations,ON,Ontario hospitalization CSV,4b214c24-8542-4d26-a850-b58fc4ef6a30,ts,active_ts,active_ts/on/on_hospitalizations_pt_ts.csv,province_territory,2020-04-02,present,
-hospitalizations,PE,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,
-hospitalizations,QC,MSSS hospitalization CSV,f0c25e20-2a6c-4f9a-adc3-61b28ab97245,ts,active_ts,active_ts/qc/qc_hospitalizations_pt_ts.csv,province_territory,2020-04-11,present,1 day forward
-hospitalizations,SK,Saskatchewan hospitalized cases dashboard,927b7ff1-c2e5-4074-80ab-35015022a8e6; 6e5dd7b2-c6b8-4fd0-8236-ef34873233d2,ts,static,static/sk/sk_hospitalizations_ts.csv,province_territory,2020-03-26,2022-02-06,
-hospitalizations,SK,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2022-02-07,present,
-hospitalizations,YT,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,
-icu,AB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,
-icu,BC,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,
-icu,MB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-03-26,present,
-icu,MB,Manitoba dashboard,8cb83971-19f0-4dfc-b832-69efc1036ddd,archive_ts,static,static/mb/mb_icu_pt_ts.csv,province_territory,2021-02-04,2022-03-25,
-icu,MB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-03-26,present,
-icu,NB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,2021-03-07,
-icu,NB,New Brunswick dashboard,4f194e3b-39fd-4fe0-b420-8cefa9001f7e,archive_ts,static,static/nb/nb_icu_pt_ts_1.csv,province_territory,2021-03-08,2021-09-19,
-icu,NB,New Brunswick dashboard,40d93d2b-5c85-4592-b844-fb78b5ae5cec,ts,static,static/nb/nb_icu_pt_ts_2.csv,province_territory,2021-09-20,2022-03-29,
-icu,NB,New Brunswick COVIDWATCH weekly report,e693aab1-343f-452c-968b-9e785cbfbbb9,report,reports,reports/nb/nb_weekly_report.csv,province_territory,2022-04-02,present,
-icu,NL,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,2021-03-15,
-icu,NL,Newfoundland & Labrador dashboard,f0e10f54-a4db-48d8-9c4e-8571e663ca28,ts,static,static/nl/nl_icu_pt_ts.csv,province_territory,2021-03-16,2022-03-11,
-icu,NL,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-03-12,present,
-icu,NS,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,2021-01-18,
-icu,NS,Nova Scotia dashboard,0e7a1f46-5d31-4267-be97-831172fa7081,archive_ts,static,static/ns/ns_icu_ts.csv,province_territory,2021-01-19,2022-01-18,
-icu,NS,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-01-19,present,
-icu,NT,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,
-icu,NU,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,
-icu,ON,Ontario hospitalization CSV,4b214c24-8542-4d26-a850-b58fc4ef6a30,ts,active_ts,active_ts/on/on_icu_pt_ts.csv,province_territory,2020-04-02,present,
-icu,PE,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,
-icu,QC,MSSS hospitalization CSV,f0c25e20-2a6c-4f9a-adc3-61b28ab97245,ts,active_ts,active_ts/qc/qc_icu_pt_ts.csv,province_territory,2020-04-11,present,1 day forward
-icu,SK,Saskatchewan hospitalized cases dashboard,927b7ff1-c2e5-4074-80ab-35015022a8e6; 6e5dd7b2-c6b8-4fd0-8236-ef34873233d2,ts,static,static/sk/sk_icu_ts.csv,province_territory,2020-03-26,2022-02-06,
-icu,SK,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-02-07,present,
-icu,YT,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,
-tests_completed,AB,COVID-19 Alberta statistics app,24a572ea-0de3-4f83-b9b7-8764ea203eb6,ts,active_ts,active_ts/ab/ab_tests_completed_pt_ts.csv,province_territory,2020-01-04,present,
-tests_completed,BC,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,MB,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,NB,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,NL,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,NS,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,NT,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,NU,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,ON,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,PE,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,QC,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,SK,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,
-tests_completed,YT,Yukon dashboard,4a33ab2c-32a4-4630-8f6b-2bac2b1ce7ca,ts,active_ts,active_ts/yt/yt_tests_completed_pt_ts.csv,province_territory,2020-02-27,present,
+value_name,region,source_name,uuid,source_type,source_status,file,geo,date_begin,date_end,date_shift,release_schedule,release_schedule_notes,release_date_next,release_date_lag_days
+cases,AB,Alberta case CSV,59da1de8-3b4e-429a-9e18-b67ba3834002,ts,active_ts,active_ts/ab/ab_cases_hr_ts.csv,health_region,2020-03-06,present,,weekly: W,,,2
+cases,BC,British Columbia case CSV,ab6abe51-c9b1-4093-b625-93de1ddb6302,ts,active_ts,active_ts/bc/bc_cases_hr_ts.csv,health_region,2020-01-29,present,,weekly: R,,,5
+cases,MB,Manitoba RHA times series CSV,48417109-97c4-4493-8278-39bcea1447ac,ts,static,static/mb/mb_cases_hr_ts.csv,health_region,2020-03-14,2022-03-25,1 day forward,,,,
+cases,MB,Manitoba weekly surveillance report,363c937c-c384-4f4e-be24-fbd47fac9e83,report,reports,reports/mb/mb_weekly_report.csv,health_region,2022-03-26,present,,weekly: R,,,5
+cases,NB,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_cases_hr_ts.csv,health_region,2020-01-25,2021-03-07,,,,,
+cases,NB,New Brunswick dashboard,4f194e3b-39fd-4fe0-b420-8cefa9001f7e,archive_ts,static,static/nb/nb_cases_hr_ts.csv,health_region,2021-03-08,2022-03-29,,,,,
+cases,NB,New Brunswick COVIDWATCH weekly report,e693aab1-343f-452c-968b-9e785cbfbbb9,report,reports,reports/nb/nb_weekly_report.csv,health_region,2022-04-02,present,,weekly: T,,,3
+cases,NL,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_cases_hr_ts.csv,health_region,2020-01-25,2021-03-15,,,,,
+cases,NL,Newfoundland & Labrador dashboard,f0e10f54-a4db-48d8-9c4e-8571e663ca28,archive_ts,static,static/nl/nl_cases_hr_ts.csv,health_region,2021-03-16,2022-03-11,,,,,
+cases,NL,Newfoundland & Labrador dashboard,b19daaca-6b32-47f5-944f-c69eebd63c07,ts,active_ts,active_ts/nl/nl_cases_pt_ts.csv,province_territory,2022-03-12,present,,weekly: W,,,0
+cases,NS,Nova Scotia case CSV,1983f024-2073-43db-a02a-271a28a3a017,ts,static,static/ns/ns_cases_hr_ts_1.csv,health_region,2021-03-15,2021-01-22,,,,,
+cases,NS,Nova Scotia dashboard,43c7d333-d384-41a4-a6bd-1f2cc0326eec,ts_daily,static,static/ns/ns_cases_hr_ts_2.csv,health_region,2021-01-23,2021-12-09,,,,,
+cases,NS,Nova Scotia daily news release,7b7be246-cd65-4f35-b354-faa705cacecc,report,reports,reports/ns/ns_daily_news_release.csv,health_region,2021-12-10,2022-03-04,,,,,
+cases,NS,Nova Scotia weekly data report,7b7be246-cd65-4f35-b354-faa705cacecc,report,reports,reports/ns/ns_weekly_report.csv,province_territory,2022-03-08,present,,weekly: R,,,3
+cases,NT,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_cases_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
+cases,NT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_cases_pt_ts.csv,province_territory,2022-06-11,present,,weekly: F,,,6
+cases,NU,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_cases_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
+cases,NU,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_cases_pt_ts.csv,province_territory,2022-06-11,present,,weekly: F,,,6
+cases,ON,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_cases_hr_ts.csv,health_region,2020-01-25,2020-03-31,,,,,
+cases,ON,Ontario PHU summary CSV,73fffd44-fbad-4de8-8d32-00cc5ae180a6,ts,active_ts,active_ts/on/on_cases_hr_ts.csv,health_region,2020-04-01,present,,weekly: R,,,0
+cases,PE,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_cases_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
+cases,PE,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_cases_pt_ts.csv,province_territory,2022-06-11,present,,weekly: F,,,6
+cases,QC,INSPQ time series data CSV,3b93b663-4b3f-43b4-a23d-cbf6d149d2c5,ts,active_ts,active_ts/qc/qc_cases_hr_ts.csv,health_region,2020-01-24,present,1 day forward,weekly: W,,,0
+cases,SK,Saskatchewan total cases dashboard & Freedom of Information request,95de79d5-5e5c-45c2-bbab-41daf3dbee5d; 61cfdd06-7749-4ae6-9975-d8b4f10d5651,ts,static,static/sk/sk_cases_hr_ts.csv,health_region,2020-03-11,2022-02-06,,,,,
+cases,SK,Saskatchewan weekly COVID-19 situation report,2b3954e7-a659-4555-b02e-3fcc4b1f0960,report,reports,reports/sk/sk_weekly_report.csv,health_region,2022-02-05,present,,weekly: R,,,5
+cases,YT,Yukon dashboard,8eb9a22f-a2c0-4bdb-8f6c-ef8134901efe,ts,active_ts,active_ts/yt/yt_cases_pt_ts.csv,province_territory,2020-03-19,present,,daily: MTWRF,,,0
+deaths,AB,CCODWG Covid19Canada dataset,CCODWG,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2020-06-22,,,,,
+deaths,AB,Alberta case CSV,59da1de8-3b4e-429a-9e18-b67ba3834002,archive_ts,active_cumul,active_cumul/ab/ab_cases_hr_ts.csv,health_region,2020-06-23,present,,weekly: W,,,2
+deaths,BC,CCODWG Covid19Canada dataset,CCODWG,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2022-04-01,,,,,
+deaths,BC,British Columbia dashboard,91367e1d-8b79-422c-b314-9b3441ba4f42,archive_ts,active_cumul,active_cumul/bc/bc_deaths_hr_ts.csv,health_region,2022-04-02,present,,weekly: R,,,5
+deaths,MB,Manitoba RHA times series CSV,48417109-97c4-4493-8278-39bcea1447ac,ts,static,static/mb/mb_deaths_hr_ts.csv,health_region,2020-03-14,2022-03-19,1 day forward,,,,
+deaths,MB,Manitoba weekly surveillance report,363c937c-c384-4f4e-be24-fbd47fac9e83,report,reports,reports/mb/mb_weekly_report.csv,health_region,2022-03-26,present,,weekly: R,,,5
+deaths,NB,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2021-03-07,,,,,
+deaths,NB,New Brunswick dashboard,4f194e3b-39fd-4fe0-b420-8cefa9001f7e,archive_ts,static,static/nb/nb_deaths_hr_ts.csv,health_region,2021-03-08,2022-03-29,,,,,
+deaths,NB,New Brunswick COVIDWATCH weekly report,e693aab1-343f-452c-968b-9e785cbfbbb9,report,reports,reports/nb/nb_weekly_report.csv,health_region,2022-04-02,present,,weekly: T,,,3
+deaths,NL,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2021-03-15,,,,,
+deaths,NL,Newfoundland & Labrador dashboard,f0e10f54-a4db-48d8-9c4e-8571e663ca28,archive_ts,static,static/nl/nl_deaths_hr_ts_1.csv,health_region,2021-03-16,2022-03-11,,,,,
+deaths,NL,Newfoundland & Labrador dashboard,34f45670-34ed-415c-86a6-e14d77fcf6db,archive_ts,static,static/nl/nl_deaths_hr_ts_2.csv,health_region,2022-03-15,2022-05-05,,,,,
+deaths,NL,Newfoundland & Labrador dashboard,34f45670-34ed-415c-86a6-e14d77fcf6db,archive_ts,active_cumul,active_cumul/nl/nl_deaths_hr_ts.csv,health_region,2022-05-06,present,,weekly: W,,,0
+deaths,NS,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2021-01-18,,,,,
+deaths,NS,Nova Scotia dashboard,b4ee30c3-2a01-400d-9e60-963f114814e8,archive_ts,static,static/ns/ns_deaths_hr_ts_1.csv,health_region,2021-01-19,2022-01-18,,,,,
+deaths,NS,Nova Scotia dashboard,43c7d333-d384-41a4-a6bd-1f2cc0326eec,ts_daily,static,static/ns/ns_cases_hr_ts_2.csv,health_region,2021-01-23,2021-12-09,,,,,
+deaths,NS,Nova Scotia daily news release,7b7be246-cd65-4f35-b354-faa705cacecc,report,reports,reports/ns/ns_daily_news_release.csv,health_region,2021-12-10,2022-03-04,,,,,
+deaths,NT,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
+deaths,NT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,,weekly: F,,,6
+deaths,NU,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
+deaths,NU,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,,weekly: F,,,6
+deaths,ON,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2020-03-31,,,,,
+deaths,ON,Ontario PHU summary CSV,73fffd44-fbad-4de8-8d32-00cc5ae180a6,ts,active_ts,active_ts/on/on_deaths_hr_ts.csv,health_region,2022-04-01,present,,weekly: R,,,0
+deaths,PE,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
+deaths,PE,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,,weekly: F,,,6
+deaths,QC,INSPQ time series data CSV,3b93b663-4b3f-43b4-a23d-cbf6d149d2c5,ts,active_ts,active_ts/qc/qc_deaths_hr_ts.csv,health_region,2020-01-24,present,1 day forward,weekly: W,,,0
+deaths,SK,Saskatchewan total cases dashboard & Freedom of Information request,95de79d5-5e5c-45c2-bbab-41daf3dbee5d; 61cfdd06-7749-4ae6-9975-d8b4f10d5651,ts,static,static/sk/sk_deaths_hr_ts.csv,health_region,2020-04-04,2022-02-06,,,,,
+deaths,SK,Saskatchewan weekly COVID-19 situation report,2b3954e7-a659-4555-b02e-3fcc4b1f0960,report,reports,reports/sk/sk_weekly_report.csv,health_region,2022-02-05,present,,weekly: R,,,5
+deaths,YT,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
+deaths,YT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,,weekly: F,,,6
+hospitalizations,AB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+hospitalizations,BC,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+hospitalizations,MB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,2021-02-03,,,,,
+hospitalizations,MB,Manitoba dashboard,8cb83971-19f0-4dfc-b832-69efc1036ddd,archive_ts,static,static/mb/mb_hospitalizations_pt_ts.csv,province_territory,2021-02-04,2022-03-25,,,,,
+hospitalizations,MB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2022-03-26,present,,,,,
+hospitalizations,NB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,2021-03-07,,,,,
+hospitalizations,NB,New Brunswick dashboard,4f194e3b-39fd-4fe0-b420-8cefa9001f7e,archive_ts,static,static/nb/nb_hospitalizations_pt_ts_1.csv,province_territory,2021-03-08,2021-09-19,,,,,
+hospitalizations,NB,New Brunswick dashboard,40d93d2b-5c85-4592-b844-fb78b5ae5cec,ts,static,static/nb/nb_hospitalizations_pt_ts_2.csv,province_territory,2021-09-20,2022-03-29,,,,,
+hospitalizations,NB,New Brunswick COVIDWATCH weekly report,e693aab1-343f-452c-968b-9e785cbfbbb9,report,reports,reports/nb/nb_weekly_report.csv,province_territory,2022-04-02,present,,weekly: T,,,3
+hospitalizations,NL,Newfoundland & Labrador dashboard,13a35524-89bf-46a2-afc5-d88ef81bfa82,ts,static,static/nl/nl_hospitalizations_pt_ts.csv,province_territory,2020-03-27,2022-03-11,,,,,
+hospitalizations,NL,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2022-03-12,present,,,,,
+hospitalizations,NS,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,2021-01-18,,,,,
+hospitalizations,NS,Nova Scotia dashboard,0e7a1f46-5d31-4267-be97-831172fa7081,archive_ts,static,static/ns/ns_hospitalizations_pt_ts.csv,province_territory,2021-01-19,2022-01-18,,,,,
+hospitalizations,NS,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2022-01-19,present,,,,,
+hospitalizations,NT,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+hospitalizations,NU,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+hospitalizations,ON,Ontario hospitalization CSV,4b214c24-8542-4d26-a850-b58fc4ef6a30,ts,active_ts,active_ts/on/on_hospitalizations_pt_ts.csv,province_territory,2020-04-02,present,,weekly: R,,,0
+hospitalizations,PE,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+hospitalizations,QC,MSSS hospitalization CSV,f0c25e20-2a6c-4f9a-adc3-61b28ab97245,ts,active_ts,active_ts/qc/qc_hospitalizations_pt_ts.csv,province_territory,2020-04-11,present,1 day forward,daily: TWRF,,,0
+hospitalizations,SK,Saskatchewan hospitalized cases dashboard,927b7ff1-c2e5-4074-80ab-35015022a8e6; 6e5dd7b2-c6b8-4fd0-8236-ef34873233d2,ts,static,static/sk/sk_hospitalizations_ts.csv,province_territory,2020-03-26,2022-02-06,,,,,
+hospitalizations,SK,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2022-02-07,present,,,,,
+hospitalizations,YT,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+icu,AB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+icu,BC,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+icu,MB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-03-26,present,,,,,
+icu,MB,Manitoba dashboard,8cb83971-19f0-4dfc-b832-69efc1036ddd,archive_ts,static,static/mb/mb_icu_pt_ts.csv,province_territory,2021-02-04,2022-03-25,,,,,
+icu,MB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-03-26,present,,,,,
+icu,NB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,2021-03-07,,,,,
+icu,NB,New Brunswick dashboard,4f194e3b-39fd-4fe0-b420-8cefa9001f7e,archive_ts,static,static/nb/nb_icu_pt_ts_1.csv,province_territory,2021-03-08,2021-09-19,,,,,
+icu,NB,New Brunswick dashboard,40d93d2b-5c85-4592-b844-fb78b5ae5cec,ts,static,static/nb/nb_icu_pt_ts_2.csv,province_territory,2021-09-20,2022-03-29,,,,,
+icu,NB,New Brunswick COVIDWATCH weekly report,e693aab1-343f-452c-968b-9e785cbfbbb9,report,reports,reports/nb/nb_weekly_report.csv,province_territory,2022-04-02,present,,weekly: T,,,3
+icu,NL,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,2021-03-15,,,,,
+icu,NL,Newfoundland & Labrador dashboard,f0e10f54-a4db-48d8-9c4e-8571e663ca28,ts,static,static/nl/nl_icu_pt_ts.csv,province_territory,2021-03-16,2022-03-11,,,,,
+icu,NL,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-03-12,present,,,,,
+icu,NS,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,2021-01-18,,,,,
+icu,NS,Nova Scotia dashboard,0e7a1f46-5d31-4267-be97-831172fa7081,archive_ts,static,static/ns/ns_icu_ts.csv,province_territory,2021-01-19,2022-01-18,,,,,
+icu,NS,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-01-19,present,,,,,
+icu,NT,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+icu,NU,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+icu,ON,Ontario hospitalization CSV,4b214c24-8542-4d26-a850-b58fc4ef6a30,ts,active_ts,active_ts/on/on_icu_pt_ts.csv,province_territory,2020-04-02,present,,weekly: R,,,0
+icu,PE,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+icu,QC,MSSS hospitalization CSV,f0c25e20-2a6c-4f9a-adc3-61b28ab97245,ts,active_ts,active_ts/qc/qc_icu_pt_ts.csv,province_territory,2020-04-11,present,1 day forward,daily: TWRF,,,0
+icu,SK,Saskatchewan hospitalized cases dashboard,927b7ff1-c2e5-4074-80ab-35015022a8e6; 6e5dd7b2-c6b8-4fd0-8236-ef34873233d2,ts,static,static/sk/sk_icu_ts.csv,province_territory,2020-03-26,2022-02-06,,,,,
+icu,SK,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-02-07,present,,,,,
+icu,YT,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+tests_completed,AB,COVID-19 Alberta statistics app,24a572ea-0de3-4f83-b9b7-8764ea203eb6,ts,active_ts,active_ts/ab/ab_tests_completed_pt_ts.csv,province_territory,2020-01-04,present,,weekly: W,,,2
+tests_completed,BC,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,MB,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,NB,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,NL,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,NS,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,NT,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,NU,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,ON,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,PE,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,QC,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,SK,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
+tests_completed,YT,Yukon dashboard,4a33ab2c-32a4-4630-8f6b-2bac2b1ce7ca,ts,active_ts,active_ts/yt/yt_tests_completed_pt_ts.csv,province_territory,2020-02-27,present,,daily: MTWRF,Releases are somewhat less consistent than the schedule implies,,0
