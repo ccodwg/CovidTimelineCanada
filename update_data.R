@@ -38,6 +38,7 @@ if (status == 0) {
     command = "git",
     args = c("add",
              "data/",
+             "diffs/",
              "raw_data/",
              "update_time.txt"
     )
