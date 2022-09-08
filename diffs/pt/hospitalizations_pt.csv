@@ -1,5 +1,5 @@
 "name","region","date_current","value_current","date_previous","value_previous","date_diff","value_diff"
-"hospitalizations","AB","2022-09-05",857,"2022-09-01",857,4,0
+"hospitalizations","AB","2022-09-07",799,"2022-09-05",857,2,-58
 "hospitalizations","BC","2022-09-05",306,"2022-09-01",306,4,0
 "hospitalizations","MB","2022-09-05",579,"2022-09-01",579,4,0
 "hospitalizations","NB","2022-09-03",37,"2022-08-27",33,7,4
