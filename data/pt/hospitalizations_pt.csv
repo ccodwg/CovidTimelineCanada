@@ -977,6 +977,7 @@
 "hospitalizations","AB","2022-09-26",843,0
 "hospitalizations","AB","2022-09-27",843,0
 "hospitalizations","AB","2022-09-28",980,137
+"hospitalizations","AB","2022-09-29",980,0
 "hospitalizations","BC","2020-01-25",0,0
 "hospitalizations","BC","2020-01-26",0,0
 "hospitalizations","BC","2020-01-27",0,0
@@ -1950,6 +1951,12 @@
 "hospitalizations","BC","2022-09-21",314,0
 "hospitalizations","BC","2022-09-22",305,-9
 "hospitalizations","BC","2022-09-23",305,0
+"hospitalizations","BC","2022-09-24",305,0
+"hospitalizations","BC","2022-09-25",305,0
+"hospitalizations","BC","2022-09-26",305,0
+"hospitalizations","BC","2022-09-27",305,0
+"hospitalizations","BC","2022-09-28",305,0
+"hospitalizations","BC","2022-09-29",367,62
 "hospitalizations","MB","2020-01-25",0,0
 "hospitalizations","MB","2020-01-26",0,0
 "hospitalizations","MB","2020-01-27",0,0
@@ -2923,6 +2930,12 @@
 "hospitalizations","MB","2022-09-21",291,0
 "hospitalizations","MB","2022-09-22",291,0
 "hospitalizations","MB","2022-09-23",291,0
+"hospitalizations","MB","2022-09-24",291,0
+"hospitalizations","MB","2022-09-25",291,0
+"hospitalizations","MB","2022-09-26",291,0
+"hospitalizations","MB","2022-09-27",291,0
+"hospitalizations","MB","2022-09-28",291,0
+"hospitalizations","MB","2022-09-29",291,0
 "hospitalizations","NB","2020-01-25",0,0
 "hospitalizations","NB","2020-01-26",0,0
 "hospitalizations","NB","2020-01-27",0,0
