@@ -28,7 +28,7 @@ The next query will return the latest day of case data for each health region in
 https://api.opencovid.ca/timeseries?stat=cases&geo=hr&hr_names=short&date=1
 ```
 
-Some provinces no longer offer health region-level data for cases and/or deaths. For these provinces/territories, all recent cases will show up under the "Unknown" (code: 9999) health region. The following is a list of provinces/territories that no longer report health region data:
+Some provinces no longer offer health region-level data for cases and/or deaths. For these provinces/territories, all recent cases and/or deaths will show up under the "Unknown" (code: 9999) health region. The following is a list of provinces/territories that no longer report health region data:
 
 - Manitoba (death data no longer reported at HR-level)
 - Newfoundland and Labrador (case data no longer reported at HR-level)
