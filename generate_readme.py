@@ -58,7 +58,7 @@ t_vaccine_coverage = (
 # vaccine_administration
 t_vaccine_administration = (
     "<details>\n<summary><b>Vaccine administration</b></summary>\n\n"
-    "All data on COVID-19 vaccine administration are from the [Public Health Agency of Canada vaccine administration page](https://health-infobase.canada.ca/covid-19/vaccine-administration/)."
+    "All data on COVID-19 vaccine administration are from the [Public Health Agency of Canada vaccination coverage page](https://health-infobase.canada.ca/covid-19/vaccination-coverage/)."
     "\n</details>"
 )
 

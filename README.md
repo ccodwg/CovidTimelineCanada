@@ -47,7 +47,7 @@ The following datasets are available:
 - Active ICU (`icu`)
 - Tests comeplted (`tests_completed`)
 - Vaccine coverage by dose (`vaccine_coverage_dose_1`, `vaccine_coverage_dose_2`, `vaccine_coverage_dose_3`, `vaccine_coverage_dose_4`)
-- Vaccine administration by dose (`vaccine_administration_total_doses`, `vaccine_administration_dose_1`, `vaccine_administration_dose_2`, `vaccine_administration_dose_3`)
+- Vaccine administration by dose (`vaccine_administration_total_doses`, `vaccine_administration_dose_1`, `vaccine_administration_dose_2`, `vaccine_administration_dose_3`, `vaccine_administration_dose_4`)
 
 While we do our best to ensure comparability for the same metrics across different provinces/territories, some regions use different difinitions for the same metric (e.g., how COVID-19 deaths are defined). Reporting of a metric may also change over time in the same region. See [Detailed description of data sources](#detailed-description-of-data-sources) for more details.
 
@@ -194,6 +194,14 @@ The following datasets are included in this repository:
 
   </details>
 
+* Vaccine administration (dose 4) by province/territory (`data/pt/vaccine_administration_dose_4_pt.csv`)
+  <details>
+   <summary><b>Plot</b> (click to expand)</summary>
+
+   ![vaccine_administration_dose_4](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_administration_dose_4_pt.png)
+
+  </details>
+
 Both the cumulative values (`value`) and the daily differences (`value_daily`) are given for each date where data are available.
 
 ## How these data are updated
@@ -317,7 +325,7 @@ All data on COVID-19 vaccine coverage are from the [Public Health Agency of Cana
 <details>
 <summary><b>Vaccine administration</b></summary>
 
-All data on COVID-19 vaccine administration are from the [Public Health Agency of Canada vaccine administration page](https://health-infobase.canada.ca/covid-19/vaccine-administration/).
+All data on COVID-19 vaccine administration are from the [Public Health Agency of Canada vaccination coverage page](https://health-infobase.canada.ca/covid-19/vaccination-coverage/).
 </details>
 
 <details>
