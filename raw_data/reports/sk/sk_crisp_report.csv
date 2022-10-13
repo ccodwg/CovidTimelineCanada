@@ -1,0 +1,61 @@
+"date","source","date_start","date_end","region","sub_region_1","cases","deaths","new_hospitalizations","new_icu","positivity_rate"
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK",,488,16,170,6,9
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","Far North West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","Far North Central",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","Far North East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","North West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","North Central",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","North East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","Saskatoon",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","Central West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","Central East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","Regina",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","South West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","South Central",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","South East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-11","2022-09-17","SK","Unknown",488,16,,,9
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK",,469,7,189,9,8.8
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","Far North West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","Far North Central",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","Far North East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","North West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","North Central",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","North East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","Saskatoon",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","Central West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","Central East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","Regina",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","South West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","South Central",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","South East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-18","2022-09-24","SK","Unknown",469,7,,,8.8
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK",,556,11,174,9,11
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","Far North West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","Far North Central",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","Far North East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","North West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","North Central",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","North East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","Saskatoon",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","Central West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","Central East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","Regina",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","South West",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","South Central",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","South East",,,,,
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-09-25","2022-10-01","SK","Unknown",556,11,,,11
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK",,474,5,162,9,9.3
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","Far North West",,,,,10.3
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","Far North Central",,,,,0
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","Far North East",,,,,11.1
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","North West",,,,,11.8
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","North Central",,,,,6.3
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","North East",,,,,5.2
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","Saskatoon",,,,,9.4
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","Central West",,,,,12
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","Central East",,,,,9.4
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","Regina",,,,,9.2
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","South West",,,,,7.1
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","South Central",,,,,11.3
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","South East",,,,,13.5
+"2022-10-13","https://pubsaskdev.blob.core.windows.net/pubsask-prod/137344/CRISP%252BREPORT%252B2022%252B10%252B13.pdf","2022-10-02","2022-10-08","SK","Unknown",474,5,,,
