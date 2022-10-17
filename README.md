@@ -206,11 +206,7 @@ Both the cumulative values (`value`) and the daily differences (`value_daily`) a
 
 ## How these data are updated
 
-The data in this repository are updated several times per day by [`Covid19CanadaBot`](https://github.com/ccodwg/Covid19CanadaBot) using the script [`update_data.R`](https://github.com/ccodwg/CovidTimelineCanada/blob/main/update_data.R). At present, this process relies on the following R packages:
-
-* [`Covid19CanadaData`](https://github.com/ccodwg/Covid19CanadaData): Loads the live version of a specified public dataset (denoted by its UUID in [`dataset.json`](https://github.com/ccodwg/Covid19CanadaArchive/blob/master/datasets.json)) using the function `Covid19CanadaData::dl_dataset`
-* [`Covid19CanadaDataProcess`](https://github.com/ccodwg/Covid19CanadaDataProcess): Processes a given dataset into a standardized data format
-* [`Covid19CanadaDataETL`](https://github.com/ccodwg/Covid19CanadaETL): The ETL (extract-transform-load) package coordinates downloading, processing and writing the final combined datasets
+The data in this repository are updated several times per day by [`Covid19CanadaBot`](https://github.com/ccodwg/Covid19CanadaBot) using the script [`update_data.R`](https://github.com/ccodwg/CovidTimelineCanada/blob/main/update_data.R).
 
 The data in this repository will eventually conform to the developing [Data and Metadata Standard for COVID-19 Data in Canada](https://github.com/ccodwg/CovidDataStandard). To contribute to the development of this standard, please visit the [repository](https://github.com/ccodwg/CovidDataStandard).
 
