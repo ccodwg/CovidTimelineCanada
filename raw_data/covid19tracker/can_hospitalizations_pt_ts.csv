@@ -997,6 +997,7 @@
 "hospitalizations","AB","2022-10-16",1014
 "hospitalizations","AB","2022-10-17",1014
 "hospitalizations","AB","2022-10-19",1070
+"hospitalizations","AB","2022-10-20",1070
 "hospitalizations","BC","2020-01-25",0
 "hospitalizations","BC","2020-01-26",0
 "hospitalizations","BC","2020-01-27",0
@@ -1994,6 +1995,7 @@
 "hospitalizations","BC","2022-10-15",365
 "hospitalizations","BC","2022-10-16",365
 "hospitalizations","BC","2022-10-17",365
+"hospitalizations","BC","2022-10-20",389
 "hospitalizations","MB","2020-01-25",0
 "hospitalizations","MB","2020-01-26",0
 "hospitalizations","MB","2020-01-27",0
@@ -2991,6 +2993,7 @@
 "hospitalizations","MB","2022-10-15",291
 "hospitalizations","MB","2022-10-16",291
 "hospitalizations","MB","2022-10-17",291
+"hospitalizations","MB","2022-10-20",291
 "hospitalizations","NB","2020-01-25",0
 "hospitalizations","NB","2020-01-26",0
 "hospitalizations","NB","2020-01-27",0
@@ -8969,10 +8972,13 @@
 "hospitalizations","ON","2022-10-11",1120
 "hospitalizations","ON","2022-10-12",1601
 "hospitalizations","ON","2022-10-13",1629
-"hospitalizations","ON","2022-10-14",1629
-"hospitalizations","ON","2022-10-15",1629
-"hospitalizations","ON","2022-10-16",1629
-"hospitalizations","ON","2022-10-17",1629
+"hospitalizations","ON","2022-10-14",1645
+"hospitalizations","ON","2022-10-15",1645
+"hospitalizations","ON","2022-10-16",1645
+"hospitalizations","ON","2022-10-17",1645
+"hospitalizations","ON","2022-10-18",1812
+"hospitalizations","ON","2022-10-19",1787
+"hospitalizations","ON","2022-10-20",1663
 "hospitalizations","PE","2020-01-25",0
 "hospitalizations","PE","2020-01-26",0
 "hospitalizations","PE","2020-01-27",0
@@ -10969,6 +10975,7 @@
 "hospitalizations","QC","2022-10-17",2063
 "hospitalizations","QC","2022-10-18",2061
 "hospitalizations","QC","2022-10-19",2085
+"hospitalizations","QC","2022-10-20",2085
 "hospitalizations","SK","2020-01-25",0
 "hospitalizations","SK","2020-01-26",0
 "hospitalizations","SK","2020-01-27",0
