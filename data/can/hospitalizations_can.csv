@@ -1007,6 +1007,7 @@
 "hospitalizations","CAN","2022-10-26",5918,11
 "hospitalizations","CAN","2022-10-27",5784,-134
 "hospitalizations","CAN","2022-10-28",5801,17
-"hospitalizations","CAN","2022-10-29",5801,0
-"hospitalizations","CAN","2022-10-30",5801,0
-"hospitalizations","CAN","2022-10-31",5801,0
+"hospitalizations","CAN","2022-10-29",5784,-17
+"hospitalizations","CAN","2022-10-30",5784,0
+"hospitalizations","CAN","2022-10-31",5784,0
+"hospitalizations","CAN","2022-11-01",5777,-7
