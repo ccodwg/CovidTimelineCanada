@@ -434,6 +434,8 @@
 "wastewater_copies_per_ml","2022-10-27","BC","Vancouver","Vancouver Annacis Island",80.74768
 "wastewater_copies_per_ml","2022-10-28","BC","Vancouver","Vancouver Annacis Island",31.4171
 "wastewater_copies_per_ml","2022-10-31","BC","Vancouver","Vancouver Annacis Island",28.25826
+"wastewater_copies_per_ml","2022-11-03","BC","Vancouver","Vancouver Annacis Island",28.289475
+"wastewater_copies_per_ml","2022-11-06","BC","Vancouver","Vancouver Annacis Island",20.40981
 "wastewater_copies_per_ml","2021-02-07","BC","Vancouver","Vancouver Iona Island",6.67658
 "wastewater_copies_per_ml","2021-02-09","BC","Vancouver","Vancouver Iona Island",6.648565
 "wastewater_copies_per_ml","2021-02-11","BC","Vancouver","Vancouver Iona Island",8.875415
@@ -639,6 +641,8 @@
 "wastewater_copies_per_ml","2022-10-23","BC","Vancouver","Vancouver Iona Island",27.445625
 "wastewater_copies_per_ml","2022-10-27","BC","Vancouver","Vancouver Iona Island",5.334
 "wastewater_copies_per_ml","2022-10-30","BC","Vancouver","Vancouver Iona Island",8.960035
+"wastewater_copies_per_ml","2022-11-03","BC","Vancouver","Vancouver Iona Island",10.263125
+"wastewater_copies_per_ml","2022-11-06","BC","Vancouver","Vancouver Iona Island",8.94378
 "wastewater_copies_per_ml","2021-02-07","BC","Vancouver","Vancouver Lions Gate",8.677755
 "wastewater_copies_per_ml","2021-02-09","BC","Vancouver","Vancouver Lions Gate",20.474925
 "wastewater_copies_per_ml","2021-02-11","BC","Vancouver","Vancouver Lions Gate",11.169755
@@ -827,6 +831,8 @@
 "wastewater_copies_per_ml","2022-10-23","BC","Vancouver","Vancouver Lions Gate",76.232245
 "wastewater_copies_per_ml","2022-10-27","BC","Vancouver","Vancouver Lions Gate",32.332
 "wastewater_copies_per_ml","2022-10-30","BC","Vancouver","Vancouver Lions Gate",31.70233
+"wastewater_copies_per_ml","2022-11-03","BC","Vancouver","Vancouver Lions Gate",14.2651
+"wastewater_copies_per_ml","2022-11-06","BC","Vancouver","Vancouver Lions Gate",22.071185
 "wastewater_copies_per_ml","2021-02-07","BC","Vancouver","Vancouver Lulu Island",10.543265
 "wastewater_copies_per_ml","2021-02-09","BC","Vancouver","Vancouver Lulu Island",6.001515
 "wastewater_copies_per_ml","2021-02-11","BC","Vancouver","Vancouver Lulu Island",7.38984
@@ -1015,6 +1021,8 @@
 "wastewater_copies_per_ml","2022-10-23","BC","Vancouver","Vancouver Lulu Island",95.015845
 "wastewater_copies_per_ml","2022-10-27","BC","Vancouver","Vancouver Lulu Island",249.04846
 "wastewater_copies_per_ml","2022-10-30","BC","Vancouver","Vancouver Lulu Island",172.81933
+"wastewater_copies_per_ml","2022-11-03","BC","Vancouver","Vancouver Lulu Island",74.18213
+"wastewater_copies_per_ml","2022-11-06","BC","Vancouver","Vancouver Lulu Island",73.166285
 "wastewater_copies_per_ml","2021-02-07","BC","Vancouver","Vancouver Northwest Langley",5.13154
 "wastewater_copies_per_ml","2021-02-09","BC","Vancouver","Vancouver Northwest Langley",12.95689
 "wastewater_copies_per_ml","2021-02-11","BC","Vancouver","Vancouver Northwest Langley",20.77402
@@ -1203,6 +1211,8 @@
 "wastewater_copies_per_ml","2022-10-23","BC","Vancouver","Vancouver Northwest Langley",23.258395
 "wastewater_copies_per_ml","2022-10-27","BC","Vancouver","Vancouver Northwest Langley",49.991435
 "wastewater_copies_per_ml","2022-10-30","BC","Vancouver","Vancouver Northwest Langley",375.48603
+"wastewater_copies_per_ml","2022-11-03","BC","Vancouver","Vancouver Northwest Langley",122.82759
+"wastewater_copies_per_ml","2022-11-06","BC","Vancouver","Vancouver Northwest Langley",39.69454
 "wastewater_copies_per_ml","2022-05-27","MB","Brandon","Brandon",27.10578
 "wastewater_copies_per_ml","2022-05-31","MB","Brandon","Brandon",25.578635
 "wastewater_copies_per_ml","2022-06-03","MB","Brandon","Brandon",24.38199
@@ -1249,6 +1259,8 @@
 "wastewater_copies_per_ml","2022-10-25","MB","Brandon","Brandon",71.06761
 "wastewater_copies_per_ml","2022-10-28","MB","Brandon","Brandon",106.355445
 "wastewater_copies_per_ml","2022-11-01","MB","Brandon","Brandon",84.322345
+"wastewater_copies_per_ml","2022-11-04","MB","Brandon","Brandon",32.136565
+"wastewater_copies_per_ml","2022-11-08","MB","Brandon","Brandon",58.696725
 "wastewater_copies_per_ml","2021-04-13","MB","Winnipeg","Winnipeg North End",14.7045725
 "wastewater_copies_per_ml","2021-04-20","MB","Winnipeg","Winnipeg North End",51.8545825
 "wastewater_copies_per_ml","2021-04-27","MB","Winnipeg","Winnipeg North End",446.3551575
@@ -2616,6 +2628,7 @@
 "wastewater_copies_per_ml","2022-10-27","NL","St. John's","St. John's",8.62846
 "wastewater_copies_per_ml","2022-10-31","NL","St. John's","St. John's",31.77072
 "wastewater_copies_per_ml","2022-11-03","NL","St. John's","St. John's",28.067675
+"wastewater_copies_per_ml","2022-11-07","NL","St. John's","St. John's",32.94013
 "wastewater_copies_per_ml","2020-11-12","NS","Halifax","Halifax Dartmouth",3
 "wastewater_copies_per_ml","2020-11-19","NS","Halifax","Halifax Dartmouth",3.63791
 "wastewater_copies_per_ml","2020-11-23","NS","Halifax","Halifax Dartmouth",3
@@ -2836,6 +2849,8 @@
 "wastewater_copies_per_ml","2022-10-19","NS","Halifax","Halifax Dartmouth",42.876575
 "wastewater_copies_per_ml","2022-10-24","NS","Halifax","Halifax Dartmouth",49.17338
 "wastewater_copies_per_ml","2022-10-26","NS","Halifax","Halifax Dartmouth",147.57675
+"wastewater_copies_per_ml","2022-10-31","NS","Halifax","Halifax Dartmouth",23.78618
+"wastewater_copies_per_ml","2022-11-02","NS","Halifax","Halifax Dartmouth",38.683695
 "wastewater_copies_per_ml","2020-11-16","NS","Halifax","Halifax Halifax",3
 "wastewater_copies_per_ml","2020-11-19","NS","Halifax","Halifax Halifax",5.7647
 "wastewater_copies_per_ml","2020-11-23","NS","Halifax","Halifax Halifax",5.69237
@@ -3054,6 +3069,8 @@
 "wastewater_copies_per_ml","2022-10-17","NS","Halifax","Halifax Halifax",61.79797
 "wastewater_copies_per_ml","2022-10-19","NS","Halifax","Halifax Halifax",354.293095
 "wastewater_copies_per_ml","2022-10-26","NS","Halifax","Halifax Halifax",94.006765
+"wastewater_copies_per_ml","2022-10-31","NS","Halifax","Halifax Halifax",29.65894
+"wastewater_copies_per_ml","2022-11-02","NS","Halifax","Halifax Halifax",106.90636
 "wastewater_copies_per_ml","2020-11-19","NS","Halifax","Halifax Millcove",3
 "wastewater_copies_per_ml","2020-11-23","NS","Halifax","Halifax Millcove",1
 "wastewater_copies_per_ml","2020-11-26","NS","Halifax","Halifax Millcove",1
@@ -3274,6 +3291,8 @@
 "wastewater_copies_per_ml","2022-10-19","NS","Halifax","Halifax Millcove",49.376265
 "wastewater_copies_per_ml","2022-10-24","NS","Halifax","Halifax Millcove",23.805385
 "wastewater_copies_per_ml","2022-10-26","NS","Halifax","Halifax Millcove",32.34992
+"wastewater_copies_per_ml","2022-10-31","NS","Halifax","Halifax Millcove",44.599095
+"wastewater_copies_per_ml","2022-11-02","NS","Halifax","Halifax Millcove",17.025665
 "wastewater_copies_per_ml","2021-01-05","ON","Toronto","Toronto Ashbridges Bay",145.86941
 "wastewater_copies_per_ml","2021-01-06","ON","Toronto","Toronto Ashbridges Bay",163.470215
 "wastewater_copies_per_ml","2021-01-07","ON","Toronto","Toronto Ashbridges Bay",221.12673
@@ -5127,6 +5146,7 @@
 "wastewater_copies_per_ml","2022-10-25","SK","Regina","Regina",29.76155
 "wastewater_copies_per_ml","2022-10-30","SK","Regina","Regina",126.38921
 "wastewater_copies_per_ml","2022-11-02","SK","Regina","Regina",398.587035
+"wastewater_copies_per_ml","2022-11-07","SK","Regina","Regina",63.35776
 "wastewater_copies_per_ml","2021-03-27","SK","Saskatoon","Saskatoon",2.3
 "wastewater_copies_per_ml","2021-03-31","SK","Saskatoon","Saskatoon",4.7
 "wastewater_copies_per_ml","2021-04-03","SK","Saskatoon","Saskatoon",1.4
