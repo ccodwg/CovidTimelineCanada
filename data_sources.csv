@@ -26,7 +26,7 @@ cases,SK,Saskatchewan total cases dashboard & Freedom of Information request,95d
 cases,SK,Saskatchewan weekly COVID-19 situation report,2b3954e7-a659-4555-b02e-3fcc4b1f0960,report,reports,reports/sk/sk_weekly_report.csv,health_region,2022-02-05,2022-06-25,,weekly: R,,,5
 cases,SK,Saskatchewan monthly COVID-19 situation report,105cb0f6-2565-48fa-beee-7d36cbdc7ef1,report,reports,reports/sk/sk_monthly_report.csv,province_territory,2022-06-26,2022-09-10,,monthly: 3T,Release schedule assumed to be third Thursday of each month,,5
 cases,SK,Saskatchewan Community Respiratory Illness Surveillance Program situation report,b22d4896-160d-432b-b02a-ba933d14a58a,report,reports,reports/sk/sk_crisp_report.csv,province_territory,2022-09-11,present,,,Biweekly on Thursdays,,5
-cases,YT,Yukon dashboard,8eb9a22f-a2c0-4bdb-8f6c-ef8134901efe,ts,active_ts,active_ts/yt/yt_cases_pt_ts.csv,province_territory,2020-03-19,present,,daily: MTWRF,,,0
+cases,YT,Yukon dashboard,8eb9a22f-a2c0-4bdb-8f6c-ef8134901efe,ts,static,static/yt/yt_cases_pt_ts.csv,province_territory,2020-03-19,2022-11-10,,daily: MTWRF,,,0
 deaths,AB,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2020-06-22,,,,,
 deaths,AB,Alberta case CSV,59da1de8-3b4e-429a-9e18-b67ba3834002,archive_ts,active_cumul,active_cumul/ab/ab_cases_hr_ts.csv,health_region,2020-06-23,present,,weekly: W,,,2
 deaths,BC,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2022-04-01,,,,,
@@ -116,4 +116,4 @@ tests_completed,ON,Public Health Agency of Canada epidemiology update,366ce221-c
 tests_completed,PE,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
 tests_completed,QC,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
 tests_completed,SK,Public Health Agency of Canada epidemiology update,366ce221-c1c9-4f41-a917-8ff4648f6a40,ts,active_ts,active_ts/can/can_tests_completed_pt_ts.csv,province_territory,2020-01-01,present,,weekly: F,,,3
-tests_completed,YT,Yukon dashboard,4a33ab2c-32a4-4630-8f6b-2bac2b1ce7ca,ts,active_ts,active_ts/yt/yt_tests_completed_pt_ts.csv,province_territory,2020-02-27,present,,daily: MTWRF,Releases are somewhat less consistent than the schedule implies,,0
+tests_completed,YT,Yukon dashboard,4a33ab2c-32a4-4630-8f6b-2bac2b1ce7ca,ts,static,static/yt/yt_tests_completed_pt_ts.csv,province_territory,2020-02-27,2022-11-10,,daily: MTWRF,Releases are somewhat less consistent than the schedule implies,,0

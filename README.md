@@ -229,7 +229,7 @@ The data in this repository will eventually conform to the developing [Data and 
 | PE    | - Public Health Agency of Canada daily epidemiology update (2020-03-11–2022-06-08)<br>- Public Health Agency of Canada weekly epidemiology update (2022-06-11–present)                                                                                                                                                                                          |
 | QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                                                                                                                                                                                               |
 | SK    | - Saskatchewan total cases dashboard & Freedom of Information request (2020-03-11–2022-02-06)<br>- Saskatchewan weekly COVID-19 situation report (2022-02-05–2022-06-25)<br>- Saskatchewan monthly COVID-19 situation report (2022-06-26–2022-09-10)<br>- Saskatchewan Community Respiratory Illness Surveillance Program situation report (2022-09-11–present) |
-| YT    | - Yukon dashboard (2020-03-19–present)                                                                                                                                                                                                                                                                                                                          |
+| YT    | - Yukon dashboard (2020-03-19–2022-11-10)                                                                                                                                                                                                                                                                                                                       |
 </details>
 
 <details>
@@ -309,7 +309,7 @@ The data in this repository will eventually conform to the developing [Data and 
 | PE    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
 | QC    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
 | SK    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| YT    | - Yukon dashboard (2020-02-27–present)                                    |
+| YT    | - Yukon dashboard (2020-02-27–2022-11-10)                                 |
 </details>
 
 <details>
