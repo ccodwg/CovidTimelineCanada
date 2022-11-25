@@ -61,6 +61,7 @@ deaths,SK,Saskatchewan monthly COVID-19 situation report,105cb0f6-2565-48fa-beee
 deaths,SK,Saskatchewan Community Respiratory Illness Surveillance Program situation report,b22d4896-160d-432b-b02a-ba933d14a58a,report,reports,reports/sk/sk_crisp_report.csv,province_territory,2022-09-11,present,,,Biweekly on Thursdays,,5
 deaths,YT,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
 deaths,YT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,,weekly: M,,,9
+hospitalizations,CAN,Public Health Agency of Canada weekly epidemiology update,f1e1a857-fab8-4c25-a132-f474fab93622,ts,active_ts,active_ts/can/can_hospitalizations_pt_ts.csv,canada,2022-04-01,present,,weekly: R,,,3
 hospitalizations,AB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,
 hospitalizations,BC,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,
 hospitalizations,MB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,2021-02-03,,,,,
@@ -83,6 +84,7 @@ hospitalizations,QC,MSSS hospitalization CSV,f0c25e20-2a6c-4f9a-adc3-61b28ab9724
 hospitalizations,SK,Saskatchewan hospitalized cases dashboard,927b7ff1-c2e5-4074-80ab-35015022a8e6; 6e5dd7b2-c6b8-4fd0-8236-ef34873233d2,ts,static,static/sk/sk_hospitalizations_ts.csv,province_territory,2020-03-26,2022-02-06,,,,,
 hospitalizations,SK,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2022-02-07,present,,,,,
 hospitalizations,YT,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,
+icu,CAN,Public Health Agency of Canada weekly epidemiology update,f1e1a857-fab8-4c25-a132-f474fab93622,ts,active_ts,active_ts/can/can_icu_pt_ts.csv,canada,2022-04-01,present,,weekly: R,,,3
 icu,AB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,,,,,
 icu,BC,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-01-25,present,,,,,
 icu,MB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2022-03-26,present,,,,,
