@@ -15,8 +15,8 @@ cases,NS,Nova Scotia dashboard,43c7d333-d384-41a4-a6bd-1f2cc0326eec,ts_daily,sta
 cases,NS,Nova Scotia daily news release,7b7be246-cd65-4f35-b354-faa705cacecc,report,reports,reports/ns/ns_daily_news_release.csv,health_region,2021-12-10,2022-03-04,,,,,
 cases,NS,Nova Scotia weekly data report,7b7be246-cd65-4f35-b354-faa705cacecc,report,reports,reports/ns/ns_weekly_report.csv,province_territory,2022-03-08,present,,weekly: R,,,3
 cases,NT,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_cases_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
-cases,NT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_cases_pt_ts.csv,province_territory,2022-06-11,present,,weekly: M,,,9
-cases,NU,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_cases_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
+cases,NT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_cases_pt_ts.csv,province_territory,2022-06-11,2022-06-11,,weekly: M,,,9
+cases,NU,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_cases_pt_ts.csv,province_territory,2020-03-11,2022-04-05,,,,,
 cases,NU,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_cases_pt_ts.csv,province_territory,2022-06-11,present,,weekly: M,,,9
 cases,ON,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_cases_hr_ts.csv,health_region,2020-01-25,2020-03-31,,,,,
 cases,ON,Ontario PHU summary CSV,73fffd44-fbad-4de8-8d32-00cc5ae180a6,ts,active_ts,active_ts/on/on_cases_hr_ts.csv,health_region,2020-04-01,present,,weekly: R,,,0
@@ -47,9 +47,8 @@ deaths,NS,Nova Scotia dashboard,b4ee30c3-2a01-400d-9e60-963f114814e8,archive_ts,
 deaths,NS,Nova Scotia dashboard,43c7d333-d384-41a4-a6bd-1f2cc0326eec,ts_daily,static,static/ns/ns_cases_hr_ts_2.csv,health_region,2021-01-23,2021-12-09,,,,,
 deaths,NS,Nova Scotia daily news release,7b7be246-cd65-4f35-b354-faa705cacecc,report,reports,reports/ns/ns_daily_news_release.csv,health_region,2021-12-10,2022-03-04,,,,,
 deaths,NT,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
-deaths,NT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,,weekly: M,,,9
-deaths,NU,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
-deaths,NU,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,,weekly: M,,,9
+deaths,NT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,2022-06-11,,weekly: M,,,9
+deaths,NU,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-04-05,,,,,
 deaths,ON,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2020-03-31,,,,,
 deaths,ON,Ontario PHU summary CSV,73fffd44-fbad-4de8-8d32-00cc5ae180a6,ts,active_ts,active_ts/on/on_deaths_hr_ts.csv,health_region,2022-04-01,present,,weekly: R,,,0
 deaths,PE,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
@@ -60,7 +59,7 @@ deaths,SK,Saskatchewan weekly COVID-19 situation report,2b3954e7-a659-4555-b02e-
 deaths,SK,Saskatchewan monthly COVID-19 situation report,105cb0f6-2565-48fa-beee-7d36cbdc7ef1,report,reports,reports/sk/sk_monthly_report.csv,province_territory,2022-06-26,2022-09-10,,monthly: 3T,Release schedule assumed to be third Thursday of each month,,5
 deaths,SK,Saskatchewan Community Respiratory Illness Surveillance Program situation report,b22d4896-160d-432b-b02a-ba933d14a58a,report,reports,reports/sk/sk_crisp_report.csv,province_territory,2022-09-11,present,,,Biweekly on Thursdays,,5
 deaths,YT,Public Health Agency of Canada daily epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,static,static/can/can_deaths_pt_ts.csv,province_territory,2020-03-11,2022-06-08,,,,,
-deaths,YT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,present,,weekly: M,,,9
+deaths,YT,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-06-11,2022-11-05,,weekly: M,,,9
 hospitalizations,CAN,Public Health Agency of Canada weekly epidemiology update,f1e1a857-fab8-4c25-a132-f474fab93622,ts,active_ts,active_ts/can/can_hospitalizations_pt_ts.csv,canada,2022-04-01,present,,weekly: R,,,3
 hospitalizations,AB,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,
 hospitalizations,BC,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_hospitalizations_pt_ts.csv,province_territory,2020-01-25,present,,,,,

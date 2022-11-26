@@ -36,6 +36,7 @@ Some provinces no longer offer health region-level data for cases and/or deaths.
 - Nova Scotia (case and death data no longer reported at HR-level)
 - Nunavut (case and death data no longer reported at all)
 - Saskatchewan (case and death data no longer reported at HR-level)
+- Yukon (case and death data no longer reported at all)
 
 ## Available datasets
 
