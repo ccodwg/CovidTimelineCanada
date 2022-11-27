@@ -1,2 +1,13 @@
 "date","source","date_start","date_end","region","sub_region_1","cases","cases_weekly","cumulative_cases_2022-07-03","cumulative_cases_2022-07-03_weekly_diff","deaths_weekly","cumulative_deaths_since_2022-07-03","cumulative_hospitalizations_since_2022-07-03","new_hospitalizations","cumulative_icu_since_2022-07-03","new_icu","cumulative_tests_completed_2022-07-03","new_tests_completed_daily","positivity_rate_weekly","cumulative_people_tested_2022-07-03"
-"2022-11-18","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/docs/2022_2023_week45.pdf","2022-11-06","2022-11-12","MB",,273,273,5632,,
+"2022-11-18","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/docs/2022_2023_week45.pdf","2022-11-06","2022-11-12","MB",,273,273,5632,,5,159,1730,111,187,11,40977,350,24.5,27022
+"2022-11-18","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/docs/2022_2023_week45.pdf","2022-11-06","2022-11-12","MB","Winnipeg RHA",157,157,3365,,,,,,,,,,,
+"2022-11-18","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/docs/2022_2023_week45.pdf","2022-11-06","2022-11-12","MB","Southern Health-Santé Sud",32,32,519,,,,,,,,,,,
+"2022-11-18","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/docs/2022_2023_week45.pdf","2022-11-06","2022-11-12","MB","Interlake-Eastern RHA",26,26,628,,,,,,,,,,,
+"2022-11-18","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/docs/2022_2023_week45.pdf","2022-11-06","2022-11-12","MB","Prairie Mountain Health",33,33,738,,,,,,,,,,,
+"2022-11-18","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/docs/2022_2023_week45.pdf","2022-11-06","2022-11-12","MB","Northern Health Region",25,25,382,,,,,,,,,,,
+"2022-11-25","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/2022_2023/week_46/index.html","2022-11-13","2022-11-19","MB",,312,314,5944,312,<5,<5,52,14,<5,<5,,,,
+"2022-11-25","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/2022_2023/week_46/index.html","2022-11-13","2022-11-19","MB","Winnipeg RHA",181,181,3546,181,,,,,,,,,,
+"2022-11-25","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/2022_2023/week_46/index.html","2022-11-13","2022-11-19","MB","Southern Health-Santé Sud",26,28,545,26,,,,,,,,,,
+"2022-11-25","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/2022_2023/week_46/index.html","2022-11-13","2022-11-19","MB","Interlake-Eastern RHA",22,22,650,22,,,,,,,,,,
+"2022-11-25","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/2022_2023/week_46/index.html","2022-11-13","2022-11-19","MB","Prairie Mountain Health",57,57,795,57,,,,,,,,,,
+"2022-11-25","https://www.gov.mb.ca/health/publichealth/surveillance/influenza/2022_2023/week_46/index.html","2022-11-13","2022-11-19","MB","Northern Health Region",26,26,408,26,,,,,,,,,,
