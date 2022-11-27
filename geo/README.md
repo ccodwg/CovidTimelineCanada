@@ -1,12 +1,12 @@
 # Geographic data
 
-Comprehensive names and population data are available for provinces/territories in `pt.csv` and for health regions in `health_regions.csv`.
+Comprehensive names and population data are available for provinces/territories in `pt.csv` and for health regions in `hr.csv`. For historical reasons, `health_regions.csv` exists as a duplicate of `hr.csv`.
 
 ## Map files
 
-Map files are available in GeoJSON format for provinces/territories in `pt.geojson` and for health regions in `health_regions.geojson`. The map files are derived from TopoJSON files available from the [Public Health Agency of Canada's daily epidemiology update](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html): [Can_PR2016.json](https://health-infobase.canada.ca/src/json/Can_PR2016.json) and [health-regions-2022.json](https://health-infobase.canada.ca/src/json/health-regions-2022.json), respectively. Both map files use the NAD83 / Statistics Canada Lambert projection ([EPSG:3347](https://epsg.io/3347)). Unprojected versions of the map files using WGS84 ([EPSG:4326](https://epsg.io/4326)) are available as `pt_wgs84.geojson` and `health_regions_wgs84.geojson`.
+Map files are available in GeoJSON format for provinces/territories in `pt.geojson` and for health regions in `hr.geojson`. The map files are derived from TopoJSON files available from the [Public Health Agency of Canada's epidemiology update](https://health-infobase.canada.ca/covid-19/): [Can_PR2016.json](https://health-infobase.canada.ca/src/json/Can_PR2016.json) and [health-regions-2022.json](https://health-infobase.canada.ca/src/json/health-regions-2022.json), respectively. Both map files use the NAD83 / Statistics Canada Lambert projection ([EPSG:3347](https://epsg.io/3347)). Unprojected versions of the map files using WGS84 ([EPSG:4326](https://epsg.io/4326)) are available as `pt_wgs84.geojson` and `hr_wgs84.geojson`.
 
-Note that the map files do not contain detailed name and population data. However, these data may be added by joining `pt.csv` or `health_regions.csv`.
+Note that the map files do not contain detailed name and population data. However, these data may be added by joining `pt.csv` or `hr.csv`.
 
 ## Health regions
 
