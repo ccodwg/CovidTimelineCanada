@@ -1,4 +1,4 @@
-name: update-readme
+name: update-data-sources
 on: push
 jobs:
   build:
@@ -7,15 +7,15 @@ jobs:
       - uses: actions/checkout@v3
       - run: |
           pip3 install pandas tabulate
-          python generate_readme.py
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          python docs/data_sources/update_data_sources.py
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
           git add -A
           if ! git diff-index --quiet HEAD
           then
-            git commit -m "Update README"
+            git commit -m "Update data_sources.md"
             git push
-            echo "README update pushed successfully."
+            echo "Data sources update pushed successfully."
           else
-            echo "No update to README is required."
+            echo "No update to data_sources.md is required."
           fi

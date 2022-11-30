@@ -9,7 +9,7 @@ if check_tabulate is None:
 
 # load data_sources.csv
 d = pd.read_csv(
-    "data_sources.csv",
+    "docs/data_sources/data_sources.csv",
     dtype = str,
     usecols = ["value_name", "region", "source_name", "date_begin", "date_end"])
 
@@ -74,13 +74,9 @@ data_sources = "\n\n".join(
     [t_cases, t_deaths, t_hospitalizations, t_icu, t_tests_completed, t_vaccine_coverage, t_vaccine_administration, t_vaccine_distribution]
 )
 
-# load README content
-with open("docs/README_content.md", "r") as f:
-    readme = f.read()
-
-# substitute data sources section
-readme = readme.replace("<!-- data sources -->", data_sources)
+# add header
+readme = "## Detailed description of data sources\n\n" + data_sources
 
 # write README
-with open("README.md", "w") as f:
+with open("docs/data_sources/data_sources.md", "w") as f:
     f.write(readme)
