@@ -27,6 +27,21 @@ pop <- utils::read.csv(file.path(temp_dir, "17100009.csv")) |>
 # keep population estimates beginning Q1 2020
 pop <- pop[which(pop$date == "2020-01")[1]:nrow(pop), ]
 
+# long to wide
+pop <- tidyr::pivot_wider(
+  pop,
+  names_from = date,
+  names_prefix = "pop_",
+  values_from = pop
+)
+
+# replace hyphens in column names with underscores
+names(pop) <- sub("-", "_", names(pop))
+
+# create "pop" column with most recent pop value
+pop_recent <- pop[, ncol(pop), drop = TRUE]
+pop <- tibble::add_column(pop, pop = pop_recent, .before = "pop_2020_01")
+
 # join population data to pt
 pt <- dplyr::left_join(
   pt,
@@ -34,20 +49,5 @@ pt <- dplyr::left_join(
   by = c("name_canonical" = "region")
 )
 
-# long to wide
-pt <- tidyr::pivot_wider(
-  pt,
-  names_from = date,
-  names_prefix = "pop_",
-  values_from = pop
-)
-
-# create "pop" column with most recent pop value
-pop_recent <- pt[, ncol(pt), drop = TRUE]
-pt <- tibble::add_column(pt, pop = pop_recent, .after = "name_ccodwg")
-
-# replace hyphens in column names with underscores
-names(pt) <- sub("-", "_", names(pt))
-
 # save updated pt.csv
-utils::write.csv(pt, "geo/pt.csv", row.names = FALSE)
+utils::write.csv(pt, "geo/pt.csv", row.names = FALSE, na = "")
