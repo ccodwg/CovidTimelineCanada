@@ -1,12 +1,12 @@
 # Geographic data
 
-Comprehensive names and population data are available for provinces/territories in `pt.csv` and for health regions in `hr.csv`. For historical reasons, `health_regions.csv` exists as a duplicate of `hr.csv`.
+Comprehensive names and population data are available for health regions in `hr.csv`, provinces/territories in `pt.csv` and Canada in `can.csv`. For historical reasons, `health_regions.csv` exists as a duplicate of `hr.csv`.
 
 ## Map files
 
-Map files are available in GeoJSON format for provinces/territories in `pt.geojson` and for health regions in `hr.geojson`. The map files are derived from TopoJSON files available from the [Public Health Agency of Canada's epidemiology update](https://health-infobase.canada.ca/covid-19/): [Can_PR2016.json](https://health-infobase.canada.ca/src/json/Can_PR2016.json) and [health-regions-2022.json](https://health-infobase.canada.ca/src/json/health-regions-2022.json), respectively. Both map files use the NAD83 / Statistics Canada Lambert projection ([EPSG:3347](https://epsg.io/3347)). Unprojected versions of the map files using WGS84 ([EPSG:4326](https://epsg.io/4326)) are available as `pt_wgs84.geojson` and `hr_wgs84.geojson`.
+Map files are available in GeoJSON format for health regions in `hr.geojson`, provinces/territories in `pt.geojson` and Canada in `can.geojson`. The map files are derived from TopoJSON files available from the [Public Health Agency of Canada's epidemiology update](https://health-infobase.canada.ca/covid-19/): [health-regions-2022.json](https://health-infobase.canada.ca/src/json/health-regions-2022.json) and [Can_PR2016.json](https://health-infobase.canada.ca/src/json/Can_PR2016.json). Both map files use the NAD83 / Statistics Canada Lambert projection ([EPSG:3347](https://epsg.io/3347)). Unprojected versions of the map files using WGS84 ([EPSG:4326](https://epsg.io/4326)) are available as `hr_wgs84.geojson`, `pt_wgs84.geojson` and `can_wgs84.geojson`.
 
-Note that the map files do not contain detailed name and population data. However, these data may be added by joining `pt.csv` or `hr.csv`.
+Note that the map files do not contain detailed name and population data. However, these data may be added by joining `hr.csv`, `pt.csv` or `can.csv`, as desired.
 
 ## Health regions
 
@@ -19,14 +19,20 @@ Health region names and unique identifiers (UIDs) were derived from the [2018 ca
 
 ## Population data
 
-Population data for both provinces/territories and health regions are available for various time periods in columns beginning with `pop_`. The canonical population (i.e., the most recent population available for a particular geography) is found in the column `pop`.
+Population data for both health regions and provinces/territories are available for various time periods in columns beginning with `pop_`. The canonical population (i.e., the most recent population available for a particular geography) is found in the column `pop`. Health region population data are available as annual mid-year estimates, whereas province/territory population data are available as quarterly estimates.
 
-### Provinces/territories
-
-Quarterly population estimates for provinces/territories were obtained from Statistics Canada [Table 17-10-0009-01 Population estimates, quarterly](https://doi.org/10.25318/1710000901-eng).
+Provincial population estimates for Saskatchewan will differ from the sum of the Saskatchewan health region estimates due to different data sources (see details below).
 
 ### Health regions
 
 Mid-year annual population estimates for health regions (excluding Saskatchewan) were obtained from Statistics Canada [Table 17-10-0134-01 Estimates of population (2016 Census and administrative data), by age group and sex for July 1st, Canada, provinces, territories, health regions (2018 boundaries) and peer groups](https://doi.org/10.25318/1710013401-eng). Population estimates for British Columbia's 5 Regional Health Authorities were created by aggregating the values for the constituent 16 Health Service Delivery Areas.
 
-For Saskatchewan's new 13 zones, population estimates were obtained from the [saskatchewan.ca dashboard](https://dashboard.saskatchewan.ca/health-wellness). The exact time period represented by these estimates is unknown, although they appear to differ slightly from Statistics Canada's province-wide population estimate for Saskatchewan. For these reason, they appear only in the `pop` column.
+For Saskatchewan's 13 zones, population estimates were obtained from the [saskatchewan.ca dashboard](https://dashboard.saskatchewan.ca/health-wellness). The exact time period represented by these estimates is unknown, although they appear to differ slightly from Statistics Canada's province-wide population estimate for Saskatchewan. For these reason, they appear only in the `pop` column and population data from multiple time points is not available.
+
+### Provinces/territories
+
+Quarterly population estimates for provinces/territories were obtained from Statistics Canada [Table 17-10-0009-01 Population estimates, quarterly](https://doi.org/10.25318/1710000901-eng).
+
+### Canada
+
+Quarterly population estimates for Canada were obtained from Statistics Canada [Table 17-10-0009-01 Population estimates, quarterly](https://doi.org/10.25318/1710000901-eng).
