@@ -85,21 +85,21 @@
 <details>
 <summary><b>Tests completed</b></summary>
 
-| P/T   | Data sources                                                              |
-|:------|:--------------------------------------------------------------------------|
-| AB    | - COVID-19 Alberta statistics app (2020-01-04–present)                    |
-| BC    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| MB    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| NB    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| NL    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| NS    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| NT    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| NU    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| ON    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| PE    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| QC    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| SK    | - Public Health Agency of Canada epidemiology update (2020-01-01–present) |
-| YT    | - Yukon dashboard (2020-02-27–2022-11-10)                                 |
+| P/T   | Data sources                                                                 |
+|:------|:-----------------------------------------------------------------------------|
+| AB    | - COVID-19 Alberta statistics app (2020-01-04–present)                       |
+| BC    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| MB    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| NB    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| NL    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| NS    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| NT    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| NU    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| ON    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| PE    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| QC    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| SK    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22) |
+| YT    | - Yukon dashboard (2020-02-27–2022-11-10)                                    |
 </details>
 
 <details>
