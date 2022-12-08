@@ -5,7 +5,7 @@
 # This is most easily achieved by using the provided CovidTimelineCanada.Rproj in RStudio.
 
 # make sure tabulizer is installed
-# install.packages("rJava") https://datawookie.dev/blog/2018/02/installing-rjava-on-ubuntu/
+# install.packages("rJava") # https://datawookie.dev/blog/2018/02/installing-rjava-on-ubuntu/
 # remotes::install_github(c("ropensci/tabulizerjars", "ropensci/tabulizer"))
 
 # load pipe
