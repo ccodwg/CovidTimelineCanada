@@ -53,8 +53,8 @@ mb <- dplyr::bind_rows(
     region = "MB",
     sub_region_1 = NA,
     cases = NA, # calculated by formula
-    cases_weekly = extract_from_tab(tb_cases, 2, "Cases this week: \\d*"),
-    `cumulative_cases_2022-07-03` = extract_from_tab(tb_cases, 2, "Total cases: \\d*"),
+    cases_weekly = extract_from_tab(tb_cases, 2, "(?<=Cases this week: )\\d*", parse_num = FALSE),
+    `cumulative_cases_2022-07-03` = extract_from_tab(tb_cases, 2, "(?<=Total cases: )\\d*", parse_num = FALSE),
     `cumulative_cases_2022-07-03_weekly_diff` = NA, # calculated by formula
     deaths_weekly = extract_from_tab(tb_severity, 2, "(?<=Severe outcomes this week.{0,1000}Deaths: ).{1,5}(?!\r)", parse_num = FALSE),
     `cumulative_deaths_since_2022-07-03` = extract_from_tab(tb_severity, 2, "(?<=Total severe outcomes.{0,1000}Deaths: ).{1,5}(?!\r)", parse_num = FALSE),
@@ -74,14 +74,14 @@ mb <- dplyr::bind_rows(
     date_end = date_end,
     region = "MB",
     sub_region_1 = tb_hr %>% dplyr::pull(1),
-    `cumulative_cases_2022-07-03` = tb_hr %>% dplyr::pull("Total cases") %>% as.character() %>% readr::parse_number(),
-    cases_weekly = tb_hr %>% dplyr::pull("Cases this week") %>% as.character() %>% readr::parse_number()
+    `cumulative_cases_2022-07-03` = tb_hr %>% dplyr::pull("Total cases") %>% as.character(),
+    cases_weekly = tb_hr %>% dplyr::pull("Cases this week") %>% as.character()
   )
 )
 
 # convert character columns to numeric, as necessary
 for (i in 1:ncol(mb)) {
-  if (is.character(mb[, i, drop = TRUE]) & !is.na(as.numeric(mb[1, i, drop = TRUE]))) {
+  if (is.character(mb[, i, drop = TRUE]) & all(((is.na(mb[, i, drop = TRUE])) | !is.na(as.numeric(mb[, i, drop = TRUE]))))) {
     print(i)
     mb[, i, drop = TRUE] <- as.numeric(mb[, i, drop = TRUE])
   }
