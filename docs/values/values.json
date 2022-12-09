@@ -1,0 +1,116 @@
+{
+    "cases": {
+        "value": "The cumulative number of COVID-19 cases reported up to a given day.",
+        "value_daily": "The change in the number of COVID-19 cases compared to the previous day.",
+        "geo": {
+            "can": "hr",
+            "pt": "hr",
+            "hr": "hr"
+        }
+    },
+    "deaths": {
+        "value": "The cumulative number of COVID-19 deaths reported up to a given day.",
+        "value_daily": "The change in the number of COVID-19 deaths compared to the previous day.",
+        "geo": {
+            "can": "hr",
+            "pt": "hr",
+            "hr": "hr"
+        }
+    },
+    "hospitalizations": {
+        "value": "The number of active hospitalizations related to COVID-19 (non-ICU and ICU) reported for a given day.",
+        "value_daily": "The change in the number of active hospitalizations related to COVID-19 compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    },
+    "icu": {
+        "value": "The number of active ICU hospitalizations related to COVID-19 reported for a given day.",
+        "value_daily": "The change in the number of active ICU hospitalizations related to COVID-19 compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    },
+    "tests_completed": {
+        "value": "The cumulative number of PCR tests for COVID-19 reported up to a given day.",
+        "value_daily": "The change in the number of PCR tests for COVID-19 reported compared to the previous day.",
+        "geo": {
+            "can": "pt",
+            "pt": "pt"
+        }
+    },
+    "vaccine_coverage_dose_1": {
+        "value": "The cumulative percent coverage of first doses of COVID-19 vaccines in the population reported up to a given day.",
+        "value_daily": "The change in the percent coverage of first doses of COVID-19 vaccines reported compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    },
+    "vaccine_coverage_dose_2": {
+        "value": "The cumulative percent coverage of second doses of COVID-19 vaccines in the population reported up to a given day.",
+        "value_daily": "The change in the percent coverage of second doses of COVID-19 vaccines reported compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    },
+    "vaccine_coverage_dose_3": {
+        "value": "The cumulative percent coverage of third doses of COVID-19 vaccines in the population reported up to a given day.",
+        "value_daily": "The change in the percent coverage of third doses of COVID-19 vaccines reported compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    },
+    "vaccine_coverage_dose_4": {
+        "value": "The cumulative percent coverage of fourth doses of COVID-19 vaccines in the population reported up to a given day.",
+        "value_daily": "The change in the percent coverage of fourth doses of COVID-19 vaccines reported compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    },
+    "vaccine_administration_total_doses": {
+        "value": "The cumulative number of total doses of COVID-19 vaccines administered reported up to a given day.",
+        "value_daily": "The change in the number of total doses of COVID-19 vaccines administered reported compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    },
+    "vaccine_administration_dose_1": {
+        "value": "The cumulative number of first doses of COVID-19 vaccines administered reported up to a given day.",
+        "value_daily": "The change in the number of first doses of COVID-19 vaccines administered reported compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    },
+    "vaccine_administration_dose_2": {
+        "value": "The cumulative number of second doses of COVID-19 vaccines administered reported up to a given day.",
+        "value_daily": "The change in the number of second doses of COVID-19 vaccines administered reported compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    },
+    "vaccine_administration_dose_3": {
+        "value": "The cumulative number of third doses of COVID-19 vaccines administered reported up to a given day.",
+        "value_daily": "The change in the number of third doses of COVID-19 vaccines administered reported compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    },
+    "vaccine_administration_dose_4": {
+        "value": "The cumulative number of fourth doses of COVID-19 vaccines administered reported up to a given day.",
+        "value_daily": "The change in the number of fourth doses of COVID-19 vaccines administered reported compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        }
+    }
+}
