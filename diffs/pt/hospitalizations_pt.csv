@@ -1,7 +1,7 @@
 "name","region","date_current","value_current","date_previous","value_previous","date_diff","value_diff"
-"hospitalizations","AB","2022-12-07",1042,"2022-12-01",1077,6,-35
-"hospitalizations","BC","2022-12-01",328,"2022-11-24",328,7,0
-"hospitalizations","MB","2022-12-01",291,"2022-11-24",291,7,0
+"hospitalizations","AB","2022-12-08",1042,"2022-12-07",1042,1,0
+"hospitalizations","BC","2022-12-08",369,"2022-12-01",328,7,41
+"hospitalizations","MB","2022-12-08",291,"2022-12-01",291,7,0
 "hospitalizations","NB","2022-12-03",40,"2022-11-26",38,7,2
 "hospitalizations","NL","2022-11-17",3,"2022-11-15",3,2,0
 "hospitalizations","NS","2022-11-17",44,"2022-11-15",44,2,0
