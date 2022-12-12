@@ -4152,32 +4152,32 @@
     "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2022-11-27": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "NB", "NL", "NS", "ON", "QC", "SK"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2022-11-28": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "NB", "NL", "NS", "ON", "QC", "SK"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2022-11-29": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "NB", "NL", "NS", "ON", "QC", "SK"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2022-11-30": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "NB", "NL", "NS", "ON", "QC", "SK"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2022-12-01": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "NB", "NL", "NS", "ON", "QC", "SK"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2022-12-02": {
-    "pt_n": 7,
-    "pt": ["AB", "BC", "NB", "NL", "NS", "QC", "SK"]
+    "pt_n": 9,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "PE", "QC", "SK"]
   },
   "2022-12-03": {
-    "pt_n": 7,
-    "pt": ["AB", "BC", "NB", "NL", "NS", "QC", "SK"]
+    "pt_n": 9,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "PE", "QC", "SK"]
   },
   "2022-12-04": {
     "pt_n": 4,
