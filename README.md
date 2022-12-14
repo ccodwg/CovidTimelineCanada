@@ -6,7 +6,9 @@ Datasets in this repository are found in the [`data`](https://github.com/ccodwg/
 
 On April 30, 2022, `CovidTimelineCanada` superseded the original [`Covid19Canada`](https://github.com/ccodwg/Covid19Canada) dataset, which was first made available in March of 2020. For those familiar with the original dataset, please see [Transitioning from `Covid19Canada`](docs/transitioning_from_Covid19Canada.md).
 
-## Quick start guide
+A simple [dashboard](https://ccodwg.github.io/CovidTimelineCanada-js-dashboard/) is available to explore the data available in the Timeline of COVID-19 in Canada dataset.
+
+## Getting started
 
 We offer three groups of datasets: health region-level (`hr`), for case and death data only, province/territory-level (`pt`), for all data types, and Canada-level (`can`), for all data types. Because each province/territory has a different update schedule, the most recent date of data for each region is different; for the same reason, the Canada-level data are incomplete in [recent](https://github.com/ccodwg/CovidTimelineCanada/blob/main/data/can/cases_can_completeness.json) [days](https://github.com/ccodwg/CovidTimelineCanada/blob/main/data/can/deaths_can_completeness.json).
 
@@ -42,8 +44,8 @@ Some provinces no longer offer health region-level data for cases and/or deaths.
 
 The following datasets are available:
 
-- Cases (`cases`)
-- Deaths (`deaths`)
+- Cases (`cases`) (health region or province/territory)
+- Deaths (`deaths`) (health region or province/territory)
 - Active hospitalizations (`hospitalizations`)
 - Active ICU (`icu`)
 - Tests completed (`tests_completed`)
@@ -52,7 +54,7 @@ The following datasets are available:
 
 While we do our best to ensure comparability for the same metrics across different provinces/territories, some regions use different difinitions for the same metric (e.g., how COVID-19 deaths are defined). Reporting of a metric may also change over time in the same region. See [Detailed description of data sources](#detailed-description-of-data-sources) for more details.
 
-For a summary plot of each dataset, see [Included datasets](#included-datasets).
+For a summary plot of each dataset, see our [dashboard](https://ccodwg.github.io/CovidTimelineCanada-js-dashboard/).
 
 ## Data format
 
@@ -84,126 +86,6 @@ Previously, we recommended the following citation:
 To contribute to this project, please refer to the ongoing discussions in the [issues board](https://github.com/ccodwg/CovidTimelineCanada/issues) or open up a new one. We need help identifying the best data sources for each value and harmonizing them into a single dataset. We can also be reached via our [contact page](https://opencovid.ca/contact-us/).
 
 We must also identify gaps in publicly available data. These data may then be requested from the relevant agencies or acquired via Access to Information requests (see [an example with Sasksatchewan's COVID-19 data](https://data.gripe/covid-19-in-saskatchewan/)).
-
-## Included datasets
-
-The following datasets are included in this repository:
-
-* Cases by province/territory (`data/pt/cases_pt.csv`) and health region (`data/hr/cases_hr.csv`)
-  <details>
-   <summary><b>Plots</b> (click to expand)</summary>
-
-   ![cases](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/cases_pt.png)
-   ![cases](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/cases_hr.png)
-
-  </details>
-
-* Deaths by province/territory (`data/pt/deaths_pt.csv`) and health region (`data/hr/deaths_hr.csv`)
-  <details>
-   <summary><b>Plots</b> (click to expand)</summary>
-
-   ![deaths](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/deaths_pt.png)
-   ![deaths](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/deaths_hr.png)
-
-  </details>
-
-* Tests completed by province/territory (`data/pt/tests_completed_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-  ![testing](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/tests_completed_pt.png)
-
-  </details>
-
-* Hospitalizations (non-ICU and ICU) by province/territory (`data/pt/hospitalizations_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![hosp](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/hospitalizations_pt.png)
-
-  </details>
-
-* ICU occupancy by province/territory (`data/pt/icu_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![icu](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/icu_pt.png)
-
-  </details>
-
-* Vaccine coverage (dose 1) by province/territory (`data/pt/vaccine_coverage_dose_1_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![vaccine_coverage_dose_1](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_coverage_dose_1_pt.png)
-
-  </details>
-
-* Vaccine coverage (dose 2) by province/territory (`data/pt/vaccine_coverage_dose_2_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![vaccine_coverage_dose_2](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_coverage_dose_2_pt.png)
-
-  </details>
-
-* Vaccine coverage (dose 3) by province/territory (`data/pt/vaccine_coverage_dose_3_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![vaccine_coverage_dose_3](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_coverage_dose_3_pt.png)
-
-  </details>
-
-* Vaccine coverage (dose 4) by province/territory (`data/pt/vaccine_coverage_dose_4_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![vaccine_coverage_dose_4](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_coverage_dose_4_pt.png)
-
-  </details>
-
-* Vaccine administration (total doses) by province/territory (`data/pt/vaccine_administration_total_doses_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![vaccine_administration_total_doses](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_administration_total_doses_pt.png)
-
-  </details>
-
-* Vaccine administration (dose 1) by province/territory (`data/pt/vaccine_administration_dose_1_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![vaccine_administration_dose_1](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_administration_dose_1_pt.png)
-
-  </details>
-
-* Vaccine administration (dose 2) by province/territory (`data/pt/vaccine_administration_dose_2_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![vaccine_administration_dose_2](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_administration_dose_2_pt.png)
-
-  </details>
-
-* Vaccine administration (dose 3) by province/territory (`data/pt/vaccine_administration_dose_3_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![vaccine_administration_dose_3](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_administration_dose_3_pt.png)
-
-  </details>
-
-* Vaccine administration (dose 4) by province/territory (`data/pt/vaccine_administration_dose_4_pt.csv`)
-  <details>
-   <summary><b>Plot</b> (click to expand)</summary>
-
-   ![vaccine_administration_dose_4](https://raw.githubusercontent.com/ccodwg/CovidTimelineCanadaPlots/main/plots/vaccine_administration_dose_4_pt.png)
-
-  </details>
-
-Both the cumulative values (`value`) and the daily differences (`value_daily`) are given for each date where data are available.
 
 ## How these data are updated
 
