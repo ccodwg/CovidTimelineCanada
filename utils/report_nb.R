@@ -24,7 +24,7 @@ url <- rvest::read_html("https://www2.gnb.ca/content/gnb/en/corporate/promo/covi
 
 # extract text and tables from relevant pages
 text <- tabulizer::extract_text(url, pages = 1)
-tabs <- tabulizer::extract_tables(url, pages = c(2, 3))
+tabs <- tabulizer::extract_tables(url, pages = c(7, 10))
 
 # extract week and generate date_start and date_end
 epi_week <- readr::parse_number(gsub(" ", "", stringr::str_extract(text, "\\( W E E K.*\\)")))
@@ -32,42 +32,58 @@ date_start <- MMWRweek::MMWRweek2Date(lubridate::year(date_local), epi_week)
 date_end <- MMWRweek::MMWRweek2Date(lubridate::year(date_local), epi_week) + 6
 
 # construct output table
-out <- data.frame(
+out <- dplyr::tibble(
   date = date_local,
   source = url,
   date_start = date_start,
   date_end = date_end,
   region = "NB",
   sub_region_1 = c("", paste0("Zone ", 1:7)),
-  cumulative_cases = NA,
-  cases = NA,
-  cumulative_deaths = NA,
-  deaths = NA,
-  cumulative_recovered = NA,
-  active_cases = NA,
-  active_hospitalizations = NA,
-  active_icu = NA
+  cases = NA, # calculated by formula
+  cases_weekly = NA,
+  `cumulative_cases_since_2022-08-28` = NA,
+  `cumulative_cases_since_2022-08-28_weekly_diff` = NA, # calculated by formula
+  deaths = NA, # calculated by formula
+  deaths_weekly = NA,
+  `cumulative_deaths_since_2022-08-28` = NA,
+  `cumulative_deaths_since_2022-08-28_weekly_diff` = NA, # calculated by formula
+  new_hospitalizations = NA, # calculated by formula
+  new_hospitalizations_weekly = NA,
+  `cumulative_new_hospitalizations_since_2022-08-28` = NA,
+  `cumulative_new_hospitalizations_since_2022-08-28_weekly_diff` = NA, # calculated by formula
+  new_icu = NA,
+  new_icu_weekly = NA,
+  `cumulative_new_icu_since_2022-08-28` = NA,
+  `cumulative_new_icu_since_2022-08-28_weekly_diff` = NA, # calculated by formula
+  tests_completed = NA,
+  tests_completed_weekly = NA, # calculated by formula
+  `cumulative_tests_completed_since_2022-08-28` = NA,
+  `cumulative_tests_completed_since_2022-08-28_weekly_diff` = NA # calculated by formula
 )
 
 # add provincial data
-out[1, "cases"] <- readr::parse_number(tabs[[1]][1, 1])
-out[1, "deaths"] <- readr::parse_number(tabs[[1]][2, 1])
-out[1, "cumulative_recovered"] <- readr::parse_number(tabs[[1]][2, 3])
-out[1, "active_cases"] <- readr::parse_number(tabs[[1]][2, 4])
-out[1, "active_hospitalizations"] <- readr::parse_number(tabs[[2]][1, 1])
-out[1, "active_icu"] <- readr::parse_number(tabs[[2]][2, 2])
-out[1, "cumulative_cases"] <- readr::parse_number(tabs[[4]][11, 3]) # automatically extracts first number
-out[1, "cumulative_deaths"] <- readr::parse_number(tabs[[4]][11, 4])
+out[1, "cases_weekly"] <- readr::parse_number(tabs[[1]][6, 1])
+out[1, "cumulative_cases_since_2022-08-28"] <- readr::parse_number(stringr::str_extract(tabs[[1]][6, 1], "(\\d+)(?!.*\\d)")) # extract last number
+out[1, "deaths_weekly"] <- readr::parse_number(tabs[[1]][9, 1])
+out[1, "cumulative_deaths_since_2022-08-28"] <- readr::parse_number(stringr::str_extract(tabs[[1]][9, 1], "(\\d+)(?!.*\\d)")) # extract last number
+out[1, "new_hospitalizations_weekly"] <- readr::parse_number(tabs[[1]][7, 1]) # extract first number
+out[1, "cumulative_new_hospitalizations_since_2022-08-28"] <- readr::parse_number(stringr::str_extract(tabs[[1]][7, 1], "(\\d+)(?!.*\\d)")) # extract last number
+out[1, "new_icu_weekly"] <- readr::parse_number(tabs[[1]][8, 1]) # extract first number
+out[1, "cumulative_new_icu_since_2022-08-28"] <- readr::parse_number(stringr::str_extract(tabs[[1]][8, 1], "(\\d+)(?!.*\\d)")) # extract last number
+out[1, "tests_completed_weekly"] <- readr::parse_number(tabs[[1]][5, 1]) # extract first number
+out[1, "cumulative_tests_completed_since_2022-08-28"] <- readr::parse_number(stringr::str_extract(tabs[[1]][5, 1], "(\\d+)(?!.*\\d)")) # extract last number
 
 # add health region data
-out[2:8, "cumulative_cases"] <- readr::parse_number(tabs[[4]][4:10, 3])
-out[2:8, "cases"] <- readr::parse_number(tabs[[4]][4:10, 2])
-out[2:8, "cumulative_deaths"] <- readr::parse_number(tabs[[4]][4:10, 4])
+out[2:8, "cases_weekly"] <- readr::parse_number(tabs[[2]][2:8, 2])
+out[2:8, "new_hospitalizations_weekly"] <- readr::parse_number(tabs[[2]][2:8, 3])
+out[2:8, "new_icu_weekly"] <- readr::parse_number(tabs[[2]][2:8, 4])
+out[2:8, "tests_completed_weekly"] <- readr::parse_number(stringr::str_extract(tabs[[2]][2:8, 1], "(\\d+)(?!.*\\d)")) # extract last number
 
 # check column sums
-out[["cumulative_cases"]][1] == sum(out[["cumulative_cases"]][2:8])
-out[["cases"]][1] == sum(out[["cases"]][2:8])
-out[["cumulative_deaths"]][1] == sum(out[["cumulative_deaths"]][2:8])
+out[["cases_weekly"]][1] == sum(out[["cases_weekly"]][2:8])
+out[["new_hospitalizations_weekly"]][1] == sum(out[["new_hospitalizations_weekly"]][2:8])
+out[["new_icu_weekly"]][1] == sum(out[["new_icu_weekly"]][2:8])
+out[["tests_completed_weekly"]][1] == sum(out[["tests_completed_weekly"]][2:8])
 
 # append data
-googlesheets4::sheet_append(data = out, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "nb_weekly_report")
+googlesheets4::sheet_append(data = out, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "nb_weekly_report_2")
