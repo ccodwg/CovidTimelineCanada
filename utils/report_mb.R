@@ -54,8 +54,8 @@ mb <- dplyr::bind_rows(
     sub_region_1 = NA,
     cases = NA, # calculated by formula
     cases_weekly = extract_from_tab(tb_cases, 2, "(?<=Cases this week: )\\d*", parse_num = FALSE),
-    `cumulative_cases_2022-07-03` = extract_from_tab(tb_cases, 2, "(?<=Total cases: )\\d*", parse_num = FALSE),
-    `cumulative_cases_2022-07-03_weekly_diff` = NA, # calculated by formula
+    `cumulative_cases_since_2022-07-03` = extract_from_tab(tb_cases, 2, "(?<=Total cases: )\\d*", parse_num = FALSE),
+    `cumulative_cases_since_2022-07-03_weekly_diff` = NA, # calculated by formula
     deaths_weekly = extract_from_tab(tb_severity, 2, "(?<=Severe outcomes this week.{0,1000}Deaths: ).{1,5}(?!\r)", parse_num = FALSE),
     `cumulative_deaths_since_2022-07-03` = extract_from_tab(tb_severity, 2, "(?<=Total severe outcomes.{0,1000}Deaths: ).{1,5}(?!\r)", parse_num = FALSE),
     `cumulative_hospitalizations_since_2022-07-03` = extract_from_tab(tb_severity, 2, "(?<=Total severe outcomes.{0,1000}Hospital admissions: ).{1,5}(?!\r)", parse_num = FALSE),
@@ -74,7 +74,7 @@ mb <- dplyr::bind_rows(
     date_end = date_end,
     region = "MB",
     sub_region_1 = tb_hr %>% dplyr::pull(1),
-    `cumulative_cases_2022-07-03` = tb_hr %>% dplyr::pull("Total cases") %>% as.character(),
+    `cumulative_cases_since_2022-07-03` = tb_hr %>% dplyr::pull("Total cases") %>% as.character(),
     cases_weekly = tb_hr %>% dplyr::pull("Cases this week") %>% as.character()
   )
 )
@@ -88,7 +88,7 @@ for (i in 1:ncol(mb)) {
 }
 
 # check column sums
-mb[["cumulative_cases_2022-07-03"]][1] == sum(mb[["cumulative_cases_2022-07-03"]][2:6])
+mb[["cumulative_cases_since_2022-07-03"]][1] == sum(mb[["cumulative_cases_since_2022-07-03"]][2:6])
 mb[["cases_weekly"]][1] == sum(mb[["cases_weekly"]][2:6])
 
 # append data
