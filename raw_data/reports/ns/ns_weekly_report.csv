@@ -1,4 +1,4 @@
-"date","source","date_start","date_end","region","sub_region_1","cases","cumulative_deaths","deaths","deaths_current_reporting_period","deaths_previous reporting_period","active_hospitalizations","new_hospitalizations","active_icu"
+"date","source","date_start","date_end","region","sub_region_1","cases","cumulative_deaths","deaths","deaths_current_reporting_period","deaths_previous_reporting_period","active_hospitalizations","new_hospitalizations","active_icu"
 "2022-03-10","https://novascotia.ca/news/release/?id=20220310001","2022-03-05","2022-03-08","NS",,1382,,5,,,50,,
 "2022-03-18","https://novascotia.ca/news/release/?id=20220318004","2022-03-09","2022-03-15","NS",,2888,232,15,,,,,
 "2022-03-18","https://novascotia.ca/news/release/?id=20220318004","2022-03-17","2022-03-17","NS",,,,,,,38,,
