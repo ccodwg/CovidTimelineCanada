@@ -1,6 +1,6 @@
 # Geographic data
 
-Comprehensive names and population data are available for health regions in `hr.csv`, provinces/territories in `pt.csv` and Canada in `can.csv`. For historical reasons, `health_regions.csv` exists as a duplicate of `hr.csv`.
+Comprehensive names and population data are available for health regions in `hr.csv`, provinces/territories in `pt.csv` and Canada in `can.csv`.
 
 ## Map files
 
