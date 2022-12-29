@@ -4,12 +4,16 @@
 # Note: This script assumes the working directory is set to the root directory of the project.
 # This is most easily achieved by using the provided CovidTimelineCanada.Rproj in RStudio.
 
-# make sure tabulizer is installed
-# install.packages("rJava") # https://datawookie.dev/blog/2018/02/installing-rjava-on-ubuntu/
-# remotes::install_github(c("ropensci/tabulizerjars", "ropensci/tabulizer"))
+# make sure the Python package "Camelot" is installed along with all dependencies
+# also ensure that Python code can be run with the "reticulate" R package
+# https://camelot-py.readthedocs.io/en/master/user/install.html
+# https://rstudio.github.io/reticulate/
 
 # authorize with Google Sheets
 googlesheets4::gs4_auth()
+
+# import camelot
+camelot <- reticulate::import("camelot")
 
 # get today's date
 date_local <- as.Date(lubridate::with_tz(Sys.time(), "America/Toronto"))
@@ -22,7 +26,7 @@ date_start <- c(most_recent_start - 21, most_recent_start - 14, most_recent_star
 date_end <- c(most_recent_end - 21, most_recent_end - 14, most_recent_end - 7, most_recent_end)
 
 # load report
-ds <- tempfile()
+ds <- file.path(tempdir(), "sk_report_temp.pdf")
 url <- Covid19CanadaData::dl_dataset_dyn_url("b22d4896-160d-432b-b02a-ba933d14a58a")
 download.file(url, ds)
 
@@ -56,69 +60,62 @@ week <- data.frame(
   positivity_rate = NA
 )
 
-# extract text and tables
-tables <- tabulizer::extract_tables(ds)
+# extract tables
+tables <- camelot$read_pdf(ds, pages = "all")
+tables <- lapply(seq_along(tables) - 1, function(i) tables[i]$df)
 
-# week 1
-week_1 <- week
-week_1$date_start <- date_start[1]
-week_1$date_end <- date_end[1]
-week_1[week_1$sub_region_1 %in% c("", "Unknown"), c("cases")] <-
-  as.integer(tables[[1]][7, 2])
-week_1[week_1$sub_region_1 %in% c("", "Unknown"), c("positivity_rate")] <-
-  readr::parse_number(tables[[1]][7, 3]) # takes the first number in the cell, which is test positivity
-week_1[week_1$sub_region_1 %in% c("", "Unknown"), c("deaths")] <-
-  readr::parse_number(tables[[3]][8, 11])
-week_1[week_1$sub_region_1 == "", "new_hospitalizations"] <-
-  as.integer(stringr::str_extract(tables[[3]][8, 1], "\\d*$")) # takes last number in the cell, which is new hospitalizations
-week_1[week_1$sub_region_1 == "", "new_icu"] <-
-  as.integer(tables[[3]][8, 2])
+# identify relevant tables
+identify_table <- function(x) {
+  # extract first row of each table (headers) - stripping out newline
+  h <- lapply(tables, function(x) gsub("\n", "", x[1, ]))
+  # grep to identify table
+  i <- grep(x, h)
+  # check result and return table
+  if (length(i) == 0) {
+    stop("Failed to identify table.")
+  } else if (length(i) > 1) {
+    stop("Table not uniquely identified.")
+  } else {
+    # return table
+    tables[[i]]
+    }
+}
+tab_cases <- identify_table("COVID-19 positive lab test")
+tab_outcomes <- identify_table("Deaths \u2013 COVID-19")
+tab_zone <- identify_table("Location")
 
-# week 2
-week_2 <- week
-week_2$date_start <- date_start[2]
-week_2$date_end <- date_end[2]
-week_2[week_2$sub_region_1 %in% c("", "Unknown"), c("cases")] <-
-  as.integer(tables[[1]][6, 2])
-week_2[week_2$sub_region_1 %in% c("", "Unknown"), c("positivity_rate")] <-
-  readr::parse_number(tables[[1]][6, 3]) # takes the first number in the cell, which is test positivity
-week_2[week_2$sub_region_1 %in% c("", "Unknown"), c("deaths")] <-
-  readr::parse_number(tables[[3]][7, 11])
-week_2[week_2$sub_region_1 == "", "new_hospitalizations"] <-
-  as.integer(stringr::str_extract(tables[[3]][7, 1], "\\d*$")) # takes last number in the cell, which is new hospitalizations
-week_2[week_2$sub_region_1 == "", "new_icu"] <-
-  as.integer(tables[[3]][7, 2])
+# extract data for each week
+extract_week_data <- function(i) {
+  w <- week # copy week template
+  w$date_start <- date_start[i]
+  w$date_end <- date_end[i]
+  w[w$sub_region_1 %in% c("", "Unknown"), c("cases")] <-
+    as.integer(tab_cases[5 - (i - 1), 2])
+  w[w$sub_region_1 %in% c("", "Unknown"), c("positivity_rate")] <-
+    readr::parse_number(tab_cases[5 - (i - 1), 3])
+  w[w$sub_region_1 %in% c("", "Unknown"), c("deaths")] <-
+    as.integer(tab_outcomes[5 - (i - 1), 9])
+  w[w$sub_region_1 == "", "new_hospitalizations"] <-
+    as.integer(tab_outcomes[5 - (i - 1), 2])
+  w[w$sub_region_1 == "", "new_icu"] <-
+    as.integer(tab_outcomes[5 - (i - 1), 3])
+  # return table
+  w
+}
+week_1 <- extract_week_data(1)
+week_2 <- extract_week_data(2)
+week_3 <- extract_week_data(3)
+week_4 <- extract_week_data(4)
 
-# week 3
-week_3 <- week
-week_3$date_start <- date_start[3]
-week_3$date_end <- date_end[3]
-week_3[week_3$sub_region_1 %in% c("", "Unknown"), c("cases")] <-
-  as.integer(tables[[1]][5, 2])
-week_3[week_3$sub_region_1 %in% c("", "Unknown"), c("positivity_rate")] <-
-  readr::parse_number(tables[[1]][5, 3]) # takes the first number in the cell, which is test positivity
-week_3[week_3$sub_region_1 %in% c("", "Unknown"), c("deaths")] <-
-  readr::parse_number(tables[[3]][6, 11])
-week_3[week_3$sub_region_1 == "", "new_hospitalizations"] <-
-  as.integer(stringr::str_extract(tables[[3]][6, 1], "\\d*$")) # takes last number in the cell, which is new hospitalizations
-week_3[week_3$sub_region_1 == "", "new_icu"] <-
-  as.integer(tables[[3]][6, 2])
-
-# week 4
-week_4 <- week
-week_4$date_start <- date_start[4]
-week_4$date_end <- date_end[4]
-week_4[week_4$sub_region_1 %in% c("", "Unknown"), c("cases")] <-
-  as.integer(tables[[1]][4, 2])
-week_4[week_4$sub_region_1 %in% c(""), c("positivity_rate")] <-
-  readr::parse_number(tables[[1]][4, 3]) # takes the first number in the cell, which is test positivity
-week_4[week_4$sub_region_1 %in% c("", "Unknown"), c("deaths")] <-
-  readr::parse_number(tables[[3]][5, 11])
-week_4[week_4$sub_region_1 == "", "new_hospitalizations"] <-
-  as.integer(stringr::str_extract(tables[[3]][5, 1], "\\d*$")) # takes last number in the cell, which is new hospitalizations
-week_4[week_4$sub_region_1 == "", "new_icu"] <-
-  as.integer(tables[[3]][5, 2])
-week_4[week_4$sub_region_1 != "Unknown", "positivity_rate"] <- readr::parse_number(tables[[4]][c(15, 2:14), 2])
+# extract health region percent positivity for most recent week
+# unknown health region test positivity only appeared beginning with the report released 2022-12-29
+# was previously included in calculation of province-level test positivity but not separated out
+week_4[week_4$sub_region_1 == "Unknown", "positivity_rate"] <- readr::parse_number(
+  tab_zone[15, 2]) # update unknown
+week_4[week_4$sub_region_1 == "", "positivity_rate"] <- readr::parse_number(
+  tab_zone[16, 2]) # update province (unnecessary)
+week_4[!week_4$sub_region_1 %in% c("", "Unknown"), "positivity_rate"] <- readr::parse_number(
+  tab_zone[2:14, 2]) # extract health regions
 
 # combine data
 out <- rbind(week_1, week_2, week_3, week_4)
