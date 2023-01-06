@@ -80,7 +80,7 @@ identify_table <- function(x) {
     tables[[i]]
     }
 }
-tab_cases <- identify_table("COVID-19 positive lab test")
+tab_cases <- identify_table("COVID-19 positive")
 tab_outcomes <- identify_table("Deaths \u2013 COVID-19")
 tab_zone <- identify_table("Location")
 
@@ -116,6 +116,16 @@ week_4[week_4$sub_region_1 == "", "positivity_rate"] <- readr::parse_number(
   tab_zone[16, 2]) # update province (unnecessary)
 week_4[!week_4$sub_region_1 %in% c("", "Unknown"), "positivity_rate"] <- readr::parse_number(
   tab_zone[2:14, 2]) # extract health regions
+
+# extract health region cases for most recent week
+# health region cases only appeared beginning with the report released 2023-01-06
+week_4[week_4$sub_region_1 == "Unknown", "cases"] <- as.integer(
+  stringr::str_extract(tab_zone[15, 2], "(\\d+)(?!.*\\d)"))
+week_4[!week_4$sub_region_1 %in% c("", "Unknown"), "cases"] <- as.integer(
+  stringr::str_extract(tab_zone[2:14, 2], "(\\d+)(?!.*\\d)"))
+
+# check if health region cases sum matches provincial cases
+sum(week_4$cases[2:15]) == week_4$cases[1] # should be TRUE
 
 # combine data
 out <- rbind(week_1, week_2, week_3, week_4)
