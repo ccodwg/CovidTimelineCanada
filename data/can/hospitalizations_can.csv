@@ -1,6 +1,6 @@
 "name","region","date","value","value_daily"
-"hospitalizations","CAN","2020-04-01",520,520
-"hospitalizations","CAN","2020-04-02",571,51
+"hospitalizations","CAN","2020-04-01",841,841
+"hospitalizations","CAN","2020-04-02",571,-270
 "hospitalizations","CAN","2020-04-03",596,25
 "hospitalizations","CAN","2020-04-04",668,72
 "hospitalizations","CAN","2020-04-05",697,29
@@ -1006,3 +1006,10 @@
 "hospitalizations","CAN","2022-12-31",5485,-19
 "hospitalizations","CAN","2023-01-01",5543,58
 "hospitalizations","CAN","2023-01-02",5638,95
+"hospitalizations","CAN","2023-01-03",5638,0
+"hospitalizations","CAN","2023-01-04",5638,0
+"hospitalizations","CAN","2023-01-05",5638,0
+"hospitalizations","CAN","2023-01-06",5638,0
+"hospitalizations","CAN","2023-01-07",5638,0
+"hospitalizations","CAN","2023-01-08",5638,0
+"hospitalizations","CAN","2023-01-09",5638,0
