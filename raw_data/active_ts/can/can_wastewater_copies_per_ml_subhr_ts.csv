@@ -1836,6 +1836,8 @@
 "wastewater_copies_per_ml","2023-01-14","MB","Winnipeg","Winnipeg North End",9.15986
 "wastewater_copies_per_ml","2023-01-15","MB","Winnipeg","Winnipeg North End",16.484885
 "wastewater_copies_per_ml","2023-01-16","MB","Winnipeg","Winnipeg North End",31.25081
+"wastewater_copies_per_ml","2023-01-18","MB","Winnipeg","Winnipeg North End",9.69879
+"wastewater_copies_per_ml","2023-01-19","MB","Winnipeg","Winnipeg North End",14.745945
 "wastewater_copies_per_ml","2021-04-14","MB","Winnipeg","Winnipeg South End",49.66872
 "wastewater_copies_per_ml","2021-04-21","MB","Winnipeg","Winnipeg South End",42.6184125
 "wastewater_copies_per_ml","2021-04-28","MB","Winnipeg","Winnipeg South End",131.3792325
@@ -2280,6 +2282,8 @@
 "wastewater_copies_per_ml","2023-01-14","MB","Winnipeg","Winnipeg South End",34.50956
 "wastewater_copies_per_ml","2023-01-15","MB","Winnipeg","Winnipeg South End",39.894935
 "wastewater_copies_per_ml","2023-01-16","MB","Winnipeg","Winnipeg South End",32.403555
+"wastewater_copies_per_ml","2023-01-18","MB","Winnipeg","Winnipeg South End",22.03898
+"wastewater_copies_per_ml","2023-01-19","MB","Winnipeg","Winnipeg South End",78.135655
 "wastewater_copies_per_ml","2021-04-14","MB","Winnipeg","Winnipeg West End",3.68378
 "wastewater_copies_per_ml","2021-04-21","MB","Winnipeg","Winnipeg West End",5.3137275
 "wastewater_copies_per_ml","2021-04-28","MB","Winnipeg","Winnipeg West End",13.71558
@@ -2716,6 +2720,8 @@
 "wastewater_copies_per_ml","2023-01-14","MB","Winnipeg","Winnipeg West End",25.527885
 "wastewater_copies_per_ml","2023-01-15","MB","Winnipeg","Winnipeg West End",84.91359
 "wastewater_copies_per_ml","2023-01-16","MB","Winnipeg","Winnipeg West End",86.44967
+"wastewater_copies_per_ml","2023-01-18","MB","Winnipeg","Winnipeg West End",11.390415
+"wastewater_copies_per_ml","2023-01-19","MB","Winnipeg","Winnipeg West End",22.6918
 "wastewater_copies_per_ml","2022-06-13","NB","Moncton","Moncton",5.22859
 "wastewater_copies_per_ml","2022-06-16","NB","Moncton","Moncton",40.92609
 "wastewater_copies_per_ml","2022-06-20","NB","Moncton","Moncton",11.66709
@@ -5803,6 +5809,7 @@
 "wastewater_copies_per_ml","2023-01-04","SK","Regina","Regina",34.97139
 "wastewater_copies_per_ml","2023-01-09","SK","Regina","Regina",22.707485
 "wastewater_copies_per_ml","2023-01-16","SK","Regina","Regina",13.93638
+"wastewater_copies_per_ml","2023-01-18","SK","Regina","Regina",25.464455
 "wastewater_copies_per_ml","2021-03-27","SK","Saskatoon","Saskatoon",2.3
 "wastewater_copies_per_ml","2021-03-31","SK","Saskatoon","Saskatoon",4.7
 "wastewater_copies_per_ml","2021-04-03","SK","Saskatoon","Saskatoon",1.4
