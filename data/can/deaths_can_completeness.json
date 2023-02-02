@@ -4384,68 +4384,68 @@
     "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-01-15": {
-    "pt_n": 9,
-    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-01-16": {
-    "pt_n": 9,
-    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-01-17": {
-    "pt_n": 9,
-    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-01-18": {
-    "pt_n": 9,
-    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-01-19": {
-    "pt_n": 9,
-    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-01-20": {
-    "pt_n": 9,
-    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-01-21": {
-    "pt_n": 9,
-    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC"]
+    "pt_n": 10,
+    "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-01-22": {
-    "pt_n": 5,
-    "pt": ["AB", "NB", "NL", "NS", "QC"]
+    "pt_n": 7,
+    "pt": ["AB", "BC", "NB", "NL", "NS", "QC", "SK"]
   },
   "2023-01-23": {
-    "pt_n": 5,
-    "pt": ["AB", "NB", "NL", "NS", "QC"]
+    "pt_n": 7,
+    "pt": ["AB", "BC", "NB", "NL", "NS", "QC", "SK"]
   },
   "2023-01-24": {
-    "pt_n": 4,
-    "pt": ["AB", "NB", "NL", "QC"]
+    "pt_n": 7,
+    "pt": ["AB", "BC", "NB", "NL", "NS", "QC", "SK"]
   },
   "2023-01-25": {
-    "pt_n": 4,
-    "pt": ["AB", "NB", "NL", "QC"]
+    "pt_n": 7,
+    "pt": ["AB", "BC", "NB", "NL", "NS", "QC", "SK"]
   },
   "2023-01-26": {
-    "pt_n": 4,
-    "pt": ["AB", "NB", "NL", "QC"]
+    "pt_n": 7,
+    "pt": ["AB", "BC", "NB", "NL", "NS", "QC", "SK"]
   },
   "2023-01-27": {
-    "pt_n": 4,
-    "pt": ["AB", "NB", "NL", "QC"]
+    "pt_n": 7,
+    "pt": ["AB", "BC", "NB", "NL", "NS", "QC", "SK"]
   },
   "2023-01-28": {
-    "pt_n": 4,
-    "pt": ["AB", "NB", "NL", "QC"]
+    "pt_n": 7,
+    "pt": ["AB", "BC", "NB", "NL", "NS", "QC", "SK"]
   },
   "2023-01-29": {
-    "pt_n": 3,
-    "pt": ["AB", "NL", "QC"]
+    "pt_n": 4,
+    "pt": ["AB", "NL", "NS", "QC"]
   },
   "2023-01-30": {
-    "pt_n": 3,
-    "pt": ["AB", "NL", "QC"]
+    "pt_n": 4,
+    "pt": ["AB", "NL", "NS", "QC"]
   },
   "2023-01-31": {
     "pt_n": 2,
