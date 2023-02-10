@@ -1110,6 +1110,7 @@
 "hospitalizations","AB","2023-02-06",702,0
 "hospitalizations","AB","2023-02-07",702,0
 "hospitalizations","AB","2023-02-08",683,-19
+"hospitalizations","AB","2023-02-09",683,0
 "hospitalizations","BC","2020-01-25",0,0
 "hospitalizations","BC","2020-01-26",0,0
 "hospitalizations","BC","2020-01-27",0,0
@@ -2215,6 +2216,13 @@
 "hospitalizations","BC","2023-01-31",228,0
 "hospitalizations","BC","2023-02-01",228,0
 "hospitalizations","BC","2023-02-02",204,-24
+"hospitalizations","BC","2023-02-03",204,0
+"hospitalizations","BC","2023-02-04",204,0
+"hospitalizations","BC","2023-02-05",204,0
+"hospitalizations","BC","2023-02-06",204,0
+"hospitalizations","BC","2023-02-07",204,0
+"hospitalizations","BC","2023-02-08",204,0
+"hospitalizations","BC","2023-02-09",188,-16
 "hospitalizations","MB","2020-01-25",0,0
 "hospitalizations","MB","2020-01-26",0,0
 "hospitalizations","MB","2020-01-27",0,0
@@ -3320,6 +3328,13 @@
 "hospitalizations","MB","2023-01-31",291,0
 "hospitalizations","MB","2023-02-01",291,0
 "hospitalizations","MB","2023-02-02",291,0
+"hospitalizations","MB","2023-02-03",291,0
+"hospitalizations","MB","2023-02-04",291,0
+"hospitalizations","MB","2023-02-05",291,0
+"hospitalizations","MB","2023-02-06",291,0
+"hospitalizations","MB","2023-02-07",291,0
+"hospitalizations","MB","2023-02-08",291,0
+"hospitalizations","MB","2023-02-09",291,0
 "hospitalizations","NB","2020-01-25",0,0
 "hospitalizations","NB","2020-01-26",0,0
 "hospitalizations","NB","2020-01-27",0,0
