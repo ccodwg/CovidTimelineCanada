@@ -11,7 +11,7 @@ library(magrittr)
 googlesheets4::gs4_auth()
 
 # get today's date
-date_local <- as.Date(lubridate::with_tz(Sys.time(), "America/Toronto"))
+date_local <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 epi_year <- lubridate::year(date_local - 6) # year from previous epi week
 
 # get epi week

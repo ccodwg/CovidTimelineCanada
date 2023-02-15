@@ -8,7 +8,7 @@
 googlesheets4::gs4_auth()
 
 # get today's date
-date_today <- as.Date(lubridate::with_tz(Sys.time(), "America/Toronto"))
+date_today <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 
 # load weekly report dataset
 ds <- Covid19CanadaData::dl_dataset("5d37261a-fcb0-46aa-ab53-9f86dccb2902")$features$attributes

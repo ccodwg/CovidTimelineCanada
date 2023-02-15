@@ -16,7 +16,7 @@ googlesheets4::gs4_auth()
 camelot <- reticulate::import("camelot")
 
 # get today's date
-date_local <- as.Date(lubridate::with_tz(Sys.time(), "America/Toronto"))
+date_local <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 
 # get epi week date ranges
 most_recent_week <- MMWRweek::MMWRweek(date_local - 7)
