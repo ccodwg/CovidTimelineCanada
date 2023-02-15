@@ -4769,6 +4769,24 @@
 "wastewater_copies_per_ml","2023-01-30","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",203.15126
 "wastewater_copies_per_ml","2023-02-02","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",12.17606
 "wastewater_copies_per_ml","2023-02-06","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford",55.037715
+"wastewater_copies_per_ml","2022-11-23","PE","Montague","Montague",45.85843
+"wastewater_copies_per_ml","2022-11-28","PE","Montague","Montague",80.252455
+"wastewater_copies_per_ml","2022-11-30","PE","Montague","Montague",25.48118
+"wastewater_copies_per_ml","2022-12-05","PE","Montague","Montague",36.284145
+"wastewater_copies_per_ml","2022-12-07","PE","Montague","Montague",21.25557
+"wastewater_copies_per_ml","2022-12-12","PE","Montague","Montague",29.470735
+"wastewater_copies_per_ml","2022-12-14","PE","Montague","Montague",299.56
+"wastewater_copies_per_ml","2022-12-19","PE","Montague","Montague",79.768245
+"wastewater_copies_per_ml","2022-12-22","PE","Montague","Montague",41.88502
+"wastewater_copies_per_ml","2022-12-29","PE","Montague","Montague",92.87224
+"wastewater_copies_per_ml","2023-01-04","PE","Montague","Montague",20.373
+"wastewater_copies_per_ml","2023-01-09","PE","Montague","Montague",101.823475
+"wastewater_copies_per_ml","2023-01-11","PE","Montague","Montague",67.3603
+"wastewater_copies_per_ml","2023-01-16","PE","Montague","Montague",64.870665
+"wastewater_copies_per_ml","2023-01-25","PE","Montague","Montague",13.201385
+"wastewater_copies_per_ml","2023-01-30","PE","Montague","Montague",9.19682
+"wastewater_copies_per_ml","2023-02-01","PE","Montague","Montague",45.686995
+"wastewater_copies_per_ml","2023-02-06","PE","Montague","Montague",6.54579
 "wastewater_copies_per_ml","2022-11-02","PE","PEI","Alberton",3.83744
 "wastewater_copies_per_ml","2022-11-09","PE","PEI","Alberton",14.29028
 "wastewater_copies_per_ml","2022-11-16","PE","PEI","Alberton",61.0905625
@@ -4782,45 +4800,27 @@
 "wastewater_copies_per_ml","2023-01-11","PE","PEI","Alberton",4.00057
 "wastewater_copies_per_ml","2023-01-25","PE","PEI","Alberton",3
 "wastewater_copies_per_ml","2023-02-01","PE","PEI","Alberton",26.134795
-"wastewater_copies_per_ml","2022-11-23","PE","PEI","Montague",45.85843
-"wastewater_copies_per_ml","2022-11-28","PE","PEI","Montague",80.252455
-"wastewater_copies_per_ml","2022-11-30","PE","PEI","Montague",25.48118
-"wastewater_copies_per_ml","2022-12-05","PE","PEI","Montague",36.284145
-"wastewater_copies_per_ml","2022-12-07","PE","PEI","Montague",21.25557
-"wastewater_copies_per_ml","2022-12-12","PE","PEI","Montague",29.470735
-"wastewater_copies_per_ml","2022-12-14","PE","PEI","Montague",299.56
-"wastewater_copies_per_ml","2022-12-19","PE","PEI","Montague",79.768245
-"wastewater_copies_per_ml","2022-12-22","PE","PEI","Montague",41.88502
-"wastewater_copies_per_ml","2022-12-29","PE","PEI","Montague",92.87224
-"wastewater_copies_per_ml","2023-01-04","PE","PEI","Montague",20.373
-"wastewater_copies_per_ml","2023-01-09","PE","PEI","Montague",101.823475
-"wastewater_copies_per_ml","2023-01-11","PE","PEI","Montague",67.3603
-"wastewater_copies_per_ml","2023-01-16","PE","PEI","Montague",64.870665
-"wastewater_copies_per_ml","2023-01-25","PE","PEI","Montague",13.201385
-"wastewater_copies_per_ml","2023-01-30","PE","PEI","Montague",9.19682
-"wastewater_copies_per_ml","2023-02-01","PE","PEI","Montague",45.686995
-"wastewater_copies_per_ml","2023-02-06","PE","PEI","Montague",6.54579
-"wastewater_copies_per_ml","2022-11-23","PE","PEI","Souris",29.81335
-"wastewater_copies_per_ml","2022-11-28","PE","PEI","Souris",5.969955
-"wastewater_copies_per_ml","2022-11-30","PE","PEI","Souris",108.45615
-"wastewater_copies_per_ml","2022-12-05","PE","PEI","Souris",3
-"wastewater_copies_per_ml","2022-12-07","PE","PEI","Souris",39.235205
-"wastewater_copies_per_ml","2022-12-12","PE","PEI","Souris",3
-"wastewater_copies_per_ml","2022-12-15","PE","PEI","Souris",20.674705
-"wastewater_copies_per_ml","2022-12-19","PE","PEI","Souris",163.33337
-"wastewater_copies_per_ml","2022-12-23","PE","PEI","Souris",45.234545
-"wastewater_copies_per_ml","2022-12-30","PE","PEI","Souris",42.63492
-"wastewater_copies_per_ml","2023-01-03","PE","PEI","Souris",14.813375
-"wastewater_copies_per_ml","2023-01-05","PE","PEI","Souris",47.097135
-"wastewater_copies_per_ml","2023-01-09","PE","PEI","Souris",1269.80318
-"wastewater_copies_per_ml","2023-01-11","PE","PEI","Souris",8.34976
-"wastewater_copies_per_ml","2023-01-16","PE","PEI","Souris",3.88189
-"wastewater_copies_per_ml","2023-01-18","PE","PEI","Souris",3
-"wastewater_copies_per_ml","2023-01-23","PE","PEI","Souris",65.98218
-"wastewater_copies_per_ml","2023-01-25","PE","PEI","Souris",12.09691
-"wastewater_copies_per_ml","2023-01-30","PE","PEI","Souris",421.993595
-"wastewater_copies_per_ml","2023-02-02","PE","PEI","Souris",51.957325
-"wastewater_copies_per_ml","2023-02-06","PE","PEI","Souris",80.2824
+"wastewater_copies_per_ml","2022-11-23","PE","Souris","Souris",29.81335
+"wastewater_copies_per_ml","2022-11-28","PE","Souris","Souris",5.969955
+"wastewater_copies_per_ml","2022-11-30","PE","Souris","Souris",108.45615
+"wastewater_copies_per_ml","2022-12-05","PE","Souris","Souris",3
+"wastewater_copies_per_ml","2022-12-07","PE","Souris","Souris",39.235205
+"wastewater_copies_per_ml","2022-12-12","PE","Souris","Souris",3
+"wastewater_copies_per_ml","2022-12-15","PE","Souris","Souris",20.674705
+"wastewater_copies_per_ml","2022-12-19","PE","Souris","Souris",163.33337
+"wastewater_copies_per_ml","2022-12-23","PE","Souris","Souris",45.234545
+"wastewater_copies_per_ml","2022-12-30","PE","Souris","Souris",42.63492
+"wastewater_copies_per_ml","2023-01-03","PE","Souris","Souris",14.813375
+"wastewater_copies_per_ml","2023-01-05","PE","Souris","Souris",47.097135
+"wastewater_copies_per_ml","2023-01-09","PE","Souris","Souris",1269.80318
+"wastewater_copies_per_ml","2023-01-11","PE","Souris","Souris",8.34976
+"wastewater_copies_per_ml","2023-01-16","PE","Souris","Souris",3.88189
+"wastewater_copies_per_ml","2023-01-18","PE","Souris","Souris",3
+"wastewater_copies_per_ml","2023-01-23","PE","Souris","Souris",65.98218
+"wastewater_copies_per_ml","2023-01-25","PE","Souris","Souris",12.09691
+"wastewater_copies_per_ml","2023-01-30","PE","Souris","Souris",421.993595
+"wastewater_copies_per_ml","2023-02-02","PE","Souris","Souris",51.957325
+"wastewater_copies_per_ml","2023-02-06","PE","Souris","Souris",80.2824
 "wastewater_copies_per_ml","2022-05-05","PE","Summerside","Summerside",62.31405
 "wastewater_copies_per_ml","2022-05-09","PE","Summerside","Summerside",45.41878
 "wastewater_copies_per_ml","2022-05-12","PE","Summerside","Summerside",47.954725
@@ -5058,7 +5058,7 @@
 "wastewater_copies_per_ml","2022-03-12","QC","Montreal","Montreal North",19.320095
 "wastewater_copies_per_ml","2022-03-15","QC","Montreal","Montreal North",5.9737975
 "wastewater_copies_per_ml","2022-03-16","QC","Montreal","Montreal North",7.215335
-"wastewater_copies_per_ml","2022-03-19","QC","Montreal","Montreal North",3.63629666666667
+"wastewater_copies_per_ml","2022-03-19","QC","Montreal","Montreal North",3.636296667
 "wastewater_copies_per_ml","2022-03-23","QC","Montreal","Montreal North",6.855885
 "wastewater_copies_per_ml","2022-03-26","QC","Montreal","Montreal North",6.142265
 "wastewater_copies_per_ml","2022-03-27","QC","Montreal","Montreal North",5.479805
@@ -5075,12 +5075,12 @@
 "wastewater_copies_per_ml","2022-04-19","QC","Montreal","Montreal North",46.63929
 "wastewater_copies_per_ml","2022-04-20","QC","Montreal","Montreal North",17.81423
 "wastewater_copies_per_ml","2022-04-23","QC","Montreal","Montreal North",22.35661
-"wastewater_copies_per_ml","2022-04-27","QC","Montreal","Montreal North",101.807331666667
+"wastewater_copies_per_ml","2022-04-27","QC","Montreal","Montreal North",101.8073317
 "wastewater_copies_per_ml","2022-04-30","QC","Montreal","Montreal North",14.60116
 "wastewater_copies_per_ml","2022-05-01","QC","Montreal","Montreal North",13.5604575
 "wastewater_copies_per_ml","2022-05-03","QC","Montreal","Montreal North",35.584465
 "wastewater_copies_per_ml","2022-05-04","QC","Montreal","Montreal North",10.837005
-"wastewater_copies_per_ml","2022-05-07","QC","Montreal","Montreal North",21.3660883333333
+"wastewater_copies_per_ml","2022-05-07","QC","Montreal","Montreal North",21.36608833
 "wastewater_copies_per_ml","2022-05-11","QC","Montreal","Montreal North",10.642735
 "wastewater_copies_per_ml","2022-05-14","QC","Montreal","Montreal North",12.259545
 "wastewater_copies_per_ml","2022-05-15","QC","Montreal","Montreal North",8.4000475
@@ -5107,7 +5107,7 @@
 "wastewater_copies_per_ml","2022-06-28","QC","Montreal","Montreal North",29.668445
 "wastewater_copies_per_ml","2022-06-30","QC","Montreal","Montreal North",88.61388
 "wastewater_copies_per_ml","2022-07-02","QC","Montreal","Montreal North",34.80216
-"wastewater_copies_per_ml","2022-07-06","QC","Montreal","Montreal North",56.5759983333333
+"wastewater_copies_per_ml","2022-07-06","QC","Montreal","Montreal North",56.57599833
 "wastewater_copies_per_ml","2022-07-09","QC","Montreal","Montreal North",70.116275
 "wastewater_copies_per_ml","2022-07-10","QC","Montreal","Montreal North",96.8635975
 "wastewater_copies_per_ml","2022-07-13","QC","Montreal","Montreal North",114.61268
