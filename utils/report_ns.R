@@ -11,7 +11,7 @@ googlesheets4::gs4_auth()
 date_today <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 
 # load weekly report dataset
-ds <- Covid19CanadaData::dl_dataset("5d37261a-fcb0-46aa-ab53-9f86dccb2902")$features$attributes
+ds <- Covid19CanadaData::dl_dataset("63a4e248-f451-456c-a837-3da75b8fcc5c")$features$attributes
 
 # construct output table
 out <- dplyr::tibble(
@@ -33,16 +33,16 @@ out <- dplyr::tibble(
 )
 
 # add case/death/testing data
-out[1, "cases"] <- ds$POSPCR
-out[1, "cumulative_deaths"] <- ds$D_TOTAL
-out[1, "deaths"] <- ds$D_WEEK + ds$D_NEW
-out[1, "deaths_current_reporting_period"] <- ds$D_WEEK
-out[1, "deaths_previous_reporting_period"] <- ds$D_NEW
-out[1, "new_hospitalizations"] <- ds$H_NEW_ADM
+out[1, "cases"] <- ds$newpcrs
+out[1, "cumulative_deaths"] <- ds$pandemicde
+out[1, "deaths"] <- ds$deaththisw + ds$newdeaths
+out[1, "deaths_current_reporting_period"] <- ds$deaththisw
+out[1, "deaths_previous_reporting_period"] <- ds$newdeaths
+out[1, "new_hospitalizations"] <- ds$newhosital
 
 # add active hospitalization/ICU data
-out[2, "active_hospitalizations"] <- ds$H_TOTAL
-out[2, "active_icu"] <- ds$H_ICU
+out[2, "active_hospitalizations"] <- ds$activehosp
+out[2, "active_icu"] <- ds$activeicu
 
 # append data
 googlesheets4::sheet_append(data = out, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "ns_weekly_report")
