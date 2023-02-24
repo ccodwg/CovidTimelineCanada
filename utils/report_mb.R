@@ -32,7 +32,7 @@ tb_hr <- ds %>% rvest::html_table() %>% {.[grep("Health Region|Helath region", .
 # function: extract number from specific substring in specific row of an HTML table
 extract_from_tab <- function(tab, row_n, string, parse_num = TRUE) {
   x <- tab %>%
-    dplyr::slice(n = row_n) %>%
+    dplyr::slice(row_n) %>%
     gsub("[\r\n]", " ", .) %>% # newline characters mess up regex
     gsub(",", "", .) %>%
     stringr::str_extract(string)
