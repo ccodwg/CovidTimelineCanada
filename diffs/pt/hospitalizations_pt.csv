@@ -1,7 +1,7 @@
 "name","region","date_current","value_current","date_previous","value_previous","date_diff","value_diff"
-"hospitalizations","AB","2023-03-15",486,"2023-03-09",518,6,-32
-"hospitalizations","BC","2023-03-09",205,"2023-03-02",237,7,-32
-"hospitalizations","MB","2023-03-09",291,"2023-03-02",291,7,0
+"hospitalizations","AB","2023-03-16",486,"2023-03-15",486,1,0
+"hospitalizations","BC","2023-03-16",222,"2023-03-09",205,7,17
+"hospitalizations","MB","2023-03-16",291,"2023-03-09",291,7,0
 "hospitalizations","NB","2022-12-10",40,"2022-12-03",40,7,0
 "hospitalizations","NL","2022-11-17",3,"2022-11-15",3,2,0
 "hospitalizations","NS","2022-11-17",44,"2022-11-15",44,2,0
