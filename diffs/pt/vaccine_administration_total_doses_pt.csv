@@ -1,5 +1,5 @@
 "name","region","date_current","value_current","date_previous","value_previous","date_diff","value_diff"
-"vaccine_administration_total_doses","AB","2023-02-26",9696697,"2023-01-29",9696697,28,0
+"vaccine_administration_total_doses","AB","2023-02-26",9716240,"2023-01-29",9696697,28,19543
 "vaccine_administration_total_doses","BC","2023-02-26",13672171,"2023-01-29",13646364,28,25807
 "vaccine_administration_total_doses","MB","2023-02-26",3235875,"2023-01-29",3230323,28,5552
 "vaccine_administration_total_doses","NB","2023-02-26",1981450,"2023-01-29",1976351,28,5099
