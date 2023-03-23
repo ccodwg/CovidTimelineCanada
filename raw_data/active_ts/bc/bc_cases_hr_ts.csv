@@ -3336,7 +3336,7 @@
 "cases","BC","Vancouver Coastal","2021-08-06",36165
 "cases","BC","Vancouver Island","2021-08-06",5436
 "cases","BC","Fraser","2021-08-07",87085
-"cases","BC","Interior","2021-08-07",15776
+"cases","BC","Interior","2021-08-07",15777
 "cases","BC","Northern","2021-08-07",7923
 "cases","BC","Out of Canada","2021-08-07",257
 "cases","BC","Vancouver Coastal","2021-08-07",36226
@@ -3354,13 +3354,13 @@
 "cases","BC","Vancouver Coastal","2021-08-09",36304
 "cases","BC","Vancouver Island","2021-08-09",5505
 "cases","BC","Fraser","2021-08-10",87377
-"cases","BC","Interior","2021-08-10",16378
+"cases","BC","Interior","2021-08-10",16377
 "cases","BC","Northern","2021-08-10",7974
 "cases","BC","Out of Canada","2021-08-10",257
 "cases","BC","Vancouver Coastal","2021-08-10",36410
 "cases","BC","Vancouver Island","2021-08-10",5531
 "cases","BC","Fraser","2021-08-11",87499
-"cases","BC","Interior","2021-08-11",16658
+"cases","BC","Interior","2021-08-11",16657
 "cases","BC","Northern","2021-08-11",7983
 "cases","BC","Out of Canada","2021-08-11",257
 "cases","BC","Vancouver Coastal","2021-08-11",36507
@@ -3420,7 +3420,7 @@
 "cases","BC","Vancouver Coastal","2021-08-20",37367
 "cases","BC","Vancouver Island","2021-08-20",5923
 "cases","BC","Fraser","2021-08-21",88934
-"cases","BC","Interior","2021-08-21",19342
+"cases","BC","Interior","2021-08-21",19344
 "cases","BC","Northern","2021-08-21",8340
 "cases","BC","Out of Canada","2021-08-21",264
 "cases","BC","Vancouver Coastal","2021-08-21",37468
@@ -4206,2624 +4206,2666 @@
 "cases","BC","Vancouver Coastal","2021-12-29",54038
 "cases","BC","Vancouver Island","2021-12-29",17438
 "cases","BC","Fraser","2021-12-30",124749
-"cases","BC","Interior","2021-12-30",38171
+"cases","BC","Interior","2021-12-30",38170
 "cases","BC","Northern","2021-12-30",19034
 "cases","BC","Out of Canada","2021-12-30",313
 "cases","BC","Vancouver Coastal","2021-12-30",55002
 "cases","BC","Vancouver Island","2021-12-30",17894
-"cases","BC","Fraser","2021-12-31",127002
-"cases","BC","Interior","2021-12-31",38574
+"cases","BC","Fraser","2021-12-31",127001
+"cases","BC","Interior","2021-12-31",38573
 "cases","BC","Northern","2021-12-31",19194
 "cases","BC","Out of Canada","2021-12-31",316
-"cases","BC","Vancouver Coastal","2021-12-31",55836
+"cases","BC","Vancouver Coastal","2021-12-31",55837
 "cases","BC","Vancouver Island","2021-12-31",18326
-"cases","BC","Fraser","2022-01-01",128597
-"cases","BC","Interior","2022-01-01",39060
+"cases","BC","Fraser","2022-01-01",128596
+"cases","BC","Interior","2022-01-01",39059
 "cases","BC","Northern","2022-01-01",19343
 "cases","BC","Out of Canada","2022-01-01",316
-"cases","BC","Vancouver Coastal","2022-01-01",56486
+"cases","BC","Vancouver Coastal","2022-01-01",56487
 "cases","BC","Vancouver Island","2022-01-01",18659
-"cases","BC","Fraser","2022-01-02",129672
+"cases","BC","Fraser","2022-01-02",129671
 "cases","BC","Interior","2022-01-02",39405
 "cases","BC","Northern","2022-01-02",19419
 "cases","BC","Out of Canada","2022-01-02",316
-"cases","BC","Vancouver Coastal","2022-01-02",56909
+"cases","BC","Vancouver Coastal","2022-01-02",56910
 "cases","BC","Vancouver Island","2022-01-02",19070
-"cases","BC","Fraser","2022-01-03",131171
+"cases","BC","Fraser","2022-01-03",131170
 "cases","BC","Interior","2022-01-03",39714
 "cases","BC","Northern","2022-01-03",19552
 "cases","BC","Out of Canada","2022-01-03",316
-"cases","BC","Vancouver Coastal","2022-01-03",57257
+"cases","BC","Vancouver Coastal","2022-01-03",57258
 "cases","BC","Vancouver Island","2022-01-03",19459
-"cases","BC","Fraser","2022-01-04",132813
+"cases","BC","Fraser","2022-01-04",132812
 "cases","BC","Interior","2022-01-04",40085
 "cases","BC","Northern","2022-01-04",19730
 "cases","BC","Out of Canada","2022-01-04",318
-"cases","BC","Vancouver Coastal","2022-01-04",57912
+"cases","BC","Vancouver Coastal","2022-01-04",57913
 "cases","BC","Vancouver Island","2022-01-04",19923
-"cases","BC","Fraser","2022-01-05",134381
+"cases","BC","Fraser","2022-01-05",134380
 "cases","BC","Interior","2022-01-05",40533
-"cases","BC","Northern","2022-01-05",19898
+"cases","BC","Northern","2022-01-05",19897
 "cases","BC","Out of Canada","2022-01-05",319
-"cases","BC","Vancouver Coastal","2022-01-05",58592
+"cases","BC","Vancouver Coastal","2022-01-05",58594
 "cases","BC","Vancouver Island","2022-01-05",20387
-"cases","BC","Fraser","2022-01-06",135768
+"cases","BC","Fraser","2022-01-06",135767
 "cases","BC","Interior","2022-01-06",41058
-"cases","BC","Northern","2022-01-06",20163
+"cases","BC","Northern","2022-01-06",20162
 "cases","BC","Out of Canada","2022-01-06",319
-"cases","BC","Vancouver Coastal","2022-01-06",59090
+"cases","BC","Vancouver Coastal","2022-01-06",59092
 "cases","BC","Vancouver Island","2022-01-06",20830
-"cases","BC","Fraser","2022-01-07",136672
+"cases","BC","Fraser","2022-01-07",136671
 "cases","BC","Interior","2022-01-07",41604
-"cases","BC","Northern","2022-01-07",20405
+"cases","BC","Northern","2022-01-07",20404
 "cases","BC","Out of Canada","2022-01-07",320
-"cases","BC","Vancouver Coastal","2022-01-07",59532
+"cases","BC","Vancouver Coastal","2022-01-07",59534
 "cases","BC","Vancouver Island","2022-01-07",21301
-"cases","BC","Fraser","2022-01-08",137696
+"cases","BC","Fraser","2022-01-08",137695
 "cases","BC","Interior","2022-01-08",42037
-"cases","BC","Northern","2022-01-08",20573
+"cases","BC","Northern","2022-01-08",20572
 "cases","BC","Out of Canada","2022-01-08",320
-"cases","BC","Vancouver Coastal","2022-01-08",59860
+"cases","BC","Vancouver Coastal","2022-01-08",59862
 "cases","BC","Vancouver Island","2022-01-08",21776
-"cases","BC","Fraser","2022-01-09",138502
+"cases","BC","Fraser","2022-01-09",138501
 "cases","BC","Interior","2022-01-09",42511
-"cases","BC","Northern","2022-01-09",20778
+"cases","BC","Northern","2022-01-09",20777
 "cases","BC","Out of Canada","2022-01-09",321
-"cases","BC","Vancouver Coastal","2022-01-09",60141
+"cases","BC","Vancouver Coastal","2022-01-09",60143
 "cases","BC","Vancouver Island","2022-01-09",22165
-"cases","BC","Fraser","2022-01-10",139253
+"cases","BC","Fraser","2022-01-10",139252
 "cases","BC","Interior","2022-01-10",42794
-"cases","BC","Northern","2022-01-10",20912
+"cases","BC","Northern","2022-01-10",20911
 "cases","BC","Out of Canada","2022-01-10",325
-"cases","BC","Vancouver Coastal","2022-01-10",60499
+"cases","BC","Vancouver Coastal","2022-01-10",60501
 "cases","BC","Vancouver Island","2022-01-10",22657
-"cases","BC","Fraser","2022-01-11",140147
+"cases","BC","Fraser","2022-01-11",140146
 "cases","BC","Interior","2022-01-11",43335
-"cases","BC","Northern","2022-01-11",21165
+"cases","BC","Northern","2022-01-11",21164
 "cases","BC","Out of Canada","2022-01-11",327
-"cases","BC","Vancouver Coastal","2022-01-11",61027
+"cases","BC","Vancouver Coastal","2022-01-11",61029
 "cases","BC","Vancouver Island","2022-01-11",23139
-"cases","BC","Fraser","2022-01-12",141043
+"cases","BC","Fraser","2022-01-12",141042
 "cases","BC","Interior","2022-01-12",43831
-"cases","BC","Northern","2022-01-12",21469
+"cases","BC","Northern","2022-01-12",21468
 "cases","BC","Out of Canada","2022-01-12",331
-"cases","BC","Vancouver Coastal","2022-01-12",61513
+"cases","BC","Vancouver Coastal","2022-01-12",61515
 "cases","BC","Vancouver Island","2022-01-12",23531
-"cases","BC","Fraser","2022-01-13",141832
+"cases","BC","Fraser","2022-01-13",141831
 "cases","BC","Interior","2022-01-13",44266
-"cases","BC","Northern","2022-01-13",21695
+"cases","BC","Northern","2022-01-13",21694
 "cases","BC","Out of Canada","2022-01-13",333
-"cases","BC","Vancouver Coastal","2022-01-13",62038
+"cases","BC","Vancouver Coastal","2022-01-13",62040
 "cases","BC","Vancouver Island","2022-01-13",23807
-"cases","BC","Fraser","2022-01-14",142628
+"cases","BC","Fraser","2022-01-14",142627
 "cases","BC","Interior","2022-01-14",44753
-"cases","BC","Northern","2022-01-14",21927
+"cases","BC","Northern","2022-01-14",21926
 "cases","BC","Out of Canada","2022-01-14",333
-"cases","BC","Vancouver Coastal","2022-01-14",62617
+"cases","BC","Vancouver Coastal","2022-01-14",62619
 "cases","BC","Vancouver Island","2022-01-14",24146
-"cases","BC","Fraser","2022-01-15",143205
+"cases","BC","Fraser","2022-01-15",143204
 "cases","BC","Interior","2022-01-15",45251
-"cases","BC","Northern","2022-01-15",22154
+"cases","BC","Northern","2022-01-15",22153
 "cases","BC","Out of Canada","2022-01-15",334
-"cases","BC","Vancouver Coastal","2022-01-15",62961
+"cases","BC","Vancouver Coastal","2022-01-15",62963
 "cases","BC","Vancouver Island","2022-01-15",24355
-"cases","BC","Fraser","2022-01-16",143799
+"cases","BC","Fraser","2022-01-16",143798
 "cases","BC","Interior","2022-01-16",45600
-"cases","BC","Northern","2022-01-16",22279
+"cases","BC","Northern","2022-01-16",22278
 "cases","BC","Out of Canada","2022-01-16",336
-"cases","BC","Vancouver Coastal","2022-01-16",63269
+"cases","BC","Vancouver Coastal","2022-01-16",63271
 "cases","BC","Vancouver Island","2022-01-16",24532
-"cases","BC","Fraser","2022-01-17",144408
+"cases","BC","Fraser","2022-01-17",144407
 "cases","BC","Interior","2022-01-17",46075
-"cases","BC","Northern","2022-01-17",22389
+"cases","BC","Northern","2022-01-17",22388
 "cases","BC","Out of Canada","2022-01-17",336
-"cases","BC","Vancouver Coastal","2022-01-17",63682
+"cases","BC","Vancouver Coastal","2022-01-17",63684
 "cases","BC","Vancouver Island","2022-01-17",24708
-"cases","BC","Fraser","2022-01-18",145231
+"cases","BC","Fraser","2022-01-18",145230
 "cases","BC","Interior","2022-01-18",46626
-"cases","BC","Northern","2022-01-18",22654
+"cases","BC","Northern","2022-01-18",22653
 "cases","BC","Out of Canada","2022-01-18",337
-"cases","BC","Vancouver Coastal","2022-01-18",64186
+"cases","BC","Vancouver Coastal","2022-01-18",64188
 "cases","BC","Vancouver Island","2022-01-18",25053
-"cases","BC","Fraser","2022-01-19",145804
+"cases","BC","Fraser","2022-01-19",145803
 "cases","BC","Interior","2022-01-19",47208
-"cases","BC","Northern","2022-01-19",22870
+"cases","BC","Northern","2022-01-19",22869
 "cases","BC","Out of Canada","2022-01-19",337
-"cases","BC","Vancouver Coastal","2022-01-19",64609
+"cases","BC","Vancouver Coastal","2022-01-19",64611
 "cases","BC","Vancouver Island","2022-01-19",25417
-"cases","BC","Fraser","2022-01-20",146500
+"cases","BC","Fraser","2022-01-20",146499
 "cases","BC","Interior","2022-01-20",47844
-"cases","BC","Northern","2022-01-20",23035
+"cases","BC","Northern","2022-01-20",23034
 "cases","BC","Out of Canada","2022-01-20",337
-"cases","BC","Vancouver Coastal","2022-01-20",65118
+"cases","BC","Vancouver Coastal","2022-01-20",65120
 "cases","BC","Vancouver Island","2022-01-20",25761
-"cases","BC","Fraser","2022-01-21",147197
+"cases","BC","Fraser","2022-01-21",147196
 "cases","BC","Interior","2022-01-21",48370
-"cases","BC","Northern","2022-01-21",23300
+"cases","BC","Northern","2022-01-21",23299
 "cases","BC","Out of Canada","2022-01-21",340
-"cases","BC","Vancouver Coastal","2022-01-21",65536
+"cases","BC","Vancouver Coastal","2022-01-21",65538
 "cases","BC","Vancouver Island","2022-01-21",26014
-"cases","BC","Fraser","2022-01-22",147740
+"cases","BC","Fraser","2022-01-22",147739
 "cases","BC","Interior","2022-01-22",48771
-"cases","BC","Northern","2022-01-22",23519
+"cases","BC","Northern","2022-01-22",23518
 "cases","BC","Out of Canada","2022-01-22",340
-"cases","BC","Vancouver Coastal","2022-01-22",65755
+"cases","BC","Vancouver Coastal","2022-01-22",65757
 "cases","BC","Vancouver Island","2022-01-22",26221
-"cases","BC","Fraser","2022-01-23",148259
+"cases","BC","Fraser","2022-01-23",148258
 "cases","BC","Interior","2022-01-23",49134
-"cases","BC","Northern","2022-01-23",23616
+"cases","BC","Northern","2022-01-23",23615
 "cases","BC","Out of Canada","2022-01-23",340
-"cases","BC","Vancouver Coastal","2022-01-23",66046
+"cases","BC","Vancouver Coastal","2022-01-23",66048
 "cases","BC","Vancouver Island","2022-01-23",26377
-"cases","BC","Fraser","2022-01-24",148684
+"cases","BC","Fraser","2022-01-24",148682
 "cases","BC","Interior","2022-01-24",49445
-"cases","BC","Northern","2022-01-24",23825
+"cases","BC","Northern","2022-01-24",23824
 "cases","BC","Out of Canada","2022-01-24",340
-"cases","BC","Vancouver Coastal","2022-01-24",66295
+"cases","BC","Vancouver Coastal","2022-01-24",66298
 "cases","BC","Vancouver Island","2022-01-24",26551
-"cases","BC","Fraser","2022-01-25",149277
+"cases","BC","Fraser","2022-01-25",149275
 "cases","BC","Interior","2022-01-25",49983
-"cases","BC","Northern","2022-01-25",24036
+"cases","BC","Northern","2022-01-25",24035
 "cases","BC","Out of Canada","2022-01-25",340
-"cases","BC","Vancouver Coastal","2022-01-25",66650
+"cases","BC","Vancouver Coastal","2022-01-25",66653
 "cases","BC","Vancouver Island","2022-01-25",26817
-"cases","BC","Fraser","2022-01-26",149795
+"cases","BC","Fraser","2022-01-26",149793
 "cases","BC","Interior","2022-01-26",50518
-"cases","BC","Northern","2022-01-26",24242
+"cases","BC","Northern","2022-01-26",24241
 "cases","BC","Out of Canada","2022-01-26",350
-"cases","BC","Vancouver Coastal","2022-01-26",66957
+"cases","BC","Vancouver Coastal","2022-01-26",66960
 "cases","BC","Vancouver Island","2022-01-26",27092
-"cases","BC","Fraser","2022-01-27",150362
+"cases","BC","Fraser","2022-01-27",150360
 "cases","BC","Interior","2022-01-27",51137
-"cases","BC","Northern","2022-01-27",24444
+"cases","BC","Northern","2022-01-27",24443
 "cases","BC","Out of Canada","2022-01-27",351
-"cases","BC","Vancouver Coastal","2022-01-27",67291
+"cases","BC","Vancouver Coastal","2022-01-27",67294
 "cases","BC","Vancouver Island","2022-01-27",27374
-"cases","BC","Fraser","2022-01-28",150809
+"cases","BC","Fraser","2022-01-28",150807
 "cases","BC","Interior","2022-01-28",51662
-"cases","BC","Northern","2022-01-28",24659
+"cases","BC","Northern","2022-01-28",24658
 "cases","BC","Out of Canada","2022-01-28",355
-"cases","BC","Vancouver Coastal","2022-01-28",67573
+"cases","BC","Vancouver Coastal","2022-01-28",67576
 "cases","BC","Vancouver Island","2022-01-28",27585
-"cases","BC","Fraser","2022-01-29",151181
+"cases","BC","Fraser","2022-01-29",151179
 "cases","BC","Interior","2022-01-29",52060
-"cases","BC","Northern","2022-01-29",24820
+"cases","BC","Northern","2022-01-29",24819
 "cases","BC","Out of Canada","2022-01-29",357
-"cases","BC","Vancouver Coastal","2022-01-29",67773
+"cases","BC","Vancouver Coastal","2022-01-29",67776
 "cases","BC","Vancouver Island","2022-01-29",27780
-"cases","BC","Fraser","2022-01-30",151572
+"cases","BC","Fraser","2022-01-30",151570
 "cases","BC","Interior","2022-01-30",52353
-"cases","BC","Northern","2022-01-30",24920
+"cases","BC","Northern","2022-01-30",24919
 "cases","BC","Out of Canada","2022-01-30",357
-"cases","BC","Vancouver Coastal","2022-01-30",67934
+"cases","BC","Vancouver Coastal","2022-01-30",67937
 "cases","BC","Vancouver Island","2022-01-30",27934
-"cases","BC","Fraser","2022-01-31",151843
+"cases","BC","Fraser","2022-01-31",151841
 "cases","BC","Interior","2022-01-31",52702
-"cases","BC","Northern","2022-01-31",25077
+"cases","BC","Northern","2022-01-31",25076
 "cases","BC","Out of Canada","2022-01-31",357
-"cases","BC","Vancouver Coastal","2022-01-31",68119
+"cases","BC","Vancouver Coastal","2022-01-31",68122
 "cases","BC","Vancouver Island","2022-01-31",28102
-"cases","BC","Fraser","2022-02-01",152336
+"cases","BC","Fraser","2022-02-01",152335
 "cases","BC","Interior","2022-02-01",53283
-"cases","BC","Northern","2022-02-01",25265
+"cases","BC","Northern","2022-02-01",25264
 "cases","BC","Out of Canada","2022-02-01",357
-"cases","BC","Vancouver Coastal","2022-02-01",68384
+"cases","BC","Vancouver Coastal","2022-02-01",68386
 "cases","BC","Vancouver Island","2022-02-01",28347
-"cases","BC","Fraser","2022-02-02",152742
+"cases","BC","Fraser","2022-02-02",152741
 "cases","BC","Interior","2022-02-02",53741
-"cases","BC","Northern","2022-02-02",25528
+"cases","BC","Northern","2022-02-02",25527
 "cases","BC","Out of Canada","2022-02-02",360
-"cases","BC","Vancouver Coastal","2022-02-02",68605
+"cases","BC","Vancouver Coastal","2022-02-02",68607
 "cases","BC","Vancouver Island","2022-02-02",28552
-"cases","BC","Fraser","2022-02-03",153096
+"cases","BC","Fraser","2022-02-03",153095
 "cases","BC","Interior","2022-02-03",54268
-"cases","BC","Northern","2022-02-03",25746
+"cases","BC","Northern","2022-02-03",25745
 "cases","BC","Out of Canada","2022-02-03",365
-"cases","BC","Vancouver Coastal","2022-02-03",68784
+"cases","BC","Vancouver Coastal","2022-02-03",68786
 "cases","BC","Vancouver Island","2022-02-03",28769
-"cases","BC","Fraser","2022-02-04",153379
+"cases","BC","Fraser","2022-02-04",153378
 "cases","BC","Interior","2022-02-04",54676
-"cases","BC","Northern","2022-02-04",25978
+"cases","BC","Northern","2022-02-04",25977
 "cases","BC","Out of Canada","2022-02-04",370
-"cases","BC","Vancouver Coastal","2022-02-04",68985
+"cases","BC","Vancouver Coastal","2022-02-04",68987
 "cases","BC","Vancouver Island","2022-02-04",28966
-"cases","BC","Fraser","2022-02-05",153727
+"cases","BC","Fraser","2022-02-05",153726
 "cases","BC","Interior","2022-02-05",55032
-"cases","BC","Northern","2022-02-05",26143
+"cases","BC","Northern","2022-02-05",26142
 "cases","BC","Out of Canada","2022-02-05",370
-"cases","BC","Vancouver Coastal","2022-02-05",69131
+"cases","BC","Vancouver Coastal","2022-02-05",69133
 "cases","BC","Vancouver Island","2022-02-05",29142
-"cases","BC","Fraser","2022-02-06",153960
+"cases","BC","Fraser","2022-02-06",153959
 "cases","BC","Interior","2022-02-06",55335
-"cases","BC","Northern","2022-02-06",26259
+"cases","BC","Northern","2022-02-06",26258
 "cases","BC","Out of Canada","2022-02-06",370
-"cases","BC","Vancouver Coastal","2022-02-06",69235
+"cases","BC","Vancouver Coastal","2022-02-06",69237
 "cases","BC","Vancouver Island","2022-02-06",29267
-"cases","BC","Fraser","2022-02-07",154143
+"cases","BC","Fraser","2022-02-07",154142
 "cases","BC","Interior","2022-02-07",55585
-"cases","BC","Northern","2022-02-07",26425
+"cases","BC","Northern","2022-02-07",26424
 "cases","BC","Out of Canada","2022-02-07",370
-"cases","BC","Vancouver Coastal","2022-02-07",69380
+"cases","BC","Vancouver Coastal","2022-02-07",69382
 "cases","BC","Vancouver Island","2022-02-07",29405
-"cases","BC","Fraser","2022-02-08",154464
+"cases","BC","Fraser","2022-02-08",154463
 "cases","BC","Interior","2022-02-08",55973
-"cases","BC","Northern","2022-02-08",26627
+"cases","BC","Northern","2022-02-08",26626
 "cases","BC","Out of Canada","2022-02-08",370
-"cases","BC","Vancouver Coastal","2022-02-08",69540
+"cases","BC","Vancouver Coastal","2022-02-08",69542
 "cases","BC","Vancouver Island","2022-02-08",29583
-"cases","BC","Fraser","2022-02-09",154743
+"cases","BC","Fraser","2022-02-09",154742
 "cases","BC","Interior","2022-02-09",56423
-"cases","BC","Northern","2022-02-09",26857
+"cases","BC","Northern","2022-02-09",26856
 "cases","BC","Out of Canada","2022-02-09",371
-"cases","BC","Vancouver Coastal","2022-02-09",69716
+"cases","BC","Vancouver Coastal","2022-02-09",69718
 "cases","BC","Vancouver Island","2022-02-09",29789
-"cases","BC","Fraser","2022-02-10",154964
+"cases","BC","Fraser","2022-02-10",154963
 "cases","BC","Interior","2022-02-10",56760
-"cases","BC","Northern","2022-02-10",27029
+"cases","BC","Northern","2022-02-10",27028
 "cases","BC","Out of Canada","2022-02-10",375
-"cases","BC","Vancouver Coastal","2022-02-10",69836
+"cases","BC","Vancouver Coastal","2022-02-10",69838
 "cases","BC","Vancouver Island","2022-02-10",29961
-"cases","BC","Fraser","2022-02-11",155189
+"cases","BC","Fraser","2022-02-11",155188
 "cases","BC","Interior","2022-02-11",57047
-"cases","BC","Northern","2022-02-11",27186
+"cases","BC","Northern","2022-02-11",27185
 "cases","BC","Out of Canada","2022-02-11",379
-"cases","BC","Vancouver Coastal","2022-02-11",69947
+"cases","BC","Vancouver Coastal","2022-02-11",69949
 "cases","BC","Vancouver Island","2022-02-11",30106
-"cases","BC","Fraser","2022-02-12",155318
+"cases","BC","Fraser","2022-02-12",155317
 "cases","BC","Interior","2022-02-12",57281
-"cases","BC","Northern","2022-02-12",27307
+"cases","BC","Northern","2022-02-12",27306
 "cases","BC","Out of Canada","2022-02-12",379
-"cases","BC","Vancouver Coastal","2022-02-12",70038
+"cases","BC","Vancouver Coastal","2022-02-12",70040
 "cases","BC","Vancouver Island","2022-02-12",30240
-"cases","BC","Fraser","2022-02-13",155489
+"cases","BC","Fraser","2022-02-13",155488
 "cases","BC","Interior","2022-02-13",57491
-"cases","BC","Northern","2022-02-13",27369
+"cases","BC","Northern","2022-02-13",27368
 "cases","BC","Out of Canada","2022-02-13",380
-"cases","BC","Vancouver Coastal","2022-02-13",70109
+"cases","BC","Vancouver Coastal","2022-02-13",70111
 "cases","BC","Vancouver Island","2022-02-13",30329
-"cases","BC","Fraser","2022-02-14",155612
+"cases","BC","Fraser","2022-02-14",155611
 "cases","BC","Interior","2022-02-14",57729
-"cases","BC","Northern","2022-02-14",27502
+"cases","BC","Northern","2022-02-14",27501
 "cases","BC","Out of Canada","2022-02-14",380
-"cases","BC","Vancouver Coastal","2022-02-14",70178
+"cases","BC","Vancouver Coastal","2022-02-14",70180
 "cases","BC","Vancouver Island","2022-02-14",30446
-"cases","BC","Fraser","2022-02-15",155782
+"cases","BC","Fraser","2022-02-15",155781
 "cases","BC","Interior","2022-02-15",57993
-"cases","BC","Northern","2022-02-15",27593
+"cases","BC","Northern","2022-02-15",27592
 "cases","BC","Out of Canada","2022-02-15",380
-"cases","BC","Vancouver Coastal","2022-02-15",70270
+"cases","BC","Vancouver Coastal","2022-02-15",70272
 "cases","BC","Vancouver Island","2022-02-15",30551
-"cases","BC","Fraser","2022-02-16",155937
+"cases","BC","Fraser","2022-02-16",155936
 "cases","BC","Interior","2022-02-16",58206
-"cases","BC","Northern","2022-02-16",27717
+"cases","BC","Northern","2022-02-16",27716
 "cases","BC","Out of Canada","2022-02-16",380
-"cases","BC","Vancouver Coastal","2022-02-16",70348
+"cases","BC","Vancouver Coastal","2022-02-16",70350
 "cases","BC","Vancouver Island","2022-02-16",30666
-"cases","BC","Fraser","2022-02-17",156088
+"cases","BC","Fraser","2022-02-17",156087
 "cases","BC","Interior","2022-02-17",58449
-"cases","BC","Northern","2022-02-17",27844
+"cases","BC","Northern","2022-02-17",27843
 "cases","BC","Out of Canada","2022-02-17",385
-"cases","BC","Vancouver Coastal","2022-02-17",70442
+"cases","BC","Vancouver Coastal","2022-02-17",70444
 "cases","BC","Vancouver Island","2022-02-17",30774
-"cases","BC","Fraser","2022-02-18",156192
+"cases","BC","Fraser","2022-02-18",156191
 "cases","BC","Interior","2022-02-18",58651
-"cases","BC","Northern","2022-02-18",27933
+"cases","BC","Northern","2022-02-18",27932
 "cases","BC","Out of Canada","2022-02-18",386
-"cases","BC","Vancouver Coastal","2022-02-18",70512
+"cases","BC","Vancouver Coastal","2022-02-18",70514
 "cases","BC","Vancouver Island","2022-02-18",30893
-"cases","BC","Fraser","2022-02-19",156331
+"cases","BC","Fraser","2022-02-19",156330
 "cases","BC","Interior","2022-02-19",58813
-"cases","BC","Northern","2022-02-19",27983
+"cases","BC","Northern","2022-02-19",27982
 "cases","BC","Out of Canada","2022-02-19",388
-"cases","BC","Vancouver Coastal","2022-02-19",70555
+"cases","BC","Vancouver Coastal","2022-02-19",70557
 "cases","BC","Vancouver Island","2022-02-19",30967
-"cases","BC","Fraser","2022-02-20",156432
+"cases","BC","Fraser","2022-02-20",156431
 "cases","BC","Interior","2022-02-20",58955
-"cases","BC","Northern","2022-02-20",28031
+"cases","BC","Northern","2022-02-20",28030
 "cases","BC","Out of Canada","2022-02-20",389
-"cases","BC","Vancouver Coastal","2022-02-20",70594
+"cases","BC","Vancouver Coastal","2022-02-20",70596
 "cases","BC","Vancouver Island","2022-02-20",31027
-"cases","BC","Fraser","2022-02-21",156519
+"cases","BC","Fraser","2022-02-21",156518
 "cases","BC","Interior","2022-02-21",59117
-"cases","BC","Northern","2022-02-21",28069
+"cases","BC","Northern","2022-02-21",28068
 "cases","BC","Out of Canada","2022-02-21",389
-"cases","BC","Vancouver Coastal","2022-02-21",70641
+"cases","BC","Vancouver Coastal","2022-02-21",70643
 "cases","BC","Vancouver Island","2022-02-21",31085
-"cases","BC","Fraser","2022-02-22",156627
+"cases","BC","Fraser","2022-02-22",156626
 "cases","BC","Interior","2022-02-22",59297
-"cases","BC","Northern","2022-02-22",28164
+"cases","BC","Northern","2022-02-22",28163
 "cases","BC","Out of Canada","2022-02-22",389
-"cases","BC","Vancouver Coastal","2022-02-22",70686
+"cases","BC","Vancouver Coastal","2022-02-22",70688
 "cases","BC","Vancouver Island","2022-02-22",31194
-"cases","BC","Fraser","2022-02-23",156750
+"cases","BC","Fraser","2022-02-23",156749
 "cases","BC","Interior","2022-02-23",59506
-"cases","BC","Northern","2022-02-23",28274
+"cases","BC","Northern","2022-02-23",28273
 "cases","BC","Out of Canada","2022-02-23",389
-"cases","BC","Vancouver Coastal","2022-02-23",70755
+"cases","BC","Vancouver Coastal","2022-02-23",70757
 "cases","BC","Vancouver Island","2022-02-23",31310
-"cases","BC","Fraser","2022-02-24",156840
+"cases","BC","Fraser","2022-02-24",156839
 "cases","BC","Interior","2022-02-24",59700
-"cases","BC","Northern","2022-02-24",28360
+"cases","BC","Northern","2022-02-24",28359
 "cases","BC","Out of Canada","2022-02-24",389
-"cases","BC","Vancouver Coastal","2022-02-24",70807
+"cases","BC","Vancouver Coastal","2022-02-24",70809
 "cases","BC","Vancouver Island","2022-02-24",31407
-"cases","BC","Fraser","2022-02-25",156940
+"cases","BC","Fraser","2022-02-25",156939
 "cases","BC","Interior","2022-02-25",59844
-"cases","BC","Northern","2022-02-25",28423
+"cases","BC","Northern","2022-02-25",28422
 "cases","BC","Out of Canada","2022-02-25",390
-"cases","BC","Vancouver Coastal","2022-02-25",70846
+"cases","BC","Vancouver Coastal","2022-02-25",70848
 "cases","BC","Vancouver Island","2022-02-25",31496
-"cases","BC","Fraser","2022-02-26",157008
+"cases","BC","Fraser","2022-02-26",157007
 "cases","BC","Interior","2022-02-26",59985
-"cases","BC","Northern","2022-02-26",28453
+"cases","BC","Northern","2022-02-26",28452
 "cases","BC","Out of Canada","2022-02-26",390
-"cases","BC","Vancouver Coastal","2022-02-26",70868
+"cases","BC","Vancouver Coastal","2022-02-26",70870
 "cases","BC","Vancouver Island","2022-02-26",31571
-"cases","BC","Fraser","2022-02-27",157073
+"cases","BC","Fraser","2022-02-27",157072
 "cases","BC","Interior","2022-02-27",60096
-"cases","BC","Northern","2022-02-27",28472
+"cases","BC","Northern","2022-02-27",28471
 "cases","BC","Out of Canada","2022-02-27",390
-"cases","BC","Vancouver Coastal","2022-02-27",70917
+"cases","BC","Vancouver Coastal","2022-02-27",70919
 "cases","BC","Vancouver Island","2022-02-27",31640
-"cases","BC","Fraser","2022-02-28",157169
+"cases","BC","Fraser","2022-02-28",157168
 "cases","BC","Interior","2022-02-28",60219
-"cases","BC","Northern","2022-02-28",28512
+"cases","BC","Northern","2022-02-28",28511
 "cases","BC","Out of Canada","2022-02-28",390
-"cases","BC","Vancouver Coastal","2022-02-28",70950
+"cases","BC","Vancouver Coastal","2022-02-28",70952
 "cases","BC","Vancouver Island","2022-02-28",31720
-"cases","BC","Fraser","2022-03-01",157284
+"cases","BC","Fraser","2022-03-01",157283
 "cases","BC","Interior","2022-03-01",60337
-"cases","BC","Northern","2022-03-01",28580
+"cases","BC","Northern","2022-03-01",28579
 "cases","BC","Out of Canada","2022-03-01",390
-"cases","BC","Vancouver Coastal","2022-03-01",71017
+"cases","BC","Vancouver Coastal","2022-03-01",71019
 "cases","BC","Vancouver Island","2022-03-01",31820
-"cases","BC","Fraser","2022-03-02",157370
+"cases","BC","Fraser","2022-03-02",157369
 "cases","BC","Interior","2022-03-02",60435
-"cases","BC","Northern","2022-03-02",28656
+"cases","BC","Northern","2022-03-02",28655
 "cases","BC","Out of Canada","2022-03-02",390
-"cases","BC","Vancouver Coastal","2022-03-02",71060
+"cases","BC","Vancouver Coastal","2022-03-02",71062
 "cases","BC","Vancouver Island","2022-03-02",31895
-"cases","BC","Fraser","2022-03-03",157445
+"cases","BC","Fraser","2022-03-03",157444
 "cases","BC","Interior","2022-03-03",60536
-"cases","BC","Northern","2022-03-03",28709
+"cases","BC","Northern","2022-03-03",28708
 "cases","BC","Out of Canada","2022-03-03",390
-"cases","BC","Vancouver Coastal","2022-03-03",71109
+"cases","BC","Vancouver Coastal","2022-03-03",71111
 "cases","BC","Vancouver Island","2022-03-03",31953
-"cases","BC","Fraser","2022-03-04",157505
+"cases","BC","Fraser","2022-03-04",157504
 "cases","BC","Interior","2022-03-04",60648
-"cases","BC","Northern","2022-03-04",28752
+"cases","BC","Northern","2022-03-04",28751
 "cases","BC","Out of Canada","2022-03-04",390
-"cases","BC","Vancouver Coastal","2022-03-04",71165
+"cases","BC","Vancouver Coastal","2022-03-04",71167
 "cases","BC","Vancouver Island","2022-03-04",32017
-"cases","BC","Fraser","2022-03-05",157572
+"cases","BC","Fraser","2022-03-05",157571
 "cases","BC","Interior","2022-03-05",60745
-"cases","BC","Northern","2022-03-05",28773
+"cases","BC","Northern","2022-03-05",28772
 "cases","BC","Out of Canada","2022-03-05",390
-"cases","BC","Vancouver Coastal","2022-03-05",71212
+"cases","BC","Vancouver Coastal","2022-03-05",71214
 "cases","BC","Vancouver Island","2022-03-05",32073
-"cases","BC","Fraser","2022-03-06",157629
+"cases","BC","Fraser","2022-03-06",157628
 "cases","BC","Interior","2022-03-06",60814
-"cases","BC","Northern","2022-03-06",28785
+"cases","BC","Northern","2022-03-06",28784
 "cases","BC","Out of Canada","2022-03-06",390
-"cases","BC","Vancouver Coastal","2022-03-06",71242
+"cases","BC","Vancouver Coastal","2022-03-06",71244
 "cases","BC","Vancouver Island","2022-03-06",32148
-"cases","BC","Fraser","2022-03-07",157680
+"cases","BC","Fraser","2022-03-07",157679
 "cases","BC","Interior","2022-03-07",60904
-"cases","BC","Northern","2022-03-07",28823
+"cases","BC","Northern","2022-03-07",28822
 "cases","BC","Out of Canada","2022-03-07",390
-"cases","BC","Vancouver Coastal","2022-03-07",71278
+"cases","BC","Vancouver Coastal","2022-03-07",71280
 "cases","BC","Vancouver Island","2022-03-07",32211
-"cases","BC","Fraser","2022-03-08",157728
+"cases","BC","Fraser","2022-03-08",157727
 "cases","BC","Interior","2022-03-08",60997
-"cases","BC","Northern","2022-03-08",28855
+"cases","BC","Northern","2022-03-08",28854
 "cases","BC","Out of Canada","2022-03-08",390
-"cases","BC","Vancouver Coastal","2022-03-08",71312
+"cases","BC","Vancouver Coastal","2022-03-08",71314
 "cases","BC","Vancouver Island","2022-03-08",32291
-"cases","BC","Fraser","2022-03-09",157791
+"cases","BC","Fraser","2022-03-09",157790
 "cases","BC","Interior","2022-03-09",61107
-"cases","BC","Northern","2022-03-09",28906
+"cases","BC","Northern","2022-03-09",28905
 "cases","BC","Out of Canada","2022-03-09",390
-"cases","BC","Vancouver Coastal","2022-03-09",71362
+"cases","BC","Vancouver Coastal","2022-03-09",71364
 "cases","BC","Vancouver Island","2022-03-09",32344
-"cases","BC","Fraser","2022-03-10",157864
+"cases","BC","Fraser","2022-03-10",157863
 "cases","BC","Interior","2022-03-10",61195
-"cases","BC","Northern","2022-03-10",28940
+"cases","BC","Northern","2022-03-10",28939
 "cases","BC","Out of Canada","2022-03-10",390
-"cases","BC","Vancouver Coastal","2022-03-10",71411
+"cases","BC","Vancouver Coastal","2022-03-10",71413
 "cases","BC","Vancouver Island","2022-03-10",32393
-"cases","BC","Fraser","2022-03-11",157924
+"cases","BC","Fraser","2022-03-11",157923
 "cases","BC","Interior","2022-03-11",61265
-"cases","BC","Northern","2022-03-11",28956
+"cases","BC","Northern","2022-03-11",28955
 "cases","BC","Out of Canada","2022-03-11",390
-"cases","BC","Vancouver Coastal","2022-03-11",71462
+"cases","BC","Vancouver Coastal","2022-03-11",71464
 "cases","BC","Vancouver Island","2022-03-11",32431
-"cases","BC","Fraser","2022-03-12",157967
+"cases","BC","Fraser","2022-03-12",157966
 "cases","BC","Interior","2022-03-12",61319
-"cases","BC","Northern","2022-03-12",28967
+"cases","BC","Northern","2022-03-12",28966
 "cases","BC","Out of Canada","2022-03-12",390
-"cases","BC","Vancouver Coastal","2022-03-12",71488
+"cases","BC","Vancouver Coastal","2022-03-12",71490
 "cases","BC","Vancouver Island","2022-03-12",32461
-"cases","BC","Fraser","2022-03-13",158018
+"cases","BC","Fraser","2022-03-13",158017
 "cases","BC","Interior","2022-03-13",61375
-"cases","BC","Northern","2022-03-13",28993
+"cases","BC","Northern","2022-03-13",28992
 "cases","BC","Out of Canada","2022-03-13",390
-"cases","BC","Vancouver Coastal","2022-03-13",71509
+"cases","BC","Vancouver Coastal","2022-03-13",71511
 "cases","BC","Vancouver Island","2022-03-13",32496
-"cases","BC","Fraser","2022-03-14",158076
+"cases","BC","Fraser","2022-03-14",158075
 "cases","BC","Interior","2022-03-14",61468
-"cases","BC","Northern","2022-03-14",29024
+"cases","BC","Northern","2022-03-14",29023
 "cases","BC","Out of Canada","2022-03-14",390
-"cases","BC","Vancouver Coastal","2022-03-14",71536
+"cases","BC","Vancouver Coastal","2022-03-14",71538
 "cases","BC","Vancouver Island","2022-03-14",32524
-"cases","BC","Fraser","2022-03-15",158130
+"cases","BC","Fraser","2022-03-15",158129
 "cases","BC","Interior","2022-03-15",61568
-"cases","BC","Northern","2022-03-15",29051
+"cases","BC","Northern","2022-03-15",29050
 "cases","BC","Out of Canada","2022-03-15",390
-"cases","BC","Vancouver Coastal","2022-03-15",71570
+"cases","BC","Vancouver Coastal","2022-03-15",71572
 "cases","BC","Vancouver Island","2022-03-15",32555
-"cases","BC","Fraser","2022-03-16",158176
+"cases","BC","Fraser","2022-03-16",158175
 "cases","BC","Interior","2022-03-16",61627
-"cases","BC","Northern","2022-03-16",29078
+"cases","BC","Northern","2022-03-16",29077
 "cases","BC","Out of Canada","2022-03-16",390
-"cases","BC","Vancouver Coastal","2022-03-16",71622
+"cases","BC","Vancouver Coastal","2022-03-16",71624
 "cases","BC","Vancouver Island","2022-03-16",32596
-"cases","BC","Fraser","2022-03-17",158230
+"cases","BC","Fraser","2022-03-17",158229
 "cases","BC","Interior","2022-03-17",61706
-"cases","BC","Northern","2022-03-17",29096
+"cases","BC","Northern","2022-03-17",29095
 "cases","BC","Out of Canada","2022-03-17",390
-"cases","BC","Vancouver Coastal","2022-03-17",71645
+"cases","BC","Vancouver Coastal","2022-03-17",71647
 "cases","BC","Vancouver Island","2022-03-17",32639
-"cases","BC","Fraser","2022-03-18",158264
+"cases","BC","Fraser","2022-03-18",158263
 "cases","BC","Interior","2022-03-18",61770
-"cases","BC","Northern","2022-03-18",29131
+"cases","BC","Northern","2022-03-18",29130
 "cases","BC","Out of Canada","2022-03-18",390
-"cases","BC","Vancouver Coastal","2022-03-18",71671
+"cases","BC","Vancouver Coastal","2022-03-18",71673
 "cases","BC","Vancouver Island","2022-03-18",32680
-"cases","BC","Fraser","2022-03-19",158315
+"cases","BC","Fraser","2022-03-19",158314
 "cases","BC","Interior","2022-03-19",61836
-"cases","BC","Northern","2022-03-19",29144
+"cases","BC","Northern","2022-03-19",29143
 "cases","BC","Out of Canada","2022-03-19",390
-"cases","BC","Vancouver Coastal","2022-03-19",71697
+"cases","BC","Vancouver Coastal","2022-03-19",71699
 "cases","BC","Vancouver Island","2022-03-19",32706
-"cases","BC","Fraser","2022-03-20",158343
+"cases","BC","Fraser","2022-03-20",158342
 "cases","BC","Interior","2022-03-20",61891
-"cases","BC","Northern","2022-03-20",29151
+"cases","BC","Northern","2022-03-20",29150
 "cases","BC","Out of Canada","2022-03-20",390
-"cases","BC","Vancouver Coastal","2022-03-20",71720
+"cases","BC","Vancouver Coastal","2022-03-20",71722
 "cases","BC","Vancouver Island","2022-03-20",32741
-"cases","BC","Fraser","2022-03-21",158379
+"cases","BC","Fraser","2022-03-21",158378
 "cases","BC","Interior","2022-03-21",61976
-"cases","BC","Northern","2022-03-21",29184
+"cases","BC","Northern","2022-03-21",29183
 "cases","BC","Out of Canada","2022-03-21",390
-"cases","BC","Vancouver Coastal","2022-03-21",71761
+"cases","BC","Vancouver Coastal","2022-03-21",71763
 "cases","BC","Vancouver Island","2022-03-21",32788
-"cases","BC","Fraser","2022-03-22",158430
+"cases","BC","Fraser","2022-03-22",158429
 "cases","BC","Interior","2022-03-22",62056
-"cases","BC","Northern","2022-03-22",29205
+"cases","BC","Northern","2022-03-22",29204
 "cases","BC","Out of Canada","2022-03-22",390
-"cases","BC","Vancouver Coastal","2022-03-22",71808
+"cases","BC","Vancouver Coastal","2022-03-22",71810
 "cases","BC","Vancouver Island","2022-03-22",32845
-"cases","BC","Fraser","2022-03-23",158483
+"cases","BC","Fraser","2022-03-23",158482
 "cases","BC","Interior","2022-03-23",62146
-"cases","BC","Northern","2022-03-23",29238
+"cases","BC","Northern","2022-03-23",29237
 "cases","BC","Out of Canada","2022-03-23",390
-"cases","BC","Vancouver Coastal","2022-03-23",71837
+"cases","BC","Vancouver Coastal","2022-03-23",71839
 "cases","BC","Vancouver Island","2022-03-23",32907
-"cases","BC","Fraser","2022-03-24",158529
+"cases","BC","Fraser","2022-03-24",158528
 "cases","BC","Interior","2022-03-24",62226
-"cases","BC","Northern","2022-03-24",29256
+"cases","BC","Northern","2022-03-24",29255
 "cases","BC","Out of Canada","2022-03-24",390
-"cases","BC","Vancouver Coastal","2022-03-24",71865
+"cases","BC","Vancouver Coastal","2022-03-24",71867
 "cases","BC","Vancouver Island","2022-03-24",32956
-"cases","BC","Fraser","2022-03-25",158559
+"cases","BC","Fraser","2022-03-25",158558
 "cases","BC","Interior","2022-03-25",62277
-"cases","BC","Northern","2022-03-25",29287
+"cases","BC","Northern","2022-03-25",29286
 "cases","BC","Out of Canada","2022-03-25",390
-"cases","BC","Vancouver Coastal","2022-03-25",71904
+"cases","BC","Vancouver Coastal","2022-03-25",71906
 "cases","BC","Vancouver Island","2022-03-25",33021
-"cases","BC","Fraser","2022-03-26",158602
+"cases","BC","Fraser","2022-03-26",158601
 "cases","BC","Interior","2022-03-26",62334
-"cases","BC","Northern","2022-03-26",29301
+"cases","BC","Northern","2022-03-26",29300
 "cases","BC","Out of Canada","2022-03-26",390
-"cases","BC","Vancouver Coastal","2022-03-26",71946
+"cases","BC","Vancouver Coastal","2022-03-26",71948
 "cases","BC","Vancouver Island","2022-03-26",33080
-"cases","BC","Fraser","2022-03-27",158640
+"cases","BC","Fraser","2022-03-27",158639
 "cases","BC","Interior","2022-03-27",62380
-"cases","BC","Northern","2022-03-27",29315
+"cases","BC","Northern","2022-03-27",29314
 "cases","BC","Out of Canada","2022-03-27",390
-"cases","BC","Vancouver Coastal","2022-03-27",71977
+"cases","BC","Vancouver Coastal","2022-03-27",71979
 "cases","BC","Vancouver Island","2022-03-27",33122
-"cases","BC","Fraser","2022-03-28",158701
+"cases","BC","Fraser","2022-03-28",158700
 "cases","BC","Interior","2022-03-28",62443
-"cases","BC","Northern","2022-03-28",29337
+"cases","BC","Northern","2022-03-28",29336
 "cases","BC","Out of Canada","2022-03-28",390
-"cases","BC","Vancouver Coastal","2022-03-28",72026
+"cases","BC","Vancouver Coastal","2022-03-28",72028
 "cases","BC","Vancouver Island","2022-03-28",33174
-"cases","BC","Fraser","2022-03-29",158763
+"cases","BC","Fraser","2022-03-29",158762
 "cases","BC","Interior","2022-03-29",62535
-"cases","BC","Northern","2022-03-29",29359
+"cases","BC","Northern","2022-03-29",29358
 "cases","BC","Out of Canada","2022-03-29",390
-"cases","BC","Vancouver Coastal","2022-03-29",72080
+"cases","BC","Vancouver Coastal","2022-03-29",72082
 "cases","BC","Vancouver Island","2022-03-29",33240
-"cases","BC","Fraser","2022-03-30",158810
+"cases","BC","Fraser","2022-03-30",158809
 "cases","BC","Interior","2022-03-30",62599
-"cases","BC","Northern","2022-03-30",29393
+"cases","BC","Northern","2022-03-30",29392
 "cases","BC","Out of Canada","2022-03-30",390
-"cases","BC","Vancouver Coastal","2022-03-30",72133
+"cases","BC","Vancouver Coastal","2022-03-30",72135
 "cases","BC","Vancouver Island","2022-03-30",33300
-"cases","BC","Fraser","2022-03-31",158877
+"cases","BC","Fraser","2022-03-31",158876
 "cases","BC","Interior","2022-03-31",62699
-"cases","BC","Northern","2022-03-31",29423
+"cases","BC","Northern","2022-03-31",29422
 "cases","BC","Out of Canada","2022-03-31",391
-"cases","BC","Vancouver Coastal","2022-03-31",72178
+"cases","BC","Vancouver Coastal","2022-03-31",72180
 "cases","BC","Vancouver Island","2022-03-31",33349
-"cases","BC","Fraser","2022-04-01",158930
+"cases","BC","Fraser","2022-04-01",158929
 "cases","BC","Interior","2022-04-01",62751
-"cases","BC","Northern","2022-04-01",29435
+"cases","BC","Northern","2022-04-01",29434
 "cases","BC","Out of Canada","2022-04-01",391
-"cases","BC","Vancouver Coastal","2022-04-01",72242
+"cases","BC","Vancouver Coastal","2022-04-01",72244
 "cases","BC","Vancouver Island","2022-04-01",33414
-"cases","BC","Fraser","2022-04-02",158992
+"cases","BC","Fraser","2022-04-02",158991
 "cases","BC","Interior","2022-04-02",62794
-"cases","BC","Northern","2022-04-02",29446
+"cases","BC","Northern","2022-04-02",29445
 "cases","BC","Out of Canada","2022-04-02",391
-"cases","BC","Vancouver Coastal","2022-04-02",72280
+"cases","BC","Vancouver Coastal","2022-04-02",72282
 "cases","BC","Vancouver Island","2022-04-02",33457
-"cases","BC","Fraser","2022-04-03",159090
+"cases","BC","Fraser","2022-04-03",159089
 "cases","BC","Interior","2022-04-03",62850
-"cases","BC","Northern","2022-04-03",29451
+"cases","BC","Northern","2022-04-03",29450
 "cases","BC","Out of Canada","2022-04-03",391
-"cases","BC","Vancouver Coastal","2022-04-03",72328
+"cases","BC","Vancouver Coastal","2022-04-03",72330
 "cases","BC","Vancouver Island","2022-04-03",33496
-"cases","BC","Fraser","2022-04-04",159165
+"cases","BC","Fraser","2022-04-04",159164
 "cases","BC","Interior","2022-04-04",62943
-"cases","BC","Northern","2022-04-04",29464
+"cases","BC","Northern","2022-04-04",29463
 "cases","BC","Out of Canada","2022-04-04",391
-"cases","BC","Vancouver Coastal","2022-04-04",72366
+"cases","BC","Vancouver Coastal","2022-04-04",72368
 "cases","BC","Vancouver Island","2022-04-04",33545
-"cases","BC","Fraser","2022-04-05",159220
+"cases","BC","Fraser","2022-04-05",159219
 "cases","BC","Interior","2022-04-05",63020
-"cases","BC","Northern","2022-04-05",29479
+"cases","BC","Northern","2022-04-05",29478
 "cases","BC","Out of Canada","2022-04-05",391
-"cases","BC","Vancouver Coastal","2022-04-05",72397
+"cases","BC","Vancouver Coastal","2022-04-05",72399
 "cases","BC","Vancouver Island","2022-04-05",33583
-"cases","BC","Fraser","2022-04-06",159300
+"cases","BC","Fraser","2022-04-06",159299
 "cases","BC","Interior","2022-04-06",63092
-"cases","BC","Northern","2022-04-06",29490
+"cases","BC","Northern","2022-04-06",29489
 "cases","BC","Out of Canada","2022-04-06",391
-"cases","BC","Vancouver Coastal","2022-04-06",72455
+"cases","BC","Vancouver Coastal","2022-04-06",72457
 "cases","BC","Vancouver Island","2022-04-06",33642
-"cases","BC","Fraser","2022-04-07",159362
+"cases","BC","Fraser","2022-04-07",159361
 "cases","BC","Interior","2022-04-07",63169
-"cases","BC","Northern","2022-04-07",29514
+"cases","BC","Northern","2022-04-07",29513
 "cases","BC","Out of Canada","2022-04-07",391
-"cases","BC","Vancouver Coastal","2022-04-07",72504
+"cases","BC","Vancouver Coastal","2022-04-07",72506
 "cases","BC","Vancouver Island","2022-04-07",33694
-"cases","BC","Fraser","2022-04-08",159433
+"cases","BC","Fraser","2022-04-08",159432
 "cases","BC","Interior","2022-04-08",63253
-"cases","BC","Northern","2022-04-08",29532
+"cases","BC","Northern","2022-04-08",29531
 "cases","BC","Out of Canada","2022-04-08",391
-"cases","BC","Vancouver Coastal","2022-04-08",72550
+"cases","BC","Vancouver Coastal","2022-04-08",72552
 "cases","BC","Vancouver Island","2022-04-08",33733
-"cases","BC","Fraser","2022-04-09",159506
+"cases","BC","Fraser","2022-04-09",159505
 "cases","BC","Interior","2022-04-09",63316
-"cases","BC","Northern","2022-04-09",29554
+"cases","BC","Northern","2022-04-09",29553
 "cases","BC","Out of Canada","2022-04-09",391
-"cases","BC","Vancouver Coastal","2022-04-09",72585
+"cases","BC","Vancouver Coastal","2022-04-09",72587
 "cases","BC","Vancouver Island","2022-04-09",33779
-"cases","BC","Fraser","2022-04-10",159596
+"cases","BC","Fraser","2022-04-10",159595
 "cases","BC","Interior","2022-04-10",63393
-"cases","BC","Northern","2022-04-10",29563
+"cases","BC","Northern","2022-04-10",29562
 "cases","BC","Out of Canada","2022-04-10",391
-"cases","BC","Vancouver Coastal","2022-04-10",72635
+"cases","BC","Vancouver Coastal","2022-04-10",72637
 "cases","BC","Vancouver Island","2022-04-10",33816
-"cases","BC","Fraser","2022-04-11",159652
+"cases","BC","Fraser","2022-04-11",159651
 "cases","BC","Interior","2022-04-11",63467
-"cases","BC","Northern","2022-04-11",29589
+"cases","BC","Northern","2022-04-11",29588
 "cases","BC","Out of Canada","2022-04-11",391
-"cases","BC","Vancouver Coastal","2022-04-11",72691
+"cases","BC","Vancouver Coastal","2022-04-11",72693
 "cases","BC","Vancouver Island","2022-04-11",33854
-"cases","BC","Fraser","2022-04-12",159746
+"cases","BC","Fraser","2022-04-12",159745
 "cases","BC","Interior","2022-04-12",63566
-"cases","BC","Northern","2022-04-12",29613
+"cases","BC","Northern","2022-04-12",29612
 "cases","BC","Out of Canada","2022-04-12",391
-"cases","BC","Vancouver Coastal","2022-04-12",72757
+"cases","BC","Vancouver Coastal","2022-04-12",72759
 "cases","BC","Vancouver Island","2022-04-12",33912
-"cases","BC","Fraser","2022-04-13",159811
+"cases","BC","Fraser","2022-04-13",159810
 "cases","BC","Interior","2022-04-13",63682
-"cases","BC","Northern","2022-04-13",29636
+"cases","BC","Northern","2022-04-13",29635
 "cases","BC","Out of Canada","2022-04-13",391
-"cases","BC","Vancouver Coastal","2022-04-13",72797
+"cases","BC","Vancouver Coastal","2022-04-13",72799
 "cases","BC","Vancouver Island","2022-04-13",33975
-"cases","BC","Fraser","2022-04-14",159916
+"cases","BC","Fraser","2022-04-14",159915
 "cases","BC","Interior","2022-04-14",63768
-"cases","BC","Northern","2022-04-14",29664
+"cases","BC","Northern","2022-04-14",29663
 "cases","BC","Out of Canada","2022-04-14",391
-"cases","BC","Vancouver Coastal","2022-04-14",72842
+"cases","BC","Vancouver Coastal","2022-04-14",72844
 "cases","BC","Vancouver Island","2022-04-14",34041
-"cases","BC","Fraser","2022-04-15",159997
+"cases","BC","Fraser","2022-04-15",159996
 "cases","BC","Interior","2022-04-15",63856
-"cases","BC","Northern","2022-04-15",29684
+"cases","BC","Northern","2022-04-15",29683
 "cases","BC","Out of Canada","2022-04-15",391
-"cases","BC","Vancouver Coastal","2022-04-15",72880
+"cases","BC","Vancouver Coastal","2022-04-15",72882
 "cases","BC","Vancouver Island","2022-04-15",34097
-"cases","BC","Fraser","2022-04-16",160086
+"cases","BC","Fraser","2022-04-16",160085
 "cases","BC","Interior","2022-04-16",63915
-"cases","BC","Northern","2022-04-16",29701
+"cases","BC","Northern","2022-04-16",29700
 "cases","BC","Out of Canada","2022-04-16",391
-"cases","BC","Vancouver Coastal","2022-04-16",72917
+"cases","BC","Vancouver Coastal","2022-04-16",72919
 "cases","BC","Vancouver Island","2022-04-16",34157
-"cases","BC","Fraser","2022-04-17",160176
+"cases","BC","Fraser","2022-04-17",160175
 "cases","BC","Interior","2022-04-17",63985
-"cases","BC","Northern","2022-04-17",29712
+"cases","BC","Northern","2022-04-17",29711
 "cases","BC","Out of Canada","2022-04-17",391
-"cases","BC","Vancouver Coastal","2022-04-17",72954
+"cases","BC","Vancouver Coastal","2022-04-17",72956
 "cases","BC","Vancouver Island","2022-04-17",34189
-"cases","BC","Fraser","2022-04-18",160274
+"cases","BC","Fraser","2022-04-18",160273
 "cases","BC","Interior","2022-04-18",64060
-"cases","BC","Northern","2022-04-18",29721
+"cases","BC","Northern","2022-04-18",29720
 "cases","BC","Out of Canada","2022-04-18",391
-"cases","BC","Vancouver Coastal","2022-04-18",72993
+"cases","BC","Vancouver Coastal","2022-04-18",72995
 "cases","BC","Vancouver Island","2022-04-18",34233
-"cases","BC","Fraser","2022-04-19",160450
+"cases","BC","Fraser","2022-04-19",160449
 "cases","BC","Interior","2022-04-19",64151
-"cases","BC","Northern","2022-04-19",29738
+"cases","BC","Northern","2022-04-19",29737
 "cases","BC","Out of Canada","2022-04-19",391
-"cases","BC","Vancouver Coastal","2022-04-19",73051
+"cases","BC","Vancouver Coastal","2022-04-19",73053
 "cases","BC","Vancouver Island","2022-04-19",34301
-"cases","BC","Fraser","2022-04-20",160557
+"cases","BC","Fraser","2022-04-20",160556
 "cases","BC","Interior","2022-04-20",64236
-"cases","BC","Northern","2022-04-20",29762
+"cases","BC","Northern","2022-04-20",29761
 "cases","BC","Out of Canada","2022-04-20",391
-"cases","BC","Vancouver Coastal","2022-04-20",73124
+"cases","BC","Vancouver Coastal","2022-04-20",73126
 "cases","BC","Vancouver Island","2022-04-20",34383
-"cases","BC","Fraser","2022-04-21",160675
+"cases","BC","Fraser","2022-04-21",160674
 "cases","BC","Interior","2022-04-21",64335
-"cases","BC","Northern","2022-04-21",29793
+"cases","BC","Northern","2022-04-21",29792
 "cases","BC","Out of Canada","2022-04-21",391
-"cases","BC","Vancouver Coastal","2022-04-21",73192
+"cases","BC","Vancouver Coastal","2022-04-21",73194
 "cases","BC","Vancouver Island","2022-04-21",34447
-"cases","BC","Fraser","2022-04-22",160830
+"cases","BC","Fraser","2022-04-22",160829
 "cases","BC","Interior","2022-04-22",64418
-"cases","BC","Northern","2022-04-22",29814
+"cases","BC","Northern","2022-04-22",29813
 "cases","BC","Out of Canada","2022-04-22",391
-"cases","BC","Vancouver Coastal","2022-04-22",73255
+"cases","BC","Vancouver Coastal","2022-04-22",73257
 "cases","BC","Vancouver Island","2022-04-22",34489
-"cases","BC","Fraser","2022-04-23",160917
+"cases","BC","Fraser","2022-04-23",160916
 "cases","BC","Interior","2022-04-23",64490
-"cases","BC","Northern","2022-04-23",29818
+"cases","BC","Northern","2022-04-23",29817
 "cases","BC","Out of Canada","2022-04-23",391
-"cases","BC","Vancouver Coastal","2022-04-23",73292
+"cases","BC","Vancouver Coastal","2022-04-23",73294
 "cases","BC","Vancouver Island","2022-04-23",34528
-"cases","BC","Fraser","2022-04-24",160998
+"cases","BC","Fraser","2022-04-24",160997
 "cases","BC","Interior","2022-04-24",64551
-"cases","BC","Northern","2022-04-24",29825
+"cases","BC","Northern","2022-04-24",29824
 "cases","BC","Out of Canada","2022-04-24",391
-"cases","BC","Vancouver Coastal","2022-04-24",73339
+"cases","BC","Vancouver Coastal","2022-04-24",73341
 "cases","BC","Vancouver Island","2022-04-24",34580
-"cases","BC","Fraser","2022-04-25",161151
+"cases","BC","Fraser","2022-04-25",161150
 "cases","BC","Interior","2022-04-25",64646
-"cases","BC","Northern","2022-04-25",29853
+"cases","BC","Northern","2022-04-25",29852
 "cases","BC","Out of Canada","2022-04-25",391
-"cases","BC","Vancouver Coastal","2022-04-25",73397
+"cases","BC","Vancouver Coastal","2022-04-25",73399
 "cases","BC","Vancouver Island","2022-04-25",34628
-"cases","BC","Fraser","2022-04-26",161292
+"cases","BC","Fraser","2022-04-26",161291
 "cases","BC","Interior","2022-04-26",64764
-"cases","BC","Northern","2022-04-26",29866
+"cases","BC","Northern","2022-04-26",29865
 "cases","BC","Out of Canada","2022-04-26",391
-"cases","BC","Vancouver Coastal","2022-04-26",73473
+"cases","BC","Vancouver Coastal","2022-04-26",73475
 "cases","BC","Vancouver Island","2022-04-26",34700
-"cases","BC","Fraser","2022-04-27",161439
+"cases","BC","Fraser","2022-04-27",161438
 "cases","BC","Interior","2022-04-27",64827
-"cases","BC","Northern","2022-04-27",29884
+"cases","BC","Northern","2022-04-27",29883
 "cases","BC","Out of Canada","2022-04-27",391
-"cases","BC","Vancouver Coastal","2022-04-27",73531
+"cases","BC","Vancouver Coastal","2022-04-27",73533
 "cases","BC","Vancouver Island","2022-04-27",34768
-"cases","BC","Fraser","2022-04-28",161577
+"cases","BC","Fraser","2022-04-28",161576
 "cases","BC","Interior","2022-04-28",64904
-"cases","BC","Northern","2022-04-28",29910
+"cases","BC","Northern","2022-04-28",29909
 "cases","BC","Out of Canada","2022-04-28",391
-"cases","BC","Vancouver Coastal","2022-04-28",73586
+"cases","BC","Vancouver Coastal","2022-04-28",73588
 "cases","BC","Vancouver Island","2022-04-28",34835
-"cases","BC","Fraser","2022-04-29",161677
+"cases","BC","Fraser","2022-04-29",161676
 "cases","BC","Interior","2022-04-29",64976
-"cases","BC","Northern","2022-04-29",29932
+"cases","BC","Northern","2022-04-29",29931
 "cases","BC","Out of Canada","2022-04-29",391
-"cases","BC","Vancouver Coastal","2022-04-29",73634
+"cases","BC","Vancouver Coastal","2022-04-29",73636
 "cases","BC","Vancouver Island","2022-04-29",34857
-"cases","BC","Fraser","2022-04-30",161784
+"cases","BC","Fraser","2022-04-30",161783
 "cases","BC","Interior","2022-04-30",65016
-"cases","BC","Northern","2022-04-30",29947
+"cases","BC","Northern","2022-04-30",29946
 "cases","BC","Out of Canada","2022-04-30",391
-"cases","BC","Vancouver Coastal","2022-04-30",73675
+"cases","BC","Vancouver Coastal","2022-04-30",73677
 "cases","BC","Vancouver Island","2022-04-30",34907
-"cases","BC","Fraser","2022-05-01",161882
+"cases","BC","Fraser","2022-05-01",161881
 "cases","BC","Interior","2022-05-01",65070
-"cases","BC","Northern","2022-05-01",29954
+"cases","BC","Northern","2022-05-01",29953
 "cases","BC","Out of Canada","2022-05-01",391
-"cases","BC","Vancouver Coastal","2022-05-01",73717
+"cases","BC","Vancouver Coastal","2022-05-01",73719
 "cases","BC","Vancouver Island","2022-05-01",34947
-"cases","BC","Fraser","2022-05-02",161980
+"cases","BC","Fraser","2022-05-02",161979
 "cases","BC","Interior","2022-05-02",65148
-"cases","BC","Northern","2022-05-02",29971
+"cases","BC","Northern","2022-05-02",29970
 "cases","BC","Out of Canada","2022-05-02",391
-"cases","BC","Vancouver Coastal","2022-05-02",73764
+"cases","BC","Vancouver Coastal","2022-05-02",73766
 "cases","BC","Vancouver Island","2022-05-02",35001
-"cases","BC","Fraser","2022-05-03",162080
+"cases","BC","Fraser","2022-05-03",162079
 "cases","BC","Interior","2022-05-03",65237
-"cases","BC","Northern","2022-05-03",29982
+"cases","BC","Northern","2022-05-03",29981
 "cases","BC","Out of Canada","2022-05-03",391
-"cases","BC","Vancouver Coastal","2022-05-03",73815
+"cases","BC","Vancouver Coastal","2022-05-03",73817
 "cases","BC","Vancouver Island","2022-05-03",35060
-"cases","BC","Fraser","2022-05-04",162189
+"cases","BC","Fraser","2022-05-04",162188
 "cases","BC","Interior","2022-05-04",65308
-"cases","BC","Northern","2022-05-04",29999
+"cases","BC","Northern","2022-05-04",29998
 "cases","BC","Out of Canada","2022-05-04",391
-"cases","BC","Vancouver Coastal","2022-05-04",73856
+"cases","BC","Vancouver Coastal","2022-05-04",73858
 "cases","BC","Vancouver Island","2022-05-04",35136
-"cases","BC","Fraser","2022-05-05",162329
+"cases","BC","Fraser","2022-05-05",162328
 "cases","BC","Interior","2022-05-05",65365
-"cases","BC","Northern","2022-05-05",30016
+"cases","BC","Northern","2022-05-05",30015
 "cases","BC","Out of Canada","2022-05-05",391
-"cases","BC","Vancouver Coastal","2022-05-05",73915
+"cases","BC","Vancouver Coastal","2022-05-05",73917
 "cases","BC","Vancouver Island","2022-05-05",35184
-"cases","BC","Fraser","2022-05-06",162437
+"cases","BC","Fraser","2022-05-06",162436
 "cases","BC","Interior","2022-05-06",65423
-"cases","BC","Northern","2022-05-06",30027
+"cases","BC","Northern","2022-05-06",30026
 "cases","BC","Out of Canada","2022-05-06",391
-"cases","BC","Vancouver Coastal","2022-05-06",73966
+"cases","BC","Vancouver Coastal","2022-05-06",73968
 "cases","BC","Vancouver Island","2022-05-06",35242
-"cases","BC","Fraser","2022-05-07",162524
+"cases","BC","Fraser","2022-05-07",162523
 "cases","BC","Interior","2022-05-07",65458
-"cases","BC","Northern","2022-05-07",30044
+"cases","BC","Northern","2022-05-07",30043
 "cases","BC","Out of Canada","2022-05-07",391
-"cases","BC","Vancouver Coastal","2022-05-07",74008
+"cases","BC","Vancouver Coastal","2022-05-07",74010
 "cases","BC","Vancouver Island","2022-05-07",35279
-"cases","BC","Fraser","2022-05-08",162580
+"cases","BC","Fraser","2022-05-08",162579
 "cases","BC","Interior","2022-05-08",65489
-"cases","BC","Northern","2022-05-08",30055
+"cases","BC","Northern","2022-05-08",30054
 "cases","BC","Out of Canada","2022-05-08",391
-"cases","BC","Vancouver Coastal","2022-05-08",74053
+"cases","BC","Vancouver Coastal","2022-05-08",74055
 "cases","BC","Vancouver Island","2022-05-08",35315
-"cases","BC","Fraser","2022-05-09",162678
+"cases","BC","Fraser","2022-05-09",162677
 "cases","BC","Interior","2022-05-09",65554
-"cases","BC","Northern","2022-05-09",30064
+"cases","BC","Northern","2022-05-09",30063
 "cases","BC","Out of Canada","2022-05-09",391
-"cases","BC","Vancouver Coastal","2022-05-09",74088
+"cases","BC","Vancouver Coastal","2022-05-09",74090
 "cases","BC","Vancouver Island","2022-05-09",35359
-"cases","BC","Fraser","2022-05-10",162766
+"cases","BC","Fraser","2022-05-10",162765
 "cases","BC","Interior","2022-05-10",65625
-"cases","BC","Northern","2022-05-10",30080
+"cases","BC","Northern","2022-05-10",30079
 "cases","BC","Out of Canada","2022-05-10",391
-"cases","BC","Vancouver Coastal","2022-05-10",74132
+"cases","BC","Vancouver Coastal","2022-05-10",74134
 "cases","BC","Vancouver Island","2022-05-10",35425
-"cases","BC","Fraser","2022-05-11",162844
+"cases","BC","Fraser","2022-05-11",162843
 "cases","BC","Interior","2022-05-11",65682
-"cases","BC","Northern","2022-05-11",30102
+"cases","BC","Northern","2022-05-11",30101
 "cases","BC","Out of Canada","2022-05-11",391
-"cases","BC","Vancouver Coastal","2022-05-11",74184
+"cases","BC","Vancouver Coastal","2022-05-11",74186
 "cases","BC","Vancouver Island","2022-05-11",35466
-"cases","BC","Fraser","2022-05-12",162950
+"cases","BC","Fraser","2022-05-12",162949
 "cases","BC","Interior","2022-05-12",65755
-"cases","BC","Northern","2022-05-12",30108
+"cases","BC","Northern","2022-05-12",30107
 "cases","BC","Out of Canada","2022-05-12",391
-"cases","BC","Vancouver Coastal","2022-05-12",74234
+"cases","BC","Vancouver Coastal","2022-05-12",74236
 "cases","BC","Vancouver Island","2022-05-12",35499
-"cases","BC","Fraser","2022-05-13",163022
+"cases","BC","Fraser","2022-05-13",163021
 "cases","BC","Interior","2022-05-13",65802
-"cases","BC","Northern","2022-05-13",30129
+"cases","BC","Northern","2022-05-13",30128
 "cases","BC","Out of Canada","2022-05-13",391
-"cases","BC","Vancouver Coastal","2022-05-13",74289
+"cases","BC","Vancouver Coastal","2022-05-13",74291
 "cases","BC","Vancouver Island","2022-05-13",35526
-"cases","BC","Fraser","2022-05-14",163115
+"cases","BC","Fraser","2022-05-14",163114
 "cases","BC","Interior","2022-05-14",65829
-"cases","BC","Northern","2022-05-14",30137
+"cases","BC","Northern","2022-05-14",30136
 "cases","BC","Out of Canada","2022-05-14",391
-"cases","BC","Vancouver Coastal","2022-05-14",74330
+"cases","BC","Vancouver Coastal","2022-05-14",74332
 "cases","BC","Vancouver Island","2022-05-14",35545
-"cases","BC","Fraser","2022-05-15",163177
+"cases","BC","Fraser","2022-05-15",163176
 "cases","BC","Interior","2022-05-15",65863
-"cases","BC","Northern","2022-05-15",30142
+"cases","BC","Northern","2022-05-15",30141
 "cases","BC","Out of Canada","2022-05-15",391
-"cases","BC","Vancouver Coastal","2022-05-15",74366
+"cases","BC","Vancouver Coastal","2022-05-15",74368
 "cases","BC","Vancouver Island","2022-05-15",35574
-"cases","BC","Fraser","2022-05-16",163252
+"cases","BC","Fraser","2022-05-16",163251
 "cases","BC","Interior","2022-05-16",65917
-"cases","BC","Northern","2022-05-16",30155
+"cases","BC","Northern","2022-05-16",30154
 "cases","BC","Out of Canada","2022-05-16",391
-"cases","BC","Vancouver Coastal","2022-05-16",74409
+"cases","BC","Vancouver Coastal","2022-05-16",74411
 "cases","BC","Vancouver Island","2022-05-16",35604
-"cases","BC","Fraser","2022-05-17",163312
+"cases","BC","Fraser","2022-05-17",163311
 "cases","BC","Interior","2022-05-17",65951
-"cases","BC","Northern","2022-05-17",30174
+"cases","BC","Northern","2022-05-17",30173
 "cases","BC","Out of Canada","2022-05-17",391
-"cases","BC","Vancouver Coastal","2022-05-17",74463
+"cases","BC","Vancouver Coastal","2022-05-17",74465
 "cases","BC","Vancouver Island","2022-05-17",35655
-"cases","BC","Fraser","2022-05-18",163395
+"cases","BC","Fraser","2022-05-18",163394
 "cases","BC","Interior","2022-05-18",65998
-"cases","BC","Northern","2022-05-18",30178
+"cases","BC","Northern","2022-05-18",30177
 "cases","BC","Out of Canada","2022-05-18",391
-"cases","BC","Vancouver Coastal","2022-05-18",74513
+"cases","BC","Vancouver Coastal","2022-05-18",74515
 "cases","BC","Vancouver Island","2022-05-18",35680
-"cases","BC","Fraser","2022-05-19",163458
+"cases","BC","Fraser","2022-05-19",163457
 "cases","BC","Interior","2022-05-19",66031
-"cases","BC","Northern","2022-05-19",30194
+"cases","BC","Northern","2022-05-19",30193
 "cases","BC","Out of Canada","2022-05-19",391
-"cases","BC","Vancouver Coastal","2022-05-19",74554
+"cases","BC","Vancouver Coastal","2022-05-19",74556
 "cases","BC","Vancouver Island","2022-05-19",35714
-"cases","BC","Fraser","2022-05-20",163522
+"cases","BC","Fraser","2022-05-20",163521
 "cases","BC","Interior","2022-05-20",66067
-"cases","BC","Northern","2022-05-20",30214
+"cases","BC","Northern","2022-05-20",30213
 "cases","BC","Out of Canada","2022-05-20",391
-"cases","BC","Vancouver Coastal","2022-05-20",74584
+"cases","BC","Vancouver Coastal","2022-05-20",74586
 "cases","BC","Vancouver Island","2022-05-20",35748
-"cases","BC","Fraser","2022-05-21",163581
+"cases","BC","Fraser","2022-05-21",163580
 "cases","BC","Interior","2022-05-21",66109
-"cases","BC","Northern","2022-05-21",30223
+"cases","BC","Northern","2022-05-21",30222
 "cases","BC","Out of Canada","2022-05-21",391
-"cases","BC","Vancouver Coastal","2022-05-21",74625
+"cases","BC","Vancouver Coastal","2022-05-21",74627
 "cases","BC","Vancouver Island","2022-05-21",35776
-"cases","BC","Fraser","2022-05-22",163642
+"cases","BC","Fraser","2022-05-22",163641
 "cases","BC","Interior","2022-05-22",66128
-"cases","BC","Northern","2022-05-22",30232
+"cases","BC","Northern","2022-05-22",30231
 "cases","BC","Out of Canada","2022-05-22",391
-"cases","BC","Vancouver Coastal","2022-05-22",74675
+"cases","BC","Vancouver Coastal","2022-05-22",74677
 "cases","BC","Vancouver Island","2022-05-22",35802
-"cases","BC","Fraser","2022-05-23",163694
+"cases","BC","Fraser","2022-05-23",163693
 "cases","BC","Interior","2022-05-23",66161
-"cases","BC","Northern","2022-05-23",30239
+"cases","BC","Northern","2022-05-23",30238
 "cases","BC","Out of Canada","2022-05-23",391
-"cases","BC","Vancouver Coastal","2022-05-23",74703
+"cases","BC","Vancouver Coastal","2022-05-23",74705
 "cases","BC","Vancouver Island","2022-05-23",35826
-"cases","BC","Fraser","2022-05-24",163765
+"cases","BC","Fraser","2022-05-24",163764
 "cases","BC","Interior","2022-05-24",66198
-"cases","BC","Northern","2022-05-24",30255
+"cases","BC","Northern","2022-05-24",30254
 "cases","BC","Out of Canada","2022-05-24",391
-"cases","BC","Vancouver Coastal","2022-05-24",74762
+"cases","BC","Vancouver Coastal","2022-05-24",74764
 "cases","BC","Vancouver Island","2022-05-24",35855
-"cases","BC","Fraser","2022-05-25",163829
+"cases","BC","Fraser","2022-05-25",163828
 "cases","BC","Interior","2022-05-25",66228
-"cases","BC","Northern","2022-05-25",30271
+"cases","BC","Northern","2022-05-25",30270
 "cases","BC","Out of Canada","2022-05-25",391
-"cases","BC","Vancouver Coastal","2022-05-25",74809
+"cases","BC","Vancouver Coastal","2022-05-25",74811
 "cases","BC","Vancouver Island","2022-05-25",35887
-"cases","BC","Fraser","2022-05-26",163890
+"cases","BC","Fraser","2022-05-26",163889
 "cases","BC","Interior","2022-05-26",66267
-"cases","BC","Northern","2022-05-26",30278
+"cases","BC","Northern","2022-05-26",30277
 "cases","BC","Out of Canada","2022-05-26",391
-"cases","BC","Vancouver Coastal","2022-05-26",74842
+"cases","BC","Vancouver Coastal","2022-05-26",74844
 "cases","BC","Vancouver Island","2022-05-26",35917
-"cases","BC","Fraser","2022-05-27",163946
+"cases","BC","Fraser","2022-05-27",163945
 "cases","BC","Interior","2022-05-27",66308
-"cases","BC","Northern","2022-05-27",30286
+"cases","BC","Northern","2022-05-27",30285
 "cases","BC","Out of Canada","2022-05-27",391
-"cases","BC","Vancouver Coastal","2022-05-27",74877
+"cases","BC","Vancouver Coastal","2022-05-27",74879
 "cases","BC","Vancouver Island","2022-05-27",35940
-"cases","BC","Fraser","2022-05-28",163995
+"cases","BC","Fraser","2022-05-28",163994
 "cases","BC","Interior","2022-05-28",66327
-"cases","BC","Northern","2022-05-28",30289
+"cases","BC","Northern","2022-05-28",30288
 "cases","BC","Out of Canada","2022-05-28",391
-"cases","BC","Vancouver Coastal","2022-05-28",74899
+"cases","BC","Vancouver Coastal","2022-05-28",74901
 "cases","BC","Vancouver Island","2022-05-28",35965
-"cases","BC","Fraser","2022-05-29",164045
+"cases","BC","Fraser","2022-05-29",164044
 "cases","BC","Interior","2022-05-29",66342
-"cases","BC","Northern","2022-05-29",30297
+"cases","BC","Northern","2022-05-29",30296
 "cases","BC","Out of Canada","2022-05-29",391
-"cases","BC","Vancouver Coastal","2022-05-29",74935
+"cases","BC","Vancouver Coastal","2022-05-29",74937
 "cases","BC","Vancouver Island","2022-05-29",35980
-"cases","BC","Fraser","2022-05-30",164098
+"cases","BC","Fraser","2022-05-30",164097
 "cases","BC","Interior","2022-05-30",66368
-"cases","BC","Northern","2022-05-30",30298
+"cases","BC","Northern","2022-05-30",30297
 "cases","BC","Out of Canada","2022-05-30",391
-"cases","BC","Vancouver Coastal","2022-05-30",74967
+"cases","BC","Vancouver Coastal","2022-05-30",74969
 "cases","BC","Vancouver Island","2022-05-30",36004
-"cases","BC","Fraser","2022-05-31",164140
+"cases","BC","Fraser","2022-05-31",164139
 "cases","BC","Interior","2022-05-31",66394
-"cases","BC","Northern","2022-05-31",30311
+"cases","BC","Northern","2022-05-31",30310
 "cases","BC","Out of Canada","2022-05-31",391
-"cases","BC","Vancouver Coastal","2022-05-31",75008
+"cases","BC","Vancouver Coastal","2022-05-31",75010
 "cases","BC","Vancouver Island","2022-05-31",36034
-"cases","BC","Fraser","2022-06-01",164192
+"cases","BC","Fraser","2022-06-01",164191
 "cases","BC","Interior","2022-06-01",66415
-"cases","BC","Northern","2022-06-01",30320
+"cases","BC","Northern","2022-06-01",30319
 "cases","BC","Out of Canada","2022-06-01",391
-"cases","BC","Vancouver Coastal","2022-06-01",75038
+"cases","BC","Vancouver Coastal","2022-06-01",75040
 "cases","BC","Vancouver Island","2022-06-01",36062
-"cases","BC","Fraser","2022-06-02",164232
+"cases","BC","Fraser","2022-06-02",164231
 "cases","BC","Interior","2022-06-02",66448
-"cases","BC","Northern","2022-06-02",30323
+"cases","BC","Northern","2022-06-02",30322
 "cases","BC","Out of Canada","2022-06-02",391
-"cases","BC","Vancouver Coastal","2022-06-02",75071
+"cases","BC","Vancouver Coastal","2022-06-02",75073
 "cases","BC","Vancouver Island","2022-06-02",36078
-"cases","BC","Fraser","2022-06-03",164289
+"cases","BC","Fraser","2022-06-03",164288
 "cases","BC","Interior","2022-06-03",66464
-"cases","BC","Northern","2022-06-03",30326
+"cases","BC","Northern","2022-06-03",30325
 "cases","BC","Out of Canada","2022-06-03",391
-"cases","BC","Vancouver Coastal","2022-06-03",75090
+"cases","BC","Vancouver Coastal","2022-06-03",75092
 "cases","BC","Vancouver Island","2022-06-03",36107
-"cases","BC","Fraser","2022-06-04",164322
+"cases","BC","Fraser","2022-06-04",164321
 "cases","BC","Interior","2022-06-04",66477
-"cases","BC","Northern","2022-06-04",30333
+"cases","BC","Northern","2022-06-04",30332
 "cases","BC","Out of Canada","2022-06-04",391
-"cases","BC","Vancouver Coastal","2022-06-04",75111
+"cases","BC","Vancouver Coastal","2022-06-04",75113
 "cases","BC","Vancouver Island","2022-06-04",36126
-"cases","BC","Fraser","2022-06-05",164357
+"cases","BC","Fraser","2022-06-05",164356
 "cases","BC","Interior","2022-06-05",66503
-"cases","BC","Northern","2022-06-05",30334
+"cases","BC","Northern","2022-06-05",30333
 "cases","BC","Out of Canada","2022-06-05",391
-"cases","BC","Vancouver Coastal","2022-06-05",75130
+"cases","BC","Vancouver Coastal","2022-06-05",75132
 "cases","BC","Vancouver Island","2022-06-05",36151
-"cases","BC","Fraser","2022-06-06",164407
+"cases","BC","Fraser","2022-06-06",164406
 "cases","BC","Interior","2022-06-06",66518
-"cases","BC","Northern","2022-06-06",30337
+"cases","BC","Northern","2022-06-06",30336
 "cases","BC","Out of Canada","2022-06-06",391
-"cases","BC","Vancouver Coastal","2022-06-06",75150
+"cases","BC","Vancouver Coastal","2022-06-06",75152
 "cases","BC","Vancouver Island","2022-06-06",36163
-"cases","BC","Fraser","2022-06-07",164459
+"cases","BC","Fraser","2022-06-07",164458
 "cases","BC","Interior","2022-06-07",66540
-"cases","BC","Northern","2022-06-07",30349
+"cases","BC","Northern","2022-06-07",30348
 "cases","BC","Out of Canada","2022-06-07",391
-"cases","BC","Vancouver Coastal","2022-06-07",75177
+"cases","BC","Vancouver Coastal","2022-06-07",75179
 "cases","BC","Vancouver Island","2022-06-07",36180
-"cases","BC","Fraser","2022-06-08",164504
+"cases","BC","Fraser","2022-06-08",164503
 "cases","BC","Interior","2022-06-08",66551
-"cases","BC","Northern","2022-06-08",30354
+"cases","BC","Northern","2022-06-08",30353
 "cases","BC","Out of Canada","2022-06-08",391
-"cases","BC","Vancouver Coastal","2022-06-08",75196
+"cases","BC","Vancouver Coastal","2022-06-08",75198
 "cases","BC","Vancouver Island","2022-06-08",36201
-"cases","BC","Fraser","2022-06-09",164533
+"cases","BC","Fraser","2022-06-09",164532
 "cases","BC","Interior","2022-06-09",66565
-"cases","BC","Northern","2022-06-09",30363
+"cases","BC","Northern","2022-06-09",30362
 "cases","BC","Out of Canada","2022-06-09",391
-"cases","BC","Vancouver Coastal","2022-06-09",75211
+"cases","BC","Vancouver Coastal","2022-06-09",75213
 "cases","BC","Vancouver Island","2022-06-09",36232
-"cases","BC","Fraser","2022-06-10",164586
+"cases","BC","Fraser","2022-06-10",164585
 "cases","BC","Interior","2022-06-10",66579
-"cases","BC","Northern","2022-06-10",30373
+"cases","BC","Northern","2022-06-10",30372
 "cases","BC","Out of Canada","2022-06-10",391
-"cases","BC","Vancouver Coastal","2022-06-10",75239
+"cases","BC","Vancouver Coastal","2022-06-10",75241
 "cases","BC","Vancouver Island","2022-06-10",36246
-"cases","BC","Fraser","2022-06-11",164612
+"cases","BC","Fraser","2022-06-11",164611
 "cases","BC","Interior","2022-06-11",66593
-"cases","BC","Northern","2022-06-11",30377
+"cases","BC","Northern","2022-06-11",30376
 "cases","BC","Out of Canada","2022-06-11",391
-"cases","BC","Vancouver Coastal","2022-06-11",75254
+"cases","BC","Vancouver Coastal","2022-06-11",75256
 "cases","BC","Vancouver Island","2022-06-11",36259
-"cases","BC","Fraser","2022-06-12",164654
+"cases","BC","Fraser","2022-06-12",164653
 "cases","BC","Interior","2022-06-12",66594
-"cases","BC","Northern","2022-06-12",30381
+"cases","BC","Northern","2022-06-12",30380
 "cases","BC","Out of Canada","2022-06-12",391
-"cases","BC","Vancouver Coastal","2022-06-12",75271
+"cases","BC","Vancouver Coastal","2022-06-12",75273
 "cases","BC","Vancouver Island","2022-06-12",36280
-"cases","BC","Fraser","2022-06-13",164699
+"cases","BC","Fraser","2022-06-13",164698
 "cases","BC","Interior","2022-06-13",66620
-"cases","BC","Northern","2022-06-13",30388
+"cases","BC","Northern","2022-06-13",30387
 "cases","BC","Out of Canada","2022-06-13",391
-"cases","BC","Vancouver Coastal","2022-06-13",75297
+"cases","BC","Vancouver Coastal","2022-06-13",75299
 "cases","BC","Vancouver Island","2022-06-13",36304
-"cases","BC","Fraser","2022-06-14",164737
+"cases","BC","Fraser","2022-06-14",164736
 "cases","BC","Interior","2022-06-14",66632
-"cases","BC","Northern","2022-06-14",30396
+"cases","BC","Northern","2022-06-14",30395
 "cases","BC","Out of Canada","2022-06-14",391
-"cases","BC","Vancouver Coastal","2022-06-14",75324
+"cases","BC","Vancouver Coastal","2022-06-14",75326
 "cases","BC","Vancouver Island","2022-06-14",36332
-"cases","BC","Fraser","2022-06-15",164772
+"cases","BC","Fraser","2022-06-15",164771
 "cases","BC","Interior","2022-06-15",66648
-"cases","BC","Northern","2022-06-15",30402
+"cases","BC","Northern","2022-06-15",30401
 "cases","BC","Out of Canada","2022-06-15",391
-"cases","BC","Vancouver Coastal","2022-06-15",75339
+"cases","BC","Vancouver Coastal","2022-06-15",75341
 "cases","BC","Vancouver Island","2022-06-15",36344
-"cases","BC","Fraser","2022-06-16",164804
+"cases","BC","Fraser","2022-06-16",164803
 "cases","BC","Interior","2022-06-16",66654
-"cases","BC","Northern","2022-06-16",30406
+"cases","BC","Northern","2022-06-16",30405
 "cases","BC","Out of Canada","2022-06-16",391
-"cases","BC","Vancouver Coastal","2022-06-16",75355
+"cases","BC","Vancouver Coastal","2022-06-16",75357
 "cases","BC","Vancouver Island","2022-06-16",36357
-"cases","BC","Fraser","2022-06-17",164839
+"cases","BC","Fraser","2022-06-17",164838
 "cases","BC","Interior","2022-06-17",66671
-"cases","BC","Northern","2022-06-17",30415
+"cases","BC","Northern","2022-06-17",30414
 "cases","BC","Out of Canada","2022-06-17",391
-"cases","BC","Vancouver Coastal","2022-06-17",75381
+"cases","BC","Vancouver Coastal","2022-06-17",75383
 "cases","BC","Vancouver Island","2022-06-17",36373
-"cases","BC","Fraser","2022-06-18",164861
+"cases","BC","Fraser","2022-06-18",164860
 "cases","BC","Interior","2022-06-18",66676
-"cases","BC","Northern","2022-06-18",30418
+"cases","BC","Northern","2022-06-18",30417
 "cases","BC","Out of Canada","2022-06-18",391
-"cases","BC","Vancouver Coastal","2022-06-18",75401
+"cases","BC","Vancouver Coastal","2022-06-18",75403
 "cases","BC","Vancouver Island","2022-06-18",36381
-"cases","BC","Fraser","2022-06-19",164884
+"cases","BC","Fraser","2022-06-19",164883
 "cases","BC","Interior","2022-06-19",66687
-"cases","BC","Northern","2022-06-19",30421
+"cases","BC","Northern","2022-06-19",30420
 "cases","BC","Out of Canada","2022-06-19",391
-"cases","BC","Vancouver Coastal","2022-06-19",75418
+"cases","BC","Vancouver Coastal","2022-06-19",75420
 "cases","BC","Vancouver Island","2022-06-19",36397
-"cases","BC","Fraser","2022-06-20",164918
+"cases","BC","Fraser","2022-06-20",164917
 "cases","BC","Interior","2022-06-20",66694
-"cases","BC","Northern","2022-06-20",30423
+"cases","BC","Northern","2022-06-20",30422
 "cases","BC","Out of Canada","2022-06-20",391
-"cases","BC","Vancouver Coastal","2022-06-20",75439
+"cases","BC","Vancouver Coastal","2022-06-20",75441
 "cases","BC","Vancouver Island","2022-06-20",36414
-"cases","BC","Fraser","2022-06-21",164952
+"cases","BC","Fraser","2022-06-21",164951
 "cases","BC","Interior","2022-06-21",66708
-"cases","BC","Northern","2022-06-21",30430
+"cases","BC","Northern","2022-06-21",30429
 "cases","BC","Out of Canada","2022-06-21",391
-"cases","BC","Vancouver Coastal","2022-06-21",75469
+"cases","BC","Vancouver Coastal","2022-06-21",75471
 "cases","BC","Vancouver Island","2022-06-21",36434
-"cases","BC","Fraser","2022-06-22",164995
+"cases","BC","Fraser","2022-06-22",164994
 "cases","BC","Interior","2022-06-22",66723
-"cases","BC","Northern","2022-06-22",30437
+"cases","BC","Northern","2022-06-22",30436
 "cases","BC","Out of Canada","2022-06-22",391
-"cases","BC","Vancouver Coastal","2022-06-22",75487
+"cases","BC","Vancouver Coastal","2022-06-22",75489
 "cases","BC","Vancouver Island","2022-06-22",36459
-"cases","BC","Fraser","2022-06-23",165033
+"cases","BC","Fraser","2022-06-23",165032
 "cases","BC","Interior","2022-06-23",66732
-"cases","BC","Northern","2022-06-23",30442
+"cases","BC","Northern","2022-06-23",30441
 "cases","BC","Out of Canada","2022-06-23",391
-"cases","BC","Vancouver Coastal","2022-06-23",75515
+"cases","BC","Vancouver Coastal","2022-06-23",75517
 "cases","BC","Vancouver Island","2022-06-23",36479
-"cases","BC","Fraser","2022-06-24",165073
+"cases","BC","Fraser","2022-06-24",165072
 "cases","BC","Interior","2022-06-24",66739
-"cases","BC","Northern","2022-06-24",30447
+"cases","BC","Northern","2022-06-24",30446
 "cases","BC","Out of Canada","2022-06-24",391
-"cases","BC","Vancouver Coastal","2022-06-24",75529
+"cases","BC","Vancouver Coastal","2022-06-24",75531
 "cases","BC","Vancouver Island","2022-06-24",36496
-"cases","BC","Fraser","2022-06-25",165112
+"cases","BC","Fraser","2022-06-25",165111
 "cases","BC","Interior","2022-06-25",66748
-"cases","BC","Northern","2022-06-25",30449
+"cases","BC","Northern","2022-06-25",30448
 "cases","BC","Out of Canada","2022-06-25",391
-"cases","BC","Vancouver Coastal","2022-06-25",75538
+"cases","BC","Vancouver Coastal","2022-06-25",75540
 "cases","BC","Vancouver Island","2022-06-25",36511
-"cases","BC","Fraser","2022-06-26",165157
+"cases","BC","Fraser","2022-06-26",165156
 "cases","BC","Interior","2022-06-26",66755
-"cases","BC","Northern","2022-06-26",30454
+"cases","BC","Northern","2022-06-26",30453
 "cases","BC","Out of Canada","2022-06-26",391
-"cases","BC","Vancouver Coastal","2022-06-26",75551
+"cases","BC","Vancouver Coastal","2022-06-26",75553
 "cases","BC","Vancouver Island","2022-06-26",36529
-"cases","BC","Fraser","2022-06-27",165204
+"cases","BC","Fraser","2022-06-27",165203
 "cases","BC","Interior","2022-06-27",66779
-"cases","BC","Northern","2022-06-27",30457
+"cases","BC","Northern","2022-06-27",30456
 "cases","BC","Out of Canada","2022-06-27",391
-"cases","BC","Vancouver Coastal","2022-06-27",75567
+"cases","BC","Vancouver Coastal","2022-06-27",75569
 "cases","BC","Vancouver Island","2022-06-27",36545
-"cases","BC","Fraser","2022-06-28",165247
+"cases","BC","Fraser","2022-06-28",165246
 "cases","BC","Interior","2022-06-28",66793
-"cases","BC","Northern","2022-06-28",30464
+"cases","BC","Northern","2022-06-28",30463
 "cases","BC","Out of Canada","2022-06-28",391
-"cases","BC","Vancouver Coastal","2022-06-28",75595
+"cases","BC","Vancouver Coastal","2022-06-28",75597
 "cases","BC","Vancouver Island","2022-06-28",36570
-"cases","BC","Fraser","2022-06-29",165286
+"cases","BC","Fraser","2022-06-29",165285
 "cases","BC","Interior","2022-06-29",66805
-"cases","BC","Northern","2022-06-29",30468
+"cases","BC","Northern","2022-06-29",30467
 "cases","BC","Out of Canada","2022-06-29",391
-"cases","BC","Vancouver Coastal","2022-06-29",75625
+"cases","BC","Vancouver Coastal","2022-06-29",75627
 "cases","BC","Vancouver Island","2022-06-29",36592
-"cases","BC","Fraser","2022-06-30",165346
+"cases","BC","Fraser","2022-06-30",165345
 "cases","BC","Interior","2022-06-30",66815
-"cases","BC","Northern","2022-06-30",30473
+"cases","BC","Northern","2022-06-30",30472
 "cases","BC","Out of Canada","2022-06-30",391
-"cases","BC","Vancouver Coastal","2022-06-30",75644
+"cases","BC","Vancouver Coastal","2022-06-30",75646
 "cases","BC","Vancouver Island","2022-06-30",36608
-"cases","BC","Fraser","2022-07-01",165404
+"cases","BC","Fraser","2022-07-01",165403
 "cases","BC","Interior","2022-07-01",66837
-"cases","BC","Northern","2022-07-01",30477
+"cases","BC","Northern","2022-07-01",30476
 "cases","BC","Out of Canada","2022-07-01",391
-"cases","BC","Vancouver Coastal","2022-07-01",75674
+"cases","BC","Vancouver Coastal","2022-07-01",75676
 "cases","BC","Vancouver Island","2022-07-01",36630
-"cases","BC","Fraser","2022-07-02",165452
+"cases","BC","Fraser","2022-07-02",165451
 "cases","BC","Interior","2022-07-02",66845
-"cases","BC","Northern","2022-07-02",30483
+"cases","BC","Northern","2022-07-02",30482
 "cases","BC","Out of Canada","2022-07-02",391
-"cases","BC","Vancouver Coastal","2022-07-02",75694
+"cases","BC","Vancouver Coastal","2022-07-02",75696
 "cases","BC","Vancouver Island","2022-07-02",36651
-"cases","BC","Fraser","2022-07-03",165492
+"cases","BC","Fraser","2022-07-03",165491
 "cases","BC","Interior","2022-07-03",66859
-"cases","BC","Northern","2022-07-03",30490
+"cases","BC","Northern","2022-07-03",30489
 "cases","BC","Out of Canada","2022-07-03",391
-"cases","BC","Vancouver Coastal","2022-07-03",75731
+"cases","BC","Vancouver Coastal","2022-07-03",75733
 "cases","BC","Vancouver Island","2022-07-03",36666
-"cases","BC","Fraser","2022-07-04",165559
+"cases","BC","Fraser","2022-07-04",165558
 "cases","BC","Interior","2022-07-04",66875
-"cases","BC","Northern","2022-07-04",30502
+"cases","BC","Northern","2022-07-04",30501
 "cases","BC","Out of Canada","2022-07-04",391
-"cases","BC","Vancouver Coastal","2022-07-04",75771
+"cases","BC","Vancouver Coastal","2022-07-04",75773
 "cases","BC","Vancouver Island","2022-07-04",36686
-"cases","BC","Fraser","2022-07-05",165619
+"cases","BC","Fraser","2022-07-05",165618
 "cases","BC","Interior","2022-07-05",66893
-"cases","BC","Northern","2022-07-05",30513
+"cases","BC","Northern","2022-07-05",30512
 "cases","BC","Out of Canada","2022-07-05",391
-"cases","BC","Vancouver Coastal","2022-07-05",75802
+"cases","BC","Vancouver Coastal","2022-07-05",75804
 "cases","BC","Vancouver Island","2022-07-05",36718
-"cases","BC","Fraser","2022-07-06",165667
+"cases","BC","Fraser","2022-07-06",165666
 "cases","BC","Interior","2022-07-06",66916
-"cases","BC","Northern","2022-07-06",30523
+"cases","BC","Northern","2022-07-06",30522
 "cases","BC","Out of Canada","2022-07-06",391
-"cases","BC","Vancouver Coastal","2022-07-06",75832
+"cases","BC","Vancouver Coastal","2022-07-06",75834
 "cases","BC","Vancouver Island","2022-07-06",36751
-"cases","BC","Fraser","2022-07-07",165734
+"cases","BC","Fraser","2022-07-07",165733
 "cases","BC","Interior","2022-07-07",66930
-"cases","BC","Northern","2022-07-07",30528
+"cases","BC","Northern","2022-07-07",30527
 "cases","BC","Out of Canada","2022-07-07",391
-"cases","BC","Vancouver Coastal","2022-07-07",75862
+"cases","BC","Vancouver Coastal","2022-07-07",75864
 "cases","BC","Vancouver Island","2022-07-07",36787
-"cases","BC","Fraser","2022-07-08",165780
+"cases","BC","Fraser","2022-07-08",165779
 "cases","BC","Interior","2022-07-08",66943
-"cases","BC","Northern","2022-07-08",30542
+"cases","BC","Northern","2022-07-08",30541
 "cases","BC","Out of Canada","2022-07-08",391
-"cases","BC","Vancouver Coastal","2022-07-08",75895
+"cases","BC","Vancouver Coastal","2022-07-08",75897
 "cases","BC","Vancouver Island","2022-07-08",36818
-"cases","BC","Fraser","2022-07-09",165835
+"cases","BC","Fraser","2022-07-09",165834
 "cases","BC","Interior","2022-07-09",66955
-"cases","BC","Northern","2022-07-09",30548
+"cases","BC","Northern","2022-07-09",30547
 "cases","BC","Out of Canada","2022-07-09",391
-"cases","BC","Vancouver Coastal","2022-07-09",75919
+"cases","BC","Vancouver Coastal","2022-07-09",75921
 "cases","BC","Vancouver Island","2022-07-09",36841
-"cases","BC","Fraser","2022-07-10",165895
+"cases","BC","Fraser","2022-07-10",165894
 "cases","BC","Interior","2022-07-10",66966
-"cases","BC","Northern","2022-07-10",30555
+"cases","BC","Northern","2022-07-10",30554
 "cases","BC","Out of Canada","2022-07-10",391
-"cases","BC","Vancouver Coastal","2022-07-10",75946
+"cases","BC","Vancouver Coastal","2022-07-10",75948
 "cases","BC","Vancouver Island","2022-07-10",36869
-"cases","BC","Fraser","2022-07-11",165952
+"cases","BC","Fraser","2022-07-11",165951
 "cases","BC","Interior","2022-07-11",66983
-"cases","BC","Northern","2022-07-11",30562
+"cases","BC","Northern","2022-07-11",30561
 "cases","BC","Out of Canada","2022-07-11",391
-"cases","BC","Vancouver Coastal","2022-07-11",75979
+"cases","BC","Vancouver Coastal","2022-07-11",75981
 "cases","BC","Vancouver Island","2022-07-11",36902
-"cases","BC","Fraser","2022-07-12",165991
+"cases","BC","Fraser","2022-07-12",165990
 "cases","BC","Interior","2022-07-12",67006
-"cases","BC","Northern","2022-07-12",30570
+"cases","BC","Northern","2022-07-12",30569
 "cases","BC","Out of Canada","2022-07-12",391
-"cases","BC","Vancouver Coastal","2022-07-12",76020
+"cases","BC","Vancouver Coastal","2022-07-12",76022
 "cases","BC","Vancouver Island","2022-07-12",36928
-"cases","BC","Fraser","2022-07-13",166062
+"cases","BC","Fraser","2022-07-13",166061
 "cases","BC","Interior","2022-07-13",67025
-"cases","BC","Northern","2022-07-13",30581
+"cases","BC","Northern","2022-07-13",30580
 "cases","BC","Out of Canada","2022-07-13",391
-"cases","BC","Vancouver Coastal","2022-07-13",76059
+"cases","BC","Vancouver Coastal","2022-07-13",76061
 "cases","BC","Vancouver Island","2022-07-13",36959
-"cases","BC","Fraser","2022-07-14",166144
+"cases","BC","Fraser","2022-07-14",166143
 "cases","BC","Interior","2022-07-14",67051
-"cases","BC","Northern","2022-07-14",30587
+"cases","BC","Northern","2022-07-14",30586
 "cases","BC","Out of Canada","2022-07-14",391
-"cases","BC","Vancouver Coastal","2022-07-14",76098
+"cases","BC","Vancouver Coastal","2022-07-14",76100
 "cases","BC","Vancouver Island","2022-07-14",36998
-"cases","BC","Fraser","2022-07-15",166177
+"cases","BC","Fraser","2022-07-15",166176
 "cases","BC","Interior","2022-07-15",67078
-"cases","BC","Northern","2022-07-15",30597
+"cases","BC","Northern","2022-07-15",30596
 "cases","BC","Out of Canada","2022-07-15",391
-"cases","BC","Vancouver Coastal","2022-07-15",76131
+"cases","BC","Vancouver Coastal","2022-07-15",76133
 "cases","BC","Vancouver Island","2022-07-15",37020
-"cases","BC","Fraser","2022-07-16",166218
+"cases","BC","Fraser","2022-07-16",166217
 "cases","BC","Interior","2022-07-16",67097
-"cases","BC","Northern","2022-07-16",30598
+"cases","BC","Northern","2022-07-16",30597
 "cases","BC","Out of Canada","2022-07-16",391
-"cases","BC","Vancouver Coastal","2022-07-16",76180
+"cases","BC","Vancouver Coastal","2022-07-16",76182
 "cases","BC","Vancouver Island","2022-07-16",37050
-"cases","BC","Fraser","2022-07-17",166265
+"cases","BC","Fraser","2022-07-17",166264
 "cases","BC","Interior","2022-07-17",67125
-"cases","BC","Northern","2022-07-17",30604
+"cases","BC","Northern","2022-07-17",30603
 "cases","BC","Out of Canada","2022-07-17",391
-"cases","BC","Vancouver Coastal","2022-07-17",76209
+"cases","BC","Vancouver Coastal","2022-07-17",76211
 "cases","BC","Vancouver Island","2022-07-17",37068
-"cases","BC","Fraser","2022-07-18",166324
+"cases","BC","Fraser","2022-07-18",166323
 "cases","BC","Interior","2022-07-18",67148
-"cases","BC","Northern","2022-07-18",30610
+"cases","BC","Northern","2022-07-18",30609
 "cases","BC","Out of Canada","2022-07-18",391
-"cases","BC","Vancouver Coastal","2022-07-18",76235
+"cases","BC","Vancouver Coastal","2022-07-18",76237
 "cases","BC","Vancouver Island","2022-07-18",37086
-"cases","BC","Fraser","2022-07-19",166377
+"cases","BC","Fraser","2022-07-19",166376
 "cases","BC","Interior","2022-07-19",67173
-"cases","BC","Northern","2022-07-19",30621
+"cases","BC","Northern","2022-07-19",30620
 "cases","BC","Out of Canada","2022-07-19",391
-"cases","BC","Vancouver Coastal","2022-07-19",76275
+"cases","BC","Vancouver Coastal","2022-07-19",76277
 "cases","BC","Vancouver Island","2022-07-19",37109
-"cases","BC","Fraser","2022-07-20",166421
+"cases","BC","Fraser","2022-07-20",166420
 "cases","BC","Interior","2022-07-20",67196
-"cases","BC","Northern","2022-07-20",30631
+"cases","BC","Northern","2022-07-20",30630
 "cases","BC","Out of Canada","2022-07-20",391
-"cases","BC","Vancouver Coastal","2022-07-20",76326
+"cases","BC","Vancouver Coastal","2022-07-20",76328
 "cases","BC","Vancouver Island","2022-07-20",37142
-"cases","BC","Fraser","2022-07-21",166463
+"cases","BC","Fraser","2022-07-21",166462
 "cases","BC","Interior","2022-07-21",67225
-"cases","BC","Northern","2022-07-21",30642
+"cases","BC","Northern","2022-07-21",30641
 "cases","BC","Out of Canada","2022-07-21",391
-"cases","BC","Vancouver Coastal","2022-07-21",76350
+"cases","BC","Vancouver Coastal","2022-07-21",76352
 "cases","BC","Vancouver Island","2022-07-21",37158
-"cases","BC","Fraser","2022-07-22",166518
+"cases","BC","Fraser","2022-07-22",166517
 "cases","BC","Interior","2022-07-22",67253
-"cases","BC","Northern","2022-07-22",30654
+"cases","BC","Northern","2022-07-22",30653
 "cases","BC","Out of Canada","2022-07-22",391
-"cases","BC","Vancouver Coastal","2022-07-22",76378
+"cases","BC","Vancouver Coastal","2022-07-22",76380
 "cases","BC","Vancouver Island","2022-07-22",37179
-"cases","BC","Fraser","2022-07-23",166546
+"cases","BC","Fraser","2022-07-23",166545
 "cases","BC","Interior","2022-07-23",67259
-"cases","BC","Northern","2022-07-23",30660
+"cases","BC","Northern","2022-07-23",30659
 "cases","BC","Out of Canada","2022-07-23",391
-"cases","BC","Vancouver Coastal","2022-07-23",76399
+"cases","BC","Vancouver Coastal","2022-07-23",76401
 "cases","BC","Vancouver Island","2022-07-23",37200
-"cases","BC","Fraser","2022-07-24",166593
+"cases","BC","Fraser","2022-07-24",166592
 "cases","BC","Interior","2022-07-24",67284
-"cases","BC","Northern","2022-07-24",30665
+"cases","BC","Northern","2022-07-24",30664
 "cases","BC","Out of Canada","2022-07-24",391
-"cases","BC","Vancouver Coastal","2022-07-24",76427
+"cases","BC","Vancouver Coastal","2022-07-24",76429
 "cases","BC","Vancouver Island","2022-07-24",37218
-"cases","BC","Fraser","2022-07-25",166653
+"cases","BC","Fraser","2022-07-25",166652
 "cases","BC","Interior","2022-07-25",67310
-"cases","BC","Northern","2022-07-25",30671
+"cases","BC","Northern","2022-07-25",30670
 "cases","BC","Out of Canada","2022-07-25",391
-"cases","BC","Vancouver Coastal","2022-07-25",76476
+"cases","BC","Vancouver Coastal","2022-07-25",76478
 "cases","BC","Vancouver Island","2022-07-25",37233
-"cases","BC","Fraser","2022-07-26",166728
+"cases","BC","Fraser","2022-07-26",166727
 "cases","BC","Interior","2022-07-26",67342
-"cases","BC","Northern","2022-07-26",30678
+"cases","BC","Northern","2022-07-26",30677
 "cases","BC","Out of Canada","2022-07-26",391
-"cases","BC","Vancouver Coastal","2022-07-26",76516
+"cases","BC","Vancouver Coastal","2022-07-26",76518
 "cases","BC","Vancouver Island","2022-07-26",37266
-"cases","BC","Fraser","2022-07-27",166787
+"cases","BC","Fraser","2022-07-27",166786
 "cases","BC","Interior","2022-07-27",67357
-"cases","BC","Northern","2022-07-27",30694
+"cases","BC","Northern","2022-07-27",30693
 "cases","BC","Out of Canada","2022-07-27",391
-"cases","BC","Vancouver Coastal","2022-07-27",76551
+"cases","BC","Vancouver Coastal","2022-07-27",76553
 "cases","BC","Vancouver Island","2022-07-27",37290
-"cases","BC","Fraser","2022-07-28",166834
+"cases","BC","Fraser","2022-07-28",166833
 "cases","BC","Interior","2022-07-28",67379
-"cases","BC","Northern","2022-07-28",30705
+"cases","BC","Northern","2022-07-28",30704
 "cases","BC","Out of Canada","2022-07-28",391
-"cases","BC","Vancouver Coastal","2022-07-28",76585
+"cases","BC","Vancouver Coastal","2022-07-28",76587
 "cases","BC","Vancouver Island","2022-07-28",37314
-"cases","BC","Fraser","2022-07-29",166886
+"cases","BC","Fraser","2022-07-29",166885
 "cases","BC","Interior","2022-07-29",67401
-"cases","BC","Northern","2022-07-29",30712
+"cases","BC","Northern","2022-07-29",30711
 "cases","BC","Out of Canada","2022-07-29",391
-"cases","BC","Vancouver Coastal","2022-07-29",76612
+"cases","BC","Vancouver Coastal","2022-07-29",76614
 "cases","BC","Vancouver Island","2022-07-29",37337
-"cases","BC","Fraser","2022-07-30",166924
+"cases","BC","Fraser","2022-07-30",166923
 "cases","BC","Interior","2022-07-30",67423
-"cases","BC","Northern","2022-07-30",30717
+"cases","BC","Northern","2022-07-30",30716
 "cases","BC","Out of Canada","2022-07-30",391
-"cases","BC","Vancouver Coastal","2022-07-30",76631
+"cases","BC","Vancouver Coastal","2022-07-30",76633
 "cases","BC","Vancouver Island","2022-07-30",37352
-"cases","BC","Fraser","2022-07-31",166956
+"cases","BC","Fraser","2022-07-31",166955
 "cases","BC","Interior","2022-07-31",67454
-"cases","BC","Northern","2022-07-31",30723
+"cases","BC","Northern","2022-07-31",30722
 "cases","BC","Out of Canada","2022-07-31",391
-"cases","BC","Vancouver Coastal","2022-07-31",76656
+"cases","BC","Vancouver Coastal","2022-07-31",76658
 "cases","BC","Vancouver Island","2022-07-31",37371
-"cases","BC","Fraser","2022-08-01",166992
+"cases","BC","Fraser","2022-08-01",166991
 "cases","BC","Interior","2022-08-01",67479
-"cases","BC","Northern","2022-08-01",30729
+"cases","BC","Northern","2022-08-01",30728
 "cases","BC","Out of Canada","2022-08-01",391
-"cases","BC","Vancouver Coastal","2022-08-01",76682
+"cases","BC","Vancouver Coastal","2022-08-01",76684
 "cases","BC","Vancouver Island","2022-08-01",37391
-"cases","BC","Fraser","2022-08-02",167061
+"cases","BC","Fraser","2022-08-02",167060
 "cases","BC","Interior","2022-08-02",67519
-"cases","BC","Northern","2022-08-02",30734
+"cases","BC","Northern","2022-08-02",30733
 "cases","BC","Out of Canada","2022-08-02",391
-"cases","BC","Vancouver Coastal","2022-08-02",76715
+"cases","BC","Vancouver Coastal","2022-08-02",76717
 "cases","BC","Vancouver Island","2022-08-02",37415
-"cases","BC","Fraser","2022-08-03",167092
+"cases","BC","Fraser","2022-08-03",167091
 "cases","BC","Interior","2022-08-03",67553
-"cases","BC","Northern","2022-08-03",30743
+"cases","BC","Northern","2022-08-03",30742
 "cases","BC","Out of Canada","2022-08-03",391
-"cases","BC","Vancouver Coastal","2022-08-03",76768
+"cases","BC","Vancouver Coastal","2022-08-03",76770
 "cases","BC","Vancouver Island","2022-08-03",37443
-"cases","BC","Fraser","2022-08-04",167137
+"cases","BC","Fraser","2022-08-04",167136
 "cases","BC","Interior","2022-08-04",67566
-"cases","BC","Northern","2022-08-04",30752
+"cases","BC","Northern","2022-08-04",30751
 "cases","BC","Out of Canada","2022-08-04",391
-"cases","BC","Vancouver Coastal","2022-08-04",76795
+"cases","BC","Vancouver Coastal","2022-08-04",76797
 "cases","BC","Vancouver Island","2022-08-04",37476
-"cases","BC","Fraser","2022-08-05",167185
+"cases","BC","Fraser","2022-08-05",167184
 "cases","BC","Interior","2022-08-05",67583
-"cases","BC","Northern","2022-08-05",30754
+"cases","BC","Northern","2022-08-05",30753
 "cases","BC","Out of Canada","2022-08-05",391
-"cases","BC","Vancouver Coastal","2022-08-05",76821
+"cases","BC","Vancouver Coastal","2022-08-05",76823
 "cases","BC","Vancouver Island","2022-08-05",37498
-"cases","BC","Fraser","2022-08-06",167215
+"cases","BC","Fraser","2022-08-06",167214
 "cases","BC","Interior","2022-08-06",67606
-"cases","BC","Northern","2022-08-06",30757
+"cases","BC","Northern","2022-08-06",30756
 "cases","BC","Out of Canada","2022-08-06",391
-"cases","BC","Vancouver Coastal","2022-08-06",76847
+"cases","BC","Vancouver Coastal","2022-08-06",76849
 "cases","BC","Vancouver Island","2022-08-06",37521
-"cases","BC","Fraser","2022-08-07",167263
+"cases","BC","Fraser","2022-08-07",167262
 "cases","BC","Interior","2022-08-07",67628
-"cases","BC","Northern","2022-08-07",30758
+"cases","BC","Northern","2022-08-07",30757
 "cases","BC","Out of Canada","2022-08-07",391
-"cases","BC","Vancouver Coastal","2022-08-07",76876
+"cases","BC","Vancouver Coastal","2022-08-07",76878
 "cases","BC","Vancouver Island","2022-08-07",37553
-"cases","BC","Fraser","2022-08-08",167283
+"cases","BC","Fraser","2022-08-08",167282
 "cases","BC","Interior","2022-08-08",67651
-"cases","BC","Northern","2022-08-08",30766
+"cases","BC","Northern","2022-08-08",30765
 "cases","BC","Out of Canada","2022-08-08",391
-"cases","BC","Vancouver Coastal","2022-08-08",76899
+"cases","BC","Vancouver Coastal","2022-08-08",76901
 "cases","BC","Vancouver Island","2022-08-08",37573
-"cases","BC","Fraser","2022-08-09",167327
+"cases","BC","Fraser","2022-08-09",167326
 "cases","BC","Interior","2022-08-09",67689
-"cases","BC","Northern","2022-08-09",30770
+"cases","BC","Northern","2022-08-09",30769
 "cases","BC","Out of Canada","2022-08-09",391
-"cases","BC","Vancouver Coastal","2022-08-09",76929
+"cases","BC","Vancouver Coastal","2022-08-09",76931
 "cases","BC","Vancouver Island","2022-08-09",37597
-"cases","BC","Fraser","2022-08-10",167376
+"cases","BC","Fraser","2022-08-10",167375
 "cases","BC","Interior","2022-08-10",67713
-"cases","BC","Northern","2022-08-10",30784
+"cases","BC","Northern","2022-08-10",30783
 "cases","BC","Out of Canada","2022-08-10",391
-"cases","BC","Vancouver Coastal","2022-08-10",76961
+"cases","BC","Vancouver Coastal","2022-08-10",76963
 "cases","BC","Vancouver Island","2022-08-10",37625
-"cases","BC","Fraser","2022-08-11",167413
+"cases","BC","Fraser","2022-08-11",167412
 "cases","BC","Interior","2022-08-11",67747
-"cases","BC","Northern","2022-08-11",30792
+"cases","BC","Northern","2022-08-11",30791
 "cases","BC","Out of Canada","2022-08-11",391
-"cases","BC","Vancouver Coastal","2022-08-11",77005
+"cases","BC","Vancouver Coastal","2022-08-11",77007
 "cases","BC","Vancouver Island","2022-08-11",37656
-"cases","BC","Fraser","2022-08-12",167443
+"cases","BC","Fraser","2022-08-12",167442
 "cases","BC","Interior","2022-08-12",67777
-"cases","BC","Northern","2022-08-12",30797
+"cases","BC","Northern","2022-08-12",30796
 "cases","BC","Out of Canada","2022-08-12",391
-"cases","BC","Vancouver Coastal","2022-08-12",77034
+"cases","BC","Vancouver Coastal","2022-08-12",77036
 "cases","BC","Vancouver Island","2022-08-12",37678
-"cases","BC","Fraser","2022-08-13",167498
+"cases","BC","Fraser","2022-08-13",167497
 "cases","BC","Interior","2022-08-13",67788
-"cases","BC","Northern","2022-08-13",30801
+"cases","BC","Northern","2022-08-13",30800
 "cases","BC","Out of Canada","2022-08-13",391
-"cases","BC","Vancouver Coastal","2022-08-13",77050
+"cases","BC","Vancouver Coastal","2022-08-13",77052
 "cases","BC","Vancouver Island","2022-08-13",37690
 "cases","BC","Fraser","2022-08-14",167530
 "cases","BC","Interior","2022-08-14",67803
-"cases","BC","Northern","2022-08-14",30803
+"cases","BC","Northern","2022-08-14",30802
 "cases","BC","Out of Canada","2022-08-14",391
-"cases","BC","Vancouver Coastal","2022-08-14",77066
+"cases","BC","Vancouver Coastal","2022-08-14",77067
 "cases","BC","Vancouver Island","2022-08-14",37715
 "cases","BC","Fraser","2022-08-15",167565
 "cases","BC","Interior","2022-08-15",67823
-"cases","BC","Northern","2022-08-15",30810
+"cases","BC","Northern","2022-08-15",30809
 "cases","BC","Out of Canada","2022-08-15",391
-"cases","BC","Vancouver Coastal","2022-08-15",77095
+"cases","BC","Vancouver Coastal","2022-08-15",77096
 "cases","BC","Vancouver Island","2022-08-15",37730
 "cases","BC","Fraser","2022-08-16",167605
 "cases","BC","Interior","2022-08-16",67855
-"cases","BC","Northern","2022-08-16",30819
+"cases","BC","Northern","2022-08-16",30818
 "cases","BC","Out of Canada","2022-08-16",391
-"cases","BC","Vancouver Coastal","2022-08-16",77119
+"cases","BC","Vancouver Coastal","2022-08-16",77120
 "cases","BC","Vancouver Island","2022-08-16",37759
 "cases","BC","Fraser","2022-08-17",167621
 "cases","BC","Interior","2022-08-17",67884
-"cases","BC","Northern","2022-08-17",30827
+"cases","BC","Northern","2022-08-17",30826
 "cases","BC","Out of Canada","2022-08-17",391
-"cases","BC","Vancouver Coastal","2022-08-17",77143
+"cases","BC","Vancouver Coastal","2022-08-17",77144
 "cases","BC","Vancouver Island","2022-08-17",37784
 "cases","BC","Fraser","2022-08-18",167660
 "cases","BC","Interior","2022-08-18",67900
-"cases","BC","Northern","2022-08-18",30833
+"cases","BC","Northern","2022-08-18",30832
 "cases","BC","Out of Canada","2022-08-18",391
-"cases","BC","Vancouver Coastal","2022-08-18",77172
+"cases","BC","Vancouver Coastal","2022-08-18",77173
 "cases","BC","Vancouver Island","2022-08-18",37806
 "cases","BC","Fraser","2022-08-19",167699
 "cases","BC","Interior","2022-08-19",67926
-"cases","BC","Northern","2022-08-19",30840
+"cases","BC","Northern","2022-08-19",30839
 "cases","BC","Out of Canada","2022-08-19",391
-"cases","BC","Vancouver Coastal","2022-08-19",77198
+"cases","BC","Vancouver Coastal","2022-08-19",77199
 "cases","BC","Vancouver Island","2022-08-19",37826
 "cases","BC","Fraser","2022-08-20",167721
 "cases","BC","Interior","2022-08-20",67940
-"cases","BC","Northern","2022-08-20",30844
+"cases","BC","Northern","2022-08-20",30843
 "cases","BC","Out of Canada","2022-08-20",391
-"cases","BC","Vancouver Coastal","2022-08-20",77208
+"cases","BC","Vancouver Coastal","2022-08-20",77209
 "cases","BC","Vancouver Island","2022-08-20",37851
 "cases","BC","Fraser","2022-08-21",167746
 "cases","BC","Interior","2022-08-21",67957
-"cases","BC","Northern","2022-08-21",30845
+"cases","BC","Northern","2022-08-21",30844
 "cases","BC","Out of Canada","2022-08-21",391
-"cases","BC","Vancouver Coastal","2022-08-21",77221
+"cases","BC","Vancouver Coastal","2022-08-21",77222
 "cases","BC","Vancouver Island","2022-08-21",37873
 "cases","BC","Fraser","2022-08-22",167787
 "cases","BC","Interior","2022-08-22",67985
-"cases","BC","Northern","2022-08-22",30849
+"cases","BC","Northern","2022-08-22",30848
 "cases","BC","Out of Canada","2022-08-22",391
-"cases","BC","Vancouver Coastal","2022-08-22",77244
+"cases","BC","Vancouver Coastal","2022-08-22",77245
 "cases","BC","Vancouver Island","2022-08-22",37889
 "cases","BC","Fraser","2022-08-23",167810
 "cases","BC","Interior","2022-08-23",68003
-"cases","BC","Northern","2022-08-23",30857
+"cases","BC","Northern","2022-08-23",30856
 "cases","BC","Out of Canada","2022-08-23",391
-"cases","BC","Vancouver Coastal","2022-08-23",77260
+"cases","BC","Vancouver Coastal","2022-08-23",77261
 "cases","BC","Vancouver Island","2022-08-23",37908
 "cases","BC","Fraser","2022-08-24",167846
 "cases","BC","Interior","2022-08-24",68035
-"cases","BC","Northern","2022-08-24",30862
+"cases","BC","Northern","2022-08-24",30861
 "cases","BC","Out of Canada","2022-08-24",391
-"cases","BC","Vancouver Coastal","2022-08-24",77283
+"cases","BC","Vancouver Coastal","2022-08-24",77284
 "cases","BC","Vancouver Island","2022-08-24",37919
 "cases","BC","Fraser","2022-08-25",167889
 "cases","BC","Interior","2022-08-25",68056
-"cases","BC","Northern","2022-08-25",30870
+"cases","BC","Northern","2022-08-25",30869
 "cases","BC","Out of Canada","2022-08-25",391
-"cases","BC","Vancouver Coastal","2022-08-25",77311
+"cases","BC","Vancouver Coastal","2022-08-25",77312
 "cases","BC","Vancouver Island","2022-08-25",37931
 "cases","BC","Fraser","2022-08-26",167907
 "cases","BC","Interior","2022-08-26",68080
-"cases","BC","Northern","2022-08-26",30876
+"cases","BC","Northern","2022-08-26",30875
 "cases","BC","Out of Canada","2022-08-26",391
-"cases","BC","Vancouver Coastal","2022-08-26",77321
+"cases","BC","Vancouver Coastal","2022-08-26",77322
 "cases","BC","Vancouver Island","2022-08-26",37948
 "cases","BC","Fraser","2022-08-27",167949
 "cases","BC","Interior","2022-08-27",68093
-"cases","BC","Northern","2022-08-27",30878
+"cases","BC","Northern","2022-08-27",30877
 "cases","BC","Out of Canada","2022-08-27",391
-"cases","BC","Vancouver Coastal","2022-08-27",77337
+"cases","BC","Vancouver Coastal","2022-08-27",77338
 "cases","BC","Vancouver Island","2022-08-27",37958
 "cases","BC","Fraser","2022-08-28",167978
 "cases","BC","Interior","2022-08-28",68112
-"cases","BC","Northern","2022-08-28",30883
+"cases","BC","Northern","2022-08-28",30882
 "cases","BC","Out of Canada","2022-08-28",391
-"cases","BC","Vancouver Coastal","2022-08-28",77351
+"cases","BC","Vancouver Coastal","2022-08-28",77352
 "cases","BC","Vancouver Island","2022-08-28",37967
 "cases","BC","Fraser","2022-08-29",168013
 "cases","BC","Interior","2022-08-29",68131
-"cases","BC","Northern","2022-08-29",30892
+"cases","BC","Northern","2022-08-29",30891
 "cases","BC","Out of Canada","2022-08-29",391
-"cases","BC","Vancouver Coastal","2022-08-29",77365
+"cases","BC","Vancouver Coastal","2022-08-29",77366
 "cases","BC","Vancouver Island","2022-08-29",37979
 "cases","BC","Fraser","2022-08-30",168053
 "cases","BC","Interior","2022-08-30",68148
-"cases","BC","Northern","2022-08-30",30899
+"cases","BC","Northern","2022-08-30",30898
 "cases","BC","Out of Canada","2022-08-30",391
-"cases","BC","Vancouver Coastal","2022-08-30",77385
+"cases","BC","Vancouver Coastal","2022-08-30",77386
 "cases","BC","Vancouver Island","2022-08-30",38000
 "cases","BC","Fraser","2022-08-31",168090
 "cases","BC","Interior","2022-08-31",68165
-"cases","BC","Northern","2022-08-31",30905
+"cases","BC","Northern","2022-08-31",30904
 "cases","BC","Out of Canada","2022-08-31",391
-"cases","BC","Vancouver Coastal","2022-08-31",77416
+"cases","BC","Vancouver Coastal","2022-08-31",77417
 "cases","BC","Vancouver Island","2022-08-31",38018
 "cases","BC","Fraser","2022-09-01",168130
 "cases","BC","Interior","2022-09-01",68179
-"cases","BC","Northern","2022-09-01",30909
+"cases","BC","Northern","2022-09-01",30908
 "cases","BC","Out of Canada","2022-09-01",391
-"cases","BC","Vancouver Coastal","2022-09-01",77437
+"cases","BC","Vancouver Coastal","2022-09-01",77438
 "cases","BC","Vancouver Island","2022-09-01",38024
 "cases","BC","Fraser","2022-09-02",168162
 "cases","BC","Interior","2022-09-02",68191
-"cases","BC","Northern","2022-09-02",30913
+"cases","BC","Northern","2022-09-02",30912
 "cases","BC","Out of Canada","2022-09-02",391
-"cases","BC","Vancouver Coastal","2022-09-02",77463
+"cases","BC","Vancouver Coastal","2022-09-02",77464
 "cases","BC","Vancouver Island","2022-09-02",38035
 "cases","BC","Fraser","2022-09-03",168181
 "cases","BC","Interior","2022-09-03",68207
-"cases","BC","Northern","2022-09-03",30915
+"cases","BC","Northern","2022-09-03",30914
 "cases","BC","Out of Canada","2022-09-03",391
-"cases","BC","Vancouver Coastal","2022-09-03",77485
+"cases","BC","Vancouver Coastal","2022-09-03",77486
 "cases","BC","Vancouver Island","2022-09-03",38044
 "cases","BC","Fraser","2022-09-04",168208
 "cases","BC","Interior","2022-09-04",68217
-"cases","BC","Northern","2022-09-04",30919
+"cases","BC","Northern","2022-09-04",30918
 "cases","BC","Out of Canada","2022-09-04",391
-"cases","BC","Vancouver Coastal","2022-09-04",77506
+"cases","BC","Vancouver Coastal","2022-09-04",77507
 "cases","BC","Vancouver Island","2022-09-04",38055
 "cases","BC","Fraser","2022-09-05",168230
 "cases","BC","Interior","2022-09-05",68226
-"cases","BC","Northern","2022-09-05",30923
+"cases","BC","Northern","2022-09-05",30922
 "cases","BC","Out of Canada","2022-09-05",391
-"cases","BC","Vancouver Coastal","2022-09-05",77527
+"cases","BC","Vancouver Coastal","2022-09-05",77528
 "cases","BC","Vancouver Island","2022-09-05",38066
 "cases","BC","Fraser","2022-09-06",168270
 "cases","BC","Interior","2022-09-06",68241
-"cases","BC","Northern","2022-09-06",30930
+"cases","BC","Northern","2022-09-06",30929
 "cases","BC","Out of Canada","2022-09-06",391
-"cases","BC","Vancouver Coastal","2022-09-06",77541
+"cases","BC","Vancouver Coastal","2022-09-06",77542
 "cases","BC","Vancouver Island","2022-09-06",38075
 "cases","BC","Fraser","2022-09-07",168304
 "cases","BC","Interior","2022-09-07",68259
-"cases","BC","Northern","2022-09-07",30939
+"cases","BC","Northern","2022-09-07",30938
 "cases","BC","Out of Canada","2022-09-07",391
-"cases","BC","Vancouver Coastal","2022-09-07",77562
+"cases","BC","Vancouver Coastal","2022-09-07",77563
 "cases","BC","Vancouver Island","2022-09-07",38086
 "cases","BC","Fraser","2022-09-08",168339
 "cases","BC","Interior","2022-09-08",68279
-"cases","BC","Northern","2022-09-08",30948
+"cases","BC","Northern","2022-09-08",30947
 "cases","BC","Out of Canada","2022-09-08",391
-"cases","BC","Vancouver Coastal","2022-09-08",77589
+"cases","BC","Vancouver Coastal","2022-09-08",77590
 "cases","BC","Vancouver Island","2022-09-08",38105
 "cases","BC","Fraser","2022-09-09",168363
 "cases","BC","Interior","2022-09-09",68291
-"cases","BC","Northern","2022-09-09",30955
+"cases","BC","Northern","2022-09-09",30954
 "cases","BC","Out of Canada","2022-09-09",391
-"cases","BC","Vancouver Coastal","2022-09-09",77607
+"cases","BC","Vancouver Coastal","2022-09-09",77608
 "cases","BC","Vancouver Island","2022-09-09",38119
 "cases","BC","Fraser","2022-09-10",168385
 "cases","BC","Interior","2022-09-10",68303
-"cases","BC","Northern","2022-09-10",30959
+"cases","BC","Northern","2022-09-10",30958
 "cases","BC","Out of Canada","2022-09-10",391
-"cases","BC","Vancouver Coastal","2022-09-10",77625
+"cases","BC","Vancouver Coastal","2022-09-10",77626
 "cases","BC","Vancouver Island","2022-09-10",38133
 "cases","BC","Fraser","2022-09-11",168412
 "cases","BC","Interior","2022-09-11",68310
-"cases","BC","Northern","2022-09-11",30966
+"cases","BC","Northern","2022-09-11",30965
 "cases","BC","Out of Canada","2022-09-11",391
-"cases","BC","Vancouver Coastal","2022-09-11",77651
+"cases","BC","Vancouver Coastal","2022-09-11",77652
 "cases","BC","Vancouver Island","2022-09-11",38151
 "cases","BC","Fraser","2022-09-12",168448
 "cases","BC","Interior","2022-09-12",68325
-"cases","BC","Northern","2022-09-12",30975
+"cases","BC","Northern","2022-09-12",30974
 "cases","BC","Out of Canada","2022-09-12",391
-"cases","BC","Vancouver Coastal","2022-09-12",77672
+"cases","BC","Vancouver Coastal","2022-09-12",77673
 "cases","BC","Vancouver Island","2022-09-12",38170
 "cases","BC","Fraser","2022-09-13",168475
 "cases","BC","Interior","2022-09-13",68343
-"cases","BC","Northern","2022-09-13",30984
+"cases","BC","Northern","2022-09-13",30983
 "cases","BC","Out of Canada","2022-09-13",391
-"cases","BC","Vancouver Coastal","2022-09-13",77689
+"cases","BC","Vancouver Coastal","2022-09-13",77690
 "cases","BC","Vancouver Island","2022-09-13",38191
 "cases","BC","Fraser","2022-09-14",168491
 "cases","BC","Interior","2022-09-14",68367
-"cases","BC","Northern","2022-09-14",30988
+"cases","BC","Northern","2022-09-14",30987
 "cases","BC","Out of Canada","2022-09-14",391
-"cases","BC","Vancouver Coastal","2022-09-14",77717
+"cases","BC","Vancouver Coastal","2022-09-14",77718
 "cases","BC","Vancouver Island","2022-09-14",38208
 "cases","BC","Fraser","2022-09-15",168529
 "cases","BC","Interior","2022-09-15",68394
-"cases","BC","Northern","2022-09-15",30997
+"cases","BC","Northern","2022-09-15",30996
 "cases","BC","Out of Canada","2022-09-15",391
-"cases","BC","Vancouver Coastal","2022-09-15",77729
+"cases","BC","Vancouver Coastal","2022-09-15",77730
 "cases","BC","Vancouver Island","2022-09-15",38225
 "cases","BC","Fraser","2022-09-16",168563
 "cases","BC","Interior","2022-09-16",68409
-"cases","BC","Northern","2022-09-16",31003
+"cases","BC","Northern","2022-09-16",31002
 "cases","BC","Out of Canada","2022-09-16",391
-"cases","BC","Vancouver Coastal","2022-09-16",77750
+"cases","BC","Vancouver Coastal","2022-09-16",77751
 "cases","BC","Vancouver Island","2022-09-16",38240
 "cases","BC","Fraser","2022-09-17",168581
 "cases","BC","Interior","2022-09-17",68427
-"cases","BC","Northern","2022-09-17",31006
+"cases","BC","Northern","2022-09-17",31005
 "cases","BC","Out of Canada","2022-09-17",391
-"cases","BC","Vancouver Coastal","2022-09-17",77761
+"cases","BC","Vancouver Coastal","2022-09-17",77762
 "cases","BC","Vancouver Island","2022-09-17",38265
 "cases","BC","Fraser","2022-09-18",168615
 "cases","BC","Interior","2022-09-18",68438
-"cases","BC","Northern","2022-09-18",31007
+"cases","BC","Northern","2022-09-18",31006
 "cases","BC","Out of Canada","2022-09-18",391
-"cases","BC","Vancouver Coastal","2022-09-18",77774
+"cases","BC","Vancouver Coastal","2022-09-18",77775
 "cases","BC","Vancouver Island","2022-09-18",38275
 "cases","BC","Fraser","2022-09-19",168645
 "cases","BC","Interior","2022-09-19",68464
-"cases","BC","Northern","2022-09-19",31013
+"cases","BC","Northern","2022-09-19",31012
 "cases","BC","Out of Canada","2022-09-19",391
-"cases","BC","Vancouver Coastal","2022-09-19",77789
+"cases","BC","Vancouver Coastal","2022-09-19",77790
 "cases","BC","Vancouver Island","2022-09-19",38298
 "cases","BC","Fraser","2022-09-20",168659
 "cases","BC","Interior","2022-09-20",68486
-"cases","BC","Northern","2022-09-20",31019
+"cases","BC","Northern","2022-09-20",31018
 "cases","BC","Out of Canada","2022-09-20",391
-"cases","BC","Vancouver Coastal","2022-09-20",77803
+"cases","BC","Vancouver Coastal","2022-09-20",77804
 "cases","BC","Vancouver Island","2022-09-20",38313
 "cases","BC","Fraser","2022-09-21",168677
 "cases","BC","Interior","2022-09-21",68504
-"cases","BC","Northern","2022-09-21",31026
+"cases","BC","Northern","2022-09-21",31025
 "cases","BC","Out of Canada","2022-09-21",391
-"cases","BC","Vancouver Coastal","2022-09-21",77824
+"cases","BC","Vancouver Coastal","2022-09-21",77825
 "cases","BC","Vancouver Island","2022-09-21",38336
 "cases","BC","Fraser","2022-09-22",168723
 "cases","BC","Interior","2022-09-22",68535
-"cases","BC","Northern","2022-09-22",31031
+"cases","BC","Northern","2022-09-22",31030
 "cases","BC","Out of Canada","2022-09-22",391
-"cases","BC","Vancouver Coastal","2022-09-22",77853
+"cases","BC","Vancouver Coastal","2022-09-22",77854
 "cases","BC","Vancouver Island","2022-09-22",38361
 "cases","BC","Fraser","2022-09-23",168740
 "cases","BC","Interior","2022-09-23",68556
-"cases","BC","Northern","2022-09-23",31035
+"cases","BC","Northern","2022-09-23",31034
 "cases","BC","Out of Canada","2022-09-23",391
-"cases","BC","Vancouver Coastal","2022-09-23",77879
+"cases","BC","Vancouver Coastal","2022-09-23",77880
 "cases","BC","Vancouver Island","2022-09-23",38381
 "cases","BC","Fraser","2022-09-24",168763
 "cases","BC","Interior","2022-09-24",68569
-"cases","BC","Northern","2022-09-24",31042
+"cases","BC","Northern","2022-09-24",31041
 "cases","BC","Out of Canada","2022-09-24",391
-"cases","BC","Vancouver Coastal","2022-09-24",77896
+"cases","BC","Vancouver Coastal","2022-09-24",77897
 "cases","BC","Vancouver Island","2022-09-24",38405
 "cases","BC","Fraser","2022-09-25",168791
 "cases","BC","Interior","2022-09-25",68584
-"cases","BC","Northern","2022-09-25",31045
+"cases","BC","Northern","2022-09-25",31044
 "cases","BC","Out of Canada","2022-09-25",391
-"cases","BC","Vancouver Coastal","2022-09-25",77925
+"cases","BC","Vancouver Coastal","2022-09-25",77926
 "cases","BC","Vancouver Island","2022-09-25",38428
 "cases","BC","Fraser","2022-09-26",168812
 "cases","BC","Interior","2022-09-26",68611
-"cases","BC","Northern","2022-09-26",31046
+"cases","BC","Northern","2022-09-26",31045
 "cases","BC","Out of Canada","2022-09-26",391
-"cases","BC","Vancouver Coastal","2022-09-26",77964
+"cases","BC","Vancouver Coastal","2022-09-26",77965
 "cases","BC","Vancouver Island","2022-09-26",38447
 "cases","BC","Fraser","2022-09-27",168843
 "cases","BC","Interior","2022-09-27",68643
-"cases","BC","Northern","2022-09-27",31056
+"cases","BC","Northern","2022-09-27",31055
 "cases","BC","Out of Canada","2022-09-27",391
-"cases","BC","Vancouver Coastal","2022-09-27",77991
+"cases","BC","Vancouver Coastal","2022-09-27",77992
 "cases","BC","Vancouver Island","2022-09-27",38470
 "cases","BC","Fraser","2022-09-28",168867
 "cases","BC","Interior","2022-09-28",68665
-"cases","BC","Northern","2022-09-28",31062
+"cases","BC","Northern","2022-09-28",31061
 "cases","BC","Out of Canada","2022-09-28",391
-"cases","BC","Vancouver Coastal","2022-09-28",78016
+"cases","BC","Vancouver Coastal","2022-09-28",78017
 "cases","BC","Vancouver Island","2022-09-28",38492
 "cases","BC","Fraser","2022-09-29",168888
 "cases","BC","Interior","2022-09-29",68700
-"cases","BC","Northern","2022-09-29",31073
+"cases","BC","Northern","2022-09-29",31072
 "cases","BC","Out of Canada","2022-09-29",391
-"cases","BC","Vancouver Coastal","2022-09-29",78035
+"cases","BC","Vancouver Coastal","2022-09-29",78036
 "cases","BC","Vancouver Island","2022-09-29",38520
 "cases","BC","Fraser","2022-09-30",168915
 "cases","BC","Interior","2022-09-30",68720
-"cases","BC","Northern","2022-09-30",31079
+"cases","BC","Northern","2022-09-30",31078
 "cases","BC","Out of Canada","2022-09-30",391
-"cases","BC","Vancouver Coastal","2022-09-30",78048
+"cases","BC","Vancouver Coastal","2022-09-30",78049
 "cases","BC","Vancouver Island","2022-09-30",38530
 "cases","BC","Fraser","2022-10-01",168935
 "cases","BC","Interior","2022-10-01",68734
-"cases","BC","Northern","2022-10-01",31083
+"cases","BC","Northern","2022-10-01",31082
 "cases","BC","Out of Canada","2022-10-01",391
-"cases","BC","Vancouver Coastal","2022-10-01",78067
+"cases","BC","Vancouver Coastal","2022-10-01",78068
 "cases","BC","Vancouver Island","2022-10-01",38552
 "cases","BC","Fraser","2022-10-02",168961
 "cases","BC","Interior","2022-10-02",68753
-"cases","BC","Northern","2022-10-02",31090
+"cases","BC","Northern","2022-10-02",31089
 "cases","BC","Out of Canada","2022-10-02",391
-"cases","BC","Vancouver Coastal","2022-10-02",78084
+"cases","BC","Vancouver Coastal","2022-10-02",78085
 "cases","BC","Vancouver Island","2022-10-02",38568
 "cases","BC","Fraser","2022-10-03",168988
 "cases","BC","Interior","2022-10-03",68774
-"cases","BC","Northern","2022-10-03",31098
+"cases","BC","Northern","2022-10-03",31097
 "cases","BC","Out of Canada","2022-10-03",391
-"cases","BC","Vancouver Coastal","2022-10-03",78109
+"cases","BC","Vancouver Coastal","2022-10-03",78110
 "cases","BC","Vancouver Island","2022-10-03",38582
 "cases","BC","Fraser","2022-10-04",169022
 "cases","BC","Interior","2022-10-04",68793
-"cases","BC","Northern","2022-10-04",31111
+"cases","BC","Northern","2022-10-04",31110
 "cases","BC","Out of Canada","2022-10-04",391
-"cases","BC","Vancouver Coastal","2022-10-04",78145
+"cases","BC","Vancouver Coastal","2022-10-04",78146
 "cases","BC","Vancouver Island","2022-10-04",38603
 "cases","BC","Fraser","2022-10-05",169050
 "cases","BC","Interior","2022-10-05",68819
-"cases","BC","Northern","2022-10-05",31116
+"cases","BC","Northern","2022-10-05",31115
 "cases","BC","Out of Canada","2022-10-05",391
-"cases","BC","Vancouver Coastal","2022-10-05",78179
+"cases","BC","Vancouver Coastal","2022-10-05",78180
 "cases","BC","Vancouver Island","2022-10-05",38627
 "cases","BC","Fraser","2022-10-06",169067
 "cases","BC","Interior","2022-10-06",68843
-"cases","BC","Northern","2022-10-06",31120
+"cases","BC","Northern","2022-10-06",31119
 "cases","BC","Out of Canada","2022-10-06",391
-"cases","BC","Vancouver Coastal","2022-10-06",78208
+"cases","BC","Vancouver Coastal","2022-10-06",78209
 "cases","BC","Vancouver Island","2022-10-06",38647
 "cases","BC","Fraser","2022-10-07",169084
 "cases","BC","Interior","2022-10-07",68863
-"cases","BC","Northern","2022-10-07",31125
+"cases","BC","Northern","2022-10-07",31124
 "cases","BC","Out of Canada","2022-10-07",391
-"cases","BC","Vancouver Coastal","2022-10-07",78237
+"cases","BC","Vancouver Coastal","2022-10-07",78238
 "cases","BC","Vancouver Island","2022-10-07",38667
 "cases","BC","Fraser","2022-10-08",169111
 "cases","BC","Interior","2022-10-08",68882
-"cases","BC","Northern","2022-10-08",31129
+"cases","BC","Northern","2022-10-08",31128
 "cases","BC","Out of Canada","2022-10-08",391
-"cases","BC","Vancouver Coastal","2022-10-08",78263
+"cases","BC","Vancouver Coastal","2022-10-08",78264
 "cases","BC","Vancouver Island","2022-10-08",38681
 "cases","BC","Fraser","2022-10-09",169127
 "cases","BC","Interior","2022-10-09",68908
-"cases","BC","Northern","2022-10-09",31137
+"cases","BC","Northern","2022-10-09",31136
 "cases","BC","Out of Canada","2022-10-09",391
-"cases","BC","Vancouver Coastal","2022-10-09",78286
+"cases","BC","Vancouver Coastal","2022-10-09",78287
 "cases","BC","Vancouver Island","2022-10-09",38703
 "cases","BC","Fraser","2022-10-10",169145
 "cases","BC","Interior","2022-10-10",68931
-"cases","BC","Northern","2022-10-10",31148
+"cases","BC","Northern","2022-10-10",31147
 "cases","BC","Out of Canada","2022-10-10",391
-"cases","BC","Vancouver Coastal","2022-10-10",78307
+"cases","BC","Vancouver Coastal","2022-10-10",78308
 "cases","BC","Vancouver Island","2022-10-10",38720
 "cases","BC","Fraser","2022-10-11",169174
 "cases","BC","Interior","2022-10-11",68942
-"cases","BC","Northern","2022-10-11",31168
+"cases","BC","Northern","2022-10-11",31167
 "cases","BC","Out of Canada","2022-10-11",391
-"cases","BC","Vancouver Coastal","2022-10-11",78325
+"cases","BC","Vancouver Coastal","2022-10-11",78326
 "cases","BC","Vancouver Island","2022-10-11",38733
 "cases","BC","Fraser","2022-10-12",169214
 "cases","BC","Interior","2022-10-12",68963
-"cases","BC","Northern","2022-10-12",31181
+"cases","BC","Northern","2022-10-12",31180
 "cases","BC","Out of Canada","2022-10-12",391
-"cases","BC","Vancouver Coastal","2022-10-12",78356
+"cases","BC","Vancouver Coastal","2022-10-12",78357
 "cases","BC","Vancouver Island","2022-10-12",38753
 "cases","BC","Fraser","2022-10-13",169243
 "cases","BC","Interior","2022-10-13",68973
-"cases","BC","Northern","2022-10-13",31189
+"cases","BC","Northern","2022-10-13",31188
 "cases","BC","Out of Canada","2022-10-13",391
-"cases","BC","Vancouver Coastal","2022-10-13",78375
+"cases","BC","Vancouver Coastal","2022-10-13",78376
 "cases","BC","Vancouver Island","2022-10-13",38764
 "cases","BC","Fraser","2022-10-14",169257
 "cases","BC","Interior","2022-10-14",68992
-"cases","BC","Northern","2022-10-14",31196
+"cases","BC","Northern","2022-10-14",31195
 "cases","BC","Out of Canada","2022-10-14",391
-"cases","BC","Vancouver Coastal","2022-10-14",78395
+"cases","BC","Vancouver Coastal","2022-10-14",78396
 "cases","BC","Vancouver Island","2022-10-14",38776
 "cases","BC","Fraser","2022-10-15",169285
 "cases","BC","Interior","2022-10-15",69005
-"cases","BC","Northern","2022-10-15",31196
+"cases","BC","Northern","2022-10-15",31195
 "cases","BC","Out of Canada","2022-10-15",391
-"cases","BC","Vancouver Coastal","2022-10-15",78414
+"cases","BC","Vancouver Coastal","2022-10-15",78415
 "cases","BC","Vancouver Island","2022-10-15",38794
 "cases","BC","Fraser","2022-10-16",169308
 "cases","BC","Interior","2022-10-16",69017
-"cases","BC","Northern","2022-10-16",31203
+"cases","BC","Northern","2022-10-16",31202
 "cases","BC","Out of Canada","2022-10-16",391
-"cases","BC","Vancouver Coastal","2022-10-16",78421
+"cases","BC","Vancouver Coastal","2022-10-16",78422
 "cases","BC","Vancouver Island","2022-10-16",38817
 "cases","BC","Fraser","2022-10-17",169325
 "cases","BC","Interior","2022-10-17",69027
-"cases","BC","Northern","2022-10-17",31211
+"cases","BC","Northern","2022-10-17",31210
 "cases","BC","Out of Canada","2022-10-17",391
-"cases","BC","Vancouver Coastal","2022-10-17",78435
+"cases","BC","Vancouver Coastal","2022-10-17",78436
 "cases","BC","Vancouver Island","2022-10-17",38831
 "cases","BC","Fraser","2022-10-18",169343
 "cases","BC","Interior","2022-10-18",69044
-"cases","BC","Northern","2022-10-18",31214
+"cases","BC","Northern","2022-10-18",31213
 "cases","BC","Out of Canada","2022-10-18",391
-"cases","BC","Vancouver Coastal","2022-10-18",78457
+"cases","BC","Vancouver Coastal","2022-10-18",78458
 "cases","BC","Vancouver Island","2022-10-18",38863
 "cases","BC","Fraser","2022-10-19",169370
 "cases","BC","Interior","2022-10-19",69067
-"cases","BC","Northern","2022-10-19",31219
+"cases","BC","Northern","2022-10-19",31218
 "cases","BC","Out of Canada","2022-10-19",391
-"cases","BC","Vancouver Coastal","2022-10-19",78469
+"cases","BC","Vancouver Coastal","2022-10-19",78470
 "cases","BC","Vancouver Island","2022-10-19",38881
 "cases","BC","Fraser","2022-10-20",169394
 "cases","BC","Interior","2022-10-20",69085
-"cases","BC","Northern","2022-10-20",31229
+"cases","BC","Northern","2022-10-20",31228
 "cases","BC","Out of Canada","2022-10-20",391
-"cases","BC","Vancouver Coastal","2022-10-20",78476
+"cases","BC","Vancouver Coastal","2022-10-20",78477
 "cases","BC","Vancouver Island","2022-10-20",38902
 "cases","BC","Fraser","2022-10-21",169420
 "cases","BC","Interior","2022-10-21",69098
-"cases","BC","Northern","2022-10-21",31232
+"cases","BC","Northern","2022-10-21",31231
 "cases","BC","Out of Canada","2022-10-21",391
-"cases","BC","Vancouver Coastal","2022-10-21",78490
+"cases","BC","Vancouver Coastal","2022-10-21",78491
 "cases","BC","Vancouver Island","2022-10-21",38921
 "cases","BC","Fraser","2022-10-22",169436
 "cases","BC","Interior","2022-10-22",69116
-"cases","BC","Northern","2022-10-22",31239
+"cases","BC","Northern","2022-10-22",31238
 "cases","BC","Out of Canada","2022-10-22",391
-"cases","BC","Vancouver Coastal","2022-10-22",78505
+"cases","BC","Vancouver Coastal","2022-10-22",78506
 "cases","BC","Vancouver Island","2022-10-22",38931
 "cases","BC","Fraser","2022-10-23",169459
 "cases","BC","Interior","2022-10-23",69128
-"cases","BC","Northern","2022-10-23",31242
+"cases","BC","Northern","2022-10-23",31241
 "cases","BC","Out of Canada","2022-10-23",391
-"cases","BC","Vancouver Coastal","2022-10-23",78516
+"cases","BC","Vancouver Coastal","2022-10-23",78517
 "cases","BC","Vancouver Island","2022-10-23",38945
 "cases","BC","Fraser","2022-10-24",169485
 "cases","BC","Interior","2022-10-24",69143
-"cases","BC","Northern","2022-10-24",31248
+"cases","BC","Northern","2022-10-24",31247
 "cases","BC","Out of Canada","2022-10-24",391
-"cases","BC","Vancouver Coastal","2022-10-24",78528
+"cases","BC","Vancouver Coastal","2022-10-24",78529
 "cases","BC","Vancouver Island","2022-10-24",38956
 "cases","BC","Fraser","2022-10-25",169492
 "cases","BC","Interior","2022-10-25",69158
-"cases","BC","Northern","2022-10-25",31252
+"cases","BC","Northern","2022-10-25",31251
 "cases","BC","Out of Canada","2022-10-25",391
-"cases","BC","Vancouver Coastal","2022-10-25",78546
+"cases","BC","Vancouver Coastal","2022-10-25",78547
 "cases","BC","Vancouver Island","2022-10-25",38968
 "cases","BC","Fraser","2022-10-26",169510
 "cases","BC","Interior","2022-10-26",69171
-"cases","BC","Northern","2022-10-26",31255
+"cases","BC","Northern","2022-10-26",31254
 "cases","BC","Out of Canada","2022-10-26",391
-"cases","BC","Vancouver Coastal","2022-10-26",78578
+"cases","BC","Vancouver Coastal","2022-10-26",78579
 "cases","BC","Vancouver Island","2022-10-26",38983
 "cases","BC","Fraser","2022-10-27",169529
 "cases","BC","Interior","2022-10-27",69191
-"cases","BC","Northern","2022-10-27",31259
+"cases","BC","Northern","2022-10-27",31258
 "cases","BC","Out of Canada","2022-10-27",391
-"cases","BC","Vancouver Coastal","2022-10-27",78600
+"cases","BC","Vancouver Coastal","2022-10-27",78601
 "cases","BC","Vancouver Island","2022-10-27",38995
 "cases","BC","Fraser","2022-10-28",169552
 "cases","BC","Interior","2022-10-28",69215
-"cases","BC","Northern","2022-10-28",31265
+"cases","BC","Northern","2022-10-28",31264
 "cases","BC","Out of Canada","2022-10-28",391
-"cases","BC","Vancouver Coastal","2022-10-28",78613
+"cases","BC","Vancouver Coastal","2022-10-28",78614
 "cases","BC","Vancouver Island","2022-10-28",39011
 "cases","BC","Fraser","2022-10-29",169563
 "cases","BC","Interior","2022-10-29",69229
-"cases","BC","Northern","2022-10-29",31271
+"cases","BC","Northern","2022-10-29",31270
 "cases","BC","Out of Canada","2022-10-29",391
-"cases","BC","Vancouver Coastal","2022-10-29",78628
+"cases","BC","Vancouver Coastal","2022-10-29",78629
 "cases","BC","Vancouver Island","2022-10-29",39021
 "cases","BC","Fraser","2022-10-30",169576
 "cases","BC","Interior","2022-10-30",69237
-"cases","BC","Northern","2022-10-30",31274
+"cases","BC","Northern","2022-10-30",31273
 "cases","BC","Out of Canada","2022-10-30",391
-"cases","BC","Vancouver Coastal","2022-10-30",78645
+"cases","BC","Vancouver Coastal","2022-10-30",78646
 "cases","BC","Vancouver Island","2022-10-30",39033
 "cases","BC","Fraser","2022-10-31",169585
 "cases","BC","Interior","2022-10-31",69256
-"cases","BC","Northern","2022-10-31",31276
+"cases","BC","Northern","2022-10-31",31275
 "cases","BC","Out of Canada","2022-10-31",391
-"cases","BC","Vancouver Coastal","2022-10-31",78656
+"cases","BC","Vancouver Coastal","2022-10-31",78657
 "cases","BC","Vancouver Island","2022-10-31",39047
 "cases","BC","Fraser","2022-11-01",169599
 "cases","BC","Interior","2022-11-01",69281
-"cases","BC","Northern","2022-11-01",31278
+"cases","BC","Northern","2022-11-01",31277
 "cases","BC","Out of Canada","2022-11-01",391
-"cases","BC","Vancouver Coastal","2022-11-01",78670
+"cases","BC","Vancouver Coastal","2022-11-01",78671
 "cases","BC","Vancouver Island","2022-11-01",39055
 "cases","BC","Fraser","2022-11-02",169624
 "cases","BC","Interior","2022-11-02",69303
-"cases","BC","Northern","2022-11-02",31279
+"cases","BC","Northern","2022-11-02",31278
 "cases","BC","Out of Canada","2022-11-02",391
-"cases","BC","Vancouver Coastal","2022-11-02",78685
+"cases","BC","Vancouver Coastal","2022-11-02",78686
 "cases","BC","Vancouver Island","2022-11-02",39074
 "cases","BC","Fraser","2022-11-03",169635
 "cases","BC","Interior","2022-11-03",69313
-"cases","BC","Northern","2022-11-03",31280
+"cases","BC","Northern","2022-11-03",31279
 "cases","BC","Out of Canada","2022-11-03",391
-"cases","BC","Vancouver Coastal","2022-11-03",78691
+"cases","BC","Vancouver Coastal","2022-11-03",78692
 "cases","BC","Vancouver Island","2022-11-03",39081
 "cases","BC","Fraser","2022-11-04",169645
 "cases","BC","Interior","2022-11-04",69330
-"cases","BC","Northern","2022-11-04",31281
+"cases","BC","Northern","2022-11-04",31280
 "cases","BC","Out of Canada","2022-11-04",391
-"cases","BC","Vancouver Coastal","2022-11-04",78709
+"cases","BC","Vancouver Coastal","2022-11-04",78710
 "cases","BC","Vancouver Island","2022-11-04",39096
 "cases","BC","Fraser","2022-11-05",169660
 "cases","BC","Interior","2022-11-05",69342
-"cases","BC","Northern","2022-11-05",31287
+"cases","BC","Northern","2022-11-05",31286
 "cases","BC","Out of Canada","2022-11-05",391
-"cases","BC","Vancouver Coastal","2022-11-05",78726
+"cases","BC","Vancouver Coastal","2022-11-05",78727
 "cases","BC","Vancouver Island","2022-11-05",39106
 "cases","BC","Fraser","2022-11-06",169675
 "cases","BC","Interior","2022-11-06",69360
-"cases","BC","Northern","2022-11-06",31293
+"cases","BC","Northern","2022-11-06",31292
 "cases","BC","Out of Canada","2022-11-06",391
-"cases","BC","Vancouver Coastal","2022-11-06",78737
+"cases","BC","Vancouver Coastal","2022-11-06",78738
 "cases","BC","Vancouver Island","2022-11-06",39120
 "cases","BC","Fraser","2022-11-07",169694
 "cases","BC","Interior","2022-11-07",69380
-"cases","BC","Northern","2022-11-07",31295
+"cases","BC","Northern","2022-11-07",31294
 "cases","BC","Out of Canada","2022-11-07",391
-"cases","BC","Vancouver Coastal","2022-11-07",78749
+"cases","BC","Vancouver Coastal","2022-11-07",78750
 "cases","BC","Vancouver Island","2022-11-07",39137
 "cases","BC","Fraser","2022-11-08",169719
 "cases","BC","Interior","2022-11-08",69405
-"cases","BC","Northern","2022-11-08",31296
+"cases","BC","Northern","2022-11-08",31295
 "cases","BC","Out of Canada","2022-11-08",391
-"cases","BC","Vancouver Coastal","2022-11-08",78761
+"cases","BC","Vancouver Coastal","2022-11-08",78762
 "cases","BC","Vancouver Island","2022-11-08",39148
 "cases","BC","Fraser","2022-11-09",169740
 "cases","BC","Interior","2022-11-09",69428
-"cases","BC","Northern","2022-11-09",31300
+"cases","BC","Northern","2022-11-09",31299
 "cases","BC","Out of Canada","2022-11-09",391
-"cases","BC","Vancouver Coastal","2022-11-09",78780
+"cases","BC","Vancouver Coastal","2022-11-09",78781
 "cases","BC","Vancouver Island","2022-11-09",39159
 "cases","BC","Fraser","2022-11-10",169761
 "cases","BC","Interior","2022-11-10",69448
-"cases","BC","Northern","2022-11-10",31304
+"cases","BC","Northern","2022-11-10",31303
 "cases","BC","Out of Canada","2022-11-10",391
-"cases","BC","Vancouver Coastal","2022-11-10",78796
+"cases","BC","Vancouver Coastal","2022-11-10",78797
 "cases","BC","Vancouver Island","2022-11-10",39175
 "cases","BC","Fraser","2022-11-11",169786
 "cases","BC","Interior","2022-11-11",69462
-"cases","BC","Northern","2022-11-11",31305
+"cases","BC","Northern","2022-11-11",31304
 "cases","BC","Out of Canada","2022-11-11",391
-"cases","BC","Vancouver Coastal","2022-11-11",78811
+"cases","BC","Vancouver Coastal","2022-11-11",78812
 "cases","BC","Vancouver Island","2022-11-11",39183
 "cases","BC","Fraser","2022-11-12",169807
 "cases","BC","Interior","2022-11-12",69476
-"cases","BC","Northern","2022-11-12",31310
+"cases","BC","Northern","2022-11-12",31309
 "cases","BC","Out of Canada","2022-11-12",391
-"cases","BC","Vancouver Coastal","2022-11-12",78825
+"cases","BC","Vancouver Coastal","2022-11-12",78826
 "cases","BC","Vancouver Island","2022-11-12",39189
 "cases","BC","Fraser","2022-11-13",169824
 "cases","BC","Interior","2022-11-13",69488
-"cases","BC","Northern","2022-11-13",31316
+"cases","BC","Northern","2022-11-13",31315
 "cases","BC","Out of Canada","2022-11-13",391
-"cases","BC","Vancouver Coastal","2022-11-13",78842
+"cases","BC","Vancouver Coastal","2022-11-13",78843
 "cases","BC","Vancouver Island","2022-11-13",39200
 "cases","BC","Fraser","2022-11-14",169834
 "cases","BC","Interior","2022-11-14",69498
-"cases","BC","Northern","2022-11-14",31322
+"cases","BC","Northern","2022-11-14",31321
 "cases","BC","Out of Canada","2022-11-14",391
-"cases","BC","Vancouver Coastal","2022-11-14",78863
+"cases","BC","Vancouver Coastal","2022-11-14",78864
 "cases","BC","Vancouver Island","2022-11-14",39208
 "cases","BC","Fraser","2022-11-15",169859
 "cases","BC","Interior","2022-11-15",69518
-"cases","BC","Northern","2022-11-15",31331
+"cases","BC","Northern","2022-11-15",31330
 "cases","BC","Out of Canada","2022-11-15",391
-"cases","BC","Vancouver Coastal","2022-11-15",78884
+"cases","BC","Vancouver Coastal","2022-11-15",78885
 "cases","BC","Vancouver Island","2022-11-15",39224
 "cases","BC","Fraser","2022-11-16",169889
 "cases","BC","Interior","2022-11-16",69529
-"cases","BC","Northern","2022-11-16",31336
+"cases","BC","Northern","2022-11-16",31335
 "cases","BC","Out of Canada","2022-11-16",391
-"cases","BC","Vancouver Coastal","2022-11-16",78898
+"cases","BC","Vancouver Coastal","2022-11-16",78899
 "cases","BC","Vancouver Island","2022-11-16",39236
 "cases","BC","Fraser","2022-11-17",169905
 "cases","BC","Interior","2022-11-17",69544
-"cases","BC","Northern","2022-11-17",31338
+"cases","BC","Northern","2022-11-17",31337
 "cases","BC","Out of Canada","2022-11-17",391
-"cases","BC","Vancouver Coastal","2022-11-17",78911
+"cases","BC","Vancouver Coastal","2022-11-17",78912
 "cases","BC","Vancouver Island","2022-11-17",39254
 "cases","BC","Fraser","2022-11-18",169937
 "cases","BC","Interior","2022-11-18",69564
-"cases","BC","Northern","2022-11-18",31340
+"cases","BC","Northern","2022-11-18",31339
 "cases","BC","Out of Canada","2022-11-18",391
-"cases","BC","Vancouver Coastal","2022-11-18",78927
+"cases","BC","Vancouver Coastal","2022-11-18",78928
 "cases","BC","Vancouver Island","2022-11-18",39275
 "cases","BC","Fraser","2022-11-19",169954
 "cases","BC","Interior","2022-11-19",69573
-"cases","BC","Northern","2022-11-19",31343
+"cases","BC","Northern","2022-11-19",31342
 "cases","BC","Out of Canada","2022-11-19",391
-"cases","BC","Vancouver Coastal","2022-11-19",78953
+"cases","BC","Vancouver Coastal","2022-11-19",78954
 "cases","BC","Vancouver Island","2022-11-19",39285
 "cases","BC","Fraser","2022-11-20",169994
 "cases","BC","Interior","2022-11-20",69582
-"cases","BC","Northern","2022-11-20",31344
+"cases","BC","Northern","2022-11-20",31343
 "cases","BC","Out of Canada","2022-11-20",391
-"cases","BC","Vancouver Coastal","2022-11-20",78970
+"cases","BC","Vancouver Coastal","2022-11-20",78971
 "cases","BC","Vancouver Island","2022-11-20",39293
 "cases","BC","Fraser","2022-11-21",170022
 "cases","BC","Interior","2022-11-21",69605
-"cases","BC","Northern","2022-11-21",31344
+"cases","BC","Northern","2022-11-21",31343
 "cases","BC","Out of Canada","2022-11-21",391
-"cases","BC","Vancouver Coastal","2022-11-21",78993
+"cases","BC","Vancouver Coastal","2022-11-21",78994
 "cases","BC","Vancouver Island","2022-11-21",39325
 "cases","BC","Fraser","2022-11-22",170051
 "cases","BC","Interior","2022-11-22",69619
-"cases","BC","Northern","2022-11-22",31347
+"cases","BC","Northern","2022-11-22",31346
 "cases","BC","Out of Canada","2022-11-22",391
-"cases","BC","Vancouver Coastal","2022-11-22",79014
+"cases","BC","Vancouver Coastal","2022-11-22",79015
 "cases","BC","Vancouver Island","2022-11-22",39340
 "cases","BC","Fraser","2022-11-23",170068
 "cases","BC","Interior","2022-11-23",69639
-"cases","BC","Northern","2022-11-23",31351
+"cases","BC","Northern","2022-11-23",31350
 "cases","BC","Out of Canada","2022-11-23",391
-"cases","BC","Vancouver Coastal","2022-11-23",79032
+"cases","BC","Vancouver Coastal","2022-11-23",79033
 "cases","BC","Vancouver Island","2022-11-23",39353
 "cases","BC","Fraser","2022-11-24",170110
 "cases","BC","Interior","2022-11-24",69659
-"cases","BC","Northern","2022-11-24",31358
+"cases","BC","Northern","2022-11-24",31357
 "cases","BC","Out of Canada","2022-11-24",391
-"cases","BC","Vancouver Coastal","2022-11-24",79053
+"cases","BC","Vancouver Coastal","2022-11-24",79054
 "cases","BC","Vancouver Island","2022-11-24",39371
 "cases","BC","Fraser","2022-11-25",170140
 "cases","BC","Interior","2022-11-25",69676
-"cases","BC","Northern","2022-11-25",31359
+"cases","BC","Northern","2022-11-25",31358
 "cases","BC","Out of Canada","2022-11-25",391
-"cases","BC","Vancouver Coastal","2022-11-25",79077
+"cases","BC","Vancouver Coastal","2022-11-25",79078
 "cases","BC","Vancouver Island","2022-11-25",39386
 "cases","BC","Fraser","2022-11-26",170175
 "cases","BC","Interior","2022-11-26",69688
-"cases","BC","Northern","2022-11-26",31361
+"cases","BC","Northern","2022-11-26",31360
 "cases","BC","Out of Canada","2022-11-26",391
-"cases","BC","Vancouver Coastal","2022-11-26",79092
+"cases","BC","Vancouver Coastal","2022-11-26",79093
 "cases","BC","Vancouver Island","2022-11-26",39398
 "cases","BC","Fraser","2022-11-27",170196
 "cases","BC","Interior","2022-11-27",69699
-"cases","BC","Northern","2022-11-27",31363
+"cases","BC","Northern","2022-11-27",31362
 "cases","BC","Out of Canada","2022-11-27",391
-"cases","BC","Vancouver Coastal","2022-11-27",79110
+"cases","BC","Vancouver Coastal","2022-11-27",79111
 "cases","BC","Vancouver Island","2022-11-27",39415
 "cases","BC","Fraser","2022-11-28",170211
 "cases","BC","Interior","2022-11-28",69718
-"cases","BC","Northern","2022-11-28",31365
+"cases","BC","Northern","2022-11-28",31364
 "cases","BC","Out of Canada","2022-11-28",391
-"cases","BC","Vancouver Coastal","2022-11-28",79129
+"cases","BC","Vancouver Coastal","2022-11-28",79130
 "cases","BC","Vancouver Island","2022-11-28",39440
 "cases","BC","Fraser","2022-11-29",170242
 "cases","BC","Interior","2022-11-29",69747
-"cases","BC","Northern","2022-11-29",31371
+"cases","BC","Northern","2022-11-29",31370
 "cases","BC","Out of Canada","2022-11-29",391
-"cases","BC","Vancouver Coastal","2022-11-29",79147
+"cases","BC","Vancouver Coastal","2022-11-29",79148
 "cases","BC","Vancouver Island","2022-11-29",39454
 "cases","BC","Fraser","2022-11-30",170258
 "cases","BC","Interior","2022-11-30",69772
-"cases","BC","Northern","2022-11-30",31372
+"cases","BC","Northern","2022-11-30",31371
 "cases","BC","Out of Canada","2022-11-30",391
-"cases","BC","Vancouver Coastal","2022-11-30",79165
+"cases","BC","Vancouver Coastal","2022-11-30",79166
 "cases","BC","Vancouver Island","2022-11-30",39473
 "cases","BC","Fraser","2022-12-01",170286
 "cases","BC","Interior","2022-12-01",69794
-"cases","BC","Northern","2022-12-01",31373
+"cases","BC","Northern","2022-12-01",31372
 "cases","BC","Out of Canada","2022-12-01",391
-"cases","BC","Vancouver Coastal","2022-12-01",79179
+"cases","BC","Vancouver Coastal","2022-12-01",79180
 "cases","BC","Vancouver Island","2022-12-01",39487
 "cases","BC","Fraser","2022-12-02",170314
 "cases","BC","Interior","2022-12-02",69802
-"cases","BC","Northern","2022-12-02",31377
+"cases","BC","Northern","2022-12-02",31376
 "cases","BC","Out of Canada","2022-12-02",391
-"cases","BC","Vancouver Coastal","2022-12-02",79208
+"cases","BC","Vancouver Coastal","2022-12-02",79209
 "cases","BC","Vancouver Island","2022-12-02",39494
 "cases","BC","Fraser","2022-12-03",170335
 "cases","BC","Interior","2022-12-03",69811
-"cases","BC","Northern","2022-12-03",31383
+"cases","BC","Northern","2022-12-03",31382
 "cases","BC","Out of Canada","2022-12-03",391
-"cases","BC","Vancouver Coastal","2022-12-03",79228
+"cases","BC","Vancouver Coastal","2022-12-03",79229
 "cases","BC","Vancouver Island","2022-12-03",39497
 "cases","BC","Fraser","2022-12-04",170358
 "cases","BC","Interior","2022-12-04",69818
-"cases","BC","Northern","2022-12-04",31383
+"cases","BC","Northern","2022-12-04",31382
 "cases","BC","Out of Canada","2022-12-04",391
-"cases","BC","Vancouver Coastal","2022-12-04",79252
+"cases","BC","Vancouver Coastal","2022-12-04",79253
 "cases","BC","Vancouver Island","2022-12-04",39504
 "cases","BC","Fraser","2022-12-05",170391
 "cases","BC","Interior","2022-12-05",69832
-"cases","BC","Northern","2022-12-05",31384
+"cases","BC","Northern","2022-12-05",31383
 "cases","BC","Out of Canada","2022-12-05",391
-"cases","BC","Vancouver Coastal","2022-12-05",79277
+"cases","BC","Vancouver Coastal","2022-12-05",79278
 "cases","BC","Vancouver Island","2022-12-05",39524
 "cases","BC","Fraser","2022-12-06",170420
 "cases","BC","Interior","2022-12-06",69865
-"cases","BC","Northern","2022-12-06",31386
+"cases","BC","Northern","2022-12-06",31385
 "cases","BC","Out of Canada","2022-12-06",391
-"cases","BC","Vancouver Coastal","2022-12-06",79297
+"cases","BC","Vancouver Coastal","2022-12-06",79298
 "cases","BC","Vancouver Island","2022-12-06",39535
 "cases","BC","Fraser","2022-12-07",170454
 "cases","BC","Interior","2022-12-07",69896
-"cases","BC","Northern","2022-12-07",31390
+"cases","BC","Northern","2022-12-07",31389
 "cases","BC","Out of Canada","2022-12-07",391
-"cases","BC","Vancouver Coastal","2022-12-07",79322
+"cases","BC","Vancouver Coastal","2022-12-07",79323
 "cases","BC","Vancouver Island","2022-12-07",39550
 "cases","BC","Fraser","2022-12-08",170489
 "cases","BC","Interior","2022-12-08",69918
-"cases","BC","Northern","2022-12-08",31394
+"cases","BC","Northern","2022-12-08",31393
 "cases","BC","Out of Canada","2022-12-08",391
-"cases","BC","Vancouver Coastal","2022-12-08",79340
+"cases","BC","Vancouver Coastal","2022-12-08",79341
 "cases","BC","Vancouver Island","2022-12-08",39570
 "cases","BC","Fraser","2022-12-09",170521
 "cases","BC","Interior","2022-12-09",69945
-"cases","BC","Northern","2022-12-09",31395
+"cases","BC","Northern","2022-12-09",31394
 "cases","BC","Out of Canada","2022-12-09",391
-"cases","BC","Vancouver Coastal","2022-12-09",79358
+"cases","BC","Vancouver Coastal","2022-12-09",79359
 "cases","BC","Vancouver Island","2022-12-09",39595
 "cases","BC","Fraser","2022-12-10",170542
 "cases","BC","Interior","2022-12-10",69973
-"cases","BC","Northern","2022-12-10",31401
+"cases","BC","Northern","2022-12-10",31400
 "cases","BC","Out of Canada","2022-12-10",391
-"cases","BC","Vancouver Coastal","2022-12-10",79384
+"cases","BC","Vancouver Coastal","2022-12-10",79385
 "cases","BC","Vancouver Island","2022-12-10",39614
 "cases","BC","Fraser","2022-12-11",170573
 "cases","BC","Interior","2022-12-11",69995
-"cases","BC","Northern","2022-12-11",31404
+"cases","BC","Northern","2022-12-11",31403
 "cases","BC","Out of Canada","2022-12-11",391
-"cases","BC","Vancouver Coastal","2022-12-11",79403
+"cases","BC","Vancouver Coastal","2022-12-11",79404
 "cases","BC","Vancouver Island","2022-12-11",39626
 "cases","BC","Fraser","2022-12-12",170606
 "cases","BC","Interior","2022-12-12",70011
-"cases","BC","Northern","2022-12-12",31406
+"cases","BC","Northern","2022-12-12",31405
 "cases","BC","Out of Canada","2022-12-12",391
-"cases","BC","Vancouver Coastal","2022-12-12",79430
+"cases","BC","Vancouver Coastal","2022-12-12",79431
 "cases","BC","Vancouver Island","2022-12-12",39647
 "cases","BC","Fraser","2022-12-13",170628
 "cases","BC","Interior","2022-12-13",70033
-"cases","BC","Northern","2022-12-13",31411
+"cases","BC","Northern","2022-12-13",31410
 "cases","BC","Out of Canada","2022-12-13",391
-"cases","BC","Vancouver Coastal","2022-12-13",79455
+"cases","BC","Vancouver Coastal","2022-12-13",79456
 "cases","BC","Vancouver Island","2022-12-13",39662
 "cases","BC","Fraser","2022-12-14",170649
 "cases","BC","Interior","2022-12-14",70058
-"cases","BC","Northern","2022-12-14",31417
+"cases","BC","Northern","2022-12-14",31416
 "cases","BC","Out of Canada","2022-12-14",391
-"cases","BC","Vancouver Coastal","2022-12-14",79477
+"cases","BC","Vancouver Coastal","2022-12-14",79478
 "cases","BC","Vancouver Island","2022-12-14",39675
 "cases","BC","Fraser","2022-12-15",170685
 "cases","BC","Interior","2022-12-15",70075
-"cases","BC","Northern","2022-12-15",31419
+"cases","BC","Northern","2022-12-15",31418
 "cases","BC","Out of Canada","2022-12-15",391
-"cases","BC","Vancouver Coastal","2022-12-15",79496
+"cases","BC","Vancouver Coastal","2022-12-15",79497
 "cases","BC","Vancouver Island","2022-12-15",39686
 "cases","BC","Fraser","2022-12-16",170713
 "cases","BC","Interior","2022-12-16",70089
-"cases","BC","Northern","2022-12-16",31424
+"cases","BC","Northern","2022-12-16",31423
 "cases","BC","Out of Canada","2022-12-16",391
-"cases","BC","Vancouver Coastal","2022-12-16",79517
+"cases","BC","Vancouver Coastal","2022-12-16",79518
 "cases","BC","Vancouver Island","2022-12-16",39708
 "cases","BC","Fraser","2022-12-17",170744
 "cases","BC","Interior","2022-12-17",70103
-"cases","BC","Northern","2022-12-17",31427
+"cases","BC","Northern","2022-12-17",31426
 "cases","BC","Out of Canada","2022-12-17",391
-"cases","BC","Vancouver Coastal","2022-12-17",79531
+"cases","BC","Vancouver Coastal","2022-12-17",79532
 "cases","BC","Vancouver Island","2022-12-17",39718
 "cases","BC","Fraser","2022-12-18",170765
 "cases","BC","Interior","2022-12-18",70117
-"cases","BC","Northern","2022-12-18",31427
+"cases","BC","Northern","2022-12-18",31426
 "cases","BC","Out of Canada","2022-12-18",391
-"cases","BC","Vancouver Coastal","2022-12-18",79551
+"cases","BC","Vancouver Coastal","2022-12-18",79552
 "cases","BC","Vancouver Island","2022-12-18",39733
 "cases","BC","Fraser","2022-12-19",170790
 "cases","BC","Interior","2022-12-19",70142
-"cases","BC","Northern","2022-12-19",31431
+"cases","BC","Northern","2022-12-19",31430
 "cases","BC","Out of Canada","2022-12-19",391
-"cases","BC","Vancouver Coastal","2022-12-19",79571
+"cases","BC","Vancouver Coastal","2022-12-19",79572
 "cases","BC","Vancouver Island","2022-12-19",39744
 "cases","BC","Fraser","2022-12-20",170821
 "cases","BC","Interior","2022-12-20",70159
-"cases","BC","Northern","2022-12-20",31432
+"cases","BC","Northern","2022-12-20",31431
 "cases","BC","Out of Canada","2022-12-20",391
-"cases","BC","Vancouver Coastal","2022-12-20",79596
+"cases","BC","Vancouver Coastal","2022-12-20",79597
 "cases","BC","Vancouver Island","2022-12-20",39752
 "cases","BC","Fraser","2022-12-21",170850
 "cases","BC","Interior","2022-12-21",70174
-"cases","BC","Northern","2022-12-21",31435
+"cases","BC","Northern","2022-12-21",31434
 "cases","BC","Out of Canada","2022-12-21",391
-"cases","BC","Vancouver Coastal","2022-12-21",79614
+"cases","BC","Vancouver Coastal","2022-12-21",79615
 "cases","BC","Vancouver Island","2022-12-21",39767
 "cases","BC","Fraser","2022-12-22",170878
 "cases","BC","Interior","2022-12-22",70186
-"cases","BC","Northern","2022-12-22",31444
+"cases","BC","Northern","2022-12-22",31443
 "cases","BC","Out of Canada","2022-12-22",391
-"cases","BC","Vancouver Coastal","2022-12-22",79650
+"cases","BC","Vancouver Coastal","2022-12-22",79651
 "cases","BC","Vancouver Island","2022-12-22",39779
 "cases","BC","Fraser","2022-12-23",170891
 "cases","BC","Interior","2022-12-23",70193
-"cases","BC","Northern","2022-12-23",31444
+"cases","BC","Northern","2022-12-23",31443
 "cases","BC","Out of Canada","2022-12-23",391
-"cases","BC","Vancouver Coastal","2022-12-23",79670
+"cases","BC","Vancouver Coastal","2022-12-23",79671
 "cases","BC","Vancouver Island","2022-12-23",39790
 "cases","BC","Fraser","2022-12-24",170922
 "cases","BC","Interior","2022-12-24",70207
-"cases","BC","Northern","2022-12-24",31448
+"cases","BC","Northern","2022-12-24",31447
 "cases","BC","Out of Canada","2022-12-24",391
-"cases","BC","Vancouver Coastal","2022-12-24",79699
+"cases","BC","Vancouver Coastal","2022-12-24",79700
 "cases","BC","Vancouver Island","2022-12-24",39809
 "cases","BC","Fraser","2022-12-25",170954
 "cases","BC","Interior","2022-12-25",70219
-"cases","BC","Northern","2022-12-25",31450
+"cases","BC","Northern","2022-12-25",31449
 "cases","BC","Out of Canada","2022-12-25",391
-"cases","BC","Vancouver Coastal","2022-12-25",79726
+"cases","BC","Vancouver Coastal","2022-12-25",79727
 "cases","BC","Vancouver Island","2022-12-25",39818
 "cases","BC","Fraser","2022-12-26",170985
 "cases","BC","Interior","2022-12-26",70231
-"cases","BC","Northern","2022-12-26",31454
+"cases","BC","Northern","2022-12-26",31453
 "cases","BC","Out of Canada","2022-12-26",391
-"cases","BC","Vancouver Coastal","2022-12-26",79756
+"cases","BC","Vancouver Coastal","2022-12-26",79757
 "cases","BC","Vancouver Island","2022-12-26",39826
 "cases","BC","Fraser","2022-12-27",171015
 "cases","BC","Interior","2022-12-27",70249
-"cases","BC","Northern","2022-12-27",31457
+"cases","BC","Northern","2022-12-27",31456
 "cases","BC","Out of Canada","2022-12-27",391
-"cases","BC","Vancouver Coastal","2022-12-27",79793
+"cases","BC","Vancouver Coastal","2022-12-27",79794
 "cases","BC","Vancouver Island","2022-12-27",39839
 "cases","BC","Fraser","2022-12-28",171042
 "cases","BC","Interior","2022-12-28",70268
-"cases","BC","Northern","2022-12-28",31465
+"cases","BC","Northern","2022-12-28",31464
 "cases","BC","Out of Canada","2022-12-28",391
-"cases","BC","Vancouver Coastal","2022-12-28",79811
+"cases","BC","Vancouver Coastal","2022-12-28",79812
 "cases","BC","Vancouver Island","2022-12-28",39851
 "cases","BC","Fraser","2022-12-29",171082
 "cases","BC","Interior","2022-12-29",70300
-"cases","BC","Northern","2022-12-29",31468
+"cases","BC","Northern","2022-12-29",31467
 "cases","BC","Out of Canada","2022-12-29",391
-"cases","BC","Vancouver Coastal","2022-12-29",79848
+"cases","BC","Vancouver Coastal","2022-12-29",79849
 "cases","BC","Vancouver Island","2022-12-29",39869
 "cases","BC","Fraser","2022-12-30",171130
 "cases","BC","Interior","2022-12-30",70319
-"cases","BC","Northern","2022-12-30",31472
+"cases","BC","Northern","2022-12-30",31471
 "cases","BC","Out of Canada","2022-12-30",391
-"cases","BC","Vancouver Coastal","2022-12-30",79883
+"cases","BC","Vancouver Coastal","2022-12-30",79884
 "cases","BC","Vancouver Island","2022-12-30",39885
 "cases","BC","Fraser","2022-12-31",171157
 "cases","BC","Interior","2022-12-31",70332
-"cases","BC","Northern","2022-12-31",31475
+"cases","BC","Northern","2022-12-31",31474
 "cases","BC","Out of Canada","2022-12-31",391
-"cases","BC","Vancouver Coastal","2022-12-31",79907
+"cases","BC","Vancouver Coastal","2022-12-31",79908
 "cases","BC","Vancouver Island","2022-12-31",39907
 "cases","BC","Fraser","2023-01-01",171187
 "cases","BC","Interior","2023-01-01",70348
-"cases","BC","Northern","2023-01-01",31475
+"cases","BC","Northern","2023-01-01",31474
 "cases","BC","Out of Canada","2023-01-01",391
-"cases","BC","Vancouver Coastal","2023-01-01",79934
+"cases","BC","Vancouver Coastal","2023-01-01",79935
 "cases","BC","Vancouver Island","2023-01-01",39921
 "cases","BC","Fraser","2023-01-02",171217
 "cases","BC","Interior","2023-01-02",70371
-"cases","BC","Northern","2023-01-02",31477
+"cases","BC","Northern","2023-01-02",31476
 "cases","BC","Out of Canada","2023-01-02",391
-"cases","BC","Vancouver Coastal","2023-01-02",79954
+"cases","BC","Vancouver Coastal","2023-01-02",79955
 "cases","BC","Vancouver Island","2023-01-02",39935
 "cases","BC","Fraser","2023-01-03",171257
 "cases","BC","Interior","2023-01-03",70401
-"cases","BC","Northern","2023-01-03",31481
+"cases","BC","Northern","2023-01-03",31480
 "cases","BC","Out of Canada","2023-01-03",391
-"cases","BC","Vancouver Coastal","2023-01-03",79970
+"cases","BC","Vancouver Coastal","2023-01-03",79971
 "cases","BC","Vancouver Island","2023-01-03",39948
 "cases","BC","Fraser","2023-01-04",171288
 "cases","BC","Interior","2023-01-04",70442
-"cases","BC","Northern","2023-01-04",31486
+"cases","BC","Northern","2023-01-04",31485
 "cases","BC","Out of Canada","2023-01-04",391
-"cases","BC","Vancouver Coastal","2023-01-04",79990
+"cases","BC","Vancouver Coastal","2023-01-04",79991
 "cases","BC","Vancouver Island","2023-01-04",39965
 "cases","BC","Fraser","2023-01-05",171326
 "cases","BC","Interior","2023-01-05",70463
-"cases","BC","Northern","2023-01-05",31489
+"cases","BC","Northern","2023-01-05",31488
 "cases","BC","Out of Canada","2023-01-05",391
-"cases","BC","Vancouver Coastal","2023-01-05",80014
+"cases","BC","Vancouver Coastal","2023-01-05",80015
 "cases","BC","Vancouver Island","2023-01-05",39982
 "cases","BC","Fraser","2023-01-06",171355
 "cases","BC","Interior","2023-01-06",70490
-"cases","BC","Northern","2023-01-06",31496
+"cases","BC","Northern","2023-01-06",31495
 "cases","BC","Out of Canada","2023-01-06",391
-"cases","BC","Vancouver Coastal","2023-01-06",80032
+"cases","BC","Vancouver Coastal","2023-01-06",80033
 "cases","BC","Vancouver Island","2023-01-06",39999
 "cases","BC","Fraser","2023-01-07",171381
 "cases","BC","Interior","2023-01-07",70500
-"cases","BC","Northern","2023-01-07",31498
+"cases","BC","Northern","2023-01-07",31497
 "cases","BC","Out of Canada","2023-01-07",391
-"cases","BC","Vancouver Coastal","2023-01-07",80050
+"cases","BC","Vancouver Coastal","2023-01-07",80051
 "cases","BC","Vancouver Island","2023-01-07",40011
 "cases","BC","Fraser","2023-01-08",171413
 "cases","BC","Interior","2023-01-08",70506
-"cases","BC","Northern","2023-01-08",31504
+"cases","BC","Northern","2023-01-08",31503
 "cases","BC","Out of Canada","2023-01-08",391
-"cases","BC","Vancouver Coastal","2023-01-08",80058
+"cases","BC","Vancouver Coastal","2023-01-08",80059
 "cases","BC","Vancouver Island","2023-01-08",40018
 "cases","BC","Fraser","2023-01-09",171445
 "cases","BC","Interior","2023-01-09",70527
-"cases","BC","Northern","2023-01-09",31508
+"cases","BC","Northern","2023-01-09",31507
 "cases","BC","Out of Canada","2023-01-09",391
-"cases","BC","Vancouver Coastal","2023-01-09",80081
+"cases","BC","Vancouver Coastal","2023-01-09",80082
 "cases","BC","Vancouver Island","2023-01-09",40035
 "cases","BC","Fraser","2023-01-10",171480
 "cases","BC","Interior","2023-01-10",70542
-"cases","BC","Northern","2023-01-10",31513
+"cases","BC","Northern","2023-01-10",31512
 "cases","BC","Out of Canada","2023-01-10",391
-"cases","BC","Vancouver Coastal","2023-01-10",80101
+"cases","BC","Vancouver Coastal","2023-01-10",80102
 "cases","BC","Vancouver Island","2023-01-10",40055
 "cases","BC","Fraser","2023-01-11",171506
 "cases","BC","Interior","2023-01-11",70563
-"cases","BC","Northern","2023-01-11",31517
+"cases","BC","Northern","2023-01-11",31516
 "cases","BC","Out of Canada","2023-01-11",391
-"cases","BC","Vancouver Coastal","2023-01-11",80116
+"cases","BC","Vancouver Coastal","2023-01-11",80117
 "cases","BC","Vancouver Island","2023-01-11",40068
 "cases","BC","Fraser","2023-01-12",171533
 "cases","BC","Interior","2023-01-12",70577
-"cases","BC","Northern","2023-01-12",31522
+"cases","BC","Northern","2023-01-12",31521
 "cases","BC","Out of Canada","2023-01-12",391
-"cases","BC","Vancouver Coastal","2023-01-12",80134
+"cases","BC","Vancouver Coastal","2023-01-12",80135
 "cases","BC","Vancouver Island","2023-01-12",40076
 "cases","BC","Fraser","2023-01-13",171572
 "cases","BC","Interior","2023-01-13",70589
-"cases","BC","Northern","2023-01-13",31529
+"cases","BC","Northern","2023-01-13",31528
 "cases","BC","Out of Canada","2023-01-13",391
-"cases","BC","Vancouver Coastal","2023-01-13",80153
+"cases","BC","Vancouver Coastal","2023-01-13",80154
 "cases","BC","Vancouver Island","2023-01-13",40090
 "cases","BC","Fraser","2023-01-14",171596
 "cases","BC","Interior","2023-01-14",70596
-"cases","BC","Northern","2023-01-14",31531
+"cases","BC","Northern","2023-01-14",31530
 "cases","BC","Out of Canada","2023-01-14",391
-"cases","BC","Vancouver Coastal","2023-01-14",80167
+"cases","BC","Vancouver Coastal","2023-01-14",80168
 "cases","BC","Vancouver Island","2023-01-14",40109
 "cases","BC","Fraser","2023-01-15",171624
 "cases","BC","Interior","2023-01-15",70612
-"cases","BC","Northern","2023-01-15",31540
+"cases","BC","Northern","2023-01-15",31539
 "cases","BC","Out of Canada","2023-01-15",391
-"cases","BC","Vancouver Coastal","2023-01-15",80176
+"cases","BC","Vancouver Coastal","2023-01-15",80177
 "cases","BC","Vancouver Island","2023-01-15",40125
 "cases","BC","Fraser","2023-01-16",171661
 "cases","BC","Interior","2023-01-16",70624
-"cases","BC","Northern","2023-01-16",31543
+"cases","BC","Northern","2023-01-16",31542
 "cases","BC","Out of Canada","2023-01-16",391
-"cases","BC","Vancouver Coastal","2023-01-16",80200
+"cases","BC","Vancouver Coastal","2023-01-16",80201
 "cases","BC","Vancouver Island","2023-01-16",40137
 "cases","BC","Fraser","2023-01-17",171689
 "cases","BC","Interior","2023-01-17",70628
-"cases","BC","Northern","2023-01-17",31543
+"cases","BC","Northern","2023-01-17",31542
 "cases","BC","Out of Canada","2023-01-17",391
-"cases","BC","Vancouver Coastal","2023-01-17",80211
+"cases","BC","Vancouver Coastal","2023-01-17",80212
 "cases","BC","Vancouver Island","2023-01-17",40144
 "cases","BC","Fraser","2023-01-18",171709
 "cases","BC","Interior","2023-01-18",70640
-"cases","BC","Northern","2023-01-18",31546
+"cases","BC","Northern","2023-01-18",31545
 "cases","BC","Out of Canada","2023-01-18",391
-"cases","BC","Vancouver Coastal","2023-01-18",80218
+"cases","BC","Vancouver Coastal","2023-01-18",80219
 "cases","BC","Vancouver Island","2023-01-18",40153
 "cases","BC","Fraser","2023-01-19",171726
 "cases","BC","Interior","2023-01-19",70650
-"cases","BC","Northern","2023-01-19",31547
+"cases","BC","Northern","2023-01-19",31546
 "cases","BC","Out of Canada","2023-01-19",391
-"cases","BC","Vancouver Coastal","2023-01-19",80229
+"cases","BC","Vancouver Coastal","2023-01-19",80230
 "cases","BC","Vancouver Island","2023-01-19",40157
 "cases","BC","Fraser","2023-01-20",171743
 "cases","BC","Interior","2023-01-20",70658
-"cases","BC","Northern","2023-01-20",31552
+"cases","BC","Northern","2023-01-20",31551
 "cases","BC","Out of Canada","2023-01-20",391
-"cases","BC","Vancouver Coastal","2023-01-20",80243
+"cases","BC","Vancouver Coastal","2023-01-20",80244
 "cases","BC","Vancouver Island","2023-01-20",40166
 "cases","BC","Fraser","2023-01-21",171761
 "cases","BC","Interior","2023-01-21",70664
-"cases","BC","Northern","2023-01-21",31557
+"cases","BC","Northern","2023-01-21",31556
 "cases","BC","Out of Canada","2023-01-21",391
-"cases","BC","Vancouver Coastal","2023-01-21",80250
+"cases","BC","Vancouver Coastal","2023-01-21",80251
 "cases","BC","Vancouver Island","2023-01-21",40175
 "cases","BC","Fraser","2023-01-22",171775
 "cases","BC","Interior","2023-01-22",70675
-"cases","BC","Northern","2023-01-22",31560
+"cases","BC","Northern","2023-01-22",31559
 "cases","BC","Out of Canada","2023-01-22",391
-"cases","BC","Vancouver Coastal","2023-01-22",80262
+"cases","BC","Vancouver Coastal","2023-01-22",80263
 "cases","BC","Vancouver Island","2023-01-22",40181
 "cases","BC","Fraser","2023-01-23",171783
 "cases","BC","Interior","2023-01-23",70677
-"cases","BC","Northern","2023-01-23",31563
+"cases","BC","Northern","2023-01-23",31562
 "cases","BC","Out of Canada","2023-01-23",391
-"cases","BC","Vancouver Coastal","2023-01-23",80271
+"cases","BC","Vancouver Coastal","2023-01-23",80272
 "cases","BC","Vancouver Island","2023-01-23",40186
 "cases","BC","Fraser","2023-01-24",171800
 "cases","BC","Interior","2023-01-24",70685
-"cases","BC","Northern","2023-01-24",31566
+"cases","BC","Northern","2023-01-24",31565
 "cases","BC","Out of Canada","2023-01-24",391
-"cases","BC","Vancouver Coastal","2023-01-24",80281
+"cases","BC","Vancouver Coastal","2023-01-24",80282
 "cases","BC","Vancouver Island","2023-01-24",40189
 "cases","BC","Fraser","2023-01-25",171829
 "cases","BC","Interior","2023-01-25",70696
-"cases","BC","Northern","2023-01-25",31568
+"cases","BC","Northern","2023-01-25",31567
 "cases","BC","Out of Canada","2023-01-25",391
-"cases","BC","Vancouver Coastal","2023-01-25",80293
+"cases","BC","Vancouver Coastal","2023-01-25",80294
 "cases","BC","Vancouver Island","2023-01-25",40193
 "cases","BC","Fraser","2023-01-26",171843
 "cases","BC","Interior","2023-01-26",70697
-"cases","BC","Northern","2023-01-26",31576
+"cases","BC","Northern","2023-01-26",31575
 "cases","BC","Out of Canada","2023-01-26",391
-"cases","BC","Vancouver Coastal","2023-01-26",80300
+"cases","BC","Vancouver Coastal","2023-01-26",80301
 "cases","BC","Vancouver Island","2023-01-26",40199
 "cases","BC","Fraser","2023-01-27",171867
 "cases","BC","Interior","2023-01-27",70699
-"cases","BC","Northern","2023-01-27",31580
+"cases","BC","Northern","2023-01-27",31579
 "cases","BC","Out of Canada","2023-01-27",391
-"cases","BC","Vancouver Coastal","2023-01-27",80318
+"cases","BC","Vancouver Coastal","2023-01-27",80319
 "cases","BC","Vancouver Island","2023-01-27",40206
 "cases","BC","Fraser","2023-01-28",171881
 "cases","BC","Interior","2023-01-28",70706
-"cases","BC","Northern","2023-01-28",31581
+"cases","BC","Northern","2023-01-28",31580
 "cases","BC","Out of Canada","2023-01-28",391
-"cases","BC","Vancouver Coastal","2023-01-28",80323
+"cases","BC","Vancouver Coastal","2023-01-28",80324
 "cases","BC","Vancouver Island","2023-01-28",40208
 "cases","BC","Fraser","2023-01-29",171889
 "cases","BC","Interior","2023-01-29",70708
-"cases","BC","Northern","2023-01-29",31583
+"cases","BC","Northern","2023-01-29",31582
 "cases","BC","Out of Canada","2023-01-29",391
-"cases","BC","Vancouver Coastal","2023-01-29",80329
+"cases","BC","Vancouver Coastal","2023-01-29",80330
 "cases","BC","Vancouver Island","2023-01-29",40214
 "cases","BC","Fraser","2023-01-30",171913
 "cases","BC","Interior","2023-01-30",70715
-"cases","BC","Northern","2023-01-30",31588
+"cases","BC","Northern","2023-01-30",31587
 "cases","BC","Out of Canada","2023-01-30",391
-"cases","BC","Vancouver Coastal","2023-01-30",80335
+"cases","BC","Vancouver Coastal","2023-01-30",80336
 "cases","BC","Vancouver Island","2023-01-30",40218
 "cases","BC","Fraser","2023-01-31",171928
 "cases","BC","Interior","2023-01-31",70726
-"cases","BC","Northern","2023-01-31",31588
+"cases","BC","Northern","2023-01-31",31587
 "cases","BC","Out of Canada","2023-01-31",391
-"cases","BC","Vancouver Coastal","2023-01-31",80345
+"cases","BC","Vancouver Coastal","2023-01-31",80346
 "cases","BC","Vancouver Island","2023-01-31",40224
 "cases","BC","Fraser","2023-02-01",171944
 "cases","BC","Interior","2023-02-01",70740
-"cases","BC","Northern","2023-02-01",31591
+"cases","BC","Northern","2023-02-01",31590
 "cases","BC","Out of Canada","2023-02-01",391
-"cases","BC","Vancouver Coastal","2023-02-01",80357
+"cases","BC","Vancouver Coastal","2023-02-01",80358
 "cases","BC","Vancouver Island","2023-02-01",40233
 "cases","BC","Fraser","2023-02-02",171958
 "cases","BC","Interior","2023-02-02",70749
-"cases","BC","Northern","2023-02-02",31592
+"cases","BC","Northern","2023-02-02",31591
 "cases","BC","Out of Canada","2023-02-02",391
-"cases","BC","Vancouver Coastal","2023-02-02",80366
+"cases","BC","Vancouver Coastal","2023-02-02",80367
 "cases","BC","Vancouver Island","2023-02-02",40241
 "cases","BC","Fraser","2023-02-03",171979
 "cases","BC","Interior","2023-02-03",70754
-"cases","BC","Northern","2023-02-03",31593
+"cases","BC","Northern","2023-02-03",31592
 "cases","BC","Out of Canada","2023-02-03",391
-"cases","BC","Vancouver Coastal","2023-02-03",80373
+"cases","BC","Vancouver Coastal","2023-02-03",80374
 "cases","BC","Vancouver Island","2023-02-03",40243
 "cases","BC","Fraser","2023-02-04",171992
 "cases","BC","Interior","2023-02-04",70762
-"cases","BC","Northern","2023-02-04",31597
+"cases","BC","Northern","2023-02-04",31596
 "cases","BC","Out of Canada","2023-02-04",391
-"cases","BC","Vancouver Coastal","2023-02-04",80379
+"cases","BC","Vancouver Coastal","2023-02-04",80380
 "cases","BC","Vancouver Island","2023-02-04",40246
 "cases","BC","Fraser","2023-02-05",172001
 "cases","BC","Interior","2023-02-05",70767
-"cases","BC","Northern","2023-02-05",31598
+"cases","BC","Northern","2023-02-05",31597
 "cases","BC","Out of Canada","2023-02-05",391
-"cases","BC","Vancouver Coastal","2023-02-05",80393
+"cases","BC","Vancouver Coastal","2023-02-05",80394
 "cases","BC","Vancouver Island","2023-02-05",40251
 "cases","BC","Fraser","2023-02-06",172024
 "cases","BC","Interior","2023-02-06",70775
-"cases","BC","Northern","2023-02-06",31600
+"cases","BC","Northern","2023-02-06",31599
 "cases","BC","Out of Canada","2023-02-06",391
-"cases","BC","Vancouver Coastal","2023-02-06",80397
+"cases","BC","Vancouver Coastal","2023-02-06",80398
 "cases","BC","Vancouver Island","2023-02-06",40261
 "cases","BC","Fraser","2023-02-07",172048
 "cases","BC","Interior","2023-02-07",70783
-"cases","BC","Northern","2023-02-07",31600
+"cases","BC","Northern","2023-02-07",31599
 "cases","BC","Out of Canada","2023-02-07",391
-"cases","BC","Vancouver Coastal","2023-02-07",80406
+"cases","BC","Vancouver Coastal","2023-02-07",80407
 "cases","BC","Vancouver Island","2023-02-07",40270
 "cases","BC","Fraser","2023-02-08",172066
 "cases","BC","Interior","2023-02-08",70792
-"cases","BC","Northern","2023-02-08",31600
+"cases","BC","Northern","2023-02-08",31599
 "cases","BC","Out of Canada","2023-02-08",391
-"cases","BC","Vancouver Coastal","2023-02-08",80421
+"cases","BC","Vancouver Coastal","2023-02-08",80422
 "cases","BC","Vancouver Island","2023-02-08",40277
 "cases","BC","Fraser","2023-02-09",172089
 "cases","BC","Interior","2023-02-09",70800
-"cases","BC","Northern","2023-02-09",31601
+"cases","BC","Northern","2023-02-09",31600
 "cases","BC","Out of Canada","2023-02-09",391
-"cases","BC","Vancouver Coastal","2023-02-09",80436
+"cases","BC","Vancouver Coastal","2023-02-09",80437
 "cases","BC","Vancouver Island","2023-02-09",40281
 "cases","BC","Fraser","2023-02-10",172111
 "cases","BC","Interior","2023-02-10",70811
-"cases","BC","Northern","2023-02-10",31602
+"cases","BC","Northern","2023-02-10",31601
 "cases","BC","Out of Canada","2023-02-10",391
-"cases","BC","Vancouver Coastal","2023-02-10",80447
+"cases","BC","Vancouver Coastal","2023-02-10",80448
 "cases","BC","Vancouver Island","2023-02-10",40290
 "cases","BC","Fraser","2023-02-11",172126
 "cases","BC","Interior","2023-02-11",70821
-"cases","BC","Northern","2023-02-11",31606
+"cases","BC","Northern","2023-02-11",31605
 "cases","BC","Out of Canada","2023-02-11",391
-"cases","BC","Vancouver Coastal","2023-02-11",80462
+"cases","BC","Vancouver Coastal","2023-02-11",80463
 "cases","BC","Vancouver Island","2023-02-11",40302
 "cases","BC","Fraser","2023-02-12",172148
 "cases","BC","Interior","2023-02-12",70828
-"cases","BC","Northern","2023-02-12",31608
+"cases","BC","Northern","2023-02-12",31607
 "cases","BC","Out of Canada","2023-02-12",391
-"cases","BC","Vancouver Coastal","2023-02-12",80472
+"cases","BC","Vancouver Coastal","2023-02-12",80473
 "cases","BC","Vancouver Island","2023-02-12",40310
 "cases","BC","Fraser","2023-02-13",172182
 "cases","BC","Interior","2023-02-13",70834
-"cases","BC","Northern","2023-02-13",31609
+"cases","BC","Northern","2023-02-13",31608
 "cases","BC","Out of Canada","2023-02-13",391
-"cases","BC","Vancouver Coastal","2023-02-13",80483
+"cases","BC","Vancouver Coastal","2023-02-13",80484
 "cases","BC","Vancouver Island","2023-02-13",40317
 "cases","BC","Fraser","2023-02-14",172197
 "cases","BC","Interior","2023-02-14",70841
-"cases","BC","Northern","2023-02-14",31611
+"cases","BC","Northern","2023-02-14",31610
 "cases","BC","Out of Canada","2023-02-14",391
-"cases","BC","Vancouver Coastal","2023-02-14",80491
+"cases","BC","Vancouver Coastal","2023-02-14",80492
 "cases","BC","Vancouver Island","2023-02-14",40321
 "cases","BC","Fraser","2023-02-15",172217
 "cases","BC","Interior","2023-02-15",70850
-"cases","BC","Northern","2023-02-15",31613
+"cases","BC","Northern","2023-02-15",31612
 "cases","BC","Out of Canada","2023-02-15",391
-"cases","BC","Vancouver Coastal","2023-02-15",80509
+"cases","BC","Vancouver Coastal","2023-02-15",80510
 "cases","BC","Vancouver Island","2023-02-15",40329
 "cases","BC","Fraser","2023-02-16",172247
 "cases","BC","Interior","2023-02-16",70872
-"cases","BC","Northern","2023-02-16",31617
+"cases","BC","Northern","2023-02-16",31616
 "cases","BC","Out of Canada","2023-02-16",391
-"cases","BC","Vancouver Coastal","2023-02-16",80519
+"cases","BC","Vancouver Coastal","2023-02-16",80520
 "cases","BC","Vancouver Island","2023-02-16",40340
 "cases","BC","Fraser","2023-02-17",172255
 "cases","BC","Interior","2023-02-17",70879
-"cases","BC","Northern","2023-02-17",31619
+"cases","BC","Northern","2023-02-17",31618
 "cases","BC","Out of Canada","2023-02-17",391
-"cases","BC","Vancouver Coastal","2023-02-17",80531
+"cases","BC","Vancouver Coastal","2023-02-17",80532
 "cases","BC","Vancouver Island","2023-02-17",40344
 "cases","BC","Fraser","2023-02-18",172277
 "cases","BC","Interior","2023-02-18",70880
-"cases","BC","Northern","2023-02-18",31619
+"cases","BC","Northern","2023-02-18",31618
 "cases","BC","Out of Canada","2023-02-18",391
-"cases","BC","Vancouver Coastal","2023-02-18",80544
+"cases","BC","Vancouver Coastal","2023-02-18",80545
 "cases","BC","Vancouver Island","2023-02-18",40353
 "cases","BC","Fraser","2023-02-19",172292
 "cases","BC","Interior","2023-02-19",70889
-"cases","BC","Northern","2023-02-19",31620
+"cases","BC","Northern","2023-02-19",31619
 "cases","BC","Out of Canada","2023-02-19",391
-"cases","BC","Vancouver Coastal","2023-02-19",80560
+"cases","BC","Vancouver Coastal","2023-02-19",80561
 "cases","BC","Vancouver Island","2023-02-19",40360
 "cases","BC","Fraser","2023-02-20",172312
 "cases","BC","Interior","2023-02-20",70902
-"cases","BC","Northern","2023-02-20",31623
+"cases","BC","Northern","2023-02-20",31622
 "cases","BC","Out of Canada","2023-02-20",391
-"cases","BC","Vancouver Coastal","2023-02-20",80572
+"cases","BC","Vancouver Coastal","2023-02-20",80573
 "cases","BC","Vancouver Island","2023-02-20",40364
 "cases","BC","Fraser","2023-02-21",172343
 "cases","BC","Interior","2023-02-21",70917
-"cases","BC","Northern","2023-02-21",31627
+"cases","BC","Northern","2023-02-21",31626
 "cases","BC","Out of Canada","2023-02-21",391
-"cases","BC","Vancouver Coastal","2023-02-21",80585
+"cases","BC","Vancouver Coastal","2023-02-21",80586
 "cases","BC","Vancouver Island","2023-02-21",40386
 "cases","BC","Fraser","2023-02-22",172362
 "cases","BC","Interior","2023-02-22",70923
-"cases","BC","Northern","2023-02-22",31628
+"cases","BC","Northern","2023-02-22",31627
 "cases","BC","Out of Canada","2023-02-22",391
-"cases","BC","Vancouver Coastal","2023-02-22",80598
+"cases","BC","Vancouver Coastal","2023-02-22",80599
 "cases","BC","Vancouver Island","2023-02-22",40397
 "cases","BC","Fraser","2023-02-23",172388
 "cases","BC","Interior","2023-02-23",70928
-"cases","BC","Northern","2023-02-23",31630
+"cases","BC","Northern","2023-02-23",31629
 "cases","BC","Out of Canada","2023-02-23",391
-"cases","BC","Vancouver Coastal","2023-02-23",80610
+"cases","BC","Vancouver Coastal","2023-02-23",80611
 "cases","BC","Vancouver Island","2023-02-23",40409
 "cases","BC","Fraser","2023-02-24",172407
 "cases","BC","Interior","2023-02-24",70937
-"cases","BC","Northern","2023-02-24",31634
+"cases","BC","Northern","2023-02-24",31633
 "cases","BC","Out of Canada","2023-02-24",391
-"cases","BC","Vancouver Coastal","2023-02-24",80628
+"cases","BC","Vancouver Coastal","2023-02-24",80629
 "cases","BC","Vancouver Island","2023-02-24",40420
 "cases","BC","Fraser","2023-02-25",172425
 "cases","BC","Interior","2023-02-25",70946
-"cases","BC","Northern","2023-02-25",31638
+"cases","BC","Northern","2023-02-25",31637
 "cases","BC","Out of Canada","2023-02-25",391
-"cases","BC","Vancouver Coastal","2023-02-25",80640
+"cases","BC","Vancouver Coastal","2023-02-25",80641
 "cases","BC","Vancouver Island","2023-02-25",40428
 "cases","BC","Fraser","2023-02-26",172450
 "cases","BC","Interior","2023-02-26",70953
-"cases","BC","Northern","2023-02-26",31645
+"cases","BC","Northern","2023-02-26",31644
 "cases","BC","Out of Canada","2023-02-26",391
-"cases","BC","Vancouver Coastal","2023-02-26",80654
+"cases","BC","Vancouver Coastal","2023-02-26",80655
 "cases","BC","Vancouver Island","2023-02-26",40435
 "cases","BC","Fraser","2023-02-27",172465
 "cases","BC","Interior","2023-02-27",70961
-"cases","BC","Northern","2023-02-27",31650
+"cases","BC","Northern","2023-02-27",31649
 "cases","BC","Out of Canada","2023-02-27",391
-"cases","BC","Vancouver Coastal","2023-02-27",80664
+"cases","BC","Vancouver Coastal","2023-02-27",80665
 "cases","BC","Vancouver Island","2023-02-27",40443
 "cases","BC","Fraser","2023-02-28",172491
 "cases","BC","Interior","2023-02-28",70976
-"cases","BC","Northern","2023-02-28",31654
+"cases","BC","Northern","2023-02-28",31653
 "cases","BC","Out of Canada","2023-02-28",391
-"cases","BC","Vancouver Coastal","2023-02-28",80670
+"cases","BC","Vancouver Coastal","2023-02-28",80671
 "cases","BC","Vancouver Island","2023-02-28",40455
 "cases","BC","Fraser","2023-03-01",172502
 "cases","BC","Interior","2023-03-01",70989
-"cases","BC","Northern","2023-03-01",31654
+"cases","BC","Northern","2023-03-01",31653
 "cases","BC","Out of Canada","2023-03-01",391
-"cases","BC","Vancouver Coastal","2023-03-01",80682
+"cases","BC","Vancouver Coastal","2023-03-01",80683
 "cases","BC","Vancouver Island","2023-03-01",40464
 "cases","BC","Fraser","2023-03-02",172525
-"cases","BC","Interior","2023-03-02",71004
-"cases","BC","Northern","2023-03-02",31658
+"cases","BC","Interior","2023-03-02",71003
+"cases","BC","Northern","2023-03-02",31657
 "cases","BC","Out of Canada","2023-03-02",391
-"cases","BC","Vancouver Coastal","2023-03-02",80694
+"cases","BC","Vancouver Coastal","2023-03-02",80695
 "cases","BC","Vancouver Island","2023-03-02",40473
 "cases","BC","Fraser","2023-03-03",172534
-"cases","BC","Interior","2023-03-03",71015
-"cases","BC","Northern","2023-03-03",31658
+"cases","BC","Interior","2023-03-03",71014
+"cases","BC","Northern","2023-03-03",31657
 "cases","BC","Out of Canada","2023-03-03",391
-"cases","BC","Vancouver Coastal","2023-03-03",80701
+"cases","BC","Vancouver Coastal","2023-03-03",80702
 "cases","BC","Vancouver Island","2023-03-03",40479
 "cases","BC","Fraser","2023-03-04",172550
-"cases","BC","Interior","2023-03-04",71018
-"cases","BC","Northern","2023-03-04",31663
+"cases","BC","Interior","2023-03-04",71017
+"cases","BC","Northern","2023-03-04",31662
 "cases","BC","Out of Canada","2023-03-04",391
-"cases","BC","Vancouver Coastal","2023-03-04",80708
+"cases","BC","Vancouver Coastal","2023-03-04",80709
 "cases","BC","Vancouver Island","2023-03-04",40485
 "cases","BC","Fraser","2023-03-05",172570
-"cases","BC","Interior","2023-03-05",71031
-"cases","BC","Northern","2023-03-05",31669
+"cases","BC","Interior","2023-03-05",71030
+"cases","BC","Northern","2023-03-05",31668
 "cases","BC","Out of Canada","2023-03-05",391
-"cases","BC","Vancouver Coastal","2023-03-05",80715
+"cases","BC","Vancouver Coastal","2023-03-05",80716
 "cases","BC","Vancouver Island","2023-03-05",40492
 "cases","BC","Fraser","2023-03-06",172583
-"cases","BC","Interior","2023-03-06",71044
-"cases","BC","Northern","2023-03-06",31674
+"cases","BC","Interior","2023-03-06",71043
+"cases","BC","Northern","2023-03-06",31673
 "cases","BC","Out of Canada","2023-03-06",391
-"cases","BC","Vancouver Coastal","2023-03-06",80726
+"cases","BC","Vancouver Coastal","2023-03-06",80727
 "cases","BC","Vancouver Island","2023-03-06",40499
 "cases","BC","Fraser","2023-03-07",172609
-"cases","BC","Interior","2023-03-07",71058
-"cases","BC","Northern","2023-03-07",31674
+"cases","BC","Interior","2023-03-07",71057
+"cases","BC","Northern","2023-03-07",31673
 "cases","BC","Out of Canada","2023-03-07",391
-"cases","BC","Vancouver Coastal","2023-03-07",80740
+"cases","BC","Vancouver Coastal","2023-03-07",80741
 "cases","BC","Vancouver Island","2023-03-07",40516
 "cases","BC","Fraser","2023-03-08",172622
-"cases","BC","Interior","2023-03-08",71076
-"cases","BC","Northern","2023-03-08",31675
+"cases","BC","Interior","2023-03-08",71075
+"cases","BC","Northern","2023-03-08",31674
 "cases","BC","Out of Canada","2023-03-08",391
-"cases","BC","Vancouver Coastal","2023-03-08",80751
+"cases","BC","Vancouver Coastal","2023-03-08",80752
 "cases","BC","Vancouver Island","2023-03-08",40526
 "cases","BC","Fraser","2023-03-09",172639
-"cases","BC","Interior","2023-03-09",71085
-"cases","BC","Northern","2023-03-09",31677
+"cases","BC","Interior","2023-03-09",71084
+"cases","BC","Northern","2023-03-09",31676
 "cases","BC","Out of Canada","2023-03-09",391
-"cases","BC","Vancouver Coastal","2023-03-09",80761
+"cases","BC","Vancouver Coastal","2023-03-09",80762
 "cases","BC","Vancouver Island","2023-03-09",40533
 "cases","BC","Fraser","2023-03-10",172658
-"cases","BC","Interior","2023-03-10",71099
-"cases","BC","Northern","2023-03-10",31681
+"cases","BC","Interior","2023-03-10",71098
+"cases","BC","Northern","2023-03-10",31680
 "cases","BC","Out of Canada","2023-03-10",391
-"cases","BC","Vancouver Coastal","2023-03-10",80766
+"cases","BC","Vancouver Coastal","2023-03-10",80767
 "cases","BC","Vancouver Island","2023-03-10",40539
 "cases","BC","Fraser","2023-03-11",172684
-"cases","BC","Interior","2023-03-11",71106
-"cases","BC","Northern","2023-03-11",31685
+"cases","BC","Interior","2023-03-11",71105
+"cases","BC","Northern","2023-03-11",31684
 "cases","BC","Out of Canada","2023-03-11",391
-"cases","BC","Vancouver Coastal","2023-03-11",80777
+"cases","BC","Vancouver Coastal","2023-03-11",80778
 "cases","BC","Vancouver Island","2023-03-11",40546
+"cases","BC","Fraser","2023-03-12",172705
+"cases","BC","Interior","2023-03-12",71120
+"cases","BC","Northern","2023-03-12",31686
+"cases","BC","Out of Canada","2023-03-12",391
+"cases","BC","Vancouver Coastal","2023-03-12",80788
+"cases","BC","Vancouver Island","2023-03-12",40552
+"cases","BC","Fraser","2023-03-13",172724
+"cases","BC","Interior","2023-03-13",71129
+"cases","BC","Northern","2023-03-13",31689
+"cases","BC","Out of Canada","2023-03-13",391
+"cases","BC","Vancouver Coastal","2023-03-13",80799
+"cases","BC","Vancouver Island","2023-03-13",40561
+"cases","BC","Fraser","2023-03-14",172744
+"cases","BC","Interior","2023-03-14",71145
+"cases","BC","Northern","2023-03-14",31695
+"cases","BC","Out of Canada","2023-03-14",391
+"cases","BC","Vancouver Coastal","2023-03-14",80820
+"cases","BC","Vancouver Island","2023-03-14",40570
+"cases","BC","Fraser","2023-03-15",172769
+"cases","BC","Interior","2023-03-15",71155
+"cases","BC","Northern","2023-03-15",31699
+"cases","BC","Out of Canada","2023-03-15",391
+"cases","BC","Vancouver Coastal","2023-03-15",80835
+"cases","BC","Vancouver Island","2023-03-15",40580
+"cases","BC","Fraser","2023-03-16",172796
+"cases","BC","Interior","2023-03-16",71161
+"cases","BC","Northern","2023-03-16",31701
+"cases","BC","Out of Canada","2023-03-16",391
+"cases","BC","Vancouver Coastal","2023-03-16",80843
+"cases","BC","Vancouver Island","2023-03-16",40590
+"cases","BC","Fraser","2023-03-17",172816
+"cases","BC","Interior","2023-03-17",71175
+"cases","BC","Northern","2023-03-17",31704
+"cases","BC","Out of Canada","2023-03-17",391
+"cases","BC","Vancouver Coastal","2023-03-17",80858
+"cases","BC","Vancouver Island","2023-03-17",40595
+"cases","BC","Fraser","2023-03-18",172837
+"cases","BC","Interior","2023-03-18",71183
+"cases","BC","Northern","2023-03-18",31709
+"cases","BC","Out of Canada","2023-03-18",391
+"cases","BC","Vancouver Coastal","2023-03-18",80869
+"cases","BC","Vancouver Island","2023-03-18",40604
