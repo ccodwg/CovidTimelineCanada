@@ -1,5 +1,5 @@
 "name","region","date_current","value_current","date_previous","value_previous","date_diff","value_diff"
-"tests_completed","AB","2023-04-17",7454086,"2023-04-10",7450400,7,3686
+"tests_completed","AB","2023-04-24",7458115,"2023-04-17",7454086,7,4029
 "tests_completed","BC","2022-11-22",6328622,"2022-11-15",6321847,7,6775
 "tests_completed","MB","2022-11-20",1593487,"2022-11-13",1590618,7,2869
 "tests_completed","NB","2022-11-20",944341,"2022-11-13",939560,7,4781
