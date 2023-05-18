@@ -1,6 +1,6 @@
 value_name,region,source_name,uuid,source_type,source_status,file,geo,date_begin,date_end,date_shift,release_schedule_dotw,release_schedule_freq,release_schedule_notes,release_date_next,release_date_lag_days,comments
 cases,AB,Alberta case CSV,59da1de8-3b4e-429a-9e18-b67ba3834002,ts,active_ts,active_ts/ab/ab_cases_hr_ts.csv,health_region,2020-03-06,present,,W,weekly,,,2,
-cases,BC,British Columbia case CSV,ab6abe51-c9b1-4093-b625-93de1ddb6302,ts,active_ts,active_ts/bc/bc_cases_hr_ts.csv,health_region,2020-01-29,present,,R,weekly,"Will be retired May 4th, 2023 with data up until April 20th 2023",,5,
+cases,BC,British Columbia case CSV,ab6abe51-c9b1-4093-b625-93de1ddb6302,ts,static,static/bc/bc_cases_hr_ts.csv,health_region,2020-01-29,2023-04-15,,,,,,,
 cases,MB,Manitoba RHA times series CSV,48417109-97c4-4493-8278-39bcea1447ac,ts,static,static/mb/mb_cases_hr_ts.csv,health_region,2020-03-14,2022-03-25,1 day forward,,,,,,
 cases,MB,Manitoba weekly surveillance report,363c937c-c384-4f4e-be24-fbd47fac9e83,report,reports,reports/mb/mb_weekly_report.csv,health_region,2022-03-26,2022-11-05,,R,weekly,,,5,
 cases,MB,Manitoba weekly surveillance report,f80d6cbd-60d9-4460-a7b6-7f895b69a4cb,report,reports,reports/mb/mb_weekly_report_2.csv,health_region,2022-11-12,present,,F,weekly,,,6,
@@ -30,7 +30,7 @@ cases,YT,Yukon dashboard,8eb9a22f-a2c0-4bdb-8f6c-ef8134901efe,ts,static,static/y
 deaths,AB,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2020-06-22,,,,,,,
 deaths,AB,Alberta case CSV,59da1de8-3b4e-429a-9e18-b67ba3834002,archive_ts,active_cumul,active_cumul/ab/ab_cases_hr_ts.csv,health_region,2020-06-23,present,,W,weekly,,,2,
 deaths,BC,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2022-04-01,,,,,,,
-deaths,BC,British Columbia dashboard,91367e1d-8b79-422c-b314-9b3441ba4f42,archive_ts,active_cumul,active_cumul/bc/bc_deaths_hr_ts.csv,health_region,2022-04-02,present,,R,weekly,"Will be retired May 4th, 2023 with data up until April 20th 2023",,5,
+deaths,BC,British Columbia dashboard,91367e1d-8b79-422c-b314-9b3441ba4f42,archive_ts,static,static/bc/bc_deaths_hr_ts.csv,health_region,2022-04-02,2023-04-15,,,,,,5,
 deaths,MB,Manitoba RHA times series CSV,48417109-97c4-4493-8278-39bcea1447ac,ts,static,static/mb/mb_deaths_hr_ts.csv,health_region,2020-03-14,2022-03-19,1 day forward,,,,,,
 deaths,MB,Manitoba weekly surveillance report,363c937c-c384-4f4e-be24-fbd47fac9e83,report,reports,reports/mb/mb_weekly_report.csv,health_region,2022-03-26,2022-11-05,,R,weekly,,,5,
 deaths,MB,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-11-12,present,,M,weekly,,,9,
