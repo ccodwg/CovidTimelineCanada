@@ -1,0 +1,19 @@
+"date","source","date_start","date_end","region","sub_region_1","cases","deaths","new_hospitalizations","new_icu"
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-09","2023-04-15","BC",,,30,,
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-09","2023-04-15","BC","Fraser Health",,9,,
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-09","2023-04-15","BC","Interior Health",,10,,
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-09","2023-04-15","BC","Island Health",,3,,
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-09","2023-04-15","BC","Northern Health",,0,,
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-09","2023-04-15","BC","Vancouver Coastal Health",,8,,
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-16","2023-04-22","BC",,530,17,169,23
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-16","2023-04-22","BC","Fraser Health",222,4,76,12
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-16","2023-04-22","BC","Interior Health",70,2,10,3
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-16","2023-04-22","BC","Island Health",75,7,24,2
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-16","2023-04-22","BC","Northern Health",39,2,11,4
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-16","2023-04-22","BC","Vancouver Coastal Health",124,2,48,2
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-23","2023-04-29","BC",,636,58,210,20
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-23","2023-04-29","BC","Fraser Health",245,18,101,5
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-23","2023-04-29","BC","Interior Health",94,10,12,3
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-23","2023-04-29","BC","Island Health",112,12,45,4
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-23","2023-04-29","BC","Northern Health",43,2,9,2
+"2023-05-18","https://bccdc.shinyapps.io/respiratory_covid_sitrep/","2023-04-23","2023-04-29","BC","Vancouver Coastal Health",142,16,43,6
