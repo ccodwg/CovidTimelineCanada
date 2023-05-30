@@ -58,7 +58,7 @@ identify_table <- function(x) {
     tables[[i]]
   }
 }
-tab_summary <- identify_table("Number in reporting week")
+tab_summary <- identify_table("Number in reporting") # reporting week/period
 tab_region <- identify_table("Region")
 
 # construct output table
