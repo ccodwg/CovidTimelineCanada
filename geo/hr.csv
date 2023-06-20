@@ -1,9 +1,9 @@
 "region","pruid","hruid","name_canonical","name_canonical_fr","name_short","name_ccodwg","name_other_1","name_other_2","name_other_3","pop","pop_2019_07","pop_2020_07","pop_2021_07"
-"AB",48,4831,"South Zone","South Zone","South","South","South zone",,,308346,305937,307967,308346
-"AB",48,4832,"Calgary Zone","Calgary Zone","Calgary","Calgary","Calgary zone",,,1726962,1681326,1712691,1726962
-"AB",48,4833,"Central Zone","Central Zone","Central","Central","Central zone",,,475379,476750,476648,475379
-"AB",48,4834,"Edmonton Zone","Edmonton Zone","Edmonton","Edmonton","Edmonton zone",,,1477309,1440729,1465496,1477309
-"AB",48,4835,"North Zone","North Zone","North","North","North zone",,,454883,457834,457227,454883
+"AB",48,4831,"South Zone","South Zone","South","South","South zone","SOUTH",,308346,305937,307967,308346
+"AB",48,4832,"Calgary Zone","Calgary Zone","Calgary","Calgary","Calgary zone","CALGARY",,1726962,1681326,1712691,1726962
+"AB",48,4833,"Central Zone","Central Zone","Central","Central","Central zone","CENTRAL",,475379,476750,476648,475379
+"AB",48,4834,"Edmonton Zone","Edmonton Zone","Edmonton","Edmonton","Edmonton zone","EDMONTON",,1477309,1440729,1465496,1477309
+"AB",48,4835,"North Zone","North Zone","North","North","North zone","NORTH",,454883,457834,457227,454883
 "BC",59,591,"Interior Health","Interior Health","Interior","Interior","Interior",,,829666,807888,817893,829666
 "BC",59,592,"Fraser Health","Fraser Health","Fraser","Fraser","Fraser",,,1974706,1910339,1940980,1974706
 "BC",59,593,"Vancouver Coastal Health","Vancouver Coastal Health","Vancouver Coastal","Vancouver Coastal","Vancouver Coastal",,,1240517,1230939,1242304,1240517
