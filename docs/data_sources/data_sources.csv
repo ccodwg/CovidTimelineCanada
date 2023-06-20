@@ -1,5 +1,5 @@
 value_name,region,source_name,uuid,source_type,source_status,file,geo,date_begin,date_end,date_shift,release_schedule_dotw,release_schedule_freq,release_schedule_notes,release_date_next,release_date_lag_days,comments
-cases,AB,Alberta case CSV,59da1de8-3b4e-429a-9e18-b67ba3834002,ts,active_ts,active_ts/ab/ab_cases_hr_ts.csv,health_region,2020-03-06,present,,W,weekly,,,2,
+cases,AB,COVID-19 Alberta statistics app,24a572ea-0de3-4f83-b9b7-8764ea203eb6,ts,active_ts,active_ts/ab/ab_cases_hr_ts.csv,health_region,2020-03-05,present,,W,weekly,,,2,
 cases,BC,British Columbia case CSV,ab6abe51-c9b1-4093-b625-93de1ddb6302,ts,static,static/bc/bc_cases_hr_ts.csv,health_region,2020-01-29,2023-04-15,,,,,,,
 cases,BC,British Columbia COVID-19 Situation Report,b85ca9d5-3a88-403d-9444-cac73ffb2d3f,report,reports,reports/bc/bc_monthly_report.csv,health_region,2023-04-22,present,,R,monthly,Updated first Thursday of the month,,5,
 cases,MB,Manitoba RHA times series CSV,48417109-97c4-4493-8278-39bcea1447ac,ts,static,static/mb/mb_cases_hr_ts.csv,health_region,2020-03-14,2022-03-25,1 day forward,,,,,,
