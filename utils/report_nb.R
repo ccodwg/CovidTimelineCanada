@@ -29,7 +29,7 @@ date_local <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 ds <- file.path(tempdir(), "nb_report_temp.pdf")
 url <- rvest::read_html("https://www2.gnb.ca/content/gnb/en/corporate/promo/covid-19/COVIDWATCH.html") %>%
   rvest::html_elements("a") %>%
-  {paste0("https://www2.gnb.ca", rvest::html_attr(.[grep("Full Report", rvest::html_text2(.))][1], "href"))}
+  {paste0("https://www2.gnb.ca/", rvest::html_attr(.[grep("Full Report", rvest::html_text2(.))][1], "href"))}
 download.file(url, ds)
 
 # extract text and tables from relevant pages
