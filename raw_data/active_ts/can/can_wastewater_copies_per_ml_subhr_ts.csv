@@ -2347,6 +2347,9 @@
 "wastewater_copies_per_ml","2023-07-31","MB","Winnipeg","Winnipeg North End",4.502345
 "wastewater_copies_per_ml","2023-08-02","MB","Winnipeg","Winnipeg North End",1.335245
 "wastewater_copies_per_ml","2023-08-03","MB","Winnipeg","Winnipeg North End",2.495285
+"wastewater_copies_per_ml","2023-08-05","MB","Winnipeg","Winnipeg North End",4.3576
+"wastewater_copies_per_ml","2023-08-06","MB","Winnipeg","Winnipeg North End",6.21964
+"wastewater_copies_per_ml","2023-08-07","MB","Winnipeg","Winnipeg North End",9.874925
 "wastewater_copies_per_ml","2021-04-14","MB","Winnipeg","Winnipeg South End",49.66872
 "wastewater_copies_per_ml","2021-04-21","MB","Winnipeg","Winnipeg South End",42.6184125
 "wastewater_copies_per_ml","2021-04-28","MB","Winnipeg","Winnipeg South End",131.3792325
@@ -2933,6 +2936,9 @@
 "wastewater_copies_per_ml","2023-07-31","MB","Winnipeg","Winnipeg South End",2.48372
 "wastewater_copies_per_ml","2023-08-02","MB","Winnipeg","Winnipeg South End",9.51706
 "wastewater_copies_per_ml","2023-08-03","MB","Winnipeg","Winnipeg South End",24.514545
+"wastewater_copies_per_ml","2023-08-05","MB","Winnipeg","Winnipeg South End",10.53941
+"wastewater_copies_per_ml","2023-08-06","MB","Winnipeg","Winnipeg South End",6.977185
+"wastewater_copies_per_ml","2023-08-07","MB","Winnipeg","Winnipeg South End",14.530765
 "wastewater_copies_per_ml","2021-04-14","MB","Winnipeg","Winnipeg West End",2.9501775
 "wastewater_copies_per_ml","2021-04-21","MB","Winnipeg","Winnipeg West End",4.7541475
 "wastewater_copies_per_ml","2021-04-28","MB","Winnipeg","Winnipeg West End",12.6400925
@@ -3511,6 +3517,9 @@
 "wastewater_copies_per_ml","2023-07-31","MB","Winnipeg","Winnipeg West End",11.4008
 "wastewater_copies_per_ml","2023-08-02","MB","Winnipeg","Winnipeg West End",5.48048
 "wastewater_copies_per_ml","2023-08-03","MB","Winnipeg","Winnipeg West End",4.591885
+"wastewater_copies_per_ml","2023-08-05","MB","Winnipeg","Winnipeg West End",6.71797
+"wastewater_copies_per_ml","2023-08-06","MB","Winnipeg","Winnipeg West End",3.748835
+"wastewater_copies_per_ml","2023-08-07","MB","Winnipeg","Winnipeg West End",7.02651
 "wastewater_copies_per_ml","2023-02-03","NB","Bathurst","Bathurst",8.312145
 "wastewater_copies_per_ml","2023-02-07","NB","Bathurst","Bathurst",12.565725
 "wastewater_copies_per_ml","2023-02-10","NB","Bathurst","Bathurst",10.73581
@@ -7456,8 +7465,8 @@
 "wastewater_copies_per_ml","2022-08-26","SK","North Battleford","North Battleford",18.61
 "wastewater_copies_per_ml","2022-08-29","SK","North Battleford","North Battleford",20.45
 "wastewater_copies_per_ml","2022-09-02","SK","North Battleford","North Battleford",45.51
-"wastewater_copies_per_ml","2022-09-12","SK","North Battleford","North Battleford",10.29
-"wastewater_copies_per_ml","2022-09-14","SK","North Battleford","North Battleford",35.4
+"wastewater_copies_per_ml","2022-09-05","SK","North Battleford","North Battleford",28.17
+"wastewater_copies_per_ml","2022-09-07","SK","North Battleford","North Battleford",44.55
 "wastewater_copies_per_ml","2022-09-16","SK","North Battleford","North Battleford",48.33
 "wastewater_copies_per_ml","2022-09-19","SK","North Battleford","North Battleford",83.86
 "wastewater_copies_per_ml","2022-09-21","SK","North Battleford","North Battleford",33.32
@@ -8537,5 +8546,5 @@
 "wastewater_copies_per_ml","2023-07-17","YT","Haines Junction","Haines Junction",4.776785
 "wastewater_copies_per_ml","2023-07-19","YT","Haines Junction","Haines Junction",1.417545
 "wastewater_copies_per_ml","2023-07-21","YT","Haines Junction","Haines Junction",12.239825
+"wastewater_copies_per_ml","2023-07-24","YT","Haines Junction","Haines Junction",25.07302
 "wastewater_copies_per_ml","2023-07-26","YT","Haines Junction","Haines Junction",8.871275
-"wastewater_copies_per_ml","2023-08-01","YT","Haines Junction","Haines Junction",25.07302
