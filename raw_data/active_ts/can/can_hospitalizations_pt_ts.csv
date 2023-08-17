@@ -728,10 +728,10 @@
 "hospitalizations","CAN","2022-03-28",4248
 "hospitalizations","CAN","2022-03-29",4363
 "hospitalizations","CAN","2022-03-30",4376
-"hospitalizations","CAN","2022-03-31",4521
-"hospitalizations","CAN","2022-04-01",4587
-"hospitalizations","CAN","2022-04-02",4689
-"hospitalizations","CAN","2022-04-03",4936
+"hospitalizations","CAN","2022-03-31",4522
+"hospitalizations","CAN","2022-04-01",4588
+"hospitalizations","CAN","2022-04-02",4690
+"hospitalizations","CAN","2022-04-03",4937
 "hospitalizations","CAN","2022-04-04",5106
 "hospitalizations","CAN","2022-04-05",5241
 "hospitalizations","CAN","2022-04-06",5242
@@ -1224,3 +1224,10 @@
 "hospitalizations","CAN","2023-08-06",1487
 "hospitalizations","CAN","2023-08-07",1502
 "hospitalizations","CAN","2023-08-08",1546
+"hospitalizations","CAN","2023-08-09",1546
+"hospitalizations","CAN","2023-08-10",1588
+"hospitalizations","CAN","2023-08-11",1618
+"hospitalizations","CAN","2023-08-12",1624
+"hospitalizations","CAN","2023-08-13",1635
+"hospitalizations","CAN","2023-08-14",1658
+"hospitalizations","CAN","2023-08-15",1723
