@@ -1102,6 +1102,7 @@
 "hospitalizations","AB","2023-08-09",242
 "hospitalizations","AB","2023-08-10",242
 "hospitalizations","AB","2023-08-16",242
+"hospitalizations","AB","2023-08-17",242
 "hospitalizations","BC","2020-01-25",0
 "hospitalizations","BC","2020-01-26",0
 "hospitalizations","BC","2020-01-27",0
@@ -2167,6 +2168,7 @@
 "hospitalizations","BC","2023-07-28",316
 "hospitalizations","BC","2023-08-03",316
 "hospitalizations","BC","2023-08-10",316
+"hospitalizations","BC","2023-08-17",316
 "hospitalizations","MB","2020-01-25",0
 "hospitalizations","MB","2020-01-26",0
 "hospitalizations","MB","2020-01-27",0
@@ -3232,6 +3234,7 @@
 "hospitalizations","MB","2023-07-27",291
 "hospitalizations","MB","2023-08-03",291
 "hospitalizations","MB","2023-08-10",291
+"hospitalizations","MB","2023-08-17",291
 "hospitalizations","NB","2020-01-25",0
 "hospitalizations","NB","2020-01-26",0
 "hospitalizations","NB","2020-01-27",0
@@ -9655,6 +9658,13 @@
 "hospitalizations","ON","2023-08-08",812
 "hospitalizations","ON","2023-08-09",812
 "hospitalizations","ON","2023-08-10",812
+"hospitalizations","ON","2023-08-11",812
+"hospitalizations","ON","2023-08-12",812
+"hospitalizations","ON","2023-08-13",812
+"hospitalizations","ON","2023-08-14",812
+"hospitalizations","ON","2023-08-15",812
+"hospitalizations","ON","2023-08-16",812
+"hospitalizations","ON","2023-08-17",812
 "hospitalizations","PE","2020-01-25",0
 "hospitalizations","PE","2020-01-26",0
 "hospitalizations","PE","2020-01-27",0
@@ -11900,6 +11910,7 @@
 "hospitalizations","QC","2023-08-14",484
 "hospitalizations","QC","2023-08-15",540
 "hospitalizations","QC","2023-08-16",558
+"hospitalizations","QC","2023-08-17",568
 "hospitalizations","SK","2020-01-25",0
 "hospitalizations","SK","2020-01-26",0
 "hospitalizations","SK","2020-01-27",0
