@@ -84,5 +84,23 @@ for (i in 1:ncol(mb)) {
   }
 }
 
+# add health region rows to be filled in manually from figure 3
+mb <- dplyr::bind_rows(
+  mb,
+  data.frame(
+    date = date_local,
+    source = url,
+    date_start = date_start,
+    date_end = date_end,
+    region = "MB",
+    sub_region_1 = c(
+    "Winnipeg RHA",
+    "Southern Health-Santé Sud",
+    "Interlake-Eastern RHA",
+    "Prairie Mountain Health",
+    "Northern Health Region")
+  )
+)
+
 # append data
 googlesheets4::sheet_append(data = mb, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "mb_weekly_report_2")
