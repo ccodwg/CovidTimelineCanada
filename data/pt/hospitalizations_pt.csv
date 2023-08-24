@@ -10240,7 +10240,14 @@
 "hospitalizations","ON","2023-08-12",264,12
 "hospitalizations","ON","2023-08-13",276,12
 "hospitalizations","ON","2023-08-14",295,19
-"hospitalizations","ON","2023-08-15",312,17
+"hospitalizations","ON","2023-08-15",320,25
+"hospitalizations","ON","2023-08-16",339,19
+"hospitalizations","ON","2023-08-17",346,7
+"hospitalizations","ON","2023-08-18",340,-6
+"hospitalizations","ON","2023-08-19",347,7
+"hospitalizations","ON","2023-08-20",380,33
+"hospitalizations","ON","2023-08-21",321,-59
+"hospitalizations","ON","2023-08-22",360,39
 "hospitalizations","PE","2020-01-25",0,0
 "hospitalizations","PE","2020-01-26",0,0
 "hospitalizations","PE","2020-01-27",0,0
