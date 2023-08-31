@@ -65,8 +65,8 @@ tab[2, 2] <- readr::parse_number(tab[2, 1]) # fix extraction of hospitalizations
 out <- dplyr::tibble(
   date = date_today,
   source = url$url_current,
-  date_start = lubridate::floor_date(date_today, unit = "month"), # first day of month
-  date_end = lubridate::ceiling_date(date_today, unit = "month") - 1, # last day of month
+  date_start = lubridate::floor_date(date_today, unit = "month") - months(1), # first day of month
+  date_end = lubridate::ceiling_date(date_today, unit = "month") - 1 - months(1), # last day of month
   region = "NS",
   sub_region_1 = NA,
   cases = NA,
