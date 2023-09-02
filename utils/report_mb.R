@@ -72,8 +72,11 @@ mb <- dplyr::bind_rows(
     `cumulative_icu_since_2023-07-02` = extract_from_tab(tb_severity, 2, "(?<=Total severe outcomes.{0,1000}ICU admissions: ).{1,5}(?!\r)", parse_num = FALSE),
     `cumulative_icu_since_2023-07-02_diff` = NA, # calculated by formula
     new_icu = extract_from_tab(tb_severity, 2, "(?<=Severe outcomes this week.{0,1000}ICU admissions[\\d]{0,1}: ).{1,5}(?!\r)", parse_num = FALSE),
+    `tests_completed` = NA, # calculated by formula
     `cumulative_tests_completed_2022-07-03` = NA,
+    `cumulative_tests_completed_2022-07-03_diff` = NA,
     `cumulative_tests_completed_2023-07-02` = extract_from_tab(tb_testing, 2, "Specimens tested: \\d*"),
+    `cumulative_tests_completed_2023-07-02_diff` = NA, # calculated by formula
     new_tests_completed_daily = extract_from_tab(tb_testing, 2, "Average daily specimens: \\d*"),
     positivity_rate_weekly = extract_from_tab(tb_testing, 2, "Weekly positivity rate: \\d*\\.\\d*(?=%)"),
     `cumulative_people_tested_2022-07-03` = NA,
