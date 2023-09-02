@@ -60,11 +60,17 @@ mb <- dplyr::bind_rows(
     deaths_weekly = extract_from_tab(tb_severity, 2, "(?<=Severe outcomes this week.{0,1000}Deaths: ).{1,5}(?!\r)", parse_num = FALSE),
     `cumulative_deaths_since_2022-07-03` = NA,
     `cumulative_deaths_since_2023-07-02` = extract_from_tab(tb_severity, 2, "(?<=Total severe outcomes.{0,1000}Deaths: ).{1,5}(?!\r)", parse_num = FALSE),
+    `cumulative_hospitalizations_diff` = NA, # calculated by formula
     `cumulative_hospitalizations_since_2022-07-03` = NA,
+    `cumulative_hospitalizations_since_2022-07-03_diff` = NA,
     `cumulative_hospitalizations_since_2023-07-02` = extract_from_tab(tb_severity, 2, "(?<=Total severe outcomes.{0,1000}Hospital admissions: ).{1,5}(?!\r)", parse_num = FALSE),
+    `cumulative_hospitalizations_since_2023-07-02_diff` = NA, # calculated by formula
     new_hospitalizations = extract_from_tab(tb_severity, 2, "(?<=Severe outcomes this week.{0,1000}Hospital admissions: ).{1,5}(?!\r)", parse_num = FALSE),
+    `cumulative_icu_diff` = NA, # calculated by formula
     `cumulative_icu_since_2022-07-03` = NA,
+    `cumulative_icu_since_2022-07-03_diff` = NA,
     `cumulative_icu_since_2023-07-02` = extract_from_tab(tb_severity, 2, "(?<=Total severe outcomes.{0,1000}ICU admissions: ).{1,5}(?!\r)", parse_num = FALSE),
+    `cumulative_icu_since_2023-07-02_diff` = NA, # calculated by formula
     new_icu = extract_from_tab(tb_severity, 2, "(?<=Severe outcomes this week.{0,1000}ICU admissions[\\d]{0,1}: ).{1,5}(?!\r)", parse_num = FALSE),
     `cumulative_tests_completed_2022-07-03` = NA,
     `cumulative_tests_completed_2023-07-02` = extract_from_tab(tb_testing, 2, "Specimens tested: \\d*"),
