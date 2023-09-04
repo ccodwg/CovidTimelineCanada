@@ -83,6 +83,22 @@
 </details>
 
 <details>
+<summary><b>Hospital admissions</b></summary>
+
+| P/T   | Data sources                                                                                                                                                                                 |
+|:------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MB    | - Manitoba weekly surveillance report (2020-05-16–2022-03-19)<br>- Manitoba weekly surveillance report (2022-03-26–2022-11-05)<br>- Manitoba weekly surveillance report (2022-11-12–present) |
+</details>
+
+<details>
+<summary><b>ICU admissions</b></summary>
+
+| P/T   | Data sources                                                                                                                                                                                 |
+|:------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MB    | - Manitoba weekly surveillance report (2020-05-16–2022-03-19)<br>- Manitoba weekly surveillance report (2022-03-26–2022-11-05)<br>- Manitoba weekly surveillance report (2022-11-12–present) |
+</details>
+
+<details>
 <summary><b>Tests completed</b></summary>
 
 | P/T   | Data sources                                                                                                                               |

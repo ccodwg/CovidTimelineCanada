@@ -44,6 +44,12 @@ t_hospitalizations = gen_table(d, "hospitalizations", "Hospitalizations")
 # icu
 t_icu = gen_table(d, "icu", "ICU")
 
+# hosp_admissions
+t_hosp_admissions = gen_table(d, "hosp_admissions", "Hospital admissions")
+
+# icu_admissions
+t_icu_admissions = gen_table(d, "icu_admissions", "ICU admissions")
+
 # tests_completed
 t_tests_completed = gen_table(d, "tests_completed", "Tests completed")
 
@@ -71,7 +77,7 @@ t_vaccine_distribution = (
 
 # assemble "data sources" section of README
 data_sources = "\n\n".join(
-    [t_cases, t_deaths, t_hospitalizations, t_icu, t_tests_completed, t_vaccine_coverage, t_vaccine_administration, t_vaccine_distribution]
+    [t_cases, t_deaths, t_hospitalizations, t_icu, t_hosp_admissions, t_icu_admissions, t_tests_completed, t_vaccine_coverage, t_vaccine_administration, t_vaccine_distribution]
 )
 
 # add header

@@ -41,6 +41,24 @@
             "pt": "pt"
         }
     },
+    "hosp_admissions": {
+        "name": "hosp_admissions",
+        "name_long": "Hospital admissions",
+        "value": "The cumulative number of hospital admissions (non-ICU and ICU) related to COVID-19 reported up to a given day.",
+        "value_daily": "The change in the number of hospital admissions related to COVID-19 compared to the previous day.",
+        "geo": {
+            "pt": "pt"
+        }
+    },
+    "icu_admissions": {
+        "name": "icu_admissions",
+        "name_long": "ICU admissions",
+        "value": "The cumulative number of ICU admissions related to COVID-19 reported up to a given day.",
+        "value_daily": "The change in the number of ICU admissions related to COVID-19 compared to the previous day.",
+        "geo": {
+            "pt": "pt"
+        }
+    },
     "tests_completed": {
         "name": "tests_completed",
         "name_long": "Tests completed",
