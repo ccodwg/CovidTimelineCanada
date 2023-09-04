@@ -1,4 +1,4 @@
-# Update Nova Scotia weekly report dashboard data in Google Sheets #
+# Update Nova Scotia monthly epidemiologic summary data in Google Sheets #
 # Author: Jean-Paul R. Soucy #
 
 # Note: This script assumes the working directory is set to the root directory of the project.
