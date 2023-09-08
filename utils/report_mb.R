@@ -78,7 +78,7 @@ mb <- dplyr::bind_rows(
     `cumulative_tests_completed_2023-07-02` = extract_from_tab(tb_testing, 2, "Specimens tested: \\d*"),
     `cumulative_tests_completed_2023-07-02_diff` = NA, # calculated by formula
     new_tests_completed_daily = extract_from_tab(tb_testing, 2, "Average daily specimens: \\d*"),
-    positivity_rate_weekly = extract_from_tab(tb_testing, 2, "Weekly positivity rate: \\d*\\.\\d*(?=%)"),
+    positivity_rate_weekly = extract_from_tab(tb_testing, 2, "Weekly positivity rate: \\d*(\\.\\d*)?(?=%)"),
     `cumulative_people_tested_2022-07-03` = NA,
     `cumulative_people_tested_2023-07-02` = extract_from_tab(tb_testing, 2, "Tested people: \\d*"),
     notes = NA
