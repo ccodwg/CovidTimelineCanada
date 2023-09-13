@@ -4,10 +4,6 @@
 # Note: This script assumes the working directory is set to the root directory of the project.
 # This is most easily achieved by using the provided CovidTimelineCanada.Rproj in RStudio.
 
-# make sure tabulizer is installed
-# install.packages("rJava") # https://datawookie.dev/blog/2018/02/installing-rjava-on-ubuntu/
-# remotes::install_github(c("ropensci/tabulizerjars", "ropensci/tabulizer"))
-
 # make sure the Python package "Camelot" is installed along with all dependencies
 # also ensure that Python code can be run with the "reticulate" R package
 # https://camelot-py.readthedocs.io/en/master/user/install.html
@@ -27,18 +23,17 @@ date_local <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 
 # load report
 ds <- file.path(tempdir(), "nb_report_temp.pdf")
-url <- rvest::read_html("https://www2.gnb.ca/content/gnb/en/corporate/promo/covid-19/COVIDWATCH.html") %>%
+url <- rvest::read_html("https://www2.gnb.ca/content/gnb/en/corporate/promo/respiratory-watch.html") %>%
   rvest::html_elements("a") %>%
-  {rvest::html_attr(.[grep("Full Report", rvest::html_text2(.))][1], "href")}
+  {rvest::html_attr(.[grep("Read the full Respiratory Watch report \\(PDF\\)", rvest::html_text2(.))][1], "href")}
 download.file(url, ds)
 
 # extract text and tables from relevant pages
 tables <- camelot$read_pdf(ds, pages = "all")
 tables <- lapply(seq_along(tables) - 1, function(i) tables[i]$df)
-text <- tabulizer::extract_text(ds, pages = 1)
 
 # extract week and generate date_start and date_end
-epi_week <- readr::parse_number(gsub(" ", "", stringr::str_extract(text, "\\( W E E K.*\\)")))
+epi_week <- as.integer(stringr::str_extract(url, "(?<=Week-)\\d{1,2}"))
 date_start <- MMWRweek::MMWRweek2Date(lubridate::year(date_local), epi_week)
 date_end <- MMWRweek::MMWRweek2Date(lubridate::year(date_local), epi_week) + 6
 
@@ -58,7 +53,7 @@ identify_table <- function(x) {
     tables[[i]]
   }
 }
-tab_summary <- identify_table("Number in reporting") # reporting week/period
+tab_hosp <- identify_table("Age group")
 tab_region <- identify_table("Region")
 
 # construct output table
@@ -71,49 +66,55 @@ out <- dplyr::tibble(
   sub_region_1 = c("", paste0("Zone ", 1:7)),
   cases = NA, # calculated by formula
   cases_weekly = NA,
-  `cumulative_cases_since_2022-08-28` = NA,
-  `cumulative_cases_since_2022-08-28_weekly_diff` = NA, # calculated by formula
+  `cumulative_cases_since_2023-08-27` = NA,
+  `cumulative_cases_since_2023-08-27_weekly_diff` = NA, # calculated by formula
   deaths = NA, # calculated by formula
   deaths_weekly = NA,
-  `cumulative_deaths_since_2022-08-28` = NA,
-  `cumulative_deaths_since_2022-08-28_weekly_diff` = NA, # calculated by formula
+  `cumulative_deaths_since_2023-08-27` = NA,
+  `cumulative_deaths_since_2023-08-27_weekly_diff` = NA, # calculated by formula
   new_hospitalizations = NA, # calculated by formula
   new_hospitalizations_weekly = NA,
-  `cumulative_new_hospitalizations_since_2022-08-28` = NA,
-  `cumulative_new_hospitalizations_since_2022-08-28_weekly_diff` = NA, # calculated by formula
+  `cumulative_new_hospitalizations_since_2023-08-27` = NA,
+  `cumulative_new_hospitalizations_since_2023-08-27_weekly_diff` = NA, # calculated by formula
   new_icu = NA,
   new_icu_weekly = NA,
-  `cumulative_new_icu_since_2022-08-28` = NA,
-  `cumulative_new_icu_since_2022-08-28_weekly_diff` = NA, # calculated by formula
-  tests_completed = NA,
-  tests_completed_weekly = NA, # calculated by formula
-  `cumulative_tests_completed_since_2022-08-28` = NA,
-  `cumulative_tests_completed_since_2022-08-28_weekly_diff` = NA # calculated by formula
+  `cumulative_new_icu_since_2023-08-27` = NA,
+  `cumulative_new_icu_since_2023-08-27_weekly_diff` = NA, # calculated by formula
+  percent_positivity_weekly = NA,
+  `cumulative_percent_positivity_since_2023-08-27` = NA
 )
 
+# function: extract integer before brackets
+extract_int_bf_brackets <- function(x) {
+  as.integer(stringr::str_extract(x, "\\d*(?= \\()"))
+}
+
+# function: extract integer from brackets
+extract_int_in_brackets <- function(x) {
+  as.integer(stringr::str_extract(x, "(?<=\\()\\d*(?=\\))"))
+}
+
 # add provincial data
-out[1, "cases_weekly"] <- as.integer(tab_summary[3, 2])
-out[1, "cumulative_cases_since_2022-08-28"] <- as.integer(tab_summary[3, 4])
-out[1, "deaths_weekly"] <- as.integer(tab_summary[6, 2])
-out[1, "cumulative_deaths_since_2022-08-28"] <- as.integer(tab_summary[6, 4])
-out[1, "new_hospitalizations_weekly"] <- as.integer(tab_summary[4, 2])
-out[1, "cumulative_new_hospitalizations_since_2022-08-28"] <- as.integer(tab_summary[4, 4])
-out[1, "new_icu_weekly"] <- as.integer(tab_summary[5, 2])
-out[1, "cumulative_new_icu_since_2022-08-28"] <- as.integer(tab_summary[5, 4])
-out[1, "tests_completed_weekly"] <- as.integer(tab_summary[2, 2])
-out[1, "cumulative_tests_completed_since_2022-08-28"] <- as.integer(tab_summary[2, 4])
+out[1, "cases_weekly"] <- extract_int_in_brackets(tab_region[10, 2])
+out[1, "cumulative_cases_since_2023-08-27"] <- extract_int_in_brackets(tab_region[10, 2])
+out[1, "deaths_weekly"] <- extract_int_in_brackets(tab_hosp[8, 4])
+out[1, "cumulative_deaths_since_2023-08-27"] <- extract_int_bf_brackets(tab_hosp[8, 4])
+out[1, "new_hospitalizations_weekly"] <- extract_int_in_brackets(tab_hosp[8, 2])
+out[1, "cumulative_new_hospitalizations_since_2023-08-27"] <- extract_int_bf_brackets(tab_hosp[8, 2])
+out[1, "new_icu_weekly"] <- extract_int_in_brackets(tab_hosp[8, 3])
+out[1, "cumulative_new_icu_since_2023-08-27"] <- extract_int_bf_brackets(tab_hosp[8, 3])
+out[1, "percent_positivity_weekly"] <- extract_int_in_brackets(tab_region[10, 3])
+out[1, "cumulative_percent_positivity_since_2023-08-27"] <- extract_int_bf_brackets(tab_region[10, 3])
 
 # add health region data
-out[2:8, "cases_weekly"] <- as.integer(tab_region[2:8, 3])
-out[2:8, "new_hospitalizations_weekly"] <- as.integer(tab_region[2:8, 4])
-out[2:8, "new_icu_weekly"] <- as.integer(tab_region[2:8, 5])
-out[2:8, "tests_completed_weekly"] <- as.integer(tab_region[2:8, 2])
+out[2:8, "cases_weekly"] <- extract_int_in_brackets(tab_region[3:9, 2])
+out[2:8, "cumulative_cases_since_2023-08-27"] <- extract_int_bf_brackets(tab_region[3:9, 2])
+out[2:8, "percent_positivity_weekly"] <- extract_int_in_brackets(tab_region[3:9, 3])
+out[2:8, "cumulative_percent_positivity_since_2023-08-27"] <- extract_int_bf_brackets(tab_region[3:9, 3])
 
 # check column sums
 out[["cases_weekly"]][1] == sum(out[["cases_weekly"]][2:8])
-out[["new_hospitalizations_weekly"]][1] == sum(out[["new_hospitalizations_weekly"]][2:8])
-out[["new_icu_weekly"]][1] == sum(out[["new_icu_weekly"]][2:8])
-out[["tests_completed_weekly"]][1] == sum(out[["tests_completed_weekly"]][2:8])
+out[["cumulative_cases_since_2023-08-27"]][1] == sum(out[["cumulative_cases_since_2023-08-27"]][2:8])
 
 # append data
-googlesheets4::sheet_append(data = out, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "nb_weekly_report_2")
+googlesheets4::sheet_append(data = out, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "nb_weekly_report_3")
