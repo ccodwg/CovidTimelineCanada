@@ -34,7 +34,7 @@ Some provinces no longer offer health region-level data for cases and/or deaths.
 
 - Manitoba (death data no longer reported at HR-level)
 - New Brunswick (death data no longer reported at HR-level)
-- Newfoundland and Labrador (case data no longer reported at HR-level)
+- Newfoundland and Labrador (case and death data no longer reported at HR-level)
 - Northwest Territories (case and death data no longer reported at all)
 - Nova Scotia (case and death data no longer reported at HR-level)
 - Nunavut (case and death data no longer reported at all)
