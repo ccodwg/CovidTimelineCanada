@@ -15,17 +15,18 @@ report_on <- reticulate::source_python("utils/report_on.py")
 googlesheets4::gs4_auth()
 
 # prompt for valid EmbedToken
-auth = readline() # user input
+# user input: embed token from authorization header of network request to download XLSX data from figure
+auth = readline()
+
+# get end date
+# one day greater than max date on dashboard, which should be two Mondays ago
+end_date <- as.Date(lubridate::with_tz(Sys.time(), "America/Toronto")) - 11
+end_date <- paste0("datetime'", end_date, "T00:00:00'") # format end date
 
 # define options
 ua <- 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36'
 aid <- uuid::UUIDgenerate()
 start_date <- "datetime'2020-01-01T00:00:00'"
-# end_date <- paste0(
-#   "datetime'",
-#   strftime(lubridate::with_tz(Sys.time(), "America/Toronto"), "%Y-%m-%d"),
-#   "T00:00:00'")
-end_date <- "datetime'2023-09-04T00:00:00'" # one day greater than max date on dashboard
 hr <- c(
   "Ontario",
   "Algoma Public Health",
