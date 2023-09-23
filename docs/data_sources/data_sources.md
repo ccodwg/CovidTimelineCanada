@@ -52,13 +52,10 @@
 | NB    | - covid19tracker.ca dataset (2020-01-25–2021-03-07)<br>- New Brunswick dashboard (2021-03-08–2021-09-19)<br>- New Brunswick dashboard (2021-09-20–2022-03-29)<br>- New Brunswick COVIDWATCH weekly report (2022-04-02–present) |
 | NL    | - Newfoundland & Labrador dashboard (2020-03-27–2022-03-11)<br>- covid19tracker.ca dataset (2022-03-12–present)                                                                                                                |
 | NS    | - covid19tracker.ca dataset (2020-01-25–2021-01-18)<br>- Nova Scotia dashboard (2021-01-19–2022-01-18)<br>- covid19tracker.ca dataset (2022-01-19–present)                                                                     |
-| NT    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
-| NU    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
 | ON    | - Ontario hospitalization CSV (2020-04-02–present)                                                                                                                                                                             |
 | PE    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
 | QC    | - MSSS hospitalization CSV (2020-04-11–present)                                                                                                                                                                                |
-| SK    | - Saskatchewan hospitalized cases dashboard (2020-03-26–2022-02-06)<br>- covid19tracker.ca dataset (2022-02-07–present)                                                                                                        |
-| YT    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| SK    | - Saskatchewan hospitalized cases dashboard (2020-03-26–2022-02-06)<br>- Saskatchewan weekly COVID-19 situation report (2022-02-09–2022-06-29)                                                                                 |
 </details>
 
 <details>
@@ -73,13 +70,10 @@
 | NB    | - covid19tracker.ca dataset (2020-01-25–2021-03-07)<br>- New Brunswick dashboard (2021-03-08–2021-09-19)<br>- New Brunswick dashboard (2021-09-20–2022-03-29)<br>- New Brunswick COVIDWATCH weekly report (2022-04-02–present) |
 | NL    | - covid19tracker.ca dataset (2020-01-25–2021-03-15)<br>- Newfoundland & Labrador dashboard (2021-03-16–2022-03-11)<br>- covid19tracker.ca dataset (2022-03-12–present)                                                         |
 | NS    | - covid19tracker.ca dataset (2020-01-25–2021-01-18)<br>- Nova Scotia dashboard (2021-01-19–2022-01-18)<br>- covid19tracker.ca dataset (2022-01-19–present)                                                                     |
-| NT    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
-| NU    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
 | ON    | - Ontario hospitalization CSV (2020-04-02–present)                                                                                                                                                                             |
 | PE    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
 | QC    | - MSSS hospitalization CSV (2020-04-11–present)                                                                                                                                                                                |
-| SK    | - Saskatchewan hospitalized cases dashboard (2020-03-26–2022-02-06)<br>- covid19tracker.ca dataset (2022-02-07–present)                                                                                                        |
-| YT    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                               |
+| SK    | - Saskatchewan hospitalized cases dashboard (2020-03-26–2022-02-06)<br>- Saskatchewan weekly COVID-19 situation report (2022-02-09–2022-06-29)                                                                                 |
 </details>
 
 <details>
@@ -88,6 +82,7 @@
 | P/T   | Data sources                                                                                                                                                                                 |
 |:------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MB    | - Manitoba weekly surveillance report (2020-05-16–2022-03-19)<br>- Manitoba weekly surveillance report (2022-03-26–2022-11-05)<br>- Manitoba weekly surveillance report (2022-11-12–present) |
+| YT    | - Yukon dashboard (2020-07-14–2022-11-10)                                                                                                                                                    |
 </details>
 
 <details>
