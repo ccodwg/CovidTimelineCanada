@@ -81,7 +81,8 @@ out <- dplyr::tibble(
   `cumulative_new_icu_since_2023-08-27` = NA,
   `cumulative_new_icu_since_2023-08-27_weekly_diff` = NA, # calculated by formula
   percent_positivity_weekly = NA,
-  `cumulative_percent_positivity_since_2023-08-27` = NA
+  `cumulative_percent_positivity_since_2023-08-27` = NA,
+  notes = NA
 )
 
 # function: extract integer before brackets
@@ -96,7 +97,7 @@ extract_int_in_brackets <- function(x) {
 
 # add provincial data
 out[1, "cases_weekly"] <- extract_int_in_brackets(tab_region[10, 2])
-out[1, "cumulative_cases_since_2023-08-27"] <- extract_int_in_brackets(tab_region[10, 2])
+out[1, "cumulative_cases_since_2023-08-27"] <- extract_int_bf_brackets(tab_region[10, 2])
 out[1, "deaths_weekly"] <- extract_int_in_brackets(tab_hosp[8, 4])
 out[1, "cumulative_deaths_since_2023-08-27"] <- extract_int_bf_brackets(tab_hosp[8, 4])
 out[1, "new_hospitalizations_weekly"] <- extract_int_in_brackets(tab_hosp[8, 2])
