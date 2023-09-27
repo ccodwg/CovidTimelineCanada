@@ -26619,7 +26619,7 @@
 "cases","QC","Outaouais","2023-09-14",46268
 "cases","QC","Saguenay-Lac-Saint-Jean","2023-09-14",42147
 "cases","QC","Terres-Cries-de-la-Baie-James","2023-09-14",3139
-"cases","QC","Abitibi-Témiscamingue","2023-09-15",15162
+"cases","QC","Abitibi-Témiscamingue","2023-09-15",15161
 "cases","QC","Bas-Saint-Laurent","2023-09-15",31262
 "cases","QC","Capitale-Nationale","2023-09-15",118797
 "cases","QC","Chaudière-Appalaches","2023-09-15",79279
@@ -26639,7 +26639,7 @@
 "cases","QC","Outaouais","2023-09-15",46293
 "cases","QC","Saguenay-Lac-Saint-Jean","2023-09-15",42167
 "cases","QC","Terres-Cries-de-la-Baie-James","2023-09-15",3140
-"cases","QC","Abitibi-Témiscamingue","2023-09-16",15172
+"cases","QC","Abitibi-Témiscamingue","2023-09-16",15171
 "cases","QC","Bas-Saint-Laurent","2023-09-16",31270
 "cases","QC","Capitale-Nationale","2023-09-16",118853
 "cases","QC","Chaudière-Appalaches","2023-09-16",79288
@@ -26649,7 +26649,7 @@
 "cases","QC","Hors Québec","2023-09-16",7448
 "cases","QC","Inconnu","2023-09-16",1301
 "cases","QC","Lanaudière","2023-09-16",87191
-"cases","QC","Laurentides","2023-09-16",103083
+"cases","QC","Laurentides","2023-09-16",103081
 "cases","QC","Laval","2023-09-16",85220
 "cases","QC","Mauricie et Centre-du-Québec","2023-09-16",79627
 "cases","QC","Montréal","2023-09-16",368615
@@ -26659,7 +26659,7 @@
 "cases","QC","Outaouais","2023-09-16",46305
 "cases","QC","Saguenay-Lac-Saint-Jean","2023-09-16",42190
 "cases","QC","Terres-Cries-de-la-Baie-James","2023-09-16",3140
-"cases","QC","Abitibi-Témiscamingue","2023-09-17",15193
+"cases","QC","Abitibi-Témiscamingue","2023-09-17",15192
 "cases","QC","Bas-Saint-Laurent","2023-09-17",31281
 "cases","QC","Capitale-Nationale","2023-09-17",118904
 "cases","QC","Chaudière-Appalaches","2023-09-17",79305
@@ -26669,8 +26669,8 @@
 "cases","QC","Hors Québec","2023-09-17",7448
 "cases","QC","Inconnu","2023-09-17",1302
 "cases","QC","Lanaudière","2023-09-17",87209
-"cases","QC","Laurentides","2023-09-17",103104
-"cases","QC","Laval","2023-09-17",85243
+"cases","QC","Laurentides","2023-09-17",103099
+"cases","QC","Laval","2023-09-17",85242
 "cases","QC","Mauricie et Centre-du-Québec","2023-09-17",79662
 "cases","QC","Montréal","2023-09-17",368688
 "cases","QC","Montérégie","2023-09-17",196423
@@ -26679,18 +26679,18 @@
 "cases","QC","Outaouais","2023-09-17",46314
 "cases","QC","Saguenay-Lac-Saint-Jean","2023-09-17",42207
 "cases","QC","Terres-Cries-de-la-Baie-James","2023-09-17",3141
-"cases","QC","Abitibi-Témiscamingue","2023-09-18",15216
+"cases","QC","Abitibi-Témiscamingue","2023-09-18",15215
 "cases","QC","Bas-Saint-Laurent","2023-09-18",31301
 "cases","QC","Capitale-Nationale","2023-09-18",118998
 "cases","QC","Chaudière-Appalaches","2023-09-18",79339
 "cases","QC","Côte-Nord","2023-09-18",13960
 "cases","QC","Estrie","2023-09-18",67606
-"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-18",14372
+"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-18",14371
 "cases","QC","Hors Québec","2023-09-18",7451
 "cases","QC","Inconnu","2023-09-18",1302
 "cases","QC","Lanaudière","2023-09-18",87271
-"cases","QC","Laurentides","2023-09-18",103162
-"cases","QC","Laval","2023-09-18",85274
+"cases","QC","Laurentides","2023-09-18",103155
+"cases","QC","Laval","2023-09-18",85273
 "cases","QC","Mauricie et Centre-du-Québec","2023-09-18",79705
 "cases","QC","Montréal","2023-09-18",368793
 "cases","QC","Montérégie","2023-09-18",196549
@@ -26699,23 +26699,163 @@
 "cases","QC","Outaouais","2023-09-18",46341
 "cases","QC","Saguenay-Lac-Saint-Jean","2023-09-18",42239
 "cases","QC","Terres-Cries-de-la-Baie-James","2023-09-18",3143
-"cases","QC","Abitibi-Témiscamingue","2023-09-19",15243
+"cases","QC","Abitibi-Témiscamingue","2023-09-19",15242
 "cases","QC","Bas-Saint-Laurent","2023-09-19",31311
 "cases","QC","Capitale-Nationale","2023-09-19",119073
 "cases","QC","Chaudière-Appalaches","2023-09-19",79370
 "cases","QC","Côte-Nord","2023-09-19",13985
 "cases","QC","Estrie","2023-09-19",67624
-"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-19",14381
+"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-19",14380
 "cases","QC","Hors Québec","2023-09-19",7451
 "cases","QC","Inconnu","2023-09-19",1302
 "cases","QC","Lanaudière","2023-09-19",87318
-"cases","QC","Laurentides","2023-09-19",103203
-"cases","QC","Laval","2023-09-19",85296
+"cases","QC","Laurentides","2023-09-19",103195
+"cases","QC","Laval","2023-09-19",85294
 "cases","QC","Mauricie et Centre-du-Québec","2023-09-19",79774
-"cases","QC","Montréal","2023-09-19",368919
-"cases","QC","Montérégie","2023-09-19",196676
+"cases","QC","Montréal","2023-09-19",368922
+"cases","QC","Montérégie","2023-09-19",196683
 "cases","QC","Nord-du-Québec","2023-09-19",2022
 "cases","QC","Nunavik","2023-09-19",3683
 "cases","QC","Outaouais","2023-09-19",46373
 "cases","QC","Saguenay-Lac-Saint-Jean","2023-09-19",42274
-"cases","QC","Terres-Cries-de-la-Baie-James","2023-09-19",3145
+"cases","QC","Terres-Cries-de-la-Baie-James","2023-09-19",3146
+"cases","QC","Abitibi-Témiscamingue","2023-09-20",15267
+"cases","QC","Bas-Saint-Laurent","2023-09-20",31324
+"cases","QC","Capitale-Nationale","2023-09-20",119119
+"cases","QC","Chaudière-Appalaches","2023-09-20",79402
+"cases","QC","Côte-Nord","2023-09-20",13994
+"cases","QC","Estrie","2023-09-20",67648
+"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-20",14393
+"cases","QC","Hors Québec","2023-09-20",7453
+"cases","QC","Inconnu","2023-09-20",1305
+"cases","QC","Lanaudière","2023-09-20",87363
+"cases","QC","Laurentides","2023-09-20",103236
+"cases","QC","Laval","2023-09-20",85315
+"cases","QC","Mauricie et Centre-du-Québec","2023-09-20",79832
+"cases","QC","Montréal","2023-09-20",369003
+"cases","QC","Montérégie","2023-09-20",196815
+"cases","QC","Nord-du-Québec","2023-09-20",2023
+"cases","QC","Nunavik","2023-09-20",3686
+"cases","QC","Outaouais","2023-09-20",46392
+"cases","QC","Saguenay-Lac-Saint-Jean","2023-09-20",42312
+"cases","QC","Terres-Cries-de-la-Baie-James","2023-09-20",3147
+"cases","QC","Abitibi-Témiscamingue","2023-09-21",15287
+"cases","QC","Bas-Saint-Laurent","2023-09-21",31336
+"cases","QC","Capitale-Nationale","2023-09-21",119211
+"cases","QC","Chaudière-Appalaches","2023-09-21",79449
+"cases","QC","Côte-Nord","2023-09-21",14007
+"cases","QC","Estrie","2023-09-21",67666
+"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-21",14398
+"cases","QC","Hors Québec","2023-09-21",7455
+"cases","QC","Inconnu","2023-09-21",1307
+"cases","QC","Lanaudière","2023-09-21",87405
+"cases","QC","Laurentides","2023-09-21",103276
+"cases","QC","Laval","2023-09-21",85352
+"cases","QC","Mauricie et Centre-du-Québec","2023-09-21",79867
+"cases","QC","Montréal","2023-09-21",369105
+"cases","QC","Montérégie","2023-09-21",196921
+"cases","QC","Nord-du-Québec","2023-09-21",2024
+"cases","QC","Nunavik","2023-09-21",3687
+"cases","QC","Outaouais","2023-09-21",46406
+"cases","QC","Saguenay-Lac-Saint-Jean","2023-09-21",42364
+"cases","QC","Terres-Cries-de-la-Baie-James","2023-09-21",3147
+"cases","QC","Abitibi-Témiscamingue","2023-09-22",15308
+"cases","QC","Bas-Saint-Laurent","2023-09-22",31349
+"cases","QC","Capitale-Nationale","2023-09-22",119283
+"cases","QC","Chaudière-Appalaches","2023-09-22",79470
+"cases","QC","Côte-Nord","2023-09-22",14016
+"cases","QC","Estrie","2023-09-22",67687
+"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-22",14402
+"cases","QC","Hors Québec","2023-09-22",7458
+"cases","QC","Inconnu","2023-09-22",1307
+"cases","QC","Lanaudière","2023-09-22",87447
+"cases","QC","Laurentides","2023-09-22",103335
+"cases","QC","Laval","2023-09-22",85372
+"cases","QC","Mauricie et Centre-du-Québec","2023-09-22",79909
+"cases","QC","Montréal","2023-09-22",369216
+"cases","QC","Montérégie","2023-09-22",197037
+"cases","QC","Nord-du-Québec","2023-09-22",2024
+"cases","QC","Nunavik","2023-09-22",3687
+"cases","QC","Outaouais","2023-09-22",46429
+"cases","QC","Saguenay-Lac-Saint-Jean","2023-09-22",42411
+"cases","QC","Terres-Cries-de-la-Baie-James","2023-09-22",3148
+"cases","QC","Abitibi-Témiscamingue","2023-09-23",15332
+"cases","QC","Bas-Saint-Laurent","2023-09-23",31359
+"cases","QC","Capitale-Nationale","2023-09-23",119336
+"cases","QC","Chaudière-Appalaches","2023-09-23",79491
+"cases","QC","Côte-Nord","2023-09-23",14026
+"cases","QC","Estrie","2023-09-23",67705
+"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-23",14408
+"cases","QC","Hors Québec","2023-09-23",7459
+"cases","QC","Inconnu","2023-09-23",1309
+"cases","QC","Lanaudière","2023-09-23",87482
+"cases","QC","Laurentides","2023-09-23",103366
+"cases","QC","Laval","2023-09-23",85382
+"cases","QC","Mauricie et Centre-du-Québec","2023-09-23",79953
+"cases","QC","Montréal","2023-09-23",369309
+"cases","QC","Montérégie","2023-09-23",197083
+"cases","QC","Nord-du-Québec","2023-09-23",2027
+"cases","QC","Nunavik","2023-09-23",3689
+"cases","QC","Outaouais","2023-09-23",46441
+"cases","QC","Saguenay-Lac-Saint-Jean","2023-09-23",42437
+"cases","QC","Terres-Cries-de-la-Baie-James","2023-09-23",3149
+"cases","QC","Abitibi-Témiscamingue","2023-09-24",15353
+"cases","QC","Bas-Saint-Laurent","2023-09-24",31368
+"cases","QC","Capitale-Nationale","2023-09-24",119397
+"cases","QC","Chaudière-Appalaches","2023-09-24",79518
+"cases","QC","Côte-Nord","2023-09-24",14031
+"cases","QC","Estrie","2023-09-24",67715
+"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-24",14411
+"cases","QC","Hors Québec","2023-09-24",7459
+"cases","QC","Inconnu","2023-09-24",1309
+"cases","QC","Lanaudière","2023-09-24",87508
+"cases","QC","Laurentides","2023-09-24",103404
+"cases","QC","Laval","2023-09-24",85401
+"cases","QC","Mauricie et Centre-du-Québec","2023-09-24",79975
+"cases","QC","Montréal","2023-09-24",369381
+"cases","QC","Montérégie","2023-09-24",197170
+"cases","QC","Nord-du-Québec","2023-09-24",2027
+"cases","QC","Nunavik","2023-09-24",3689
+"cases","QC","Outaouais","2023-09-24",46458
+"cases","QC","Saguenay-Lac-Saint-Jean","2023-09-24",42464
+"cases","QC","Terres-Cries-de-la-Baie-James","2023-09-24",3150
+"cases","QC","Abitibi-Témiscamingue","2023-09-25",15398
+"cases","QC","Bas-Saint-Laurent","2023-09-25",31386
+"cases","QC","Capitale-Nationale","2023-09-25",119497
+"cases","QC","Chaudière-Appalaches","2023-09-25",79574
+"cases","QC","Côte-Nord","2023-09-25",14038
+"cases","QC","Estrie","2023-09-25",67756
+"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-25",14418
+"cases","QC","Hors Québec","2023-09-25",7460
+"cases","QC","Inconnu","2023-09-25",1309
+"cases","QC","Lanaudière","2023-09-25",87551
+"cases","QC","Laurentides","2023-09-25",103498
+"cases","QC","Laval","2023-09-25",85425
+"cases","QC","Mauricie et Centre-du-Québec","2023-09-25",80015
+"cases","QC","Montréal","2023-09-25",369501
+"cases","QC","Montérégie","2023-09-25",197331
+"cases","QC","Nord-du-Québec","2023-09-25",2033
+"cases","QC","Nunavik","2023-09-25",3690
+"cases","QC","Outaouais","2023-09-25",46476
+"cases","QC","Saguenay-Lac-Saint-Jean","2023-09-25",42516
+"cases","QC","Terres-Cries-de-la-Baie-James","2023-09-25",3151
+"cases","QC","Abitibi-Témiscamingue","2023-09-26",15437
+"cases","QC","Bas-Saint-Laurent","2023-09-26",31412
+"cases","QC","Capitale-Nationale","2023-09-26",119559
+"cases","QC","Chaudière-Appalaches","2023-09-26",79620
+"cases","QC","Côte-Nord","2023-09-26",14054
+"cases","QC","Estrie","2023-09-26",67782
+"cases","QC","Gaspésie-Îles-de-la-Madeleine","2023-09-26",14423
+"cases","QC","Hors Québec","2023-09-26",7460
+"cases","QC","Inconnu","2023-09-26",1309
+"cases","QC","Lanaudière","2023-09-26",87609
+"cases","QC","Laurentides","2023-09-26",103577
+"cases","QC","Laval","2023-09-26",85454
+"cases","QC","Mauricie et Centre-du-Québec","2023-09-26",80086
+"cases","QC","Montréal","2023-09-26",369656
+"cases","QC","Montérégie","2023-09-26",197458
+"cases","QC","Nord-du-Québec","2023-09-26",2034
+"cases","QC","Nunavik","2023-09-26",3692
+"cases","QC","Outaouais","2023-09-26",46495
+"cases","QC","Saguenay-Lac-Saint-Jean","2023-09-26",42557
+"cases","QC","Terres-Cries-de-la-Baie-James","2023-09-26",3153
