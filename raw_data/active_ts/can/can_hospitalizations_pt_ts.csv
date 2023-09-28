@@ -1,9 +1,9 @@
 "name","region","date","value"
 "hospitalizations","CAN","2020-04-01",836
 "hospitalizations","CAN","2020-04-02",571
-"hospitalizations","CAN","2020-04-03",596
-"hospitalizations","CAN","2020-04-04",668
-"hospitalizations","CAN","2020-04-05",697
+"hospitalizations","CAN","2020-04-03",593
+"hospitalizations","CAN","2020-04-04",664
+"hospitalizations","CAN","2020-04-05",687
 "hospitalizations","CAN","2020-04-06",1271
 "hospitalizations","CAN","2020-04-07",1354
 "hospitalizations","CAN","2020-04-08",1444
@@ -1266,3 +1266,10 @@
 "hospitalizations","CAN","2023-09-17",2686
 "hospitalizations","CAN","2023-09-18",2686
 "hospitalizations","CAN","2023-09-19",2742
+"hospitalizations","CAN","2023-09-20",2742
+"hospitalizations","CAN","2023-09-21",2820
+"hospitalizations","CAN","2023-09-22",2839
+"hospitalizations","CAN","2023-09-23",2844
+"hospitalizations","CAN","2023-09-24",2844
+"hospitalizations","CAN","2023-09-25",2846
+"hospitalizations","CAN","2023-09-26",2848
