@@ -45,7 +45,7 @@
 
 | P/T   | Data sources                                                                                                                                                                                                                      |
 |:------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AB    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                                  |
+| AB    | - COVID-19 Alberta summary statistics (2020-03-06–2022-01-31)<br>- COVID-19 Alberta summary statistics (2022-02-01–2023-08-21)                                                                                                    |
 | BC    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                                  |
 | CAN   | - Public Health Agency of Canada weekly epidemiology update (2022-04-01–present)                                                                                                                                                  |
 | MB    | - covid19tracker.ca dataset (2020-01-25–2021-02-03)<br>- Manitoba dashboard (2021-02-04–2022-03-25)                                                                                                                               |
@@ -63,7 +63,7 @@
 
 | P/T   | Data sources                                                                                                                                                                                                                      |
 |:------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AB    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                                  |
+| AB    | - COVID-19 Alberta summary statistics (2020-03-06–2022-01-31)<br>- COVID-19 Alberta summary statistics (2022-02-01–2023-08-21)                                                                                                    |
 | BC    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                                  |
 | CAN   | - Public Health Agency of Canada weekly epidemiology update (2022-04-01–present)                                                                                                                                                  |
 | MB    | - covid19tracker.ca dataset (2022-03-26–present)<br>- Manitoba dashboard (2021-02-04–2022-03-25)                                                                                                                                  |
