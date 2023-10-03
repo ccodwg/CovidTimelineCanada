@@ -1,5 +1,6 @@
 value_name,region,source_name,uuid,source_type,source_status,file,geo,date_begin,date_end,date_shift,release_schedule_dotw,release_schedule_freq,release_schedule_notes,release_date_next,release_date_lag_days,comments
-cases,AB,COVID-19 Alberta statistics app,24a572ea-0de3-4f83-b9b7-8764ea203eb6,ts,static,static/ab/ab_cases_hr_ts.csv,health_region,2020-03-05,2023-07-24,,,,,,,
+cases,AB,COVID-19 Alberta statistics app,24a572ea-0de3-4f83-b9b7-8764ea203eb6,ts,static,static/ab/ab_cases_hr_ts_1.csv,health_region,2020-03-05,2020-03-31,,,,,,,
+cases,AB,COVID-19 Alberta geospatial data; COVID-19 Alberta summary statistics,e7d94ff1-6029-4046-8f93-281d200912a9; 3ced816d-8524-4875-bd69-61fb5603b596,ts,static,static/ab/ab_cases_hr_ts_2.csv; static/ab/ab_cases_pt_ts.csv,health_region,2020-04-01,2023-08-28,,,,,,,
 cases,BC,British Columbia case CSV,ab6abe51-c9b1-4093-b625-93de1ddb6302,ts,static,static/bc/bc_cases_hr_ts.csv,health_region,2020-01-29,2023-04-15,,,,,,,
 cases,BC,British Columbia COVID-19 Situation Report,b85ca9d5-3a88-403d-9444-cac73ffb2d3f,report,reports,reports/bc/bc_monthly_report.csv,health_region,2023-04-22,present,,R,monthly,Updated first Thursday of the month,,5,
 cases,MB,Manitoba RHA times series CSV,48417109-97c4-4493-8278-39bcea1447ac,ts,static,static/mb/mb_cases_hr_ts.csv,health_region,2020-03-14,2022-03-25,1 day forward,,,,,,
