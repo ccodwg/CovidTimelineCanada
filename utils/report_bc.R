@@ -10,6 +10,8 @@ googlesheets4::gs4_auth()
 # get today's date
 date_local <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 
+### WEEKLY DATA ###
+
 # load dashboard
 ds <- Covid19CanadaData::dl_dataset("b85ca9d5-3a88-403d-9444-cac73ffb2d3f")
 
@@ -86,3 +88,45 @@ identical(tab_hr, tab_bc) # should be TRUE
 
 # append data
 googlesheets4::sheet_append(data = tab, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "bc_monthly_report")
+
+### TESTING TIME SERIES ###
+
+# open dashboard with webdriver
+remDr <- Covid19CanadaData::webdriver_open("https://bccdc.shinyapps.io/respiratory_covid_sitrep/#Test_rates_and_percent_positivity")
+Sys.sleep(15) # wait 15 seconds for dashboard to load
+
+# change time range from "Recent twelve months" to "All time"
+remDr$findElement(using = "css selector", "div#section-test-rates-and-percent-positivity .selectize-control")$clickElement()
+remDr$findElement(using = "css selector", "div#section-test-rates-and-percent-positivity .selectize-dropdown-content .option[data-value='all_time']")$clickElement()
+
+# wait for chart to update
+Sys.sleep(3)
+
+# JavaScript to extract data from figure
+js_script <- '
+    var el = document.querySelectorAll("div#figure6 .trace.bars")[1];
+    var data = el.__data__;
+    var simplifiedData = data.map(function(d) {
+        return {x: d.p, y: d.s1};
+    });
+    return simplifiedData;
+'
+
+# extract data
+dat_testing <- remDr$executeScript(js_script)
+
+# close webdriver
+Covid19CanadaData::webdriver_close(remDr)
+
+# format data
+dat_testing <- dplyr::bind_rows(lapply(dat_testing, function(z) data.frame(x = z$x, y = z$y))) |>
+  dplyr::transmute(
+    date = date_local,
+    source = "https://bccdc.shinyapps.io/respiratory_covid_sitrep/#Test_rates_and_percent_positivity",
+    date_start = lubridate::date(as.POSIXct(x / 1000, origin = "1970-01-01", tz = "UTC")),
+    date_end = date_start + 6,
+    region = "BC",
+    value = y)
+
+# sync data to Google Sheets
+googlesheets4::write_sheet(data = dat_testing, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "bc_monthly_report_testing")
