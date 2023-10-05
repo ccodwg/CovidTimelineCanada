@@ -54,7 +54,7 @@
 | NS    | - covid19tracker.ca dataset (2020-01-25–2021-01-18)<br>- Nova Scotia dashboard (2021-01-19–2022-01-18)<br>- Nova Scotia dashboard (2022-01-19–2022-03-04)<br>- Nova Scotia weekly dashboard (2022-03-08–2023-05-22)               |
 | ON    | - Ontario hospitalization CSV (2020-04-02–present)                                                                                                                                                                                |
 | PE    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                                  |
-| QC    | - MSSS hospitalization CSV (2020-04-11–present)                                                                                                                                                                                   |
+| QC    | - INSPQ manual data CSV (2020-03-13–2020-04-10)<br>- MSSS hospitalization CSV (2020-04-11–present)                                                                                                                                |
 | SK    | - Saskatchewan hospitalized cases dashboard (2020-03-26–2022-02-06)<br>- Saskatchewan weekly COVID-19 situation report (2022-02-09–2022-06-29)                                                                                    |
 </details>
 
@@ -72,7 +72,7 @@
 | NS    | - covid19tracker.ca dataset (2020-01-25–2021-01-18)<br>- Nova Scotia dashboard (2021-01-19–2022-01-18)<br>- Nova Scotia dashboard (2022-01-19–2022-03-04)<br>- Nova Scotia weekly dashboard (2022-04-12–2023-05-22)               |
 | ON    | - Ontario hospitalization CSV (2020-04-02–present)                                                                                                                                                                                |
 | PE    | - covid19tracker.ca dataset (2020-01-25–present)                                                                                                                                                                                  |
-| QC    | - MSSS hospitalization CSV (2020-04-11–present)                                                                                                                                                                                   |
+| QC    | - INSPQ manual data CSV (2020-03-13–2020-04-10)<br>- MSSS hospitalization CSV (2020-04-11–present)                                                                                                                                |
 | SK    | - Saskatchewan hospitalized cases dashboard (2020-03-26–2022-02-06)<br>- Saskatchewan weekly COVID-19 situation report (2022-02-09–2022-06-29)                                                                                    |
 </details>
 
