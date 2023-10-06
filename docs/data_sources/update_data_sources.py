@@ -54,26 +54,14 @@ t_icu_admissions = gen_table(d, "icu_admissions", "ICU admissions")
 t_tests_completed = gen_table(d, "tests_completed", "Tests completed")
 
 # vaccine_coverage
-t_vaccine_coverage = (
-    "<details>\n<summary><b>Vaccine coverage</b></summary>\n\n"
-    "All data on COVID-19 vaccine coverage are from the [Public Health Agency of Canada vaccination coverage page](https://health-infobase.canada.ca/covid-19/vaccination-coverage/)."
-    "\n</details>"
-)
+t_vaccine_coverage = gen_table(d, "vaccine_coverage", "Vaccine coverage")
 
 
 # vaccine_administration
-t_vaccine_administration = (
-    "<details>\n<summary><b>Vaccine administration</b></summary>\n\n"
-    "All data on COVID-19 vaccine administration are from the [Public Health Agency of Canada vaccination coverage page](https://health-infobase.canada.ca/covid-19/vaccination-coverage/)."
-    "\n</details>"
-)
+t_vaccine_administration = gen_table(d, "vaccine_administration", "Vaccine administration")
 
 # vaccine_distribution
-t_vaccine_distribution = (
-    "<details>\n<summary><b>Vaccine distribution</b></summary>\n\n"
-    "**Coming soon!**"
-    "\n</details>"
-)
+t_vaccine_distribution = gen_table(d, "vaccine_distribution", "Vaccine distribution")
 
 # assemble "data sources" section of README
 data_sources = "\n\n".join(

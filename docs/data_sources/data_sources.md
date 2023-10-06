@@ -116,17 +116,23 @@
 <details>
 <summary><b>Vaccine coverage</b></summary>
 
-All data on COVID-19 vaccine coverage are from the [Public Health Agency of Canada vaccination coverage page](https://health-infobase.canada.ca/covid-19/vaccination-coverage/).
+| P/T   | Data sources                                                               |
+|:------|:---------------------------------------------------------------------------|
+| CAN   | - Public Health Agency of Canada vaccination coverage (2020-12-19–present) |
 </details>
 
 <details>
 <summary><b>Vaccine administration</b></summary>
 
-All data on COVID-19 vaccine administration are from the [Public Health Agency of Canada vaccination coverage page](https://health-infobase.canada.ca/covid-19/vaccination-coverage/).
+| P/T   | Data sources                                                               |
+|:------|:---------------------------------------------------------------------------|
+| CAN   | - Public Health Agency of Canada vaccination coverage (2020-12-19–present) |
 </details>
 
 <details>
 <summary><b>Vaccine distribution</b></summary>
 
-**Coming soon!**
+| P/T   | Data sources                                                                                                                         |
+|:------|:-------------------------------------------------------------------------------------------------------------------------------------|
+| CAN   | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
 </details>

@@ -158,5 +158,16 @@
             "can": "can",
             "pt": "pt"
         }
+    },
+    "vaccine_distribution_total_doses": {
+        "name": "vaccine_distribution_total_doses",
+        "name_long": "Vaccine distribution (total doses)",
+        "value": "The cumulative number of total doses of COVID-19 vaccines distributed reported up to a given day.",
+        "value_daily": "The change in the number of total doses of COVID-19 vaccines distributed reported compared to the previous day.",
+        "geo": {
+            "can": "can",
+            "pt": "pt"
+        },
+        "geneal_notes": "The number of doses distributed may become desynchronized from the number of doses administered for a number of reasons, including extra doses (https://web.archive.org/web/20210129091454/https://www.cbc.ca/news/health/pfizer-biontech-vaccine-extra-dose-1.5892298), partial doses (https://web.archive.org/web/20220316141828/https://immunizebc.ca/ask-us/questions/why-covid-19-mrna-moderna-spikevax%E2%84%A2-booster-given-full-dose-some-people-and-half), and vaccine wastage (https://web.archive.org/web/20220428003641/https://vancouversun.com/news/covid-19-b-c-destroyed-hundreds-of-thousands-of-vaccine-doses)."
     }
 }
