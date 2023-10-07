@@ -36,6 +36,7 @@ cases,YT,Yukon dashboard,8eb9a22f-a2c0-4bdb-8f6c-ef8134901efe,ts,static,static/y
 deaths,AB,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2020-06-22,,,,,,,
 deaths,AB,Alberta case CSV,59da1de8-3b4e-429a-9e18-b67ba3834002,archive_ts,static,static/ab/ab_deaths_hr_ts.csv,health_region,2020-06-23,2023-06-05,,,,,,,
 deaths,AB,Alberta case breakdown,d3b170a7-bb86-4bb0-b362-2adc5e6438c2,archive_ts,static,static/ab/ab_deaths_hr_ts.csv,health_region,2023-06-12,2023-07-24,,,,,,,
+deaths,AB,COVID-19 Alberta summary statistics,3ced816d-8524-4875-bd69-61fb5603b596,ts,static,static/ab/ab_deaths_pt_ts.csv,province_territory,2023-07-25,2023-08-28,,,,,,,
 deaths,BC,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-03-08,2022-04-01,,,,,,,
 deaths,BC,British Columbia dashboard,91367e1d-8b79-422c-b314-9b3441ba4f42,archive_ts,static,static/bc/bc_deaths_hr_ts.csv,health_region,2022-04-02,2023-04-15,,,,,,5,
 deaths,BC,British Columbia COVID-19 Situation Report,b85ca9d5-3a88-403d-9444-cac73ffb2d3f,report,reports,reports/bc/bc_monthly_report.csv,health_region,2023-04-22,present,,R,monthly,Updated first Thursday of the month,,5,
