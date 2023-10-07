@@ -54,7 +54,13 @@
         "value_daily": "The change in the number of hospital admissions related to COVID-19 compared to the previous day.",
         "geo": {
             "pt": "pt"
-        }
+        },
+        "data_notes": [
+            {
+                "geo": "yt",
+                "note": "Definition unknown. Figure does not include patients medevaced out of territory (28 by end of data collection)."
+            }
+        ]
     },
     "icu_admissions": {
         "name": "icu_admissions",
