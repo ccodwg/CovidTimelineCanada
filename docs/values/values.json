@@ -8,7 +8,13 @@
             "can": "hr",
             "pt": "hr",
             "hr": "hr"
-        }
+        },
+        "data_notes": [
+            {
+                "geo": "nt",
+                "note": "Cases include NWT residents, as well as a small number of residents testing positive out-of-territory (14 by end of data collection). Cases exclude non-NWT residents (624 by end of data collection)."
+            }
+        ]
     },
     "deaths": {
         "name": "deaths",
@@ -168,6 +174,6 @@
             "can": "can",
             "pt": "pt"
         },
-        "geneal_notes": "The number of doses distributed may become desynchronized from the number of doses administered for a number of reasons, including extra doses (https://web.archive.org/web/20210129091454/https://www.cbc.ca/news/health/pfizer-biontech-vaccine-extra-dose-1.5892298), partial doses (https://web.archive.org/web/20220316141828/https://immunizebc.ca/ask-us/questions/why-covid-19-mrna-moderna-spikevax%E2%84%A2-booster-given-full-dose-some-people-and-half), and vaccine wastage (https://web.archive.org/web/20220428003641/https://vancouversun.com/news/covid-19-b-c-destroyed-hundreds-of-thousands-of-vaccine-doses)."
+        "general_notes": "The number of doses distributed may become desynchronized from the number of doses administered for a number of reasons, including extra doses (https://web.archive.org/web/20210129091454/https://www.cbc.ca/news/health/pfizer-biontech-vaccine-extra-dose-1.5892298), partial doses (https://web.archive.org/web/20220316141828/https://immunizebc.ca/ask-us/questions/why-covid-19-mrna-moderna-spikevax%E2%84%A2-booster-given-full-dose-some-people-and-half), and vaccine wastage (https://web.archive.org/web/20220428003641/https://vancouversun.com/news/covid-19-b-c-destroyed-hundreds-of-thousands-of-vaccine-doses)."
     }
 }
