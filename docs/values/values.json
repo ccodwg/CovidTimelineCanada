@@ -9,12 +9,23 @@
             "pt": "hr",
             "hr": "hr"
         },
-        "data_notes": [
-            {
-                "geo": "nt",
-                "note": "Cases include NWT residents, as well as a small number of residents testing positive out-of-territory (14 by end of data collection). Cases exclude non-NWT residents (624 by end of data collection)."
-            }
-        ]
+        "general_notes": "Cases generally refer to PCR-confirmed cases of COVID-19, but may include probable and epi-linked cases in some jurisdictions early in the pandemic. Later in the pandemic, cases ascertained by point-of-care testing (POCT) may be included in case counts in some jurisdictions. Cases ascertained via rapid antigen testing (RAT) were also briefly reported in at least one jurisdiction. Some jurisdictions changed case definitions over time. Details regarding case definitions are included as data notes where available.",
+        "data_notes": {
+            "nt": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Cases include NWT residents, as well as a small number of residents testing positive out-of-territory (14 by end of data collection). Cases exclude non-NWT residents (624 by end of data collection). Reporting a positive rapid antigen test (RAT) result was mandatory from 2021-12-31 to 2022-03-31 (https://web.archive.org/web/20211231212919/https://www.gov.nt.ca/en/newsroom/new-public-guidance-testing-nwt; https://web.archive.org/web/20220331173101/https://www.gov.nt.ca/en/newsroom/gnwt-ending-covid-19-public-health-emergency), and these results were reported as cases on the NWT dashboard alongside PCR and POCT results. No more cases ascertained by RATs were reported after 2022-04-04."
+                }
+            ],
+            "pe": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "PEI reports PCR-confirmed cases. Since at least 2022-01-10, it also reports cases ascertained by POCT tests (Abbott ID Now NAAT, later adding Lucira NAAT). It does not include individuals that tested positive on a rapid antigen test."
+                }
+            ]
+        }
     },
     "deaths": {
         "name": "deaths",
@@ -25,7 +36,8 @@
             "can": "hr",
             "pt": "hr",
             "hr": "hr"
-        }
+        },
+        "general_notes": "Deaths may refer to deaths where COVID-19 was an underlying cause or deaths within a certain number of days of a positive COVID-19 test. The former definition is generally preferred if multiple metrics are available. Some jurisdictions changed death reporting definitions over time. Details regarding death reporting definitions are included as data notes where available."
     },
     "hospitalizations": {
         "name": "hospitalizations",
@@ -55,12 +67,15 @@
         "geo": {
             "pt": "pt"
         },
-        "data_notes": [
-            {
-                "geo": "yt",
-                "note": "Definition unknown. Figure does not include patients medevaced out of territory (28 by end of data collection)."
-            }
-        ]
+        "data_notes": {
+            "yt": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Definition unknown. Value does not include patients medevaced out of territory (28 by end of data collection)."
+                }
+            ]
+        }
     },
     "icu_admissions": {
         "name": "icu_admissions",
