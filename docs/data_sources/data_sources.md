@@ -82,6 +82,7 @@
 | P/T   | Data sources                                                                                                                                                                                 |
 |:------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MB    | - Manitoba weekly surveillance report (2020-05-16–2022-03-19)<br>- Manitoba weekly surveillance report (2022-03-26–2022-11-05)<br>- Manitoba weekly surveillance report (2022-11-12–present) |
+| QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                            |
 | YT    | - Yukon dashboard (2020-07-14–2022-11-10)                                                                                                                                                    |
 </details>
 
@@ -91,6 +92,7 @@
 | P/T   | Data sources                                                                                                                                                                                 |
 |:------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | MB    | - Manitoba weekly surveillance report (2020-05-16–2022-03-19)<br>- Manitoba weekly surveillance report (2022-03-26–2022-11-05)<br>- Manitoba weekly surveillance report (2022-11-12–present) |
+| QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                            |
 </details>
 
 <details>

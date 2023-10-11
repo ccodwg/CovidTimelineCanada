@@ -68,6 +68,13 @@
             "pt": "pt"
         },
         "data_notes": {
+            "qc": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Source dataset reports hospital admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19."
+                }
+            ],
             "yt": [
                 {
                     "date_start": "",
@@ -84,6 +91,15 @@
         "value_daily": "The change in the number of ICU admissions related to COVID-19 compared to the previous day.",
         "geo": {
             "pt": "pt"
+        },
+        "data_notes": {
+            "qc": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Source dataset reports ICU admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19."
+                }
+            ]
         }
     },
     "tests_completed": {
