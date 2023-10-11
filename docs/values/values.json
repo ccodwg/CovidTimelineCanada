@@ -15,14 +15,14 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Cases include NWT residents, as well as a small number of residents testing positive out-of-territory (14 by end of data collection). Cases exclude non-NWT residents (624 by end of data collection). Reporting a positive rapid antigen test (RAT) result was mandatory from 2021-12-31 to 2022-03-31 (https://web.archive.org/web/20211231212919/https://www.gov.nt.ca/en/newsroom/new-public-guidance-testing-nwt; https://web.archive.org/web/20220331173101/https://www.gov.nt.ca/en/newsroom/gnwt-ending-covid-19-public-health-emergency), and these results were reported as cases on the NWT dashboard alongside PCR and POCT results. No more cases ascertained by RATs were reported after 2022-04-04."
+                    "note": "Cases included NWT residents, as well as a small number of residents testing positive out-of-territory (14 by end of data collection). Cases excluded non-NWT residents (624 by end of data collection). Reporting a positive rapid antigen test (RAT) result was mandatory from 2021-12-31 to 2022-03-31 (https://web.archive.org/web/20211231212919/https://www.gov.nt.ca/en/newsroom/new-public-guidance-testing-nwt; https://web.archive.org/web/20220331173101/https://www.gov.nt.ca/en/newsroom/gnwt-ending-covid-19-public-health-emergency), and these results were reported as cases on the NWT dashboard alongside PCR and POCT results. No more cases ascertained by RATs were reported after 2022-04-04."
                 }
             ],
             "pe": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "PEI reports PCR-confirmed cases. Since at least 2022-01-10, it also reports cases ascertained by POCT tests (Abbott ID Now NAAT, later adding Lucira NAAT). It does not include individuals that tested positive on a rapid antigen test."
+                    "note": "PEI reported PCR-confirmed cases. Since at least 2022-01-10, it also reported cases ascertained by POCT tests (Abbott ID Now NAAT, later adding Lucira NAAT). Case counts do not include individuals that tested positive on a rapid antigen test."
                 }
             ]
         }
@@ -47,6 +47,20 @@
         "geo": {
             "can": "can",
             "pt": "pt"
+        },
+        "data_notes": {
+            "ab": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-01-31",
+                    "note": "Hospital occupency does not distinguish between 'for' and 'with' COVID-19."
+                },
+                {
+                    "date_start": "2022-02-01",
+                    "date_end": "",
+                    "note": "Source dataset reported hospital occupency both 'for' and 'with' COVID-19. We only report hospital occupency 'with' COVID-19."
+                }
+            ]
         }
     },
     "icu": {
@@ -57,7 +71,19 @@
         "geo": {
             "can": "can",
             "pt": "pt"
-        }
+        },
+        "ab": [
+            {
+                "date_start": "",
+                "date_end": "2022-01-31",
+                "note": "ICU occupency does not distinguish between 'for' and 'with' COVID-19."
+            },
+            {
+                "date_start": "2022-02-01",
+                "date_end": "",
+                "note": "Source dataset reported ICU occupency both 'for' and 'with' COVID-19. We only report  ICU occupency 'with' COVID-19."
+            }
+        ]
     },
     "hosp_admissions": {
         "name": "hosp_admissions",
@@ -72,7 +98,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Source dataset reports hospital admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19."
+                    "note": "Source dataset reported hospital admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19."
                 }
             ],
             "yt": [
@@ -97,7 +123,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Source dataset reports ICU admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19."
+                    "note": "Source dataset reported ICU admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19."
                 }
             ]
         }
