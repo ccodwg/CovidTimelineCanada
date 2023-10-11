@@ -94,6 +94,25 @@
             "pt": "pt"
         },
         "data_notes": {
+            "ab": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-01-31",
+                    "note": "Hospital admissions do not distinguish between 'for' and 'with' COVID-19."
+                },
+                {
+                    "date_start": "2022-02-01",
+                    "date_end": "",
+                    "note": "Source dataset reported only hospital admissions 'for' COVID-19."
+                }
+            ],
+            "on": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Definition from Public Health Ontario: 'Hospital admissions include all cases admitted to hospital (or that had their hospital stay extended) because of COVID-19. It includes cases that have been discharged from hospital as well as cases that are currently in hospital. Includes Intensive Care Unit (ICU) cases but not emergency room visits. Hospital admissions were identified by a reported hospital admission date or reported 'Yes' for hospitalization/ICU.'"
+                }
+            ],
             "qc": [
                 {
                     "date_start": "",
@@ -119,6 +138,18 @@
             "pt": "pt"
         },
         "data_notes": {
+            "ab": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-01-31",
+                    "note": "ICU admissions do not distinguish between 'for' and 'with' COVID-19."
+                },
+                {
+                    "date_start": "2022-02-01",
+                    "date_end": "",
+                    "note": "Source dataset reported only ICU admissions 'for' COVID-19."
+                }
+            ],
             "qc": [
                 {
                     "date_start": "",
