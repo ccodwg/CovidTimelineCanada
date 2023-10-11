@@ -1,6 +1,6 @@
 # Timeline of COVID-19 in Canada
 
-The Timeline of COVID-19 in Canada (`CovidTimelineCanada`) is intended to be the definitive source for data regarding the COVID-19 pandemic in Canada. In addition to making available the ready-to-use datasets, this repository also acts as a hub for collaboration on expanding and improving the availability and quality of COVID-19 data in Canada. This repository is maintained by the [COVID-19 Canada Open Data Working Group](https://opencovid.ca/) and is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project.
+The Timeline of COVID-19 in Canada (`CovidTimelineCanada`) is intended to be the definitive source for data regarding the COVID-19 pandemic in Canada. In addition to making available the ready-to-use datasets, this repository also acts as a hub for collaboration on expanding and improving the availability and quality of COVID-19 data in Canada. This repository is maintained by the [COVID-19 Canada Open Data Working Group](https://opencovid.ca/) and is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project. Our work has been cited or republished by numerous organizations, researchers, and journalists: see [Citation and terms of use](#citation-and-terms-of-use) for some examples.
 
 Datasets in this repository are found in the [`data`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/data) directory and are [updated automatically several times per day](#how-these-data-are-updated). Map, population and other spatial data are provided in the [`geo`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/geo) directory.
 
@@ -83,6 +83,8 @@ Previously, we recommended the following citation:
 
 > Berry, I., Soucy, J.-P. R., Tuite, A., & Fisman, D. (2020). Open access epidemiologic data and an interactive dashboard to monitor the COVID-19 outbreak in Canada. Canadian Medical Association Journal, 192(15), E420. doi: [https://doi.org/10.1503/cmaj.75262](https://doi.org/10.1503/cmaj.75262)
 
+Our data have been used by numerous organizations, journalists, and researchers (Google Scholar: [new paper](https://scholar.google.ca/scholar?oi=bibs&hl=en&cites=9698187328395226586), [old paper](https://scholar.google.ca/scholar?oi=bibs&hl=en&cites=16785861098617080456)). Our datasets have also been republished by groups such as the [Public Health Agency of Canada](https://health-infobase.canada.ca/covid-19/current-situation.html?stat=num&measure=cases_weekly&map=hr#a2), [Google](https://health.google.com/covid-19/open-data/data-sources), and [Our World in Data](https://web.archive.org/web/20210105130856/https://ourworldindata.org/covid-vaccinations#source-information-country-by-countryorg/covid-vaccinations).
+
 ## Contributing
 
 To contribute to this project, please refer to the ongoing discussions in the [issues board](https://github.com/ccodwg/CovidTimelineCanada/issues) or open up a new one. We need help identifying the best data sources for each value and harmonizing them into a single dataset. We can also be reached via our [contact page](https://opencovid.ca/contact-us/).
@@ -91,9 +93,7 @@ We must also identify gaps in publicly available data. These data may then be re
 
 ## How these data are updated
 
-The data in this repository are updated several times per day by [`Covid19CanadaBot`](https://github.com/ccodwg/Covid19CanadaBot) using the script [`update_data.R`](https://github.com/ccodwg/CovidTimelineCanada/blob/main/update_data.R).
-
-The data in this repository will eventually conform to the developing [Data and Metadata Standard for COVID-19 Data in Canada](https://github.com/ccodwg/CovidDataStandard). To contribute to the development of this standard, please visit the [repository](https://github.com/ccodwg/CovidDataStandard).
+The data in this repository are updated several times per day by [`Covid19CanadaBot`](https://github.com/ccodwg/Covid19CanadaBot).
 
 ## Detailed description of data sources
 
