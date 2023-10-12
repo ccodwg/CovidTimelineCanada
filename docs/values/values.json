@@ -24,6 +24,13 @@
                     "date_end": "",
                     "note": "PEI reported PCR-confirmed cases. Since at least 2022-01-10, it also reported cases ascertained by POCT tests (Abbott ID Now NAAT, later adding Lucira NAAT). Case counts do not include individuals that tested positive on a rapid antigen test."
                 }
+            ],
+            "qc": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Note regarding health regions: 'Confirmed cases are broken down according to the RSS of residence. Homeless people are associated with the support region'."
+                }
             ]
         }
     },
@@ -37,7 +44,16 @@
             "pt": "hr",
             "hr": "hr"
         },
-        "general_notes": "Deaths may refer to deaths where COVID-19 was an underlying cause or deaths within a certain number of days of a positive COVID-19 test. The former definition is generally preferred if multiple metrics are available. Some jurisdictions changed death reporting definitions over time. Details regarding death reporting definitions are included as data notes where available."
+        "general_notes": "Deaths may refer to deaths where COVID-19 was an underlying cause or deaths within a certain number of days of a positive COVID-19 test. The former definition is generally preferred if multiple metrics are available. Some jurisdictions changed death reporting definitions over time. Details regarding death reporting definitions are included as data notes where available.",
+        "data_notes": {
+            "qc": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Note regarding health regions: 'Confirmed cases are broken down according to the RSS of residence. Homeless people are associated with the support region'."
+                }
+            ]
+        }
     },
     "hospitalizations": {
         "name": "hospitalizations",
