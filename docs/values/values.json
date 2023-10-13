@@ -95,6 +95,13 @@
                     "date_end": "",
                     "note": "Source dataset reported hospital occupency both 'for' and 'with' COVID-19. We only report hospital occupency 'with' COVID-19."
                 }
+            ],
+            "nu": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces (e.g., https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update)."
+                }
             ]
         }
     },
@@ -118,6 +125,13 @@
                 "date_end": "",
                 "note": "Source dataset reported ICU occupency both 'for' and 'with' COVID-19. We only report  ICU occupency 'with' COVID-19."
             }
+        ],
+        "nu": [
+            {
+                "date_start": "",
+                "date_end": "",
+                "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces (e.g., https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update)."
+            }
         ]
     },
     "hosp_admissions": {
@@ -139,6 +153,13 @@
                     "date_start": "2022-02-01",
                     "date_end": "",
                     "note": "Source dataset reported only hospital admissions 'for' COVID-19."
+                }
+            ],
+            "nu": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces (e.g., https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update)."
                 }
             ],
             "on": [
@@ -183,6 +204,13 @@
                     "date_start": "2022-02-01",
                     "date_end": "",
                     "note": "Source dataset reported only ICU admissions 'for' COVID-19."
+                }
+            ],
+            "nu": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces (e.g., https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update)."
                 }
             ],
             "qc": [
