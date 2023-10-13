@@ -12,8 +12,21 @@ date_local <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 
 ### WEEKLY DATA ###
 
-# load dashboard
-ds <- Covid19CanadaData::dl_dataset("b85ca9d5-3a88-403d-9444-cac73ffb2d3f")
+# open dashboard with webdriver
+remDr <- Covid19CanadaData::webdriver_open("https://bccdc.shinyapps.io/respiratory_covid_sitrep/#Test_rates_and_percent_positivity")
+Sys.sleep(15) # wait 15 seconds for dashboard to load
+
+# select "Currently in hospital" tab
+remDr$findElement(using = "css selector", "a[data-value='Currently in hospital'")$clickElement()
+
+# wait for chart to update
+Sys.sleep(3)
+
+# get page source
+ds <- rvest::read_html(remDr$getPageSource()[[1]])
+
+# close webdriver
+Covid19CanadaData::webdriver_close(remDr)
 
 # extract and format weekly data table
 tab <- rvest::html_table(rvest::html_element(ds, "#table1"), header = FALSE)
@@ -68,6 +81,46 @@ tab <- tab |>
   dplyr::arrange(date_start, sub_region_1) |>
   dplyr::mutate(dplyr::across(c("cases", "deaths", "new_hospitalizations", "new_icu"), as.integer))
 
+# extract date of hospitalization data
+hosp_date <- rvest::html_element(ds, "#curr_hosp_dt") |>
+  rvest::html_text2() |>
+  as.Date(format = "%B %d, %Y")
+
+# add hospitalization and ICU data
+tab_hosp <- rvest::html_table(rvest::html_element(ds, "#table3"), header = FALSE)
+tab_hosp_names <- c("name", as.character(tab_hosp[2, 2:8]))
+tab_hosp_names <- dplyr::case_when(
+  tab_hosp_names == "FH" ~ "Fraser Health",
+  tab_hosp_names == "IH" ~ "Interior Health",
+  tab_hosp_names == "NH" ~ "Northern Health",
+  tab_hosp_names == "PHSA" ~ "Provincial Health Services Authority",
+  tab_hosp_names == "VCH" ~ "Vancouver Coastal Health",
+  tab_hosp_names == "VIHA" ~ "Island Health",
+  TRUE ~ tab_hosp_names
+)
+names(tab_hosp) <- tab_hosp_names
+tab_hosp <- tab_hosp[3:4, ]
+tab_hosp[, "name"] <- c("active_hospitalizations", "active_icu")
+tab_hosp <- data.frame(t(tab_hosp))
+names(tab_hosp) <- as.character(tab_hosp[1, ])
+col_1 <- row.names(tab_hosp)[2:8]
+col_1[col_1 == "Total"] <- ""
+tab_hosp <- tab_hosp[-1, ]
+tab_hosp <- tab_hosp |>
+  dplyr::mutate(dplyr::across(dplyr::everything(), function(x) readr::parse_number(gsub(",", "", x))))
+tab_hosp <- tab_hosp |>
+  dplyr::transmute(
+    date_start = hosp_date,
+    date_end = hosp_date,
+    region = "BC",
+    sub_region_1 = col_1,
+    .data$active_hospitalizations,
+    .data$active_icu) |>
+  dplyr::arrange(.data$sub_region_1)
+
+# combine data
+tab <- dplyr::bind_rows(tab, tab_hosp)
+
 # add date and source
 tab <- tab |>
   dplyr::mutate(
@@ -78,12 +131,13 @@ tab <- tab |>
 # check weekly sums for province match health region totals
 tab_hr <- tab |>
   dplyr::filter(sub_region_1 != "") |>
-  dplyr::select(date_start, cases, deaths, new_hospitalizations, new_icu) |>
+  dplyr::select(date_start, cases, deaths, new_hospitalizations, new_icu, active_hospitalizations, active_icu) |>
   dplyr::group_by(date_start) |>
-  dplyr::summarize(dplyr::across(c("cases", "deaths", "new_hospitalizations", "new_icu"), sum), .groups = "drop")
+  dplyr::summarize(dplyr::across(c("cases", "deaths", "new_hospitalizations", "new_icu", "active_hospitalizations", "active_icu"),
+                                 sum), .groups = "drop")
 tab_bc <- tab |>
   dplyr::filter(sub_region_1 == "") |>
-  dplyr::select(date_start, cases, deaths, new_hospitalizations, new_icu)
+  dplyr::select(date_start, cases, deaths, new_hospitalizations, new_icu, active_hospitalizations, active_icu)
 identical(tab_hr, tab_bc) # should be TRUE
 
 # append data
@@ -167,7 +221,6 @@ extract_cum_tab <- function(date_current) {
   names(tab) <- tab_names
   tab <- tab[3:7, -2]
   tab[, "name"] <- c("hosp_admissions", "icu_admissions", "deaths_up_to_2022-03-31", "deaths_after_2022-04-01", "cases")
-  tab <- tab
   tab <- data.frame(t(tab))
   names(tab) <- as.character(tab[1, 1:5])
   col_1 <- row.names(tab)[2:8]
