@@ -11,17 +11,17 @@ if check_tabulate is None:
 d = pd.read_csv(
     "docs/data_sources/data_sources.csv",
     dtype = str,
-    usecols = ["value_name", "region", "source_name", "date_begin", "date_end"])
+    usecols = ["value_name", "region", "source_name", "date_begin", "date_end", "not_available"])
 
 # function: generate table for specific value
 def gen_table(d, val, title):
     # filter to specific value
     d = d[d["value_name"] == val]
     d = d.drop("value_name", axis = 1)
-    # create entries
-    d["data_sources"] = "- " + d["source_name"] + " (" + d["date_begin"] + "\u2013" + d["date_end"] + ")"
+    # create entries, noting those marked as not available
+    d["data_sources"] = d.apply(lambda x: "Not available" if not pd.isna(x["not_available"]) else "- " + x["source_name"] + " (" + x["date_begin"] + "\u2013" + x["date_end"] + ")", axis = 1)
     # drop unnecessary columns
-    d = d.drop(["source_name", "date_begin", "date_end"], axis = 1)
+    d = d.drop(["source_name", "date_begin", "date_end", "not_available"], axis = 1)
     # join entries for each region
     d = d.groupby(["region"])["data_sources"].apply("<br>".join).reset_index()
     # convert to markdown table
