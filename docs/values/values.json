@@ -18,6 +18,18 @@
                     "note": "Cases included NWT residents, as well as a small number of residents testing positive out-of-territory (14 by end of data collection). Cases excluded non-NWT residents (624 by end of data collection). Reporting a positive rapid antigen test (RAT) result was mandatory from 2021-12-31 to 2022-03-31 (https://web.archive.org/web/20211231212919/https://www.gov.nt.ca/en/newsroom/new-public-guidance-testing-nwt; https://web.archive.org/web/20220331173101/https://www.gov.nt.ca/en/newsroom/gnwt-ending-covid-19-public-health-emergency), and these results were reported as cases on the NWT dashboard alongside PCR and POCT results. No more cases ascertained by RATs were reported after 2022-04-04."
                 }
             ],
+            "nu": [
+                {
+                    "date_start": "2022-01-17",
+                    "date_end": "",
+                    "note": "Note: 'Starting 17 Jan 2022, confirmed cases include those meeting the revised Nunavut case definitions. This includes COVID-19 cases detected either by a confirmatory (PCR) or a presumptive (rapid) test.'"
+                },
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Note: 'There may be a delay reporting attribution and statistics from cases acquired in Southern Canada. 12 cases that were detected out of territory have been attributed to Nunavut. This includes 3 deaths. Not all NU residents with COVID-19 detected out of territory will be attributed to Nunavut.'"
+                }
+            ],
             "pe": [
                 {
                     "date_start": "",
@@ -46,6 +58,13 @@
         },
         "general_notes": "Deaths may refer to deaths where COVID-19 was an underlying cause or deaths within a certain number of days of a positive COVID-19 test. The former definition is generally preferred if multiple metrics are available. Some jurisdictions changed death reporting definitions over time. Details regarding death reporting definitions are included as data notes where available.",
         "data_notes": {
+            "nu": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Note: 'There may be a delay reporting attribution and statistics from cases acquired in Southern Canada. 12 cases that were detected out of territory have been attributed to Nunavut. This includes 3 deaths. Not all NU residents with COVID-19 detected out of territory will be attributed to Nunavut.'"
+                }
+            ],
             "qc": [
                 {
                     "date_start": "",
