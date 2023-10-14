@@ -34,4 +34,4 @@
 | PE    | Still reporting (single HR) |                        |
 | QC    | Still reporting at HR level |                        |
 | SK    | Ended reporting at HR level | 2022-06-25             |
-| YT    | Ended reporting completely  | 2022-11-05             |
+| YT    | Ended reporting completely  | 2022-11-10             |
