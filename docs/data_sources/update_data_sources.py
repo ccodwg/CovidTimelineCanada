@@ -1,4 +1,5 @@
 # load modules
+import os
 import importlib
 import pandas as pd
 
@@ -7,9 +8,12 @@ check_tabulate = importlib.util.find_spec("tabulate")
 if check_tabulate is None:
     raise ImportError("The 'tabulate' module is required for df.to_markdown().")
 
+# get directory of this script
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
 # load data_sources.csv
 d = pd.read_csv(
-    "docs/data_sources/data_sources.csv",
+    os.path.join(script_dir, "data_sources.csv"),
     dtype = str,
     usecols = ["value_name", "region", "source_name", "date_begin", "date_end", "not_available"])
 
@@ -63,14 +67,14 @@ t_vaccine_administration = gen_table(d, "vaccine_administration", "Vaccine admin
 # vaccine_distribution
 t_vaccine_distribution = gen_table(d, "vaccine_distribution", "Vaccine distribution")
 
-# assemble "data sources" section of README
+# assemble document
 data_sources = "\n\n".join(
     [t_cases, t_deaths, t_hospitalizations, t_icu, t_hosp_admissions, t_icu_admissions, t_tests_completed, t_vaccine_coverage, t_vaccine_administration, t_vaccine_distribution]
 )
 
 # add header
-readme = "## Detailed description of data sources\n\n" + data_sources
+doc = "## Detailed description of data sources\n\n" + data_sources
 
-# write README
-with open("docs/data_sources/data_sources.md", "w") as f:
-    f.write(readme)
+# write document
+with open(os.path.join(script_dir, "data_sources.md"), "w") as f:
+    f.write(doc)
