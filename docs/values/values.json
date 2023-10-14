@@ -15,33 +15,46 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Cases included NWT residents, as well as a small number of residents testing positive out-of-territory (14 by end of data collection). Cases excluded non-NWT residents (624 by end of data collection). Reporting a positive rapid antigen test (RAT) result was mandatory from 2021-12-31 to 2022-03-31 (https://web.archive.org/web/20211231212919/https://www.gov.nt.ca/en/newsroom/new-public-guidance-testing-nwt; https://web.archive.org/web/20220331173101/https://www.gov.nt.ca/en/newsroom/gnwt-ending-covid-19-public-health-emergency), and these results were reported as cases on the NWT dashboard alongside PCR and POCT results. No more cases ascertained by RATs were reported after 2022-04-04."
+                    "note": "Cases included NWT residents, as well as a small number of residents testing positive out-of-territory (14 by end of data collection). Cases excluded non-NWT residents (624 by end of data collection). Reporting a positive rapid antigen test (RAT) result was mandatory from 2021-12-31 to 2022-03-31, and these results were reported as cases on the NWT dashboard alongside PCR and POCT results. No more cases ascertained by RATs were reported after 2022-04-04.",
+                    "source": "https://web.archive.org/web/20211231212919/https://www.gov.nt.ca/en/newsroom/new-public-guidance-testing-nwt; https://web.archive.org/web/20220331173101/https://www.gov.nt.ca/en/newsroom/gnwt-ending-covid-19-public-health-emergency; https://nwt-covid.shinyapps.io/Testing-and-Cases/?lang=1 (dead link)"
                 }
             ],
             "nu": [
                 {
                     "date_start": "2022-01-17",
                     "date_end": "",
-                    "note": "Note: 'Starting 17 Jan 2022, confirmed cases include those meeting the revised Nunavut case definitions. This includes COVID-19 cases detected either by a confirmatory (PCR) or a presumptive (rapid) test.'"
+                    "note": "Note: 'Starting 17 Jan 2022, confirmed cases include those meeting the revised Nunavut case definitions. This includes COVID-19 cases detected either by a confirmatory (PCR) or a presumptive (rapid) test.'",
+                    "source": "https://web.archive.org/web/20220409072126/https://gov.nu.ca/health/information/covid-19-novel-coronavirus"
                 },
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Note: 'There may be a delay reporting attribution and statistics from cases acquired in Southern Canada. 12 cases that were detected out of territory have been attributed to Nunavut. This includes 3 deaths. Not all NU residents with COVID-19 detected out of territory will be attributed to Nunavut.'"
+                    "note": "Note: 'There may be a delay reporting attribution and statistics from cases acquired in Southern Canada. 12 cases that were detected out of territory have been attributed to Nunavut. This includes 3 deaths. Not all NU residents with COVID-19 detected out of territory will be attributed to Nunavut.'",
+                    "source": "https://web.archive.org/web/20220409072126/https://gov.nu.ca/health/information/covid-19-novel-coronavirus"
                 }
             ],
             "pe": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "PEI reported PCR-confirmed cases. Since at least 2022-01-10, it also reported cases ascertained by POCT tests (Abbott ID Now NAAT, later adding Lucira NAAT). Case counts do not include individuals that tested positive on a rapid antigen test."
+                    "note": "PEI reported PCR-confirmed cases. Since at least 2022-01-10, it also reported cases ascertained by POCT tests (Abbott ID Now NAAT, later adding Lucira NAAT). Case counts do not include individuals that tested positive on a rapid antigen test.",
+                    "source": "https://web.archive.org/web/20230926235432/https://www.princeedwardisland.ca/en/information/health-and-wellness/pei-respiratory-illness-summary-2023-2024-season (Technical Notes)"
                 }
             ],
             "qc": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Note regarding health regions: 'Confirmed cases are broken down according to the RSS of residence. Homeless people are associated with the support region'."
+                    "note": "Note regarding health regions: 'Confirmed cases are broken down according to the RSS of residence. Homeless people are associated with the support region'.",
+                    "source": "https://web.archive.org/web/20220409072126/https://gov.nu.ca/health/information/covid-19-novel-coronavirus"
+                }
+            ],
+            "yt": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Case numbers did not include at-home rapid tests or private test results.",
+                    "source": "https://web.archive.org/web20221024225650/https://covid-19-data-dashboard.service.yukon.ca/"
                 }
             ]
         }
@@ -62,14 +75,16 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Note: 'There may be a delay reporting attribution and statistics from cases acquired in Southern Canada. 12 cases that were detected out of territory have been attributed to Nunavut. This includes 3 deaths. Not all NU residents with COVID-19 detected out of territory will be attributed to Nunavut.'"
+                    "note": "Note: 'There may be a delay reporting attribution and statistics from cases acquired in Southern Canada. 12 cases that were detected out of territory have been attributed to Nunavut. This includes 3 deaths. Not all NU residents with COVID-19 detected out of territory will be attributed to Nunavut.'",
+                    "source": "https://web.archive.org/web/20220409072126/https://gov.nu.ca/health/information/covid-19-novel-coronavirus"
                 }
             ],
             "qc": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Note regarding health regions: 'Confirmed cases are broken down according to the RSS of residence. Homeless people are associated with the support region'."
+                    "note": "Note regarding health regions: 'Confirmed cases are broken down according to the RSS of residence. Homeless people are associated with the support region'.",
+                    "source": "https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Cas confirmés)"
                 }
             ]
         }
@@ -88,19 +103,22 @@
                 {
                     "date_start": "",
                     "date_end": "2022-01-31",
-                    "note": "Hospital occupency does not distinguish between 'for' and 'with' COVID-19."
+                    "note": "Hospital occupency does not distinguish between 'for' and 'with' COVID-19.",
+                    "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
                 },
                 {
                     "date_start": "2022-02-01",
                     "date_end": "",
-                    "note": "Source dataset reported hospital occupency both 'for' and 'with' COVID-19. We only report hospital occupency 'with' COVID-19."
+                    "note": "Source dataset reported hospital occupency both 'for' and 'with' COVID-19. We only report hospital occupency 'with' COVID-19.",
+                    "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
                 }
             ],
             "nu": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces (e.g., https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update)."
+                    "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces.",
+                    "source": "https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update"
                 }
             ]
         }
@@ -118,19 +136,22 @@
             {
                 "date_start": "",
                 "date_end": "2022-01-31",
-                "note": "ICU occupency does not distinguish between 'for' and 'with' COVID-19."
+                "note": "ICU occupency does not distinguish between 'for' and 'with' COVID-19.",
+                "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
             },
             {
                 "date_start": "2022-02-01",
                 "date_end": "",
-                "note": "Source dataset reported ICU occupency both 'for' and 'with' COVID-19. We only report  ICU occupency 'with' COVID-19."
+                "note": "Source dataset reported ICU occupency both 'for' and 'with' COVID-19. We only report  ICU occupency 'with' COVID-19.",
+                "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
             }
         ],
         "nu": [
             {
                 "date_start": "",
                 "date_end": "",
-                "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces (e.g., https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update)."
+                "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces.",
+                "source": "https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update"
             }
         ]
     },
@@ -147,40 +168,46 @@
                 {
                     "date_start": "",
                     "date_end": "2022-01-31",
-                    "note": "Hospital admissions do not distinguish between 'for' and 'with' COVID-19."
+                    "note": "Hospital admissions do not distinguish between 'for' and 'with' COVID-19.",
+                    "source": "https://web.archive.org/web/20231013222130/https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=severe-outcomes#severe-outcomes; https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
                 },
                 {
                     "date_start": "2022-02-01",
                     "date_end": "",
-                    "note": "Source dataset reported only hospital admissions 'for' COVID-19."
+                    "note": "Source dataset reported only hospital admissions 'for' COVID-19.",
+                    "source": "https://web.archive.org/web/20231013222130/https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=severe-outcomes#severe-outcomes; https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
                 }
             ],
             "nu": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces (e.g., https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update)."
+                    "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces.",
+                    "source": "https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update"
                 }
             ],
             "on": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Definition from Public Health Ontario: 'Hospital admissions include all cases admitted to hospital (or that had their hospital stay extended) because of COVID-19. It includes cases that have been discharged from hospital as well as cases that are currently in hospital. Includes Intensive Care Unit (ICU) cases but not emergency room visits. Hospital admissions were identified by a reported hospital admission date or reported 'Yes' for hospitalization/ICU.'"
+                    "note": "Definition from Public Health Ontario: 'Hospital admissions include all cases admitted to hospital (or that had their hospital stay extended) because of COVID-19. It includes cases that have been discharged from hospital as well as cases that are currently in hospital. Includes Intensive Care Unit (ICU) cases but not emergency room visits. Hospital admissions were identified by a reported hospital admission date or reported 'Yes' for hospitalization/ICU.'",
+                    "source": "https://web.archive.org/web/20231011210717/https://www.publichealthontario.ca/-/media/Data-Files/respiratory-virus-tool-technical-notes.pdf (SEVERITY INDICATORS (HOSPITAL ADMISSIONS AND DEATHS)"
                 }
             ],
             "qc": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Source dataset reported hospital admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19."
+                    "note": "Source dataset reported hospital admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19.",
+                    "source": "https://web.archive.org/web/20230923074515/https://www.inspq.qc.ca/covid-19/donnees (figure 3.2); https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Hospitalisations)"
                 }
             ],
             "yt": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Definition unknown. Value does not include patients medevaced out of territory (28 by end of data collection)."
+                    "note": "Definition unknown. Value does not include patients medevaced out of territory (28 by end of data collection).",
+                    "source": "https://covid-19-data-dashboard.service.yukon.ca/ (dead link)"
                 }
             ]
         }
@@ -198,26 +225,30 @@
                 {
                     "date_start": "",
                     "date_end": "2022-01-31",
-                    "note": "ICU admissions do not distinguish between 'for' and 'with' COVID-19."
+                    "note": "ICU admissions do not distinguish between 'for' and 'with' COVID-19.",
+                    "source": "https://web.archive.org/web/20231013222130/https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=severe-outcomes#severe-outcomes; https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
                 },
                 {
                     "date_start": "2022-02-01",
                     "date_end": "",
-                    "note": "Source dataset reported only ICU admissions 'for' COVID-19."
+                    "note": "Source dataset reported only ICU admissions 'for' COVID-19.",
+                    "source": "https://web.archive.org/web/20231013222130/https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=severe-outcomes#severe-outcomes; https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
                 }
             ],
             "nu": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces (e.g., https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update)."
+                    "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces.",
+                    "source": "https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update"
                 }
             ],
             "qc": [
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Source dataset reported ICU admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19."
+                    "note": "Source dataset reported ICU admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19.",
+                    "source": "https://web.archive.org/web/20230923074515/https://www.inspq.qc.ca/covid-19/donnees (figure 3.2); https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Hospitalisations)"
                 }
             ]
         }
