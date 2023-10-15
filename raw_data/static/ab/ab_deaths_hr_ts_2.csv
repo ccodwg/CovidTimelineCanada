@@ -1,0 +1,967 @@
+"name","region","sub_region_1","date","value"
+"deaths","AB","","2021-11-18",3211
+"deaths","AB","","2021-11-21",3217
+"deaths","AB","","2021-11-22",3227
+"deaths","AB","","2021-11-23",3231
+"deaths","AB","","2021-11-24",3232
+"deaths","AB","","2021-11-25",3235
+"deaths","AB","","2021-11-28",3242
+"deaths","AB","","2021-11-29",3248
+"deaths","AB","","2021-11-30",3255
+"deaths","AB","","2021-12-01",3257
+"deaths","AB","","2021-12-02",3258
+"deaths","AB","","2021-12-05",3263
+"deaths","AB","","2021-12-06",3268
+"deaths","AB","","2021-12-07",3272
+"deaths","AB","","2021-12-08",3271
+"deaths","AB","","2021-12-09",3272
+"deaths","AB","","2021-12-12",3275
+"deaths","AB","","2021-12-13",3283
+"deaths","AB","","2021-12-14",3286
+"deaths","AB","","2021-12-15",3285
+"deaths","AB","","2021-12-16",3286
+"deaths","AB","","2021-12-19",3292
+"deaths","AB","","2021-12-20",3294
+"deaths","AB","","2021-12-21",3299
+"deaths","AB","","2021-12-22",3299
+"deaths","AB","","2021-12-28",3310
+"deaths","AB","","2022-01-03",3322
+"deaths","AB","","2022-01-04",3333
+"deaths","AB","","2022-01-05",3336
+"deaths","AB","","2022-01-06",3338
+"deaths","AB","","2022-01-09",3344
+"deaths","AB","","2022-01-10",3352
+"deaths","AB","","2022-01-11",3367
+"deaths","AB","","2022-01-12",3375
+"deaths","AB","","2022-01-13",3380
+"deaths","AB","","2022-01-16",3403
+"deaths","AB","","2022-01-17",3412
+"deaths","AB","","2022-01-18",3413
+"deaths","AB","","2022-01-19",3421
+"deaths","AB","","2022-01-20",3429
+"deaths","AB","","2022-01-24",3483
+"deaths","AB","","2022-01-25",3505
+"deaths","AB","","2022-01-26",3518
+"deaths","AB","","2022-01-27",3531
+"deaths","AB","","2022-01-30",3566
+"deaths","AB","","2022-01-31",3579
+"deaths","AB","","2022-02-01",3593
+"deaths","AB","","2022-02-02",3608
+"deaths","AB","","2022-02-03",3634
+"deaths","AB","","2022-02-06",3673
+"deaths","AB","","2022-02-07",3686
+"deaths","AB","","2022-02-08",3696
+"deaths","AB","","2022-02-09",3718
+"deaths","AB","","2022-02-10",3741
+"deaths","AB","","2022-02-13",3776
+"deaths","AB","","2022-02-14",3790
+"deaths","AB","","2022-02-15",3804
+"deaths","AB","","2022-02-16",3822
+"deaths","AB","","2022-02-17",3830
+"deaths","AB","","2022-02-22",3883
+"deaths","AB","","2022-02-23",3885
+"deaths","AB","","2022-02-24",3898
+"deaths","AB","","2022-02-27",3912
+"deaths","AB","","2022-03-01",3939
+"deaths","AB","","2022-03-02",3946
+"deaths","AB","","2022-03-03",3954
+"deaths","AB","","2022-03-06",3972
+"deaths","AB","","2022-03-07",3979
+"deaths","AB","","2022-03-08",3986
+"deaths","AB","","2022-03-09",3992
+"deaths","AB","","2022-03-10",4003
+"deaths","AB","","2022-03-13",4021
+"deaths","AB","","2022-03-14",4025
+"deaths","AB","","2022-03-15",4013
+"deaths","AB","","2022-03-16",4019
+"deaths","AB","","2022-03-17",4023
+"deaths","AB","","2022-03-21",4044
+"deaths","AB","","2022-03-28",4074
+"deaths","AB","","2022-04-04",4104
+"deaths","AB","","2022-04-11",4141
+"deaths","AB","","2022-04-18",4190
+"deaths","AB","","2022-04-25",4252
+"deaths","AB","","2022-05-02",4321
+"deaths","AB","","2022-05-09",4391
+"deaths","AB","","2022-05-16",4452
+"deaths","AB","","2022-05-23",4507
+"deaths","AB","","2022-05-30",4558
+"deaths","AB","","2022-06-06",4567
+"deaths","AB","","2022-06-13",4591
+"deaths","AB","","2022-06-20",4604
+"deaths","AB","","2022-06-27",4621
+"deaths","AB","","2022-07-04",4636
+"deaths","AB","","2022-07-11",4632
+"deaths","AB","","2022-07-18",4652
+"deaths","AB","","2022-07-25",4665
+"deaths","AB","","2022-08-01",4673
+"deaths","AB","","2022-08-08",4694
+"deaths","AB","","2022-08-15",4721
+"deaths","AB","","2022-08-23",4748
+"deaths","AB","","2022-08-30",4790
+"deaths","AB","","2022-09-06",4832
+"deaths","AB","","2022-09-12",4848
+"deaths","AB","","2022-09-20",4872
+"deaths","AB","","2022-09-26",4905
+"deaths","AB","","2022-10-10",4951
+"deaths","AB","","2022-10-17",4983
+"deaths","AB","","2022-10-24",5011
+"deaths","AB","","2022-11-01",5047
+"deaths","AB","","2022-11-07",5093
+"deaths","AB","","2022-11-14",5137
+"deaths","AB","","2022-11-21",5177
+"deaths","AB","","2022-11-28",5216
+"deaths","AB","","2022-12-05",5262
+"deaths","AB","","2022-12-12",5308
+"deaths","AB","","2022-12-19",5351
+"deaths","AB","","2023-01-04",5415
+"deaths","AB","","2023-01-09",5443
+"deaths","AB","","2023-01-16",5470
+"deaths","AB","","2023-01-23",5465
+"deaths","AB","","2023-01-30",5486
+"deaths","AB","","2023-02-06",5510
+"deaths","AB","","2023-02-13",5536
+"deaths","AB","","2023-02-20",5556
+"deaths","AB","","2023-02-27",5602
+"deaths","AB","","2023-03-06",5622
+"deaths","AB","","2023-03-13",5619
+"deaths","AB","","2023-03-27",5643
+"deaths","AB","","2023-04-03",5653
+"deaths","AB","","2023-04-10",5674
+"deaths","AB","","2023-04-17",5685
+"deaths","AB","","2023-04-24",5699
+"deaths","AB","","2023-05-01",5720
+"deaths","AB","","2023-05-15",5733
+"deaths","AB","","2023-06-05",5769
+"deaths","AB","","2023-06-12",5783
+"deaths","AB","","2023-06-19",5792
+"deaths","AB","","2023-06-26",5803
+"deaths","AB","","2023-07-24",5818
+"deaths","AB","Calgary zone","2021-11-18",846
+"deaths","AB","Calgary zone","2021-11-21",846
+"deaths","AB","Calgary zone","2021-11-22",847
+"deaths","AB","Calgary zone","2021-11-23",849
+"deaths","AB","Calgary zone","2021-11-24",849
+"deaths","AB","Calgary zone","2021-11-25",850
+"deaths","AB","Calgary zone","2021-11-28",851
+"deaths","AB","Calgary zone","2021-11-29",851
+"deaths","AB","Calgary zone","2021-11-30",852
+"deaths","AB","Calgary zone","2021-12-01",852
+"deaths","AB","Calgary zone","2021-12-02",852
+"deaths","AB","Calgary zone","2021-12-05",852
+"deaths","AB","Calgary zone","2021-12-06",852
+"deaths","AB","Calgary zone","2021-12-07",854
+"deaths","AB","Calgary zone","2021-12-08",854
+"deaths","AB","Calgary zone","2021-12-09",854
+"deaths","AB","Calgary zone","2021-12-12",854
+"deaths","AB","Calgary zone","2021-12-13",855
+"deaths","AB","Calgary zone","2021-12-14",855
+"deaths","AB","Calgary zone","2021-12-15",855
+"deaths","AB","Calgary zone","2021-12-16",855
+"deaths","AB","Calgary zone","2021-12-19",856
+"deaths","AB","Calgary zone","2021-12-20",857
+"deaths","AB","Calgary zone","2021-12-21",858
+"deaths","AB","Calgary zone","2021-12-22",858
+"deaths","AB","Calgary zone","2021-12-28",859
+"deaths","AB","Calgary zone","2022-01-03",865
+"deaths","AB","Calgary zone","2022-01-04",870
+"deaths","AB","Calgary zone","2022-01-05",873
+"deaths","AB","Calgary zone","2022-01-06",874
+"deaths","AB","Calgary zone","2022-01-09",878
+"deaths","AB","Calgary zone","2022-01-10",881
+"deaths","AB","Calgary zone","2022-01-11",888
+"deaths","AB","Calgary zone","2022-01-12",890
+"deaths","AB","Calgary zone","2022-01-13",892
+"deaths","AB","Calgary zone","2022-01-16",904
+"deaths","AB","Calgary zone","2022-01-17",907
+"deaths","AB","Calgary zone","2022-01-18",910
+"deaths","AB","Calgary zone","2022-01-19",914
+"deaths","AB","Calgary zone","2022-01-20",917
+"deaths","AB","Calgary zone","2022-01-24",936
+"deaths","AB","Calgary zone","2022-01-25",944
+"deaths","AB","Calgary zone","2022-01-26",947
+"deaths","AB","Calgary zone","2022-01-27",951
+"deaths","AB","Calgary zone","2022-01-30",960
+"deaths","AB","Calgary zone","2022-01-31",965
+"deaths","AB","Calgary zone","2022-02-01",970
+"deaths","AB","Calgary zone","2022-02-02",974
+"deaths","AB","Calgary zone","2022-02-03",981
+"deaths","AB","Calgary zone","2022-02-06",993
+"deaths","AB","Calgary zone","2022-02-07",998
+"deaths","AB","Calgary zone","2022-02-08",1002
+"deaths","AB","Calgary zone","2022-02-09",1009
+"deaths","AB","Calgary zone","2022-02-10",1014
+"deaths","AB","Calgary zone","2022-02-13",1029
+"deaths","AB","Calgary zone","2022-02-14",1034
+"deaths","AB","Calgary zone","2022-02-15",1039
+"deaths","AB","Calgary zone","2022-02-16",1046
+"deaths","AB","Calgary zone","2022-02-17",1051
+"deaths","AB","Calgary zone","2022-02-22",1068
+"deaths","AB","Calgary zone","2022-02-23",1068
+"deaths","AB","Calgary zone","2022-02-24",1072
+"deaths","AB","Calgary zone","2022-02-27",1077
+"deaths","AB","Calgary zone","2022-03-01",1082
+"deaths","AB","Calgary zone","2022-03-02",1083
+"deaths","AB","Calgary zone","2022-03-03",1085
+"deaths","AB","Calgary zone","2022-03-06",1089
+"deaths","AB","Calgary zone","2022-03-07",1090
+"deaths","AB","Calgary zone","2022-03-08",1091
+"deaths","AB","Calgary zone","2022-03-09",1092
+"deaths","AB","Calgary zone","2022-03-10",1094
+"deaths","AB","Calgary zone","2022-03-13",1098
+"deaths","AB","Calgary zone","2022-03-14",1098
+"deaths","AB","Calgary zone","2022-03-15",1095
+"deaths","AB","Calgary zone","2022-03-16",1095
+"deaths","AB","Calgary zone","2022-03-17",1095
+"deaths","AB","Calgary zone","2022-03-21",1101
+"deaths","AB","Calgary zone","2022-03-28",1107
+"deaths","AB","Calgary zone","2022-04-04",1117
+"deaths","AB","Calgary zone","2022-04-11",1130
+"deaths","AB","Calgary zone","2022-04-18",1142
+"deaths","AB","Calgary zone","2022-04-25",1158
+"deaths","AB","Calgary zone","2022-05-02",1185
+"deaths","AB","Calgary zone","2022-05-09",1204
+"deaths","AB","Calgary zone","2022-05-16",1228
+"deaths","AB","Calgary zone","2022-05-23",1252
+"deaths","AB","Calgary zone","2022-05-30",1273
+"deaths","AB","Calgary zone","2022-06-06",1279
+"deaths","AB","Calgary zone","2022-06-13",1289
+"deaths","AB","Calgary zone","2022-06-20",1294
+"deaths","AB","Calgary zone","2022-06-27",1298
+"deaths","AB","Calgary zone","2022-07-04",1306
+"deaths","AB","Calgary zone","2022-07-11",1311
+"deaths","AB","Calgary zone","2022-07-18",1316
+"deaths","AB","Calgary zone","2022-07-25",1323
+"deaths","AB","Calgary zone","2022-08-01",1328
+"deaths","AB","Calgary zone","2022-08-08",1337
+"deaths","AB","Calgary zone","2022-08-15",1345
+"deaths","AB","Calgary zone","2022-08-23",1353
+"deaths","AB","Calgary zone","2022-08-30",1365
+"deaths","AB","Calgary zone","2022-09-06",1377
+"deaths","AB","Calgary zone","2022-09-12",1378
+"deaths","AB","Calgary zone","2022-09-20",1384
+"deaths","AB","Calgary zone","2022-09-26",1391
+"deaths","AB","Calgary zone","2022-10-10",1400
+"deaths","AB","Calgary zone","2022-10-17",1407
+"deaths","AB","Calgary zone","2022-10-24",1417
+"deaths","AB","Calgary zone","2022-11-01",1430
+"deaths","AB","Calgary zone","2022-11-07",1444
+"deaths","AB","Calgary zone","2022-11-14",1457
+"deaths","AB","Calgary zone","2022-11-21",1466
+"deaths","AB","Calgary zone","2022-11-28",1480
+"deaths","AB","Calgary zone","2022-12-05",1501
+"deaths","AB","Calgary zone","2022-12-12",1524
+"deaths","AB","Calgary zone","2022-12-19",1537
+"deaths","AB","Calgary zone","2023-01-04",1557
+"deaths","AB","Calgary zone","2023-01-09",1568
+"deaths","AB","Calgary zone","2023-01-16",1576
+"deaths","AB","Calgary zone","2023-01-23",1570
+"deaths","AB","Calgary zone","2023-01-30",1578
+"deaths","AB","Calgary zone","2023-02-06",1584
+"deaths","AB","Calgary zone","2023-02-13",1590
+"deaths","AB","Calgary zone","2023-02-20",1597
+"deaths","AB","Calgary zone","2023-02-27",1603
+"deaths","AB","Calgary zone","2023-03-06",1608
+"deaths","AB","Calgary zone","2023-03-13",1603
+"deaths","AB","Calgary zone","2023-03-27",1607
+"deaths","AB","Calgary zone","2023-04-03",1609
+"deaths","AB","Calgary zone","2023-04-10",1616
+"deaths","AB","Calgary zone","2023-04-17",1618
+"deaths","AB","Calgary zone","2023-04-24",1624
+"deaths","AB","Calgary zone","2023-05-01",1634
+"deaths","AB","Calgary zone","2023-05-15",1643
+"deaths","AB","Calgary zone","2023-06-05",1656
+"deaths","AB","Calgary zone","2023-06-12",1660
+"deaths","AB","Calgary zone","2023-06-19",1661
+"deaths","AB","Calgary zone","2023-06-26",1664
+"deaths","AB","Calgary zone","2023-07-24",1665
+"deaths","AB","Central zone","2021-11-18",387
+"deaths","AB","Central zone","2021-11-21",392
+"deaths","AB","Central zone","2021-11-22",396
+"deaths","AB","Central zone","2021-11-23",396
+"deaths","AB","Central zone","2021-11-24",396
+"deaths","AB","Central zone","2021-11-25",396
+"deaths","AB","Central zone","2021-11-28",398
+"deaths","AB","Central zone","2021-11-29",399
+"deaths","AB","Central zone","2021-11-30",400
+"deaths","AB","Central zone","2021-12-01",400
+"deaths","AB","Central zone","2021-12-02",400
+"deaths","AB","Central zone","2021-12-05",402
+"deaths","AB","Central zone","2021-12-06",404
+"deaths","AB","Central zone","2021-12-07",406
+"deaths","AB","Central zone","2021-12-08",405
+"deaths","AB","Central zone","2021-12-09",405
+"deaths","AB","Central zone","2021-12-12",407
+"deaths","AB","Central zone","2021-12-13",410
+"deaths","AB","Central zone","2021-12-14",410
+"deaths","AB","Central zone","2021-12-15",409
+"deaths","AB","Central zone","2021-12-16",409
+"deaths","AB","Central zone","2021-12-19",412
+"deaths","AB","Central zone","2021-12-20",412
+"deaths","AB","Central zone","2021-12-21",414
+"deaths","AB","Central zone","2021-12-22",414
+"deaths","AB","Central zone","2021-12-28",416
+"deaths","AB","Central zone","2022-01-03",417
+"deaths","AB","Central zone","2022-01-04",418
+"deaths","AB","Central zone","2022-01-05",418
+"deaths","AB","Central zone","2022-01-06",419
+"deaths","AB","Central zone","2022-01-09",420
+"deaths","AB","Central zone","2022-01-10",420
+"deaths","AB","Central zone","2022-01-11",422
+"deaths","AB","Central zone","2022-01-12",422
+"deaths","AB","Central zone","2022-01-13",422
+"deaths","AB","Central zone","2022-01-16",423
+"deaths","AB","Central zone","2022-01-17",423
+"deaths","AB","Central zone","2022-01-18",425
+"deaths","AB","Central zone","2022-01-19",425
+"deaths","AB","Central zone","2022-01-20",425
+"deaths","AB","Central zone","2022-01-24",429
+"deaths","AB","Central zone","2022-01-25",430
+"deaths","AB","Central zone","2022-01-26",432
+"deaths","AB","Central zone","2022-01-27",435
+"deaths","AB","Central zone","2022-01-30",438
+"deaths","AB","Central zone","2022-01-31",441
+"deaths","AB","Central zone","2022-02-01",442
+"deaths","AB","Central zone","2022-02-02",444
+"deaths","AB","Central zone","2022-02-03",448
+"deaths","AB","Central zone","2022-02-06",453
+"deaths","AB","Central zone","2022-02-07",456
+"deaths","AB","Central zone","2022-02-08",457
+"deaths","AB","Central zone","2022-02-09",462
+"deaths","AB","Central zone","2022-02-10",464
+"deaths","AB","Central zone","2022-02-13",469
+"deaths","AB","Central zone","2022-02-14",471
+"deaths","AB","Central zone","2022-02-15",472
+"deaths","AB","Central zone","2022-02-16",477
+"deaths","AB","Central zone","2022-02-17",478
+"deaths","AB","Central zone","2022-02-22",488
+"deaths","AB","Central zone","2022-02-23",489
+"deaths","AB","Central zone","2022-02-24",490
+"deaths","AB","Central zone","2022-02-27",492
+"deaths","AB","Central zone","2022-03-01",495
+"deaths","AB","Central zone","2022-03-02",495
+"deaths","AB","Central zone","2022-03-03",498
+"deaths","AB","Central zone","2022-03-06",503
+"deaths","AB","Central zone","2022-03-07",505
+"deaths","AB","Central zone","2022-03-08",506
+"deaths","AB","Central zone","2022-03-09",507
+"deaths","AB","Central zone","2022-03-10",508
+"deaths","AB","Central zone","2022-03-13",511
+"deaths","AB","Central zone","2022-03-14",512
+"deaths","AB","Central zone","2022-03-15",509
+"deaths","AB","Central zone","2022-03-16",510
+"deaths","AB","Central zone","2022-03-17",511
+"deaths","AB","Central zone","2022-03-21",514
+"deaths","AB","Central zone","2022-03-28",520
+"deaths","AB","Central zone","2022-04-04",521
+"deaths","AB","Central zone","2022-04-11",525
+"deaths","AB","Central zone","2022-04-18",534
+"deaths","AB","Central zone","2022-04-25",543
+"deaths","AB","Central zone","2022-05-02",554
+"deaths","AB","Central zone","2022-05-09",567
+"deaths","AB","Central zone","2022-05-16",575
+"deaths","AB","Central zone","2022-05-23",581
+"deaths","AB","Central zone","2022-05-30",591
+"deaths","AB","Central zone","2022-06-06",592
+"deaths","AB","Central zone","2022-06-13",595
+"deaths","AB","Central zone","2022-06-20",596
+"deaths","AB","Central zone","2022-06-27",597
+"deaths","AB","Central zone","2022-07-04",600
+"deaths","AB","Central zone","2022-07-11",596
+"deaths","AB","Central zone","2022-07-18",596
+"deaths","AB","Central zone","2022-07-25",597
+"deaths","AB","Central zone","2022-08-01",596
+"deaths","AB","Central zone","2022-08-08",600
+"deaths","AB","Central zone","2022-08-15",602
+"deaths","AB","Central zone","2022-08-23",608
+"deaths","AB","Central zone","2022-08-30",613
+"deaths","AB","Central zone","2022-09-06",618
+"deaths","AB","Central zone","2022-09-12",622
+"deaths","AB","Central zone","2022-09-20",625
+"deaths","AB","Central zone","2022-09-26",629
+"deaths","AB","Central zone","2022-10-10",637
+"deaths","AB","Central zone","2022-10-17",643
+"deaths","AB","Central zone","2022-10-24",646
+"deaths","AB","Central zone","2022-11-01",653
+"deaths","AB","Central zone","2022-11-07",660
+"deaths","AB","Central zone","2022-11-14",663
+"deaths","AB","Central zone","2022-11-21",670
+"deaths","AB","Central zone","2022-11-28",675
+"deaths","AB","Central zone","2022-12-05",681
+"deaths","AB","Central zone","2022-12-12",685
+"deaths","AB","Central zone","2022-12-19",688
+"deaths","AB","Central zone","2023-01-04",698
+"deaths","AB","Central zone","2023-01-09",702
+"deaths","AB","Central zone","2023-01-16",706
+"deaths","AB","Central zone","2023-01-23",705
+"deaths","AB","Central zone","2023-01-30",709
+"deaths","AB","Central zone","2023-02-06",711
+"deaths","AB","Central zone","2023-02-13",716
+"deaths","AB","Central zone","2023-02-20",718
+"deaths","AB","Central zone","2023-02-27",730
+"deaths","AB","Central zone","2023-03-06",733
+"deaths","AB","Central zone","2023-03-13",732
+"deaths","AB","Central zone","2023-03-27",734
+"deaths","AB","Central zone","2023-04-03",735
+"deaths","AB","Central zone","2023-04-10",737
+"deaths","AB","Central zone","2023-04-17",738
+"deaths","AB","Central zone","2023-04-24",740
+"deaths","AB","Central zone","2023-05-01",742
+"deaths","AB","Central zone","2023-05-15",742
+"deaths","AB","Central zone","2023-06-05",747
+"deaths","AB","Central zone","2023-06-12",749
+"deaths","AB","Central zone","2023-06-19",751
+"deaths","AB","Central zone","2023-06-26",753
+"deaths","AB","Central zone","2023-07-24",753
+"deaths","AB","Edmonton zone","2021-11-18",1308
+"deaths","AB","Edmonton zone","2021-11-21",1308
+"deaths","AB","Edmonton zone","2021-11-22",1310
+"deaths","AB","Edmonton zone","2021-11-23",1311
+"deaths","AB","Edmonton zone","2021-11-24",1311
+"deaths","AB","Edmonton zone","2021-11-25",1312
+"deaths","AB","Edmonton zone","2021-11-28",1312
+"deaths","AB","Edmonton zone","2021-11-29",1315
+"deaths","AB","Edmonton zone","2021-11-30",1316
+"deaths","AB","Edmonton zone","2021-12-01",1318
+"deaths","AB","Edmonton zone","2021-12-02",1318
+"deaths","AB","Edmonton zone","2021-12-05",1319
+"deaths","AB","Edmonton zone","2021-12-06",1322
+"deaths","AB","Edmonton zone","2021-12-07",1322
+"deaths","AB","Edmonton zone","2021-12-08",1322
+"deaths","AB","Edmonton zone","2021-12-09",1322
+"deaths","AB","Edmonton zone","2021-12-12",1322
+"deaths","AB","Edmonton zone","2021-12-13",1324
+"deaths","AB","Edmonton zone","2021-12-14",1326
+"deaths","AB","Edmonton zone","2021-12-15",1326
+"deaths","AB","Edmonton zone","2021-12-16",1327
+"deaths","AB","Edmonton zone","2021-12-19",1328
+"deaths","AB","Edmonton zone","2021-12-20",1329
+"deaths","AB","Edmonton zone","2021-12-21",1329
+"deaths","AB","Edmonton zone","2021-12-22",1329
+"deaths","AB","Edmonton zone","2021-12-28",1333
+"deaths","AB","Edmonton zone","2022-01-03",1335
+"deaths","AB","Edmonton zone","2022-01-04",1338
+"deaths","AB","Edmonton zone","2022-01-05",1338
+"deaths","AB","Edmonton zone","2022-01-06",1338
+"deaths","AB","Edmonton zone","2022-01-09",1338
+"deaths","AB","Edmonton zone","2022-01-10",1341
+"deaths","AB","Edmonton zone","2022-01-11",1344
+"deaths","AB","Edmonton zone","2022-01-12",1348
+"deaths","AB","Edmonton zone","2022-01-13",1350
+"deaths","AB","Edmonton zone","2022-01-16",1360
+"deaths","AB","Edmonton zone","2022-01-17",1363
+"deaths","AB","Edmonton zone","2022-01-18",1363
+"deaths","AB","Edmonton zone","2022-01-19",1367
+"deaths","AB","Edmonton zone","2022-01-20",1370
+"deaths","AB","Edmonton zone","2022-01-24",1390
+"deaths","AB","Edmonton zone","2022-01-25",1399
+"deaths","AB","Edmonton zone","2022-01-26",1403
+"deaths","AB","Edmonton zone","2022-01-27",1407
+"deaths","AB","Edmonton zone","2022-01-30",1424
+"deaths","AB","Edmonton zone","2022-01-31",1426
+"deaths","AB","Edmonton zone","2022-02-01",1431
+"deaths","AB","Edmonton zone","2022-02-02",1438
+"deaths","AB","Edmonton zone","2022-02-03",1448
+"deaths","AB","Edmonton zone","2022-02-06",1466
+"deaths","AB","Edmonton zone","2022-02-07",1468
+"deaths","AB","Edmonton zone","2022-02-08",1472
+"deaths","AB","Edmonton zone","2022-02-09",1477
+"deaths","AB","Edmonton zone","2022-02-10",1487
+"deaths","AB","Edmonton zone","2022-02-13",1495
+"deaths","AB","Edmonton zone","2022-02-14",1499
+"deaths","AB","Edmonton zone","2022-02-15",1504
+"deaths","AB","Edmonton zone","2022-02-16",1508
+"deaths","AB","Edmonton zone","2022-02-17",1508
+"deaths","AB","Edmonton zone","2022-02-22",1525
+"deaths","AB","Edmonton zone","2022-02-23",1526
+"deaths","AB","Edmonton zone","2022-02-24",1531
+"deaths","AB","Edmonton zone","2022-02-27",1535
+"deaths","AB","Edmonton zone","2022-03-01",1545
+"deaths","AB","Edmonton zone","2022-03-02",1550
+"deaths","AB","Edmonton zone","2022-03-03",1552
+"deaths","AB","Edmonton zone","2022-03-06",1556
+"deaths","AB","Edmonton zone","2022-03-07",1558
+"deaths","AB","Edmonton zone","2022-03-08",1560
+"deaths","AB","Edmonton zone","2022-03-09",1563
+"deaths","AB","Edmonton zone","2022-03-10",1568
+"deaths","AB","Edmonton zone","2022-03-13",1574
+"deaths","AB","Edmonton zone","2022-03-14",1575
+"deaths","AB","Edmonton zone","2022-03-15",1571
+"deaths","AB","Edmonton zone","2022-03-16",1573
+"deaths","AB","Edmonton zone","2022-03-17",1574
+"deaths","AB","Edmonton zone","2022-03-21",1577
+"deaths","AB","Edmonton zone","2022-03-28",1587
+"deaths","AB","Edmonton zone","2022-04-04",1598
+"deaths","AB","Edmonton zone","2022-04-11",1611
+"deaths","AB","Edmonton zone","2022-04-18",1629
+"deaths","AB","Edmonton zone","2022-04-25",1655
+"deaths","AB","Edmonton zone","2022-05-02",1673
+"deaths","AB","Edmonton zone","2022-05-09",1699
+"deaths","AB","Edmonton zone","2022-05-16",1716
+"deaths","AB","Edmonton zone","2022-05-23",1729
+"deaths","AB","Edmonton zone","2022-05-30",1744
+"deaths","AB","Edmonton zone","2022-06-06",1747
+"deaths","AB","Edmonton zone","2022-06-13",1755
+"deaths","AB","Edmonton zone","2022-06-20",1758
+"deaths","AB","Edmonton zone","2022-06-27",1767
+"deaths","AB","Edmonton zone","2022-07-04",1770
+"deaths","AB","Edmonton zone","2022-07-11",1771
+"deaths","AB","Edmonton zone","2022-07-18",1779
+"deaths","AB","Edmonton zone","2022-07-25",1782
+"deaths","AB","Edmonton zone","2022-08-01",1786
+"deaths","AB","Edmonton zone","2022-08-08",1789
+"deaths","AB","Edmonton zone","2022-08-15",1802
+"deaths","AB","Edmonton zone","2022-08-23",1810
+"deaths","AB","Edmonton zone","2022-08-30",1829
+"deaths","AB","Edmonton zone","2022-09-06",1845
+"deaths","AB","Edmonton zone","2022-09-12",1852
+"deaths","AB","Edmonton zone","2022-09-20",1865
+"deaths","AB","Edmonton zone","2022-09-26",1883
+"deaths","AB","Edmonton zone","2022-10-10",1901
+"deaths","AB","Edmonton zone","2022-10-17",1910
+"deaths","AB","Edmonton zone","2022-10-24",1918
+"deaths","AB","Edmonton zone","2022-11-01",1930
+"deaths","AB","Edmonton zone","2022-11-07",1945
+"deaths","AB","Edmonton zone","2022-11-14",1963
+"deaths","AB","Edmonton zone","2022-11-21",1979
+"deaths","AB","Edmonton zone","2022-11-28",1995
+"deaths","AB","Edmonton zone","2022-12-05",2007
+"deaths","AB","Edmonton zone","2022-12-12",2018
+"deaths","AB","Edmonton zone","2022-12-19",2032
+"deaths","AB","Edmonton zone","2023-01-04",2048
+"deaths","AB","Edmonton zone","2023-01-09",2051
+"deaths","AB","Edmonton zone","2023-01-16",2060
+"deaths","AB","Edmonton zone","2023-01-23",2065
+"deaths","AB","Edmonton zone","2023-01-30",2069
+"deaths","AB","Edmonton zone","2023-02-06",2079
+"deaths","AB","Edmonton zone","2023-02-13",2090
+"deaths","AB","Edmonton zone","2023-02-20",2097
+"deaths","AB","Edmonton zone","2023-02-27",2117
+"deaths","AB","Edmonton zone","2023-03-06",2125
+"deaths","AB","Edmonton zone","2023-03-13",2124
+"deaths","AB","Edmonton zone","2023-03-27",2136
+"deaths","AB","Edmonton zone","2023-04-03",2142
+"deaths","AB","Edmonton zone","2023-04-10",2150
+"deaths","AB","Edmonton zone","2023-04-17",2154
+"deaths","AB","Edmonton zone","2023-04-24",2157
+"deaths","AB","Edmonton zone","2023-05-01",2163
+"deaths","AB","Edmonton zone","2023-05-15",2163
+"deaths","AB","Edmonton zone","2023-06-05",2174
+"deaths","AB","Edmonton zone","2023-06-12",2180
+"deaths","AB","Edmonton zone","2023-06-19",2185
+"deaths","AB","Edmonton zone","2023-06-26",2190
+"deaths","AB","Edmonton zone","2023-07-24",2199
+"deaths","AB","North zone","2021-11-18",383
+"deaths","AB","North zone","2021-11-21",384
+"deaths","AB","North zone","2021-11-22",387
+"deaths","AB","North zone","2021-11-23",388
+"deaths","AB","North zone","2021-11-24",389
+"deaths","AB","North zone","2021-11-25",389
+"deaths","AB","North zone","2021-11-28",392
+"deaths","AB","North zone","2021-11-29",394
+"deaths","AB","North zone","2021-11-30",398
+"deaths","AB","North zone","2021-12-01",398
+"deaths","AB","North zone","2021-12-02",399
+"deaths","AB","North zone","2021-12-05",401
+"deaths","AB","North zone","2021-12-06",401
+"deaths","AB","North zone","2021-12-07",401
+"deaths","AB","North zone","2021-12-08",401
+"deaths","AB","North zone","2021-12-09",402
+"deaths","AB","North zone","2021-12-12",403
+"deaths","AB","North zone","2021-12-13",405
+"deaths","AB","North zone","2021-12-14",405
+"deaths","AB","North zone","2021-12-15",405
+"deaths","AB","North zone","2021-12-16",405
+"deaths","AB","North zone","2021-12-19",406
+"deaths","AB","North zone","2021-12-20",406
+"deaths","AB","North zone","2021-12-21",408
+"deaths","AB","North zone","2021-12-22",408
+"deaths","AB","North zone","2021-12-28",412
+"deaths","AB","North zone","2022-01-03",415
+"deaths","AB","North zone","2022-01-04",416
+"deaths","AB","North zone","2022-01-05",416
+"deaths","AB","North zone","2022-01-06",416
+"deaths","AB","North zone","2022-01-09",416
+"deaths","AB","North zone","2022-01-10",417
+"deaths","AB","North zone","2022-01-11",418
+"deaths","AB","North zone","2022-01-12",419
+"deaths","AB","North zone","2022-01-13",419
+"deaths","AB","North zone","2022-01-16",419
+"deaths","AB","North zone","2022-01-17",420
+"deaths","AB","North zone","2022-01-18",417
+"deaths","AB","North zone","2022-01-19",417
+"deaths","AB","North zone","2022-01-20",418
+"deaths","AB","North zone","2022-01-24",425
+"deaths","AB","North zone","2022-01-25",425
+"deaths","AB","North zone","2022-01-26",427
+"deaths","AB","North zone","2022-01-27",428
+"deaths","AB","North zone","2022-01-30",430
+"deaths","AB","North zone","2022-01-31",430
+"deaths","AB","North zone","2022-02-01",432
+"deaths","AB","North zone","2022-02-02",434
+"deaths","AB","North zone","2022-02-03",434
+"deaths","AB","North zone","2022-02-06",436
+"deaths","AB","North zone","2022-02-07",438
+"deaths","AB","North zone","2022-02-08",439
+"deaths","AB","North zone","2022-02-09",442
+"deaths","AB","North zone","2022-02-10",445
+"deaths","AB","North zone","2022-02-13",450
+"deaths","AB","North zone","2022-02-14",453
+"deaths","AB","North zone","2022-02-15",455
+"deaths","AB","North zone","2022-02-16",457
+"deaths","AB","North zone","2022-02-17",459
+"deaths","AB","North zone","2022-02-22",465
+"deaths","AB","North zone","2022-02-23",465
+"deaths","AB","North zone","2022-02-24",468
+"deaths","AB","North zone","2022-02-27",469
+"deaths","AB","North zone","2022-03-01",473
+"deaths","AB","North zone","2022-03-02",474
+"deaths","AB","North zone","2022-03-03",474
+"deaths","AB","North zone","2022-03-06",475
+"deaths","AB","North zone","2022-03-07",476
+"deaths","AB","North zone","2022-03-08",478
+"deaths","AB","North zone","2022-03-09",479
+"deaths","AB","North zone","2022-03-10",481
+"deaths","AB","North zone","2022-03-13",486
+"deaths","AB","North zone","2022-03-14",486
+"deaths","AB","North zone","2022-03-15",484
+"deaths","AB","North zone","2022-03-16",487
+"deaths","AB","North zone","2022-03-17",489
+"deaths","AB","North zone","2022-03-21",493
+"deaths","AB","North zone","2022-03-28",499
+"deaths","AB","North zone","2022-04-04",501
+"deaths","AB","North zone","2022-04-11",506
+"deaths","AB","North zone","2022-04-18",512
+"deaths","AB","North zone","2022-04-25",516
+"deaths","AB","North zone","2022-05-02",523
+"deaths","AB","North zone","2022-05-09",531
+"deaths","AB","North zone","2022-05-16",541
+"deaths","AB","North zone","2022-05-23",548
+"deaths","AB","North zone","2022-05-30",551
+"deaths","AB","North zone","2022-06-06",548
+"deaths","AB","North zone","2022-06-13",549
+"deaths","AB","North zone","2022-06-20",549
+"deaths","AB","North zone","2022-06-27",550
+"deaths","AB","North zone","2022-07-04",551
+"deaths","AB","North zone","2022-07-11",546
+"deaths","AB","North zone","2022-07-18",551
+"deaths","AB","North zone","2022-07-25",552
+"deaths","AB","North zone","2022-08-01",551
+"deaths","AB","North zone","2022-08-08",553
+"deaths","AB","North zone","2022-08-15",555
+"deaths","AB","North zone","2022-08-23",556
+"deaths","AB","North zone","2022-08-30",560
+"deaths","AB","North zone","2022-09-06",564
+"deaths","AB","North zone","2022-09-12",566
+"deaths","AB","North zone","2022-09-20",566
+"deaths","AB","North zone","2022-09-26",568
+"deaths","AB","North zone","2022-10-10",570
+"deaths","AB","North zone","2022-10-17",573
+"deaths","AB","North zone","2022-10-24",576
+"deaths","AB","North zone","2022-11-01",578
+"deaths","AB","North zone","2022-11-07",580
+"deaths","AB","North zone","2022-11-14",586
+"deaths","AB","North zone","2022-11-21",590
+"deaths","AB","North zone","2022-11-28",591
+"deaths","AB","North zone","2022-12-05",593
+"deaths","AB","North zone","2022-12-12",595
+"deaths","AB","North zone","2022-12-19",600
+"deaths","AB","North zone","2023-01-04",611
+"deaths","AB","North zone","2023-01-09",617
+"deaths","AB","North zone","2023-01-16",619
+"deaths","AB","North zone","2023-01-23",616
+"deaths","AB","North zone","2023-01-30",617
+"deaths","AB","North zone","2023-02-06",621
+"deaths","AB","North zone","2023-02-13",623
+"deaths","AB","North zone","2023-02-20",624
+"deaths","AB","North zone","2023-02-27",630
+"deaths","AB","North zone","2023-03-06",634
+"deaths","AB","North zone","2023-03-13",638
+"deaths","AB","North zone","2023-03-27",641
+"deaths","AB","North zone","2023-04-03",642
+"deaths","AB","North zone","2023-04-10",644
+"deaths","AB","North zone","2023-04-17",646
+"deaths","AB","North zone","2023-04-24",648
+"deaths","AB","North zone","2023-05-01",651
+"deaths","AB","North zone","2023-05-15",651
+"deaths","AB","North zone","2023-06-05",654
+"deaths","AB","North zone","2023-06-12",656
+"deaths","AB","North zone","2023-06-19",657
+"deaths","AB","North zone","2023-06-26",658
+"deaths","AB","North zone","2023-07-24",660
+"deaths","AB","South zone","2021-11-18",287
+"deaths","AB","South zone","2021-11-21",287
+"deaths","AB","South zone","2021-11-22",287
+"deaths","AB","South zone","2021-11-23",287
+"deaths","AB","South zone","2021-11-24",287
+"deaths","AB","South zone","2021-11-25",288
+"deaths","AB","South zone","2021-11-28",289
+"deaths","AB","South zone","2021-11-29",289
+"deaths","AB","South zone","2021-11-30",289
+"deaths","AB","South zone","2021-12-01",289
+"deaths","AB","South zone","2021-12-02",289
+"deaths","AB","South zone","2021-12-05",289
+"deaths","AB","South zone","2021-12-06",289
+"deaths","AB","South zone","2021-12-07",289
+"deaths","AB","South zone","2021-12-08",289
+"deaths","AB","South zone","2021-12-09",289
+"deaths","AB","South zone","2021-12-12",289
+"deaths","AB","South zone","2021-12-13",289
+"deaths","AB","South zone","2021-12-14",290
+"deaths","AB","South zone","2021-12-15",290
+"deaths","AB","South zone","2021-12-16",290
+"deaths","AB","South zone","2021-12-19",290
+"deaths","AB","South zone","2021-12-20",290
+"deaths","AB","South zone","2021-12-21",290
+"deaths","AB","South zone","2021-12-22",290
+"deaths","AB","South zone","2021-12-28",290
+"deaths","AB","South zone","2022-01-03",290
+"deaths","AB","South zone","2022-01-04",291
+"deaths","AB","South zone","2022-01-05",291
+"deaths","AB","South zone","2022-01-06",291
+"deaths","AB","South zone","2022-01-09",292
+"deaths","AB","South zone","2022-01-10",293
+"deaths","AB","South zone","2022-01-11",295
+"deaths","AB","South zone","2022-01-12",296
+"deaths","AB","South zone","2022-01-13",297
+"deaths","AB","South zone","2022-01-16",297
+"deaths","AB","South zone","2022-01-17",299
+"deaths","AB","South zone","2022-01-18",298
+"deaths","AB","South zone","2022-01-19",298
+"deaths","AB","South zone","2022-01-20",299
+"deaths","AB","South zone","2022-01-24",303
+"deaths","AB","South zone","2022-01-25",307
+"deaths","AB","South zone","2022-01-26",308
+"deaths","AB","South zone","2022-01-27",310
+"deaths","AB","South zone","2022-01-30",314
+"deaths","AB","South zone","2022-01-31",317
+"deaths","AB","South zone","2022-02-01",318
+"deaths","AB","South zone","2022-02-02",318
+"deaths","AB","South zone","2022-02-03",323
+"deaths","AB","South zone","2022-02-06",325
+"deaths","AB","South zone","2022-02-07",326
+"deaths","AB","South zone","2022-02-08",326
+"deaths","AB","South zone","2022-02-09",328
+"deaths","AB","South zone","2022-02-10",331
+"deaths","AB","South zone","2022-02-13",333
+"deaths","AB","South zone","2022-02-14",333
+"deaths","AB","South zone","2022-02-15",334
+"deaths","AB","South zone","2022-02-16",334
+"deaths","AB","South zone","2022-02-17",334
+"deaths","AB","South zone","2022-02-22",337
+"deaths","AB","South zone","2022-02-23",337
+"deaths","AB","South zone","2022-02-24",337
+"deaths","AB","South zone","2022-02-27",339
+"deaths","AB","South zone","2022-03-01",344
+"deaths","AB","South zone","2022-03-02",344
+"deaths","AB","South zone","2022-03-03",345
+"deaths","AB","South zone","2022-03-06",349
+"deaths","AB","South zone","2022-03-07",350
+"deaths","AB","South zone","2022-03-08",351
+"deaths","AB","South zone","2022-03-09",351
+"deaths","AB","South zone","2022-03-10",352
+"deaths","AB","South zone","2022-03-13",352
+"deaths","AB","South zone","2022-03-14",354
+"deaths","AB","South zone","2022-03-15",354
+"deaths","AB","South zone","2022-03-16",354
+"deaths","AB","South zone","2022-03-17",354
+"deaths","AB","South zone","2022-03-21",359
+"deaths","AB","South zone","2022-03-28",361
+"deaths","AB","South zone","2022-04-04",367
+"deaths","AB","South zone","2022-04-11",369
+"deaths","AB","South zone","2022-04-18",373
+"deaths","AB","South zone","2022-04-25",380
+"deaths","AB","South zone","2022-05-02",386
+"deaths","AB","South zone","2022-05-09",390
+"deaths","AB","South zone","2022-05-16",392
+"deaths","AB","South zone","2022-05-23",397
+"deaths","AB","South zone","2022-05-30",399
+"deaths","AB","South zone","2022-06-06",401
+"deaths","AB","South zone","2022-06-13",403
+"deaths","AB","South zone","2022-06-20",407
+"deaths","AB","South zone","2022-06-27",409
+"deaths","AB","South zone","2022-07-04",409
+"deaths","AB","South zone","2022-07-11",408
+"deaths","AB","South zone","2022-07-18",410
+"deaths","AB","South zone","2022-07-25",410
+"deaths","AB","South zone","2022-08-01",412
+"deaths","AB","South zone","2022-08-08",415
+"deaths","AB","South zone","2022-08-15",417
+"deaths","AB","South zone","2022-08-23",421
+"deaths","AB","South zone","2022-08-30",423
+"deaths","AB","South zone","2022-09-06",428
+"deaths","AB","South zone","2022-09-12",430
+"deaths","AB","South zone","2022-09-20",432
+"deaths","AB","South zone","2022-09-26",434
+"deaths","AB","South zone","2022-10-10",443
+"deaths","AB","South zone","2022-10-17",450
+"deaths","AB","South zone","2022-10-24",454
+"deaths","AB","South zone","2022-11-01",456
+"deaths","AB","South zone","2022-11-07",464
+"deaths","AB","South zone","2022-11-14",468
+"deaths","AB","South zone","2022-11-21",471
+"deaths","AB","South zone","2022-11-28",474
+"deaths","AB","South zone","2022-12-05",479
+"deaths","AB","South zone","2022-12-12",485
+"deaths","AB","South zone","2022-12-19",493
+"deaths","AB","South zone","2023-01-04",500
+"deaths","AB","South zone","2023-01-09",503
+"deaths","AB","South zone","2023-01-16",508
+"deaths","AB","South zone","2023-01-23",509
+"deaths","AB","South zone","2023-01-30",513
+"deaths","AB","South zone","2023-02-06",515
+"deaths","AB","South zone","2023-02-13",517
+"deaths","AB","South zone","2023-02-20",520
+"deaths","AB","South zone","2023-02-27",522
+"deaths","AB","South zone","2023-03-06",522
+"deaths","AB","South zone","2023-03-13",522
+"deaths","AB","South zone","2023-03-27",525
+"deaths","AB","South zone","2023-04-03",525
+"deaths","AB","South zone","2023-04-10",527
+"deaths","AB","South zone","2023-04-17",529
+"deaths","AB","South zone","2023-04-24",530
+"deaths","AB","South zone","2023-05-01",530
+"deaths","AB","South zone","2023-05-15",534
+"deaths","AB","South zone","2023-06-05",538
+"deaths","AB","South zone","2023-06-12",538
+"deaths","AB","South zone","2023-06-19",538
+"deaths","AB","South zone","2023-06-26",538
+"deaths","AB","South zone","2023-07-24",541
+"deaths","AB","Unknown","2021-11-18",0
+"deaths","AB","Unknown","2021-11-21",0
+"deaths","AB","Unknown","2021-11-22",0
+"deaths","AB","Unknown","2021-11-23",0
+"deaths","AB","Unknown","2021-11-24",0
+"deaths","AB","Unknown","2021-11-25",0
+"deaths","AB","Unknown","2021-11-28",0
+"deaths","AB","Unknown","2021-11-29",0
+"deaths","AB","Unknown","2021-11-30",0
+"deaths","AB","Unknown","2021-12-01",0
+"deaths","AB","Unknown","2021-12-02",0
+"deaths","AB","Unknown","2021-12-05",0
+"deaths","AB","Unknown","2021-12-06",0
+"deaths","AB","Unknown","2021-12-07",0
+"deaths","AB","Unknown","2021-12-08",0
+"deaths","AB","Unknown","2021-12-09",0
+"deaths","AB","Unknown","2021-12-12",0
+"deaths","AB","Unknown","2021-12-13",0
+"deaths","AB","Unknown","2021-12-14",0
+"deaths","AB","Unknown","2021-12-15",0
+"deaths","AB","Unknown","2021-12-16",0
+"deaths","AB","Unknown","2021-12-19",0
+"deaths","AB","Unknown","2021-12-20",0
+"deaths","AB","Unknown","2021-12-21",0
+"deaths","AB","Unknown","2021-12-22",0
+"deaths","AB","Unknown","2021-12-28",0
+"deaths","AB","Unknown","2022-01-03",0
+"deaths","AB","Unknown","2022-01-04",0
+"deaths","AB","Unknown","2022-01-05",0
+"deaths","AB","Unknown","2022-01-06",0
+"deaths","AB","Unknown","2022-01-09",0
+"deaths","AB","Unknown","2022-01-10",0
+"deaths","AB","Unknown","2022-01-11",0
+"deaths","AB","Unknown","2022-01-12",0
+"deaths","AB","Unknown","2022-01-13",0
+"deaths","AB","Unknown","2022-01-16",0
+"deaths","AB","Unknown","2022-01-17",0
+"deaths","AB","Unknown","2022-01-18",0
+"deaths","AB","Unknown","2022-01-19",0
+"deaths","AB","Unknown","2022-01-20",0
+"deaths","AB","Unknown","2022-01-24",0
+"deaths","AB","Unknown","2022-01-25",0
+"deaths","AB","Unknown","2022-01-26",0
+"deaths","AB","Unknown","2022-01-27",0
+"deaths","AB","Unknown","2022-01-30",0
+"deaths","AB","Unknown","2022-01-31",0
+"deaths","AB","Unknown","2022-02-01",0
+"deaths","AB","Unknown","2022-02-02",0
+"deaths","AB","Unknown","2022-02-03",0
+"deaths","AB","Unknown","2022-02-06",0
+"deaths","AB","Unknown","2022-02-07",0
+"deaths","AB","Unknown","2022-02-08",0
+"deaths","AB","Unknown","2022-02-09",0
+"deaths","AB","Unknown","2022-02-10",0
+"deaths","AB","Unknown","2022-02-13",0
+"deaths","AB","Unknown","2022-02-14",0
+"deaths","AB","Unknown","2022-02-15",0
+"deaths","AB","Unknown","2022-02-16",0
+"deaths","AB","Unknown","2022-02-17",0
+"deaths","AB","Unknown","2022-02-22",0
+"deaths","AB","Unknown","2022-02-23",0
+"deaths","AB","Unknown","2022-02-24",0
+"deaths","AB","Unknown","2022-02-27",0
+"deaths","AB","Unknown","2022-03-01",0
+"deaths","AB","Unknown","2022-03-02",0
+"deaths","AB","Unknown","2022-03-03",0
+"deaths","AB","Unknown","2022-03-06",0
+"deaths","AB","Unknown","2022-03-07",0
+"deaths","AB","Unknown","2022-03-08",0
+"deaths","AB","Unknown","2022-03-09",0
+"deaths","AB","Unknown","2022-03-10",0
+"deaths","AB","Unknown","2022-03-13",0
+"deaths","AB","Unknown","2022-03-14",0
+"deaths","AB","Unknown","2022-03-15",0
+"deaths","AB","Unknown","2022-03-16",0
+"deaths","AB","Unknown","2022-03-17",0
+"deaths","AB","Unknown","2022-03-21",0
+"deaths","AB","Unknown","2022-03-28",0
+"deaths","AB","Unknown","2022-04-04",0
+"deaths","AB","Unknown","2022-04-11",0
+"deaths","AB","Unknown","2022-04-18",0
+"deaths","AB","Unknown","2022-04-25",0
+"deaths","AB","Unknown","2022-05-02",0
+"deaths","AB","Unknown","2022-05-09",0
+"deaths","AB","Unknown","2022-05-16",0
+"deaths","AB","Unknown","2022-05-23",0
+"deaths","AB","Unknown","2022-05-30",0
+"deaths","AB","Unknown","2022-06-06",0
+"deaths","AB","Unknown","2022-06-13",0
+"deaths","AB","Unknown","2022-06-20",0
+"deaths","AB","Unknown","2022-06-27",0
+"deaths","AB","Unknown","2022-07-04",0
+"deaths","AB","Unknown","2022-07-11",0
+"deaths","AB","Unknown","2022-07-18",0
+"deaths","AB","Unknown","2022-07-25",1
+"deaths","AB","Unknown","2022-08-01",0
+"deaths","AB","Unknown","2022-08-08",0
+"deaths","AB","Unknown","2022-08-15",0
+"deaths","AB","Unknown","2022-08-23",0
+"deaths","AB","Unknown","2022-08-30",0
+"deaths","AB","Unknown","2022-09-06",0
+"deaths","AB","Unknown","2022-09-12",0
+"deaths","AB","Unknown","2022-09-20",0
+"deaths","AB","Unknown","2022-09-26",0
+"deaths","AB","Unknown","2022-10-10",0
+"deaths","AB","Unknown","2022-10-17",0
+"deaths","AB","Unknown","2022-10-24",0
+"deaths","AB","Unknown","2022-11-01",0
+"deaths","AB","Unknown","2022-11-07",0
+"deaths","AB","Unknown","2022-11-14",0
+"deaths","AB","Unknown","2022-11-21",0
+"deaths","AB","Unknown","2022-11-28",1
+"deaths","AB","Unknown","2022-12-05",1
+"deaths","AB","Unknown","2022-12-12",1
+"deaths","AB","Unknown","2022-12-19",1
+"deaths","AB","Unknown","2023-01-04",1
+"deaths","AB","Unknown","2023-01-09",2
+"deaths","AB","Unknown","2023-01-16",1
+"deaths","AB","Unknown","2023-01-23",0
+"deaths","AB","Unknown","2023-01-30",0
+"deaths","AB","Unknown","2023-02-06",0
+"deaths","AB","Unknown","2023-02-13",0
+"deaths","AB","Unknown","2023-02-20",0
+"deaths","AB","Unknown","2023-02-27",0
+"deaths","AB","Unknown","2023-03-06",0
+"deaths","AB","Unknown","2023-03-13",0
+"deaths","AB","Unknown","2023-03-27",0
+"deaths","AB","Unknown","2023-04-03",0
+"deaths","AB","Unknown","2023-04-10",0
+"deaths","AB","Unknown","2023-04-17",0
+"deaths","AB","Unknown","2023-04-24",0
+"deaths","AB","Unknown","2023-05-01",0
+"deaths","AB","Unknown","2023-05-15",0
+"deaths","AB","Unknown","2023-06-05",0
+"deaths","AB","Unknown","2023-06-12",0
+"deaths","AB","Unknown","2023-06-19",0
+"deaths","AB","Unknown","2023-06-26",0
+"deaths","AB","Unknown","2023-07-24",0
