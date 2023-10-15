@@ -309,8 +309,19 @@
         "value": "The cumulative number of total doses of COVID-19 vaccines administered reported up to a given day.",
         "value_daily": "The change in the number of total doses of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
-            "can": "can",
+            "can": "pt",
             "pt": "pt"
+        },
+        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08).",
+        "data_notes": {
+            "mb": [
+                {
+                    "date_start": "2022-05-08",
+                    "date_end": "2022-05-22",
+                    "note": "The data update for MB from 2022-05-08 was excluded due to an issue in the PHAC time series that was fixed on 2022-05-22. Thus, the first value from the PHAC dataset included for MB was from 2022-05-22 rather than 2022-05-08.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ]
         }
     },
     "vaccine_administration_dose_1": {
@@ -319,8 +330,19 @@
         "value": "The cumulative number of first doses of COVID-19 vaccines administered reported up to a given day.",
         "value_daily": "The change in the number of first doses of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
-            "can": "can",
+            "can": "pt",
             "pt": "pt"
+        },
+        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08). With the exception of QC, first doses may be slightly overestimated prior to 2022-05-08. This is due to how first doses were calculated in the original CCODWG dataset compared to the PHAC dataset (https://github.com/ccodwg/CovidTimelineCanada/issues/47).",
+        "data_notes": {
+            "mb": [
+                {
+                    "date_start": "2022-05-08",
+                    "date_end": "2022-05-22",
+                    "note": "The data update for MB from 2022-05-08 was excluded due to an issue in the PHAC time series that was fixed on 2022-05-22. Thus, the first value from the PHAC dataset included for MB was from 2022-05-22 rather than 2022-05-08.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ]
         }
     },
     "vaccine_administration_dose_2": {
@@ -329,8 +351,19 @@
         "value": "The cumulative number of second doses of COVID-19 vaccines administered reported up to a given day.",
         "value_daily": "The change in the number of second doses of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
-            "can": "can",
+            "can": "pt",
             "pt": "pt"
+        },
+        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08).",
+        "data_notes": {
+            "mb": [
+                {
+                    "date_start": "2022-05-08",
+                    "date_end": "2022-05-22",
+                    "note": "The data update for MB from 2022-05-08 was excluded due to an issue in the PHAC time series that was fixed on 2022-05-22. Thus, the first value from the PHAC dataset included for MB was from 2022-05-22 rather than 2022-05-08.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ]
         }
     },
     "vaccine_administration_dose_3": {
@@ -339,8 +372,19 @@
         "value": "The cumulative number of third doses of COVID-19 vaccines administered reported up to a given day.",
         "value_daily": "The change in the number of third doses of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
-            "can": "can",
+            "can": "pt",
             "pt": "pt"
+        },
+        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08).",
+        "data_notes": {
+            "mb": [
+                {
+                    "date_start": "2022-05-08",
+                    "date_end": "2022-05-22",
+                    "note": "The data update for MB from 2022-05-08 was excluded due to an issue in the PHAC time series that was fixed on 2022-05-22. Thus, the first value from the PHAC dataset included for MB was from 2022-05-22 rather than 2022-05-08.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ]
         }
     },
     "vaccine_administration_dose_4": {
@@ -349,7 +393,27 @@
         "value": "The cumulative number of fourth doses of COVID-19 vaccines administered reported up to a given day.",
         "value_daily": "The change in the number of fourth doses of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
-            "can": "can",
+            "can": "pt",
+            "pt": "pt"
+        },
+        "data_notes": {
+            "mb": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-05-22",
+                    "note": "Due to an issue in the PHAC time series for MB that was fixed on 2022-05-22, the value for fourth doses administered prior to 2022-05-22 may be an undercount, and part of the increase in fourth doses on 2022-05-22 may be as a result of other doses being reclassified.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ]
+        }
+    },
+    "vaccine_administration_dose_5plus": {
+        "name": "vaccine_administration_dose_5plus",
+        "name_long": "Vaccine administration (dose 5+)",
+        "value": "The cumulative number of fifth or greater doses of COVID-19 vaccines administered reported up to a given day.",
+        "value_daily": "The change in the number of fifth or greater doses more of COVID-19 vaccines administered reported compared to the previous day.",
+        "geo": {
+            "can": "pt",
             "pt": "pt"
         }
     },
@@ -362,6 +426,14 @@
             "can": "can",
             "pt": "pt"
         },
-        "general_notes": "The number of doses distributed may become desynchronized from the number of doses administered for a number of reasons, including extra doses (https://web.archive.org/web/20210129091454/https://www.cbc.ca/news/health/pfizer-biontech-vaccine-extra-dose-1.5892298), partial doses (https://web.archive.org/web/20220316141828/https://immunizebc.ca/ask-us/questions/why-covid-19-mrna-moderna-spikevax%E2%84%A2-booster-given-full-dose-some-people-and-half), and vaccine wastage (https://web.archive.org/web/20220428003641/https://vancouversun.com/news/covid-19-b-c-destroyed-hundreds-of-thousands-of-vaccine-doses)."
+        "general_notes": "The number of doses distributed may become desynchronized from the number of doses administered for a number of reasons, including extra doses (https://web.archive.org/web/20210129091454/https://www.cbc.ca/news/health/pfizer-biontech-vaccine-extra-dose-1.5892298), partial doses (https://web.archive.org/web/20220316141828/https://immunizebc.ca/ask-us/questions/why-covid-19-mrna-moderna-spikevax%E2%84%A2-booster-given-full-dose-some-people-and-half), and vaccine wastage (https://web.archive.org/web/20220428003641/https://vancouversun.com/news/covid-19-b-c-destroyed-hundreds-of-thousands-of-vaccine-doses).",
+        "data_notes": {
+            "can": {
+                "date_start": "",
+                "date_end": "",
+                "note": "The Canadian total distribution is slightly higher than the sum of province-level distribution due to the inclusion of the federal allocation. The federal allocation was added to the dataset on 2021-01-02 (after the transition from the original CCODWG dataset to the PHAC dataset).",
+                "source": "https://web.archive.org/web/20210103152907/https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/prevention-risks/covid-19-vaccine-treatment/vaccine-rollout.html"
+            }
+        }
     }
 }

@@ -133,9 +133,21 @@
 <details>
 <summary><b>Vaccine administration</b></summary>
 
-| P/T   | Data sources                                                               |
-|:------|:---------------------------------------------------------------------------|
-| CAN   | - Public Health Agency of Canada vaccination coverage (2020-12-19–present) |
+| P/T   | Data sources                                                                                                                               |
+|:------|:-------------------------------------------------------------------------------------------------------------------------------------------|
+| AB    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| BC    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| MB    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| NB    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| NL    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| NS    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| NT    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| NU    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| ON    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| PE    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| QC    | - MSSS vaccine administration CSV (2020-12-14–present)                                                                                     |
+| SK    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
+| YT    | - CCODWG Covid19Canada dataset (2020-12-14–2022-05-03)<br>- Public Health Agency of Canada vaccination administration (2021-07-03–present) |
 </details>
 
 <details>
