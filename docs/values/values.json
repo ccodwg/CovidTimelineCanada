@@ -271,6 +271,20 @@
         "geo": {
             "can": "can",
             "pt": "pt"
+        },
+        "data_notes": {
+            "can": {
+                "date_start": "",
+                "date_end": "",
+                "note": "Vaccine coverage calculations are based on eligiblity (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
+                "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
+            },
+            "qc": {
+                "date_start": "",
+                "date_end": "",
+                "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilties.",
+                "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
+            }
         }
     },
     "vaccine_coverage_dose_2": {
@@ -281,6 +295,20 @@
         "geo": {
             "can": "can",
             "pt": "pt"
+        },
+        "data_notes": {
+            "can": {
+                "date_start": "",
+                "date_end": "",
+                "note": "Vaccine coverage calculations are based on eligiblity (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
+                "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
+            },
+            "qc": {
+                "date_start": "",
+                "date_end": "",
+                "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilties.",
+                "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
+            }
         }
     },
     "vaccine_coverage_dose_3": {
@@ -291,6 +319,20 @@
         "geo": {
             "can": "can",
             "pt": "pt"
+        },
+        "data_notes": {
+            "can": {
+                "date_start": "",
+                "date_end": "",
+                "note": "Vaccine coverage calculations are based on eligiblity (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
+                "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
+            },
+            "qc": {
+                "date_start": "",
+                "date_end": "",
+                "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilties.",
+                "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
+            }
         }
     },
     "vaccine_coverage_dose_4": {
@@ -301,6 +343,20 @@
         "geo": {
             "can": "can",
             "pt": "pt"
+        },
+        "data_notes": {
+            "can": {
+                "date_start": "",
+                "date_end": "",
+                "note": "Vaccine coverage calculations are based on eligiblity (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
+                "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
+            },
+            "qc": {
+                "date_start": "",
+                "date_end": "",
+                "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilties.",
+                "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
+            }
         }
     },
     "vaccine_administration_total_doses": {

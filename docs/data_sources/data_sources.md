@@ -125,9 +125,22 @@
 <details>
 <summary><b>Vaccine coverage</b></summary>
 
-| P/T   | Data sources                                                               |
-|:------|:---------------------------------------------------------------------------|
-| CAN   | - Public Health Agency of Canada vaccination coverage (2020-12-19–present) |
+| P/T   | Data sources                                                                  |
+|:------|:------------------------------------------------------------------------------|
+| AB    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| BC    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| CAN   | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| MB    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| NB    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| NL    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| NS    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| NT    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| NU    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| ON    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| PE    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| QC    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2022-07-17) |
+| SK    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| YT    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
 </details>
 
 <details>
