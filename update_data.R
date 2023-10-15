@@ -21,6 +21,9 @@ if (file.exists("/secrets.json")) {
   Covid19CanadaETL::ccodwg_update()
 }
 
+# # run update manually, skipping update of raw datasets
+# Covid19CanadaETL::ccodwg_update(skip_raw_update = TRUE)
+
 # check for updated files
 system2("git", "update-index --really-refresh")
 status <- system2("git", "diff-index --quiet HEAD --")
