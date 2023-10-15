@@ -368,7 +368,7 @@
             "can": "pt",
             "pt": "pt"
         },
-        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08).",
+        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08). For the same reason, with the exception of QC, total doses may be slightly overestimated between 2021-07-03 (first date that fourth doses are reported) and 2022-05-08. This is because some dose 4/dose 5+ values may have been double-counted as first doses. See: https://github.com/ccodwg/CovidTimelineCanada/issues/47.",
         "data_notes": {
             "mb": [
                 {
@@ -389,7 +389,7 @@
             "can": "pt",
             "pt": "pt"
         },
-        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08). With the exception of QC, first doses may be slightly overestimated prior to 2022-05-08. This is due to how first doses were calculated in the original CCODWG dataset compared to the PHAC dataset (https://github.com/ccodwg/CovidTimelineCanada/issues/47).",
+        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08). With the exception of QC, first doses may be slightly overestimated prior to 2022-05-08. This is due to how first doses were calculated in the original CCODWG dataset compared to the PHAC dataset. See: https://github.com/ccodwg/CovidTimelineCanada/issues/47.",
         "data_notes": {
             "mb": [
                 {
