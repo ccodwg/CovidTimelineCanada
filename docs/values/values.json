@@ -272,6 +272,7 @@
             "can": "can",
             "pt": "pt"
         },
+        "general_notes": "Data reported on Saturdays.",
         "data_notes": {
             "can": {
                 "date_start": "",
@@ -296,6 +297,7 @@
             "can": "can",
             "pt": "pt"
         },
+        "general_notes": "Data reported on Saturdays.",
         "data_notes": {
             "can": {
                 "date_start": "",
@@ -320,6 +322,7 @@
             "can": "can",
             "pt": "pt"
         },
+        "general_notes": "Data reported on Saturdays.",
         "data_notes": {
             "can": {
                 "date_start": "",
@@ -344,6 +347,7 @@
             "can": "can",
             "pt": "pt"
         },
+        "general_notes": "Data reported on Saturdays.",
         "data_notes": {
             "can": {
                 "date_start": "",
@@ -368,13 +372,21 @@
             "can": "pt",
             "pt": "pt"
         },
-        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08). For the same reason, with the exception of QC, total doses may be slightly overestimated between 2021-07-03 (first date that fourth doses are reported) and 2022-05-08. This is because some dose 4/dose 5+ values may have been double-counted as first doses. See: https://github.com/ccodwg/CovidTimelineCanada/issues/47.",
+        "general_notes": "Data reported on Saturdays.",
         "data_notes": {
+            "can": [
+                {
+                    "date_start": "2022-04-02",
+                    "date_end": "2022-05-22",
+                    "note": "A reporting gap in the MB vaccine administration dataset due excluded erroneous data may result in undercounted/anomalous values for the Canada-level dataset between 2022-04-02 and 2022-05-22.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ],
             "mb": [
                 {
-                    "date_start": "2022-05-08",
+                    "date_start": "2022-04-02",
                     "date_end": "2022-05-22",
-                    "note": "The data update for MB from 2022-05-08 was excluded due to an issue in the PHAC time series that was fixed on 2022-05-22. Thus, the first value from the PHAC dataset included for MB was from 2022-05-22 rather than 2022-05-08.",
+                    "note": "There is a gap in MB updates between 2022-04-02 and 2022-05-22. This is because the PHAC time series was inaccurate and thus excluded prior to 2022-05-22, but the MB time series dataset used in its place ended on 2022-03-31, leaving a gap. A significant revision of MB's vaccination data was also completed on 2022-05-22, so there may be anomalous values on this date since no retroactive corrections were available.",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
                 }
             ]
@@ -389,13 +401,21 @@
             "can": "pt",
             "pt": "pt"
         },
-        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08). With the exception of QC, first doses may be slightly overestimated prior to 2022-05-08. This is due to how first doses were calculated in the original CCODWG dataset compared to the PHAC dataset. See: https://github.com/ccodwg/CovidTimelineCanada/issues/47.",
+        "general_notes": "Data reported on Saturdays.",
         "data_notes": {
+            "can": [
+                {
+                    "date_start": "2022-04-02",
+                    "date_end": "2022-05-22",
+                    "note": "A reporting gap in the MB vaccine administration dataset due excluded erroneous data may result in undercounted/anomalous values for the Canada-level dataset between 2022-04-02 and 2022-05-22.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ],
             "mb": [
                 {
-                    "date_start": "2022-05-08",
+                    "date_start": "2022-04-02",
                     "date_end": "2022-05-22",
-                    "note": "The data update for MB from 2022-05-08 was excluded due to an issue in the PHAC time series that was fixed on 2022-05-22. Thus, the first value from the PHAC dataset included for MB was from 2022-05-22 rather than 2022-05-08.",
+                    "note": "There is a gap in MB updates between 2022-04-02 and 2022-05-22. This is because the PHAC time series was inaccurate and thus excluded prior to 2022-05-22, but the MB time series dataset used in its place ended on 2022-03-31 (reported as 2022-04-02 in this dataset), leaving a gap. A significant revision of MB's vaccination data was also completed on 2022-05-22, so there may be anomalous values on this date since no retroactive corrections were available.",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
                 }
             ]
@@ -410,13 +430,21 @@
             "can": "pt",
             "pt": "pt"
         },
-        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08).",
+        "general_notes": "Data reported on Saturdays.",
         "data_notes": {
+            "can": [
+                {
+                    "date_start": "2022-04-02",
+                    "date_end": "2022-05-22",
+                    "note": "A reporting gap in the MB vaccine administration dataset due excluded erroneous data may result in undercounted/anomalous values for the Canada-level dataset between 2022-04-02 and 2022-05-22.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ],
             "mb": [
                 {
-                    "date_start": "2022-05-08",
+                    "date_start": "2022-04-02",
                     "date_end": "2022-05-22",
-                    "note": "The data update for MB from 2022-05-08 was excluded due to an issue in the PHAC time series that was fixed on 2022-05-22. Thus, the first value from the PHAC dataset included for MB was from 2022-05-22 rather than 2022-05-08.",
+                    "note": "There is a gap in MB updates between 2022-04-02 and 2022-05-22. This is because the PHAC time series was inaccurate and thus excluded prior to 2022-05-22, but the MB time series dataset used in its place ended on 2022-03-31 (reported as 2022-04-02 in this dataset), leaving a gap. A significant revision of MB's vaccination data was also completed on 2022-05-22, so there may be anomalous values on this date since no retroactive corrections were available.",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
                 }
             ]
@@ -431,13 +459,21 @@
             "can": "pt",
             "pt": "pt"
         },
-        "general_notes": "With the exception of QC, there may be anomalies in the time series on 2022-05-08 due to a transition from the original CCODWG dataset (ending 2022-05-03) to the PHAC data source (beginning 2022-05-08).",
+        "general_notes": "Data reported on Saturdays.",
         "data_notes": {
+            "can": [
+                {
+                    "date_start": "2022-04-02",
+                    "date_end": "2022-05-22",
+                    "note": "A reporting gap in the MB vaccine administration dataset due excluded erroneous data may result in undercounted/anomalous values for the Canada-level dataset between 2022-04-02 and 2022-05-22.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ],
             "mb": [
                 {
-                    "date_start": "2022-05-08",
+                    "date_start": "2022-04-02",
                     "date_end": "2022-05-22",
-                    "note": "The data update for MB from 2022-05-08 was excluded due to an issue in the PHAC time series that was fixed on 2022-05-22. Thus, the first value from the PHAC dataset included for MB was from 2022-05-22 rather than 2022-05-08.",
+                    "note": "There is a gap in MB updates between 2022-04-02 and 2022-05-22. This is because the PHAC time series was inaccurate and thus excluded prior to 2022-05-22, but the MB time series dataset used in its place ended on 2022-03-31 (reported as 2022-04-02 in this dataset), leaving a gap. A significant revision of MB's vaccination data was also completed on 2022-05-22, so there may be anomalous values on this date since no retroactive corrections were available.",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
                 }
             ]
@@ -452,12 +488,21 @@
             "can": "pt",
             "pt": "pt"
         },
+        "general_notes": "Data reported on Saturdays.",
         "data_notes": {
+            "can": [
+                {
+                    "date_start": "2022-04-02",
+                    "date_end": "2022-05-22",
+                    "note": "A reporting gap in the MB vaccine administration dataset due excluded erroneous data may result in undercounted/anomalous values for the Canada-level dataset between 2022-04-02 and 2022-05-22.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ],
             "mb": [
                 {
                     "date_start": "",
                     "date_end": "2022-05-22",
-                    "note": "Due to an issue in the PHAC time series for MB that was fixed on 2022-05-22, the value for fourth doses administered prior to 2022-05-22 may be an undercount, and part of the increase in fourth doses on 2022-05-22 may be as a result of other doses being reclassified.",
+                    "note": "Due to an issue in the PHAC time series for MB that was fixed on 2022-05-22, this value has been excluded prior to 2022-05-22.",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
                 }
             ]
@@ -471,6 +516,25 @@
         "geo": {
             "can": "pt",
             "pt": "pt"
+        },
+        "general_notes": "Data reported on Saturdays.",
+        "data_notes": {
+            "can": [
+                {
+                    "date_start": "2022-04-02",
+                    "date_end": "2022-05-22",
+                    "note": "A reporting gap in the MB vaccine administration dataset due excluded erroneous data may result in undercounted/anomalous values for the Canada-level dataset between 2022-04-02 and 2022-05-22.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ],
+            "mb": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-05-22",
+                    "note": "Due to an issue in the PHAC time series for MB that was fixed on 2022-05-22, this value has been excluded prior to 2022-05-22.",
+                    "source": "https://health-infobase.canada.ca/covid-19/vaccine-administration/"
+                }
+            ]
         }
     },
     "vaccine_distribution_total_doses": {
