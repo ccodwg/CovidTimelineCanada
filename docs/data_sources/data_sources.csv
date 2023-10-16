@@ -175,7 +175,7 @@ vaccine_administration,NL,Public Health Agency of Canada vaccination administrat
 vaccine_administration,NS,Public Health Agency of Canada vaccination administration,194a0002-5ad1-4016-8788-e7a216216a92,ts,active_ts,active_ts/can/vaccine_administration_*_pt_ts.csv,province_territory,2020-12-19,present,,,,,,,,
 vaccine_administration,NT,Public Health Agency of Canada vaccination administration,194a0002-5ad1-4016-8788-e7a216216a92,ts,active_ts,active_ts/can/vaccine_administration_*_pt_ts.csv,province_territory,2020-12-19,present,,,,,,,,
 vaccine_administration,NU,Public Health Agency of Canada vaccination administration,194a0002-5ad1-4016-8788-e7a216216a92,ts,active_ts,active_ts/can/vaccine_administration_*_pt_ts.csv,province_territory,2020-12-19,present,,,,,,,,
-vaccine_administration,ON,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_vaccine_administration_*_pt_ts.csv,province_territory,2020-12-19,2021-01-09,,,,,,,,
+vaccine_administration,ON,Ontario vaccine data by age CSV,a7f839da-8c36-4569-bd99-1a07adc0700a,ts,static,static/on/on_vaccine_administration_*_pt_ts.csv,province_territory,2020-12-19,2021-01-09,,,,,,,,
 vaccine_administration,ON,Public Health Agency of Canada vaccination administration,194a0002-5ad1-4016-8788-e7a216216a92,ts,active_ts,active_ts/can/vaccine_administration_*_pt_ts.csv,province_territory,2020-12-19,present,,,,,,,,
 vaccine_administration,PE,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_vaccine_administration_*_pt_ts.csv,province_territory,2020-12-19,2020-12-19,,,,,,,,
 vaccine_administration,PE,Public Health Agency of Canada vaccination administration,194a0002-5ad1-4016-8788-e7a216216a92,ts,active_ts,active_ts/can/vaccine_administration_*_pt_ts.csv,province_territory,2020-12-19,present,,,,,,,,
