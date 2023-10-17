@@ -49,6 +49,14 @@
                     "source": "https://web.archive.org/web/20220409072126/https://gov.nu.ca/health/information/covid-19-novel-coronavirus"
                 }
             ],
+            "sk": [
+                {
+                    "date_start": "2022-11-05",
+                    "date_end": "",
+                    "note": "Note: 'Effective Oct 30, 2022 includes cases who tested positive more than once >= 90 days apart.'",
+                    "source": "https://web.archive.org/web/20230201024109/https://pubsaskdev.blob.core.windows.net/pubsask-prod/138705/Jan%2B19%2BCRISP.pdf (Table 5, footnote 1)"
+                }
+            ],
             "yt": [
                 {
                     "date_start": "",
