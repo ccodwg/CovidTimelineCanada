@@ -71,6 +71,26 @@
         },
         "general_notes": "Deaths may refer to deaths where COVID-19 was an underlying cause or deaths within a certain number of days of a positive COVID-19 test. The former definition is generally preferred if multiple metrics are available. Some jurisdictions changed death reporting definitions over time. Details regarding death reporting definitions are included as data notes where available.",
         "data_notes": {
+            "nb": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-04-01",
+                    "note": "Definition unknown.",
+                    "source": ""
+                },
+                {
+                    "date_start": "2022-04-02",
+                    "date_end": "2023-09-01",
+                    "note": "Definition: 'A death is determined to be COVID-19 related if the attending physician has identified that COVID-19 was a primary or contributing factor. If the cause of death is unclear, Public Health may request additional clarification from the vulnerable setting, or a Medical Officer of Health.' Included deceased cases reported within and outside of hospital.",
+                    "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf (footnotes 6 and 7 on page 5); https://web.archive.org/web/20221220173512/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-50.pdf (Definitions)"
+                },
+                {
+                    "date_start": "2023-09-02",
+                    "date_end": "",
+                    "note": "Definition: 'A confirmed case who was admitted to hospital and whose death occurred during their stay. A death due to COVID-19 or influenza does not mean that it was necessarily the primary or contributing factor to the cause of death.'",
+                    "source": "https://web.archive.org/web/20230913182732/https://www2.gnb.ca/content/dam/gnb/Corporate/Promo/respiratory-respiratoire/RespiratoryReport2023-24-Week-35.pdf (Appendix A); https://web.archive.org/web/20230913134246/https://www.cbc.ca/news/canada/new-brunswick/covid-19-new-brunswick-deaths-hospitalizations-respiratory-watch-influzenza-russell-1.6963073"
+                }
+            ],
             "nu": [
                 {
                     "date_start": "",
