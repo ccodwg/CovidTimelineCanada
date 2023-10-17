@@ -14,9 +14,11 @@ report_on <- reticulate::source_python("utils/report_on.py")
 # authorize with Google Sheets
 googlesheets4::gs4_auth()
 
-# prompt for valid EmbedToken
-# user input: embed token from authorization header of network request to download XLSX data from figure
-auth = readline()
+# retrieve active EmbedToken
+auth <- rvest::read_html("https://ws-rpt1.publichealthontario.ca/Home/EmbedReport/8a8e0f42-4f8e-430f-a382-3ad221e717cb") |>
+  rvest::html_text2() |>
+  stringr::str_extract("(?<=accessToken = \").*?(?=\")")
+auth <- paste0("EmbedToken ", auth)
 
 # get end date
 # one day greater than max date on dashboard, which should be two Mondays ago
