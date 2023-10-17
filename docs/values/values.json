@@ -113,6 +113,26 @@
                     "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
                 }
             ],
+            "nb": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-01-20",
+                    "note": "Hospital occupency does not distinguish between 'for' and 'with' COVID-19.",
+                    "source": ""
+                },
+                {
+                    "date_start": "2022-01-21",
+                    "date_end": "2022-04-01",
+                    "note": "Source dataset reported hospital occupency both 'for' and 'with' COVID-19. We only report hospital occupency 'with' COVID-19.",
+                    "source": ""
+                },
+                {
+                    "date_start": "2022-04-02",
+                    "date_end": "",
+                    "note": "Hospital occupency included only 'with' COVID-19.",
+                    "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf (footnote 3 on page 1)"
+                }
+            ],
             "nu": [
                 {
                     "date_start": "",
@@ -144,6 +164,26 @@
                 "date_end": "",
                 "note": "Source dataset reported ICU occupency both 'for' and 'with' COVID-19. We only report  ICU occupency 'with' COVID-19.",
                 "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
+            }
+        ],
+        "nb": [
+            {
+                "date_start": "",
+                "date_end": "2022-01-20",
+                "note": "ICU occupency does not distinguish between 'for' and 'with' COVID-19.",
+                "source": ""
+            },
+            {
+                "date_start": "2022-01-21",
+                "date_end": "2022-04-01",
+                "note": "Source dataset reported ICU occupency both 'for' and 'with' COVID-19. We only report ICU occupency 'with' COVID-19.",
+                "source": ""
+            },
+            {
+                "date_start": "2022-04-02",
+                "date_end": "",
+                "note": "ICU occupency included only 'with' COVID-19.",
+                "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf (footnote 3 on page 1)"
             }
         ],
         "nu": [
