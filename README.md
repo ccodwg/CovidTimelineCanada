@@ -101,7 +101,7 @@ See [Detailed description of data sources](docs/data_sources/data_sources.md).
 
 ## Extra datasets
 
-See [Extra datasets](docs/extra_datasets.md) for details about datasets in the `data_extra` directory.
+See [Extra datasets](docs/extra_datasets.md) for details about datasets in the `extra_data` directory.
 
 ## Acknowledgements
 
