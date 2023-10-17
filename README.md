@@ -99,6 +99,10 @@ The data in this repository are updated several times per day by [`Covid19Canada
 
 See [Detailed description of data sources](docs/data_sources/data_sources.md).
 
+## Extra datasets
+
+See [Extra datasets](docs/extra_datasets.md) for details about datasets in the `data_extra` directory.
+
 ## Acknowledgements
 
 We would like to thank all the individuals and organizations across Canada who have worked tirelessly to provide data to the public during this pandemic.
