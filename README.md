@@ -2,7 +2,7 @@
 
 The Timeline of COVID-19 in Canada (`CovidTimelineCanada`) is intended to be the definitive source for data regarding the COVID-19 pandemic in Canada. In addition to making available the ready-to-use datasets, this repository also acts as a hub for collaboration on expanding and improving the availability and quality of COVID-19 data in Canada. This repository is maintained by the [COVID-19 Canada Open Data Working Group](https://opencovid.ca/) and is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project. Our work has been cited or republished by numerous organizations, researchers, and journalists: see [Citation and terms of use](#citation-and-terms-of-use) for some examples.
 
-Datasets in this repository are found in the [`data`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/data) directory and are [updated automatically several times per day](#how-these-data-are-updated). Map, population and other spatial data are provided in the [`geo`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/geo) directory.
+Datasets in this repository are found in the [`data`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/data) directory and are [updated automatically several times per day](#how-these-data-are-updated). Map, population and other spatial data are provided in the [`geo`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/geo) directory. A [Detailed description of data sources](docs/data_sources/data_sources.md) is also available.
 
 On April 30, 2022, `CovidTimelineCanada` superseded the original [`Covid19Canada`](https://github.com/ccodwg/Covid19Canada) dataset, which was first made available in March of 2020. For those familiar with the original dataset, please see [Transitioning from `Covid19Canada`](docs/transitioning_from_Covid19Canada.md).
 
@@ -30,16 +30,7 @@ The next query will return the latest day of case data for each health region in
 https://api.opencovid.ca/timeseries?stat=cases&geo=hr&hr_names=short&date=1
 ```
 
-Some provinces no longer offer health region-level data for cases and/or deaths. For these provinces/territories, all recent cases and/or deaths will show up under the "Unknown" (code: 9999) health region. The following is a list of provinces/territories that no longer report health region data:
-
-- Manitoba (death data no longer reported at HR-level)
-- New Brunswick (death data no longer reported at HR-level)
-- Newfoundland and Labrador (case and death data no longer reported at HR-level)
-- Northwest Territories (case and death data no longer reported at all)
-- Nova Scotia (case and death data no longer reported at HR-level)
-- Nunavut (case and death data no longer reported at all)
-- Saskatchewan (case and death data no longer reported at HR-level)
-- Yukon (case and death data no longer reported at all)
+Some provinces no longer offer health region-level data for cases and/or deaths. For these provinces/territories, all recent cases and/or deaths will show up under the "Unknown" (code: 9999) health region. See [Health region-level data reporting](docs/data_sources/hr_reporting.md) for details on if and when this transition occured for each province.
 
 ## Available datasets
 
@@ -54,7 +45,7 @@ The following datasets are available:
 - Vaccine administration by dose (`vaccine_administration_total_doses`, `vaccine_administration_dose_1`, `vaccine_administration_dose_2`, `vaccine_administration_dose_3`, `vaccine_administration_dose_4`, `vaccine_administration_dose_5plus`)
 - Vaccine distribution (`vaccine_distribution_total_doses`)
 
-While we do our best to ensure comparability for the same metrics across different provinces/territories, some regions use different difinitions for the same metric (e.g., how COVID-19 deaths are defined). Reporting of a metric may also change over time in the same region. See [Detailed description of data sources](#detailed-description-of-data-sources) for more details.
+While we do our best to ensure comparability for the same metrics across different provinces/territories, some regions use different difinitions for the same metric (e.g., how COVID-19 deaths are defined). Reporting of a metric may also change over time in the same region. See [Detailed description of data sources](docs/data_sources/data_sources.md) for more details.
 
 For a summary plot of each dataset, see our [dashboard](https://ccodwg.github.io/CovidTimelineCanada-js-dashboard/).
 
@@ -87,9 +78,7 @@ Our data have been used by numerous organizations, journalists, and researchers 
 
 ## Contributing
 
-To contribute to this project, please refer to the ongoing discussions in the [issues board](https://github.com/ccodwg/CovidTimelineCanada/issues) or open up a new one. We need help identifying the best data sources for each value and harmonizing them into a single dataset. We can also be reached via our [contact page](https://opencovid.ca/contact-us/).
-
-We must also identify gaps in publicly available data. These data may then be requested from the relevant agencies or acquired via Access to Information requests (see [an example with Sasksatchewan's COVID-19 data](https://data.gripe/covid-19-in-saskatchewan/)).
+To contribute to this project, please [open an issue on GitHub](https://github.com/ccodwg/CovidTimelineCanada/issues). We can also be reached via our [contact page](https://opencovid.ca/contact-us/).
 
 ## How these data are updated
 
@@ -101,7 +90,7 @@ See [Detailed description of data sources](docs/data_sources/data_sources.md).
 
 ## Extra datasets
 
-See [Extra datasets](extra_data) for details about datasets in the `extra_data` directory.
+See [Extra datasets](extra_data#extra-datasets) for details about datasets in the `extra_data` directory.
 
 ## Acknowledgements
 
