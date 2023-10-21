@@ -181,7 +181,7 @@ dat_testing <- dplyr::bind_rows(lapply(dat_testing, function(z) data.frame(x = z
     date_end = date_start + 6,
     region = "BC",
     sub_region_1 = "",
-    tests_completed = y)
+    tests_completed_weekly = y)
 
 # add source for first entry
 dat_testing[1, "source"] <- "https://bccdc.shinyapps.io/respiratory_covid_sitrep/#Test_rates_and_percent_positivity"

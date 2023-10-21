@@ -107,9 +107,9 @@
 
 | P/T   | Data sources                                                                                                                                                                               |
 |:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AB    | - COVID-19 Alberta statistics app (2020-01-04–2020-03-05)<br>- COVID-19 Alberta summary statistics (2020-03-06–2023-08-28)                                                                 |
-| BC    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-22)                                                                                |
-| MB    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-20)<br>- Manitoba weekly surveillance report (2022-11-26–present)                  |
+| AB    | - COVID-19 Alberta statistics app (2020-01-04–2020-03-05)<br>- COVID-19 Alberta summary statistics (2020-03-06–2023-08-26)<br>- Alberta respiratory virus dashboard (2023-09-02–present)   |
+| BC    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-19)<br>- British Columbia COVID-19 Situation Report (2022-11-26–present)           |
+| MB    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-19)<br>- Manitoba weekly surveillance report (2022-11-26–present)                  |
 | NB    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-20)                                                                                |
 | NL    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-22)                                                                                |
 | NS    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-19)                                                                                |
