@@ -105,21 +105,21 @@
 <details>
 <summary><b>Tests completed</b></summary>
 
-| P/T   | Data sources                                                                                                                                                |
-|:------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AB    | - COVID-19 Alberta statistics app (2020-01-04–2020-03-05)<br>- COVID-19 Alberta summary statistics (2020-03-06–2023-08-28)                                  |
-| BC    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22)                                                                                |
-| MB    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-20)<br>- Manitoba weekly surveillance report (2022-11-26–present)                  |
-| NB    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-20)                                                                                |
-| NL    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22)                                                                                |
-| NS    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-19)                                                                                |
-| NT    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-17)                                                                                |
-| NU    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-20)                                                                                |
-| ON    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-19)<br>- Public Health Ontario Ontario Respiratory Virus Tool (2022-11-26–present) |
-| PE    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22)                                                                                |
-| QC    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22)                                                                                |
-| SK    | - Public Health Agency of Canada epidemiology update (2020-01-01–2022-11-22)                                                                                |
-| YT    | - Yukon dashboard (2020-02-27–2022-11-10)                                                                                                                   |
+| P/T   | Data sources                                                                                                                                                                               |
+|:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AB    | - COVID-19 Alberta statistics app (2020-01-04–2020-03-05)<br>- COVID-19 Alberta summary statistics (2020-03-06–2023-08-28)                                                                 |
+| BC    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-22)                                                                                |
+| MB    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-20)<br>- Manitoba weekly surveillance report (2022-11-26–present)                  |
+| NB    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-20)                                                                                |
+| NL    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-22)                                                                                |
+| NS    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-19)                                                                                |
+| NT    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-17)                                                                                |
+| NU    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-20)                                                                                |
+| ON    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-19)<br>- Public Health Ontario Ontario Respiratory Virus Tool (2022-11-26–present) |
+| PE    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-22)                                                                                |
+| QC    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-22)                                                                                |
+| SK    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-22)                                                                                |
+| YT    | - Yukon dashboard (2020-02-27–2022-11-10)                                                                                                                                                  |
 </details>
 
 <details>
