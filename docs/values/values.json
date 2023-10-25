@@ -131,13 +131,13 @@
                 {
                     "date_start": "",
                     "date_end": "2022-01-31",
-                    "note": "Hospital occupency does not distinguish between 'for' and 'with' COVID-19.",
+                    "note": "Hospital occupancy does not distinguish between 'for' and 'with' COVID-19.",
                     "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
                 },
                 {
                     "date_start": "2022-02-01",
                     "date_end": "",
-                    "note": "Source dataset reported hospital occupency both 'for' and 'with' COVID-19. We only report hospital occupency 'with' COVID-19.",
+                    "note": "Source dataset reported hospital occupancy both 'for' and 'with' COVID-19. We only report hospital occupancy 'with' COVID-19.",
                     "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
                 }
             ],
@@ -145,19 +145,19 @@
                 {
                     "date_start": "",
                     "date_end": "2022-01-20",
-                    "note": "Hospital occupency does not distinguish between 'for' and 'with' COVID-19.",
+                    "note": "Hospital occupancy does not distinguish between 'for' and 'with' COVID-19.",
                     "source": ""
                 },
                 {
                     "date_start": "2022-01-21",
                     "date_end": "2022-04-01",
-                    "note": "Source dataset reported hospital occupency both 'for' and 'with' COVID-19. We only report hospital occupency 'with' COVID-19.",
+                    "note": "Source dataset reported hospital occupancy both 'for' and 'with' COVID-19. We only report hospital occupancy 'with' COVID-19.",
                     "source": ""
                 },
                 {
                     "date_start": "2022-04-02",
                     "date_end": "",
-                    "note": "Hospital occupency included only 'with' COVID-19.",
+                    "note": "Hospital occupancy included only 'with' COVID-19.",
                     "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf (footnote 3 on page 1)"
                 }
             ],
@@ -167,6 +167,20 @@
                     "date_end": "",
                     "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces.",
                     "source": "https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update"
+                }
+            ],
+            "pe": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Source dataset reported hospital occupancy both 'for' and 'with' COVID-19. We only report hospital occupancy 'with' COVID-19.",
+                    "source": "https://web.archive.org/web/20220426152110/https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-testing-and-case-data; https://web.archive.org/web/20211231183240/https://www.princeedwardisland.ca/en/news/islanders-encouraged-to-keep-new-years-eve-gatherings-small-175-new-cases-of-covid-19-in-pei"
+                },
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Hospital occupancy was set to 0 between 2021-04-19 and 2021-12-28, since no new hospital admissions were reported during this period.",
+                    "source": "https://web.archive.org/web/20231025022442/https://www.princeedwardisland.ca/en/news/three-new-cases-of-covid-19-one-additional-hospitalization; https://web.archive.org/web/20230127004456/https://www.princeedwardisland.ca/en/news/one-new-hospitalization-129-new-cases-of-covid-19-in-pei"
                 }
             ]
         }
@@ -184,13 +198,13 @@
             {
                 "date_start": "",
                 "date_end": "2022-01-31",
-                "note": "ICU occupency does not distinguish between 'for' and 'with' COVID-19.",
+                "note": "ICU occupancy does not distinguish between 'for' and 'with' COVID-19.",
                 "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
             },
             {
                 "date_start": "2022-02-01",
                 "date_end": "",
-                "note": "Source dataset reported ICU occupency both 'for' and 'with' COVID-19. We only report  ICU occupency 'with' COVID-19.",
+                "note": "Source dataset reported ICU occupancy both 'for' and 'with' COVID-19. We only report  ICU occupancy 'with' COVID-19.",
                 "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
             }
         ],
@@ -198,19 +212,19 @@
             {
                 "date_start": "",
                 "date_end": "2022-01-20",
-                "note": "ICU occupency does not distinguish between 'for' and 'with' COVID-19.",
+                "note": "ICU occupancy does not distinguish between 'for' and 'with' COVID-19.",
                 "source": ""
             },
             {
                 "date_start": "2022-01-21",
                 "date_end": "2022-04-01",
-                "note": "Source dataset reported ICU occupency both 'for' and 'with' COVID-19. We only report ICU occupency 'with' COVID-19.",
+                "note": "Source dataset reported ICU occupancy both 'for' and 'with' COVID-19. We only report ICU occupancy 'with' COVID-19.",
                 "source": ""
             },
             {
                 "date_start": "2022-04-02",
                 "date_end": "",
-                "note": "ICU occupency included only 'with' COVID-19.",
+                "note": "ICU occupancy included only 'with' COVID-19.",
                 "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf (footnote 3 on page 1)"
             }
         ],
@@ -220,6 +234,20 @@
                 "date_end": "",
                 "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces.",
                 "source": "https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update"
+            }
+        ],
+        "pe": [
+            {
+                "date_start": "",
+                "date_end": "",
+                "note": "While the source dataset reported hospital occupancy both 'for' and 'with' COVID-19 (and we only report hospital occupancy 'with' COVID-19), the source dataset made no such distinction for ICU occupancy.",
+                "source": "https://web.archive.org/web/20220426152110/https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-testing-and-case-data; https://web.archive.org/web/20211231183240/https://www.princeedwardisland.ca/en/news/islanders-encouraged-to-keep-new-years-eve-gatherings-small-175-new-cases-of-covid-19-in-pei"
+            },
+            {
+                "date_start": "",
+                "date_end": "",
+                "note": "ICU occupancy was set to 0 between 2021-04-19 and 2021-12-28, since no new hospital admissions were reported during this period.",
+                "source": "https://web.archive.org/web/20231025022442/https://www.princeedwardisland.ca/en/news/three-new-cases-of-covid-19-one-additional-hospitalization; https://web.archive.org/web/20230127004456/https://www.princeedwardisland.ca/en/news/one-new-hospitalization-129-new-cases-of-covid-19-in-pei"
             }
         ]
     },
