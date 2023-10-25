@@ -19,8 +19,12 @@ pt_mult = ['AB', 'BC', 'MB', 'NB', 'NL', 'NS', 'ON', 'QC', 'SK']
 d = pd.read_csv(
     os.path.join(script_dir, "data_sources.csv"),
     dtype = str,
-    usecols = ["value_name", "region", "geo", "date_end"])
+    usecols = ["value_name", "region", "geo", "date_end", "pt_replacement"])
 d = d[d["value_name"].isin(["cases", "deaths"])]
+
+# remove pt_replacement entries
+d = d[d["pt_replacement"].isna()]
+d = d.drop("pt_replacement", axis = 1)
 
 ### CASE DATA ###
 

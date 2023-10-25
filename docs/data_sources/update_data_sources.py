@@ -15,7 +15,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 d = pd.read_csv(
     os.path.join(script_dir, "data_sources.csv"),
     dtype = str,
-    usecols = ["value_name", "region", "source_name", "date_begin", "date_end", "not_available"])
+    usecols = ["value_name", "region", "source_name", "date_begin", "date_end", "pt_replacement", "not_available"])
 
 # function: generate table for specific value
 def gen_table(d, val, title):
@@ -23,9 +23,14 @@ def gen_table(d, val, title):
     d = d[d["value_name"] == val]
     d = d.drop("value_name", axis = 1)
     # create entries, noting those marked as not available
-    d["data_sources"] = d.apply(lambda x: "Not available" if not pd.isna(x["not_available"]) else "- " + x["source_name"] + " (" + x["date_begin"] + "\u2013" + x["date_end"] + ")", axis = 1)
+    d["data_sources"] = d.apply(lambda x: "Not available" if not pd.isna(x["not_available"]) else x["source_name"] + " (" + x["date_begin"] + "\u2013" + x["date_end"] + ")", axis = 1)
+    # for health region-level data, note when province-level data have been replaced
+    if val in ["cases", "deaths"]:
+        d["data_sources"] = d.apply(lambda x: x["data_sources"] if pd.isna(x["pt_replacement"]) else "Province-level data: " + x["data_sources"], axis = 1)
     # drop unnecessary columns
-    d = d.drop(["source_name", "date_begin", "date_end", "not_available"], axis = 1)
+    d = d.drop(["source_name", "date_begin", "date_end", "not_available", "pt_replacement"], axis = 1)
+    # add bullets to entries
+    d["data_sources"] = d["data_sources"].apply(lambda x: "- " + x)
     # join entries for each region
     d = d.groupby(["region"])["data_sources"].apply("<br>".join).reset_index()
     # convert to markdown table
