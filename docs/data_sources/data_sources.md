@@ -117,7 +117,7 @@
 | NU    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-20)                                                                                |
 | ON    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-19)<br>- Public Health Ontario Ontario Respiratory Virus Tool (2022-11-26–present) |
 | PE    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-22)                                                                                |
-| QC    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-22)                                                                                |
+| QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                          |
 | SK    | - Public Health Agency of Canada System for Analyzing Laboratory Test counts (SALT) (2020-01-01–2022-11-22)                                                                                |
 | YT    | - Yukon dashboard (2020-02-27–2022-11-10)                                                                                                                                                  |
 </details>
