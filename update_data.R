@@ -42,6 +42,7 @@ if (status == 0) {
     args = c("add",
              "data/",
              "diffs/",
+             "extra_data/",
              "raw_data/",
              "update_time.txt"
     )
