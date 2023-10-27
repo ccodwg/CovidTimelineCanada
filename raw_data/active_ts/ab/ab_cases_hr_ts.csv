@@ -213,8 +213,9 @@
 "cases","AB","Calgary Zone","2023-09-16",208
 "cases","AB","Calgary Zone","2023-09-23",170
 "cases","AB","Calgary Zone","2023-09-30",225
-"cases","AB","Calgary Zone","2023-10-07",291
-"cases","AB","Calgary Zone","2023-10-14",275
+"cases","AB","Calgary Zone","2023-10-07",293
+"cases","AB","Calgary Zone","2023-10-14",276
+"cases","AB","Calgary Zone","2023-10-21",307
 "cases","AB","Central Zone","2019-08-31",0
 "cases","AB","Central Zone","2019-09-07",0
 "cases","AB","Central Zone","2019-09-14",0
@@ -430,7 +431,8 @@
 "cases","AB","Central Zone","2023-09-23",82
 "cases","AB","Central Zone","2023-09-30",99
 "cases","AB","Central Zone","2023-10-07",114
-"cases","AB","Central Zone","2023-10-14",146
+"cases","AB","Central Zone","2023-10-14",149
+"cases","AB","Central Zone","2023-10-21",146
 "cases","AB","Edmonton Zone","2019-08-31",0
 "cases","AB","Edmonton Zone","2019-09-07",0
 "cases","AB","Edmonton Zone","2019-09-14",0
@@ -646,7 +648,8 @@
 "cases","AB","Edmonton Zone","2023-09-23",257
 "cases","AB","Edmonton Zone","2023-09-30",302
 "cases","AB","Edmonton Zone","2023-10-07",320
-"cases","AB","Edmonton Zone","2023-10-14",375
+"cases","AB","Edmonton Zone","2023-10-14",377
+"cases","AB","Edmonton Zone","2023-10-21",307
 "cases","AB","North Zone","2019-08-31",0
 "cases","AB","North Zone","2019-09-07",0
 "cases","AB","North Zone","2019-09-14",0
@@ -863,6 +866,7 @@
 "cases","AB","North Zone","2023-09-30",52
 "cases","AB","North Zone","2023-10-07",83
 "cases","AB","North Zone","2023-10-14",83
+"cases","AB","North Zone","2023-10-21",83
 "cases","AB","South Zone","2019-08-31",0
 "cases","AB","South Zone","2019-09-07",0
 "cases","AB","South Zone","2019-09-14",0
@@ -1077,5 +1081,6 @@
 "cases","AB","South Zone","2023-09-16",26
 "cases","AB","South Zone","2023-09-23",29
 "cases","AB","South Zone","2023-09-30",49
-"cases","AB","South Zone","2023-10-07",47
+"cases","AB","South Zone","2023-10-07",48
 "cases","AB","South Zone","2023-10-14",66
+"cases","AB","South Zone","2023-10-21",82
