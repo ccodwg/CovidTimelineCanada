@@ -141,6 +141,20 @@
                     "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
                 }
             ],
+            "mb": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Source dataset reported hospital occupancy distinguishing between those with active COVID-19 and those who are no longer infectious. The combined total is reported here.",
+                    "source": "https://web.archive.org/web/20220107184243/https://news.gov.mb.ca/news/index.html?item=53158&posted=2022-01-07"
+                },
+                {
+                    "date_start": "2021-06-04",
+                    "date_end": "2021-07-16",
+                    "note": "Between 2021-06-04 and 2021-07-16, MB reported the number of patients from MB being treated in ICUs outside of the province. These numbers are not included in hospital or ICU occupancy numbers in this dataset. On 2022-07-19, they give the following statement: 'A total of 57 COVID-19 patients were transported out of province for care to hospitals in 16 communities between May 18 and June 9. The one remaining COVID-19 patient receiving care out of province was returned to a Manitoba hospital on Friday [2021-07-16], bringing the number of returnees to 45.'",
+                    "source": "https://web.archive.org/web/20210723233233/https://news.gov.mb.ca/news/?archive=&item=51383; https://web.archive.org/web/20210802112034/https://news.gov.mb.ca/news/?archive=&item=51800"
+                }
+            ],
             "nb": [
                 {
                     "date_start": "",
@@ -208,6 +222,20 @@
                 "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
             }
         ],
+        "mb": [
+            {
+                "date_start": "",
+                "date_end": "",
+                "note": "Source dataset reported hospital occupancy distinguishing between those with active COVID-19 and those who are no longer infectious. The combined total is reported here.",
+                "source": "https://web.archive.org/web/20220107184243/https://news.gov.mb.ca/news/index.html?item=53158&posted=2022-01-07"
+            },
+            {
+                "date_start": "2021-06-04",
+                "date_end": "2021-07-16",
+                "note": "Between 2021-06-04 and 2021-07-16, MB reported the number of patients from MB being treated in ICUs outside of the province. These numbers are not included in hospital or ICU occupancy numbers in this dataset. On 2022-07-19, they give the following statement: 'A total of 57 COVID-19 patients were transported out of province for care to hospitals in 16 communities between May 18 and June 9. The one remaining COVID-19 patient receiving care out of province was returned to a Manitoba hospital on Friday [2021-07-16], bringing the number of returnees to 45.'",
+                "source": "https://web.archive.org/web/20210723233233/https://news.gov.mb.ca/news/?archive=&item=51383; https://web.archive.org/web/20210802112034/https://news.gov.mb.ca/news/?archive=&item=51800"
+            }
+        ],
         "nb": [
             {
                 "date_start": "",
@@ -272,6 +300,14 @@
                     "date_end": "",
                     "note": "Source dataset reported only hospital admissions 'for' COVID-19.",
                     "source": "https://web.archive.org/web/20231013222130/https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=severe-outcomes#severe-outcomes; https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
+                }
+            ],
+            "ns": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Hospital admissions begin being counted on 2021-12-08.",
+                    "source": ""
                 }
             ],
             "nu": [
