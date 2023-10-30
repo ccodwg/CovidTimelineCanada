@@ -10,7 +10,7 @@ googlesheets4::gs4_auth()
 # get today's date
 date_local <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 
-### HR-LEVEL DEATHS ###
+### HR-LEVEL DEATHS AND HOSP/ICU ADMISSIONS ###
 
 # load dashboard data
 d <- Covid19CanadaData::dl_dataset("34f45670-34ed-415c-86a6-e14d77fcf6db")$features$attributes
@@ -25,7 +25,9 @@ out <- dplyr::tibble(
   sub_region_1 = d$Name,
   deaths_current_period = d$New_Deaths,
   death_previous_period = d$Deaths_prev,
-  deaths = .data$deaths_current_period + .data$death_previous_period
+  deaths = .data$deaths_current_period + .data$death_previous_period,
+  hosp_admissions = d$Hospital,
+  icu_admissions = d$ICU
 )
 
 # append data
