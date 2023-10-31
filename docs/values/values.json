@@ -222,6 +222,14 @@
                 "source": "https://web.archive.org/web/20230802213642/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#severe-outcomes"
             }
         ],
+        "bc": [
+            {
+                "date_start": "2020-03-27",
+                "date_end": "2020-03-27",
+                "note": "Only hospital occupancy was reported on this date, so the ICU occupancy value was carried forward from the previous day.",
+                "source": "https://web.archive.org/web/20200328023631/https://news.gov.bc.ca/releases/2020EMBC0014-000582"
+            }
+        ],
         "mb": [
             {
                 "date_start": "",
