@@ -318,6 +318,14 @@
                     "source": ""
                 }
             ],
+            "nt": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "The hospital admissions time series begins on 2021-08-25 but includes cumulative values to the beginning of the pandemic; the first daily value is censored because the change for that date is unknown. Definition unknown; the NT dashboard noted: 'Hospitalization and ICU counts exclude medical transfers to the NWT from out of territory.'",
+                    "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf"
+                }
+            ],
             "nu": [
                 {
                     "date_start": "",
@@ -380,6 +388,14 @@
                     "date_start": "",
                     "date_end": "",
                     "note": "The ICU admissions time series begins on 2022-04-02 but includes cumulative values to the beginning of the pandemic.",
+                    "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf"
+                }
+            ],
+            "nt": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "The ICU admissions time series begins on 2021-09-08 but includes cumulative values to the beginning of the pandemic; the first daily value is censored because the change for that date is unknown. Definition unknown; the NT dashboard noted: 'Hospitalization and ICU counts exclude medical transfers to the NWT from out of territory.'",
                     "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf"
                 }
             ],
