@@ -1653,8 +1653,8 @@
 "hospitalizations","BC","2021-03-29",299,5
 "hospitalizations","BC","2021-03-30",312,13
 "hospitalizations","BC","2021-03-31",312,0
-"hospitalizations","BC","2021-04-01",597,285
-"hospitalizations","BC","2021-04-02",296,-301
+"hospitalizations","BC","2021-04-01",312,0
+"hospitalizations","BC","2021-04-02",296,-16
 "hospitalizations","BC","2021-04-03",296,0
 "hospitalizations","BC","2021-04-04",296,0
 "hospitalizations","BC","2021-04-05",296,0
@@ -1687,8 +1687,8 @@
 "hospitalizations","BC","2021-05-02",511,0
 "hospitalizations","BC","2021-05-03",474,-37
 "hospitalizations","BC","2021-05-04",478,4
-"hospitalizations","BC","2021-05-05",778,300
-"hospitalizations","BC","2021-05-06",481,-297
+"hospitalizations","BC","2021-05-05",478,0
+"hospitalizations","BC","2021-05-06",481,3
 "hospitalizations","BC","2021-05-07",445,-36
 "hospitalizations","BC","2021-05-08",445,0
 "hospitalizations","BC","2021-05-09",445,0
@@ -2045,8 +2045,8 @@
 "hospitalizations","BC","2022-04-25",485,0
 "hospitalizations","BC","2022-04-26",485,0
 "hospitalizations","BC","2022-04-27",485,0
-"hospitalizations","BC","2022-04-28",1089,604
-"hospitalizations","BC","2022-04-29",519,-570
+"hospitalizations","BC","2022-04-28",485,0
+"hospitalizations","BC","2022-04-29",519,34
 "hospitalizations","BC","2022-04-30",519,0
 "hospitalizations","BC","2022-05-01",519,0
 "hospitalizations","BC","2022-05-02",519,0
@@ -2157,8 +2157,8 @@
 "hospitalizations","BC","2022-08-15",385,0
 "hospitalizations","BC","2022-08-16",385,0
 "hospitalizations","BC","2022-08-17",385,0
-"hospitalizations","BC","2022-08-18",756,371
-"hospitalizations","BC","2022-08-19",390,-366
+"hospitalizations","BC","2022-08-18",385,0
+"hospitalizations","BC","2022-08-19",390,5
 "hospitalizations","BC","2022-08-20",390,0
 "hospitalizations","BC","2022-08-21",390,0
 "hospitalizations","BC","2022-08-22",390,0
