@@ -204,6 +204,14 @@
                     "note": "Hospital occupancy was set to 0 between 2021-04-19 and 2021-12-28, since no new hospital admissions were reported during this period.",
                     "source": "https://web.archive.org/web/20231025022442/https://www.princeedwardisland.ca/en/news/three-new-cases-of-covid-19-one-additional-hospitalization; https://web.archive.org/web/20230127004456/https://www.princeedwardisland.ca/en/news/one-new-hospitalization-129-new-cases-of-covid-19-in-pei"
                 }
+            ],
+            "sk": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-02-09",
+                    "note": "The source dataset decomposed hospital occupancy into 'Total Covid Related Illness', 'Total Incidental Covid Infection', and 'Total Patient Under Investigation'. However, ICU occupancy was not decomposed in this way. Thus, we report 'Total Covid Hospitalized' and 'Total Covid Adult ICU/ICU Surge' for consistency and to allow fair calculation of non-ICU hospital occupancy.",
+                    "source": "https://web.archive.org/web/20220213024332/https://pubsaskdev.blob.core.windows.net/pubsask-prod/133268/Integrated%252BEpi%252BSit%252BReport-Jan%252B30-Feb%252B5.pdf (Weekly COVID Hospitalization Indicators)"
+                }
             ]
         }
     },
@@ -298,6 +306,14 @@
                 "date_end": "",
                 "note": "ICU occupancy was set to 0 between 2021-04-19 and 2021-12-28, since no new hospital admissions were reported during this period.",
                 "source": "https://web.archive.org/web/20231025022442/https://www.princeedwardisland.ca/en/news/three-new-cases-of-covid-19-one-additional-hospitalization; https://web.archive.org/web/20230127004456/https://www.princeedwardisland.ca/en/news/one-new-hospitalization-129-new-cases-of-covid-19-in-pei"
+            }
+        ],
+        "sk": [
+            {
+                "date_start": "",
+                "date_end": "2022-02-09",
+                "note": "The source dataset decomposed hospital occupancy into 'Total Covid Related Illness', 'Total Incidental Covid Infection', and 'Total Patient Under Investigation'. However, ICU occupancy was not decomposed in this way. Thus, we report 'Total Covid Hospitalized' and 'Total Covid Adult ICU/ICU Surge' for consistency and to allow fair calculation of non-ICU hospital occupancy.",
+                "source": "https://web.archive.org/web/20220213024332/https://pubsaskdev.blob.core.windows.net/pubsask-prod/133268/Integrated%252BEpi%252BSit%252BReport-Jan%252B30-Feb%252B5.pdf (Weekly COVID Hospitalization Indicators)"
             }
         ]
     },
