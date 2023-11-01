@@ -124,7 +124,8 @@
         "value_daily": "The change in the number of active hospitalizations related to COVID-19 compared to the previous day.",
         "geo": {
             "can": "can",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "data_notes": {
             "ab": [
@@ -222,7 +223,8 @@
         "value_daily": "The change in the number of active ICU hospitalizations related to COVID-19 compared to the previous day.",
         "geo": {
             "can": "can",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "ab": [
             {
@@ -323,7 +325,9 @@
         "value": "The cumulative number of hospital admissions (non-ICU and ICU) related to COVID-19 reported up to a given day.",
         "value_daily": "The change in the number of hospital admissions related to COVID-19 compared to the previous day.",
         "geo": {
-            "pt": "pt"
+            "can": "na",
+            "pt": "pt",
+            "hr": "na"
         },
         "data_notes": {
             "ab": [
@@ -410,7 +414,9 @@
         "value": "The cumulative number of ICU admissions related to COVID-19 reported up to a given day.",
         "value_daily": "The change in the number of ICU admissions related to COVID-19 compared to the previous day.",
         "geo": {
-            "pt": "pt"
+            "can": "na",
+            "pt": "pt",
+            "hr": "na"
         },
         "data_notes": {
             "ab": [
@@ -468,7 +474,8 @@
         "value_daily": "The change in the number of PCR tests for COVID-19 reported compared to the previous day.",
         "geo": {
             "can": "pt",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Tests completed may be derived from different sources than case numbers, and caution should be used if using them to calculate percent positivity. This is especially true if cases and tests are reported on different schedules (e.g., weekly case data but daily testing data), which may necessitate aggregation. Percent positivity calculated this way may different from officially reported values for this and other reasons, such as differences in definition of what is included in the numerator and/or denominator.",
         "data_notes": {
@@ -503,7 +510,8 @@
         "value_daily": "The change in the percent coverage of first doses of COVID-19 vaccines reported compared to the previous day.",
         "geo": {
             "can": "can",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Data reported on Saturdays.",
         "data_notes": {
@@ -532,7 +540,8 @@
         "value_daily": "The change in the percent coverage of second doses of COVID-19 vaccines reported compared to the previous day.",
         "geo": {
             "can": "can",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Data reported on Saturdays.",
         "data_notes": {
@@ -561,7 +570,8 @@
         "value_daily": "The change in the percent coverage of third doses of COVID-19 vaccines reported compared to the previous day.",
         "geo": {
             "can": "can",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Data reported on Saturdays.",
         "data_notes": {
@@ -590,7 +600,8 @@
         "value_daily": "The change in the percent coverage of fourth doses of COVID-19 vaccines reported compared to the previous day.",
         "geo": {
             "can": "can",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Data reported on Saturdays.",
         "data_notes": {
@@ -619,7 +630,8 @@
         "value_daily": "The change in the number of total doses of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
             "can": "pt",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Data reported on Saturdays.",
         "data_notes": {
@@ -648,7 +660,8 @@
         "value_daily": "The change in the number of first doses of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
             "can": "pt",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Data reported on Saturdays.",
         "data_notes": {
@@ -677,7 +690,8 @@
         "value_daily": "The change in the number of second doses of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
             "can": "pt",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Data reported on Saturdays.",
         "data_notes": {
@@ -706,7 +720,8 @@
         "value_daily": "The change in the number of third doses of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
             "can": "pt",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Data reported on Saturdays.",
         "data_notes": {
@@ -735,7 +750,8 @@
         "value_daily": "The change in the number of fourth doses of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
             "can": "pt",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Data reported on Saturdays.",
         "data_notes": {
@@ -764,7 +780,8 @@
         "value_daily": "The change in the number of fifth or greater doses more of COVID-19 vaccines administered reported compared to the previous day.",
         "geo": {
             "can": "pt",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "Data reported on Saturdays.",
         "data_notes": {
@@ -793,7 +810,8 @@
         "value_daily": "The change in the number of total doses of COVID-19 vaccines distributed reported compared to the previous day.",
         "geo": {
             "can": "can",
-            "pt": "pt"
+            "pt": "pt",
+            "hr": "na"
         },
         "general_notes": "The number of doses distributed may become desynchronized from the number of doses administered for a number of reasons, including extra doses (https://web.archive.org/web/20210129091454/https://www.cbc.ca/news/health/pfizer-biontech-vaccine-extra-dose-1.5892298), partial doses (https://web.archive.org/web/20220316141828/https://immunizebc.ca/ask-us/questions/why-covid-19-mrna-moderna-spikevax%E2%84%A2-booster-given-full-dose-some-people-and-half), and vaccine wastage (https://web.archive.org/web/20220428003641/https://vancouversun.com/news/covid-19-b-c-destroyed-hundreds-of-thousands-of-vaccine-doses).",
         "data_notes": {

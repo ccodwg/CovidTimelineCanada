@@ -45,7 +45,9 @@ The following datasets are available:
 - Vaccine administration by dose (`vaccine_administration_total_doses`, `vaccine_administration_dose_1`, `vaccine_administration_dose_2`, `vaccine_administration_dose_3`, `vaccine_administration_dose_4`, `vaccine_administration_dose_5plus`)
 - Vaccine distribution (`vaccine_distribution_total_doses`)
 
-While we do our best to ensure comparability for the same metrics across different provinces/territories, some regions use different difinitions for the same metric (e.g., how COVID-19 deaths are defined). Reporting of a metric may also change over time in the same region. See [Detailed description of data sources](docs/data_sources/data_sources.md) for more details.
+While we do our best to ensure comparability for the same metrics across different provinces/territories, some regions use different difinitions for the same metric (e.g., how COVID-19 deaths are defined). Reporting of a metric may also change over time in the same region.
+
+For more information on each value, including definitions, see the [Technical report](docs/technical_report/technical_report.md) and the [Detailed description of data sources](docs/data_sources/data_sources.md).
 
 For a summary plot of each dataset, see our [dashboard](https://ccodwg.github.io/CovidTimelineCanada-js-dashboard/).
 
