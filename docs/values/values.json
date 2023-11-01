@@ -463,6 +463,14 @@
                     "note": "The source of these testing numbers is the PHAC RVDSS testing database. The numbers seem to include both PCR tests and rapid molecular tests, based on comparisons with the number of tests reported on the PEI dashboard during the same time.",
                     "source": "https://health-infobase.canada.ca/covid-19/testing-variants.html"
                 }
+            ],
+            "yt": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "The number of tests reported from this source (the Yukon dashboard) is much lower than the number of tests reported in the PHAC SALT dataset. The PHAC SALT dataset was not used because Yukon stopped reporting to it after 2021-05-06.",
+                    "source": "https://health-infobase.canada.ca/covid-19/testing-variants.html"
+                }
             ]
         }
     },
