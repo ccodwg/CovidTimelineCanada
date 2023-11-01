@@ -111,6 +111,12 @@
                 {
                     "date_start": "",
                     "date_end": "",
+                    "note": "Definition: Date corresponds to date recorded on death certificate (time when death was certified by a doctor). Recent dates may be incomplete and receive retroactive updates.",
+                    "source": "https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Dates)"
+                },
+                {
+                    "date_start": "",
+                    "date_end": "",
                     "note": "Note regarding health regions: 'Confirmed cases are broken down according to the RSS of residence. Homeless people are associated with the support region'.",
                     "source": "https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Cas confirmés)"
                 }

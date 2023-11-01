@@ -54,3 +54,13 @@ Death data:
 
 For more details, see this [GitHub
 issue](https://github.com/ccodwg/CovidTimelineCanada/issues/120).
+
+### Hospital/ICU metrics
+
+Hospital/ICU metrics (occupancy and admissions) may report the number
+“for” COVID-19 or combined numbers (both “for” and “with” COVID-19), but
+the number “for” COVID-19 is reported preferentially, if more than one
+number is available. Often, only one number is reported, and which
+number it is may differ over time. Metadata will be added to distinguish
+where this occurs. An extra dataset will also be added to included the
+decomposed hospital/ICU numbers, where available.
