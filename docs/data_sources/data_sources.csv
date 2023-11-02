@@ -123,7 +123,7 @@ icu,NB,New Brunswick dashboard,4f194e3b-39fd-4fe0-b420-8cefa9001f7e,archive_ts,s
 icu,NB,New Brunswick dashboard,40d93d2b-5c85-4592-b844-fb78b5ae5cec,ts,static,static/nb/nb_icu_pt_ts_2.csv,province_territory,2021-09-20,2022-01-20,,,,,,,,,
 icu,NB,New Brunswick dashboard,40d93d2b-5c85-4592-b844-fb78b5ae5cec,ts,static,static/nb/nb_icu_pt_ts_3.csv,province_territory,2022-01-21,2022-03-29,,,,,,,,,
 icu,NB,New Brunswick COVIDWATCH weekly report,e693aab1-343f-452c-968b-9e785cbfbbb9,report,reports,reports/nb/nb_weekly_report.csv,province_territory,2022-04-02,2022-12-10,,,,T,weekly,,,3,
-icu,NL,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-03-17,2021-03-15,,,,,,,,,
+icu,NL,covid19tracker.ca dataset,,ts,covid19tracker,covid19tracker/can_icu_pt_ts.csv,province_territory,2020-03-29,2021-03-15,,,,,,,,,
 icu,NL,Newfoundland & Labrador dashboard,f0e10f54-a4db-48d8-9c4e-8571e663ca28,ts,static,static/nl/nl_icu_pt_ts.csv,province_territory,2021-03-16,2022-03-11,,,,,,,,,
 icu,NS,Nova Scotia dashboard,0e7a1f46-5d31-4267-be97-831172fa7081,archive_ts,static,static/ns/ns_icu_pt_ts_1.csv,province_territory,2021-01-19,2022-01-18,,,,,,,,,
 icu,NS,Nova Scotia dashboard,9bdda695-ee83-4bcc-9d3e-d6a641cae362,archive_ts,static,static/ns/ns_icu_pt_ts_2.csv,province_territory,2022-01-19,2022-03-04,,,,,,,,,
