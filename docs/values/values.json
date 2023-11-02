@@ -398,7 +398,7 @@
                 {
                     "date_start": "",
                     "date_end": "2023-09-30",
-                    "note": "Hospital and ICU admissions are undercounted in the source dataset for the following reason: 'In this table, only the most severe outcome for a case is included; numbers of hospitalizations and ICU admissions could therefore decline over time, if a person counted in one of those columns moves to a more severe outcome.'",
+                    "note": "Hospital and ICU admissions are undercounted in the source dataset for the following reason: 'In this table, only the most severe outcome for a case is included; numbers of hospitalizations and ICU admissions could therefore decline over time, if a person counted in one of those columns moves to a more severe outcome.' Note that we calculated hospital admissions as the sum of non-ICU and ICU hospital admissions, so a patient moving from the non-ICU to the ICU category would not affect the accuracy of this value, only deaths would.",
                     "source": "https://web.archive.org/web/20231024180156/https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-40-41.pdf (Table 7)"
                 }
             ],
