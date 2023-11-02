@@ -1,5 +1,5 @@
-"date","source","date_start","date_end","region","sub_region_1","cumulative_cases","cases","cumulative_deaths","deaths","cumulative_recovered","active_cases","cumulative_tests_completed","new_tests_completed","active_hospitalizations","active_icu","new_hosp_admissions","cumulative_hosp_admissions","new_icu_admissions","cumulative_icu_admissions"
-"2022-04-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf","2022-03-27","2022-04-02","NB",,51854,3888,358,9,45362,6134,782596,11417,78,9,78,982,8,276
+"date","source","date_start","date_end","region","sub_region_1","cumulative_cases","cases","cumulative_deaths","deaths","cumulative_recovered","active_cases","active_hospitalizations","active_icu","cumulative_tests_completed","new_tests_completed","new_hosp_admissions","cumulative_hosp_admissions","new_icu_admissions","cumulative_icu_admissions"
+"2022-04-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf","2022-03-27","2022-04-02","NB",,51854,3888,358,9,45362,6134,78,9,782596,11417,78,982,8,276
 "2022-04-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf","2022-03-27","2022-04-02","NB","Zone 1",16451,1319,95,,,,,,,,,,,
 "2022-04-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf","2022-03-27","2022-04-02","NB","Zone 2",12015,730,61,,,,,,,,,,,
 "2022-04-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf","2022-03-27","2022-04-02","NB","Zone 3",9183,693,56,,,,,,,,,,,
@@ -7,7 +7,7 @@
 "2022-04-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf","2022-03-27","2022-04-02","NB","Zone 5",2218,176,25,,,,,,,,,,,
 "2022-04-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf","2022-03-27","2022-04-02","NB","Zone 6",4381,474,35,,,,,,,,,,,
 "2022-04-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf","2022-03-27","2022-04-02","NB","Zone 7",3082,268,27,,,,,,,,,,,
-"2022-04-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April3toApril9-2022.pdf","2022-04-03","2022-04-09","NB",,55812,3962,368,10,49723,5721,,,79,13,,,,
+"2022-04-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April3toApril9-2022.pdf","2022-04-03","2022-04-09","NB",,55812,3962,368,10,49723,5721,79,13,793484,10888,41,1022,8,284
 "2022-04-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April3toApril9-2022.pdf","2022-04-03","2022-04-09","NB","Zone 1",17751,1301,100,,,,,,,,,,,
 "2022-04-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April3toApril9-2022.pdf","2022-04-03","2022-04-09","NB","Zone 2",12783,768,61,,,,,,,,,,,
 "2022-04-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April3toApril9-2022.pdf","2022-04-03","2022-04-09","NB","Zone 3",9980,798,58,,,,,,,,,,,
@@ -15,7 +15,7 @@
 "2022-04-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April3toApril9-2022.pdf","2022-04-03","2022-04-09","NB","Zone 5",2376,158,25,,,,,,,,,,,
 "2022-04-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April3toApril9-2022.pdf","2022-04-03","2022-04-09","NB","Zone 6",4849,469,38,,,,,,,,,,,
 "2022-04-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April3toApril9-2022.pdf","2022-04-03","2022-04-09","NB","Zone 7",3269,187,27,,,,,,,,,,,
-"2022-04-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April10toApril16-2022.pdf","2022-04-10","2022-04-16","NB",,58768,2956,378,10,53601,4789,,,79,6,,,,
+"2022-04-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April10toApril16-2022.pdf","2022-04-10","2022-04-16","NB",,58768,2956,378,10,53601,4789,79,6,802302,8818,102,1124,15,300
 "2022-04-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April10toApril16-2022.pdf","2022-04-10","2022-04-16","NB","Zone 1",18730,979,102,,,,,,,,,,,
 "2022-04-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April10toApril16-2022.pdf","2022-04-10","2022-04-16","NB","Zone 2",13334,551,63,,,,,,,,,,,
 "2022-04-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April10toApril16-2022.pdf","2022-04-10","2022-04-16","NB","Zone 3",10507,527,58,,,,,,,,,,,
@@ -23,7 +23,7 @@
 "2022-04-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April10toApril16-2022.pdf","2022-04-10","2022-04-16","NB","Zone 5",2479,103,25,,,,,,,,,,,
 "2022-04-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April10toApril16-2022.pdf","2022-04-10","2022-04-16","NB","Zone 6",5193,344,42,,,,,,,,,,,
 "2022-04-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April10toApril16-2022.pdf","2022-04-10","2022-04-16","NB","Zone 7",3482,213,28,,,,,,,,,,,
-"2022-04-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April17toApril23-2022.pdf","2022-04-17","2022-04-23","NB",,60756,1988,384,6,57238,3134,,,87,13,,,,
+"2022-04-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April17toApril23-2022.pdf","2022-04-17","2022-04-23","NB",,60756,1988,384,6,57238,3134,87,13,810962,8660,74,1198,13,316
 "2022-04-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April17toApril23-2022.pdf","2022-04-17","2022-04-23","NB","Zone 1",19335,605,105,,,,,,,,,,,
 "2022-04-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April17toApril23-2022.pdf","2022-04-17","2022-04-23","NB","Zone 2",13656,322,63,,,,,,,,,,,
 "2022-04-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April17toApril23-2022.pdf","2022-04-17","2022-04-23","NB","Zone 3",10954,447,58,,,,,,,,,,,
@@ -31,7 +31,7 @@
 "2022-04-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April17toApril23-2022.pdf","2022-04-17","2022-04-23","NB","Zone 5",2578,99,28,,,,,,,,,,,
 "2022-04-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April17toApril23-2022.pdf","2022-04-17","2022-04-23","NB","Zone 6",5397,204,42,,,,,,,,,,,
 "2022-04-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April17toApril23-2022.pdf","2022-04-17","2022-04-23","NB","Zone 7",3635,153,28,,,,,,,,,,,
-"2022-05-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April24toApril30-2022.pdf","2022-04-24","2022-04-30","NB",,62148,1392,399,15,59468,2281,,,81,10,,,,
+"2022-05-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April24toApril30-2022.pdf","2022-04-24","2022-04-30","NB",,62148,1392,399,15,59468,2281,81,10,817574,6612,64,1262,7,324
 "2022-05-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April24toApril30-2022.pdf","2022-04-24","2022-04-30","NB","Zone 1",19771,436,109,,,,,,,,,,,
 "2022-05-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April24toApril30-2022.pdf","2022-04-24","2022-04-30","NB","Zone 2",13936,280,66,,,,,,,,,,,
 "2022-05-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April24toApril30-2022.pdf","2022-04-24","2022-04-30","NB","Zone 3",11219,265,61,,,,,,,,,,,
@@ -39,7 +39,7 @@
 "2022-05-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April24toApril30-2022.pdf","2022-04-24","2022-04-30","NB","Zone 5",2615,37,28,,,,,,,,,,,
 "2022-05-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April24toApril30-2022.pdf","2022-04-24","2022-04-30","NB","Zone 6",5569,172,43,,,,,,,,,,,
 "2022-05-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/April24toApril30-2022.pdf","2022-04-24","2022-04-30","NB","Zone 7",3723,88,28,,,,,,,,,,,
-"2022-05-10","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may1tomay7-2022.pdf","2022-05-01","2022-05-07","NB",,63486,1338,406,7,61197,1883,,,47,6,,,,
+"2022-05-10","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may1tomay7-2022.pdf","2022-05-01","2022-05-07","NB",,63486,1338,406,7,61197,1883,47,6,823963,6389,35,1296,3,326
 "2022-05-10","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may1tomay7-2022.pdf","2022-05-01","2022-05-07","NB","Zone 1",20191,420,109,,,,,,,,,,,
 "2022-05-10","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may1tomay7-2022.pdf","2022-05-01","2022-05-07","NB","Zone 2",14189,253,68,,,,,,,,,,,
 "2022-05-10","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may1tomay7-2022.pdf","2022-05-01","2022-05-07","NB","Zone 3",11557,338,62,,,,,,,,,,,
@@ -47,7 +47,7 @@
 "2022-05-10","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may1tomay7-2022.pdf","2022-05-01","2022-05-07","NB","Zone 5",2651,36,29,,,,,,,,,,,
 "2022-05-10","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may1tomay7-2022.pdf","2022-05-01","2022-05-07","NB","Zone 6",5686,117,45,,,,,,,,,,,
 "2022-05-10","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may1tomay7-2022.pdf","2022-05-01","2022-05-07","NB","Zone 7",3790,67,29,,,,,,,,,,,
-"2022-05-17","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may8tomay14-2022.pdf","2022-05-08","2022-05-14","NB",,64490,1004,411,5,62486,1593,,,35,4,,,,
+"2022-05-17","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may8tomay14-2022.pdf","2022-05-08","2022-05-14","NB",,64490,1004,411,5,62486,1593,35,4,829730,5767,24,1320,2,328
 "2022-05-17","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may8tomay14-2022.pdf","2022-05-08","2022-05-14","NB","Zone 1",20464,273,110,,,,,,,,,,,
 "2022-05-17","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may8tomay14-2022.pdf","2022-05-08","2022-05-14","NB","Zone 2",14426,237,70,,,,,,,,,,,
 "2022-05-17","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may8tomay14-2022.pdf","2022-05-08","2022-05-14","NB","Zone 3",11819,262,62,,,,,,,,,,,
@@ -55,7 +55,7 @@
 "2022-05-17","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may8tomay14-2022.pdf","2022-05-08","2022-05-14","NB","Zone 5",2670,19,29,,,,,,,,,,,
 "2022-05-17","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may8tomay14-2022.pdf","2022-05-08","2022-05-14","NB","Zone 6",5790,104,47,,,,,,,,,,,
 "2022-05-17","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may8tomay14-2022.pdf","2022-05-08","2022-05-14","NB","Zone 7",3833,43,29,,,,,,,,,,,
-"2022-05-24","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may15tomay21-2022.pdf","2022-05-15","2022-05-21","NB",,65258,768,416,5,63621,1221,,,27,2,,,,
+"2022-05-24","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may15tomay21-2022.pdf","2022-05-15","2022-05-21","NB",,65258,768,416,5,63621,1221,27,2,834755,5025,21,1341,3,331
 "2022-05-24","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may15tomay21-2022.pdf","2022-05-15","2022-05-21","NB","Zone 1",20661,197,112,,,,,,,,,,,
 "2022-05-24","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may15tomay21-2022.pdf","2022-05-15","2022-05-21","NB","Zone 2",14594,168,70,,,,,,,,,,,
 "2022-05-24","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may15tomay21-2022.pdf","2022-05-15","2022-05-21","NB","Zone 3",12052,233,64,,,,,,,,,,,
@@ -63,7 +63,7 @@
 "2022-05-24","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may15tomay21-2022.pdf","2022-05-15","2022-05-21","NB","Zone 5",2682,12,29,,,,,,,,,,,
 "2022-05-24","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may15tomay21-2022.pdf","2022-05-15","2022-05-21","NB","Zone 6",5870,80,47,,,,,,,,,,,
 "2022-05-24","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may15tomay21-2022.pdf","2022-05-15","2022-05-21","NB","Zone 7",3872,39,29,,,,,,,,,,,
-"2022-05-31","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may22tomay28-2022.pdf","2022-05-22","2022-05-28","NB",,65812,554,419,3,64528,865,,,25,2,,,,
+"2022-05-31","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may22tomay28-2022.pdf","2022-05-22","2022-05-28","NB",,65812,554,419,3,64528,865,25,2,839056,4301,14,1355,0,331
 "2022-05-31","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may22tomay28-2022.pdf","2022-05-22","2022-05-28","NB","Zone 1",20788,127,112,,,,,,,,,,,
 "2022-05-31","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may22tomay28-2022.pdf","2022-05-22","2022-05-28","NB","Zone 2",14704,110,70,,,,,,,,,,,
 "2022-05-31","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may22tomay28-2022.pdf","2022-05-22","2022-05-28","NB","Zone 3",12228,176,66,,,,,,,,,,,
@@ -71,7 +71,7 @@
 "2022-05-31","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may22tomay28-2022.pdf","2022-05-22","2022-05-28","NB","Zone 5",2693,11,29,,,,,,,,,,,
 "2022-05-31","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may22tomay28-2022.pdf","2022-05-22","2022-05-28","NB","Zone 6",5955,85,48,,,,,,,,,,,
 "2022-05-31","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may22tomay28-2022.pdf","2022-05-22","2022-05-28","NB","Zone 7",3891,19,29,,,,,,,,,,,
-"2022-06-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may29tojune04-2022.pdf","2022-05-29","2022-06-04","NB",,66345,533,421,2,65138,786,,,28,3,,,,
+"2022-06-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may29tojune04-2022.pdf","2022-05-29","2022-06-04","NB",,66345,533,421,2,65138,786,28,3,841920,2864,20,1376,2,333
 "2022-06-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may29tojune04-2022.pdf","2022-05-29","2022-06-04","NB","Zone 1",20913,125,112,,,,,,,,,,,
 "2022-06-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may29tojune04-2022.pdf","2022-05-29","2022-06-04","NB","Zone 2",14816,112,70,,,,,,,,,,,
 "2022-06-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may29tojune04-2022.pdf","2022-05-29","2022-06-04","NB","Zone 3",12386,158,67,,,,,,,,,,,
@@ -79,7 +79,7 @@
 "2022-06-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may29tojune04-2022.pdf","2022-05-29","2022-06-04","NB","Zone 5",2704,11,29,,,,,,,,,,,
 "2022-06-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may29tojune04-2022.pdf","2022-05-29","2022-06-04","NB","Zone 6",6038,83,48,,,,,,,,,,,
 "2022-06-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/may29tojune04-2022.pdf","2022-05-29","2022-06-04","NB","Zone 7",3912,21,30,,,,,,,,,,,
-"2022-06-14","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june05tojune11-2022.pdf","2022-06-05","2022-06-11","NB",,66816,471,422,1,66816,697,,,27,2,,,,
+"2022-06-14","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june05tojune11-2022.pdf","2022-06-05","2022-06-11","NB",,66816,471,422,1,66816,697,27,2,845974,4054,23,1399,2,335
 "2022-06-14","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june05tojune11-2022.pdf","2022-06-05","2022-06-11","NB","Zone 1",21052,139,113,,,,,,,,,,,
 "2022-06-14","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june05tojune11-2022.pdf","2022-06-05","2022-06-11","NB","Zone 2",14910,94,70,,,,,,,,,,,
 "2022-06-14","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june05tojune11-2022.pdf","2022-06-05","2022-06-11","NB","Zone 3",12515,129,67,,,,,,,,,,,
@@ -87,7 +87,7 @@
 "2022-06-14","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june05tojune11-2022.pdf","2022-06-05","2022-06-11","NB","Zone 5",2714,10,29,,,,,,,,,,,
 "2022-06-14","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june05tojune11-2022.pdf","2022-06-05","2022-06-11","NB","Zone 6",6079,41,48,,,,,,,,,,,
 "2022-06-14","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june05tojune11-2022.pdf","2022-06-05","2022-06-11","NB","Zone 7",3945,33,30,,,,,,,,,,,
-"2022-06-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june12tojune18-2022.pdf","2022-06-12","2022-06-18","NB",,67241,425,422,0,66201,618,,,25,3,,,,
+"2022-06-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june12tojune18-2022.pdf","2022-06-12","2022-06-18","NB",,67241,425,422,0,66201,618,25,3,849978,4004,17,1420,3,338
 "2022-06-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june12tojune18-2022.pdf","2022-06-12","2022-06-18","NB","Zone 1",21182,130,113,,,,,,,,,,,
 "2022-06-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june12tojune18-2022.pdf","2022-06-12","2022-06-18","NB","Zone 2",15008,98,70,,,,,,,,,,,
 "2022-06-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june12tojune18-2022.pdf","2022-06-12","2022-06-18","NB","Zone 3",12604,89,67,,,,,,,,,,,
@@ -95,7 +95,7 @@
 "2022-06-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june12tojune18-2022.pdf","2022-06-12","2022-06-18","NB","Zone 5",2721,7,29,,,,,,,,,,,
 "2022-06-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june12tojune18-2022.pdf","2022-06-12","2022-06-18","NB","Zone 6",6120,41,48,,,,,,,,,,,
 "2022-06-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june12tojune18-2022.pdf","2022-06-12","2022-06-18","NB","Zone 7",3981,36,30,,,,,,,,,,,
-"2022-06-28","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june19tojune25-2022.pdf","2022-06-19","2022-06-25","NB",,67725,484,425,3,66643,657,,,15,1,,,,
+"2022-06-28","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june19tojune25-2022.pdf","2022-06-19","2022-06-25","NB",,67725,484,425,3,66643,657,15,1,853733,3755,6,1426,2,340
 "2022-06-28","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june19tojune25-2022.pdf","2022-06-19","2022-06-25","NB","Zone 1",21315,133,114,,,,,,,,,,,
 "2022-06-28","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june19tojune25-2022.pdf","2022-06-19","2022-06-25","NB","Zone 2",15123,115,70,,,,,,,,,,,
 "2022-06-28","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june19tojune25-2022.pdf","2022-06-19","2022-06-25","NB","Zone 3",12724,120,68,,,,,,,,,,,
@@ -103,7 +103,7 @@
 "2022-06-28","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june19tojune25-2022.pdf","2022-06-19","2022-06-25","NB","Zone 5",2746,25,29,,,,,,,,,,,
 "2022-06-28","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june19tojune25-2022.pdf","2022-06-19","2022-06-25","NB","Zone 6",6172,52,48,,,,,,,,,,,
 "2022-06-28","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june19tojune25-2022.pdf","2022-06-19","2022-06-25","NB","Zone 7",4000,19,31,,,,,,,,,,,
-"2022-07-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june26tojuly02-2022.pdf","2022-06-26","2022-07-02","NB",,68493,768,429,4,67098,966,,,19,1,,,,
+"2022-07-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june26tojuly02-2022.pdf","2022-06-26","2022-07-02","NB",,68493,768,429,4,67098,966,19,1,857526,3793,22,1448,4,344
 "2022-07-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june26tojuly02-2022.pdf","2022-06-26","2022-07-02","NB","Zone 1",21473,158,116,,,,,,,,,,,
 "2022-07-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june26tojuly02-2022.pdf","2022-06-26","2022-07-02","NB","Zone 2",15409,286,71,,,,,,,,,,,
 "2022-07-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june26tojuly02-2022.pdf","2022-06-26","2022-07-02","NB","Zone 3",12877,153,68,,,,,,,,,,,
@@ -111,7 +111,7 @@
 "2022-07-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june26tojuly02-2022.pdf","2022-06-26","2022-07-02","NB","Zone 5",2764,18,30,,,,,,,,,,,
 "2022-07-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june26tojuly02-2022.pdf","2022-06-26","2022-07-02","NB","Zone 6",6237,65,48,,,,,,,,,,,
 "2022-07-05","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/june26tojuly02-2022.pdf","2022-06-26","2022-07-02","NB","Zone 7",4045,45,31,,,,,,,,,,,
-"2022-07-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july03tojuly09-2022.pdf","2022-07-03","2022-07-09","NB",,69537,1044,433,4,67722,1382,,,17,2,,,,
+"2022-07-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july03tojuly09-2022.pdf","2022-07-03","2022-07-09","NB",,69537,1044,433,4,67722,1382,17,2,862608,5082,15,1463,2,346
 "2022-07-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july03tojuly09-2022.pdf","2022-07-03","2022-07-09","NB","Zone 1",21749,276,118,,,,,,,,,,,
 "2022-07-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july03tojuly09-2022.pdf","2022-07-03","2022-07-09","NB","Zone 2",15757,348,71,,,,,,,,,,,
 "2022-07-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july03tojuly09-2022.pdf","2022-07-03","2022-07-09","NB","Zone 3",13097,220,70,,,,,,,,,,,
@@ -119,7 +119,7 @@
 "2022-07-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july03tojuly09-2022.pdf","2022-07-03","2022-07-09","NB","Zone 5",2808,44,30,,,,,,,,,,,
 "2022-07-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july03tojuly09-2022.pdf","2022-07-03","2022-07-09","NB","Zone 6",6314,77,48,,,,,,,,,,,
 "2022-07-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july03tojuly09-2022.pdf","2022-07-03","2022-07-09","NB","Zone 7",4090,45,31,,,,,,,,,,,
-"2022-07-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july10tojuly16-2022.pdf","2022-07-10","2022-07-16","NB",,70541,1004,438,5,68597,1506,,,22,1,,,,
+"2022-07-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july10tojuly16-2022.pdf","2022-07-10","2022-07-16","NB",,70541,1004,438,5,68597,1506,22,1,868513,5905,30,1494,1,347
 "2022-07-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july10tojuly16-2022.pdf","2022-07-10","2022-07-16","NB","Zone 1",22037,288,119,,,,,,,,,,,
 "2022-07-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july10tojuly16-2022.pdf","2022-07-10","2022-07-16","NB","Zone 2",16033,276,73,,,,,,,,,,,
 "2022-07-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july10tojuly16-2022.pdf","2022-07-10","2022-07-16","NB","Zone 3",13290,193,70,,,,,,,,,,,
@@ -127,7 +127,7 @@
 "2022-07-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july10tojuly16-2022.pdf","2022-07-10","2022-07-16","NB","Zone 5",2840,32,30,,,,,,,,,,,
 "2022-07-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july10tojuly16-2022.pdf","2022-07-10","2022-07-16","NB","Zone 6",6419,105,48,,,,,,,,,,,
 "2022-07-19","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/july10tojuly16-2022.pdf","2022-07-10","2022-07-16","NB","Zone 7",4154,64,33,,,,,,,,,,,
-"2022-07-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week29.pdf","2022-07-17","2022-07-23","NB",,71479,938,443,5,69662,1374,,,34,3,,,,
+"2022-07-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week29.pdf","2022-07-17","2022-07-23","NB",,71479,938,443,5,69662,1374,34,3,873993,5480,40,1534,3,350
 "2022-07-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week29.pdf","2022-07-17","2022-07-23","NB","Zone 1",22338,301,120,,,,,,,,,,,
 "2022-07-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week29.pdf","2022-07-17","2022-07-23","NB","Zone 2",16239,206,75,,,,,,,,,,,
 "2022-07-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week29.pdf","2022-07-17","2022-07-23","NB","Zone 3",13439,149,72,,,,,,,,,,,
@@ -135,7 +135,7 @@
 "2022-07-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week29.pdf","2022-07-17","2022-07-23","NB","Zone 5",2865,25,30,,,,,,,,,,,
 "2022-07-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week29.pdf","2022-07-17","2022-07-23","NB","Zone 6",6538,119,48,,,,,,,,,,,
 "2022-07-26","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week29.pdf","2022-07-17","2022-07-23","NB","Zone 7",4231,77,33,,,,,,,,,,,
-"2022-08-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week30.pdf","2022-07-24","2022-07-30","NB",,72226,747,447,4,70642,1137,,,33,5,,,,
+"2022-08-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week30.pdf","2022-07-24","2022-07-30","NB",,72226,747,447,4,70642,1137,33,5,878891,4898,39,1573,4,354
 "2022-08-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week30.pdf","2022-07-24","2022-07-30","NB","Zone 1",22564,226,122,,,,,,,,,,,
 "2022-08-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week30.pdf","2022-07-24","2022-07-30","NB","Zone 2",16366,127,77,,,,,,,,,,,
 "2022-08-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week30.pdf","2022-07-24","2022-07-30","NB","Zone 3",13574,135,72,,,,,,,,,,,
@@ -143,7 +143,7 @@
 "2022-08-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week30.pdf","2022-07-24","2022-07-30","NB","Zone 5",2890,25,30,,,,,,,,,,,
 "2022-08-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week30.pdf","2022-07-24","2022-07-30","NB","Zone 6",6686,148,48,,,,,,,,,,,
 "2022-08-03","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week30.pdf","2022-07-24","2022-07-30","NB","Zone 7",4266,35,33,,,,,,,,,,,
-"2022-08-09","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week31.pdf","2022-07-31","2022-08-06","NB",,72968,742,451,4,71464,1053,,,32,3,,,,
+"2022-08-09","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week31.pdf","2022-07-31","2022-08-06","NB",,72968,742,451,4,71464,1053,32,3,883641,4750,20,1593,3,365
 "2022-08-09","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week31.pdf","2022-07-31","2022-08-06","NB","Zone 1",22824,263,122,,,,,,,,,,,
 "2022-08-09","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week31.pdf","2022-07-31","2022-08-06","NB","Zone 2",16482,115,78,,,,,,,,,,,
 "2022-08-09","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week31.pdf","2022-07-31","2022-08-06","NB","Zone 3",13698,125,73,,,,,,,,,,,
@@ -151,7 +151,7 @@
 "2022-08-09","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week31.pdf","2022-07-31","2022-08-06","NB","Zone 5",2917,27,31,,,,,,,,,,,
 "2022-08-09","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week31.pdf","2022-07-31","2022-08-06","NB","Zone 6",6795,107,49,,,,,,,,,,,
 "2022-08-09","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week31.pdf","2022-07-31","2022-08-06","NB","Zone 7",4318,52,33,,,,,,,,,,,
-"2022-08-16","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week32.pdf","2022-08-07","2022-08-13","NB",,73643,675,456,5,72194,993,,,27,4,,,,
+"2022-08-16","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week32.pdf","2022-08-07","2022-08-13","NB",,73643,675,456,5,72194,993,27,4,888364,4723,22,1615,2,367
 "2022-08-16","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week32.pdf","2022-08-07","2022-08-13","NB","Zone 1",23023,199,123,,,,,,,,,,,
 "2022-08-16","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week32.pdf","2022-08-07","2022-08-13","NB","Zone 2",16601,119,81,,,,,,,,,,,
 "2022-08-16","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week32.pdf","2022-08-07","2022-08-13","NB","Zone 3",13855,157,73,,,,,,,,,,,
@@ -159,7 +159,7 @@
 "2022-08-16","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week32.pdf","2022-08-07","2022-08-13","NB","Zone 5",2948,31,31,,,,,,,,,,,
 "2022-08-16","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week32.pdf","2022-08-07","2022-08-13","NB","Zone 6",6865,70,50,,,,,,,,,,,
 "2022-08-16","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week32.pdf","2022-08-07","2022-08-13","NB","Zone 7",4362,44,33,,,,,,,,,,,
-"2022-08-23","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week33.pdf","2022-08-14","2022-08-20","NB",,74440,797,462,6,72868,1110,,,21,1,,,,
+"2022-08-23","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week33.pdf","2022-08-14","2022-08-20","NB",,74440,797,462,6,72868,1110,21,1,893423,5059,22,1637,2,370
 "2022-08-23","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week33.pdf","2022-08-14","2022-08-20","NB","Zone 1",23248,225,125,,,,,,,,,,,
 "2022-08-23","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week33.pdf","2022-08-14","2022-08-20","NB","Zone 2",16725,124,82,,,,,,,,,,,
 "2022-08-23","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week33.pdf","2022-08-14","2022-08-20","NB","Zone 3",14038,183,76,,,,,,,,,,,
@@ -167,7 +167,7 @@
 "2022-08-23","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week33.pdf","2022-08-14","2022-08-20","NB","Zone 5",2978,30,31,,,,,,,,,,,
 "2022-08-23","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week33.pdf","2022-08-14","2022-08-20","NB","Zone 6",6989,124,50,,,,,,,,,,,
 "2022-08-23","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week33.pdf","2022-08-14","2022-08-20","NB","Zone 7",4410,48,33,,,,,,,,,,,
-"2022-08-30","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week34.pdf","2022-08-21","2022-08-27","NB",,75152,712,466,4,73614,1072,,,33,4,,,,
+"2022-08-30","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week34.pdf","2022-08-21","2022-08-27","NB",,75152,712,466,4,73614,1072,33,4,898221,4798,31,1668,4,374
 "2022-08-30","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week34.pdf","2022-08-21","2022-08-27","NB","Zone 1",23462,214,126,,,,,,,,,,,
 "2022-08-30","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week34.pdf","2022-08-21","2022-08-27","NB","Zone 2",16813,88,83,,,,,,,,,,,
 "2022-08-30","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week34.pdf","2022-08-21","2022-08-27","NB","Zone 3",14228,190,77,,,,,,,,,,,
@@ -175,7 +175,7 @@
 "2022-08-30","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week34.pdf","2022-08-21","2022-08-27","NB","Zone 5",3009,31,31,,,,,,,,,,,
 "2022-08-30","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week34.pdf","2022-08-21","2022-08-27","NB","Zone 6",7079,90,50,,,,,,,,,,,
 "2022-08-30","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week34.pdf","2022-08-21","2022-08-27","NB","Zone 7",4445,35,33,,,,,,,,,,,
-"2022-09-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week35.pdf","2022-08-28","2022-09-03","NB",,75741,589,472,6,74402,867,,,37,2,,,,
+"2022-09-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week35.pdf","2022-08-28","2022-09-03","NB",,75741,589,472,6,74402,867,37,2,902598,4377,35,1703,2,378
 "2022-09-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week35.pdf","2022-08-28","2022-09-03","NB","Zone 1",23662,200,127,,,,,,,,,,,
 "2022-09-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week35.pdf","2022-08-28","2022-09-03","NB","Zone 2",16882,69,85,,,,,,,,,,,
 "2022-09-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week35.pdf","2022-08-28","2022-09-03","NB","Zone 3",14374,146,78,,,,,,,,,,,
@@ -183,7 +183,7 @@
 "2022-09-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week35.pdf","2022-08-28","2022-09-03","NB","Zone 5",3030,21,32,,,,,,,,,,,
 "2022-09-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week35.pdf","2022-08-28","2022-09-03","NB","Zone 6",7161,82,50,,,,,,,,,,,
 "2022-09-07","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week35.pdf","2022-08-28","2022-09-03","NB","Zone 7",4480,35,33,,,,,,,,,,,
-"2022-09-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week36.pdf","2022-09-04","2022-09-10","NB",,76316,575,476,4,74997,843,,,35,4,,,,
+"2022-09-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week36.pdf","2022-09-04","2022-09-10","NB",,76316,575,476,4,74997,843,35,4,906915,4317,23,1726,2,381
 "2022-09-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week36.pdf","2022-09-04","2022-09-10","NB","Zone 1",23841,179,129,,,,,,,,,,,
 "2022-09-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week36.pdf","2022-09-04","2022-09-10","NB","Zone 2",17031,149,86,,,,,,,,,,,
 "2022-09-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week36.pdf","2022-09-04","2022-09-10","NB","Zone 3",14472,98,78,,,,,,,,,,,
@@ -191,7 +191,7 @@
 "2022-09-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week36.pdf","2022-09-04","2022-09-10","NB","Zone 5",3045,15,32,,,,,,,,,,,
 "2022-09-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week36.pdf","2022-09-04","2022-09-10","NB","Zone 6",7221,60,50,,,,,,,,,,,
 "2022-09-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week36.pdf","2022-09-04","2022-09-10","NB","Zone 7",4514,34,34,,,,,,,,,,,
-"2022-09-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week37.pdf","2022-09-11","2022-09-17","NB",,76902,586,480,4,75579,843,,,21,2,,,,
+"2022-09-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week37.pdf","2022-09-11","2022-09-17","NB",,76902,586,480,4,75579,843,21,2,911178,4263,21,1747,0,381
 "2022-09-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week37.pdf","2022-09-11","2022-09-17","NB","Zone 1",24053,212,129,,,,,,,,,,,
 "2022-09-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week37.pdf","2022-09-11","2022-09-17","NB","Zone 2",17116,85,86,,,,,,,,,,,
 "2022-09-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week37.pdf","2022-09-11","2022-09-17","NB","Zone 3",14605,133,80,,,,,,,,,,,
@@ -199,7 +199,7 @@
 "2022-09-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week37.pdf","2022-09-11","2022-09-17","NB","Zone 5",3057,12,32,,,,,,,,,,,
 "2022-09-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week37.pdf","2022-09-11","2022-09-17","NB","Zone 6",7269,48,52,,,,,,,,,,,
 "2022-09-21","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week37.pdf","2022-09-11","2022-09-17","NB","Zone 7",4568,54,34,,,,,,,,,,,
-"2022-09-27","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week38.pdf","2022-09-18","2022-09-24","NB",,77460,558,485,5,76206,769,,,19,2,,,,
+"2022-09-27","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week38.pdf","2022-09-18","2022-09-24","NB",,77460,558,485,5,76206,769,19,2,915664,4486,18,1765,1,382
 "2022-09-27","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week38.pdf","2022-09-18","2022-09-24","NB","Zone 1",24252,199,129,,,,,,,,,,,
 "2022-09-27","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week38.pdf","2022-09-18","2022-09-24","NB","Zone 2",17201,85,88,,,,,,,,,,,
 "2022-09-27","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week38.pdf","2022-09-18","2022-09-24","NB","Zone 3",14756,151,82,,,,,,,,,,,
@@ -207,7 +207,7 @@
 "2022-09-27","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week38.pdf","2022-09-18","2022-09-24","NB","Zone 5",3070,13,32,,,,,,,,,,,
 "2022-09-27","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week38.pdf","2022-09-18","2022-09-24","NB","Zone 6",7304,35,53,,,,,,,,,,,
 "2022-09-27","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week38.pdf","2022-09-18","2022-09-24","NB","Zone 7",4604,36,34,,,,,,,,,,,
-"2022-10-04","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week39.pdf","2022-09-25","2022-10-01","NB",,78056,596,490,5,76740,826,,,19,1,,,,
+"2022-10-04","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week39.pdf","2022-09-25","2022-10-01","NB",,78056,596,490,5,76740,826,19,1,919569,3905,19,1784,0,383
 "2022-10-04","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week39.pdf","2022-09-25","2022-10-01","NB","Zone 1",24447,195,131,,,,,,,,,,,
 "2022-10-04","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week39.pdf","2022-09-25","2022-10-01","NB","Zone 2",17314,113,90,,,,,,,,,,,
 "2022-10-04","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week39.pdf","2022-09-25","2022-10-01","NB","Zone 3",14922,166,82,,,,,,,,,,,
@@ -215,7 +215,7 @@
 "2022-10-04","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week39.pdf","2022-09-25","2022-10-01","NB","Zone 5",3083,13,32,,,,,,,,,,,
 "2022-10-04","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week39.pdf","2022-09-25","2022-10-01","NB","Zone 6",7344,40,53,,,,,,,,,,,
 "2022-10-04","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week39.pdf","2022-09-25","2022-10-01","NB","Zone 7",4636,32,34,,,,,,,,,,,
-"2022-10-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week40.pdf","2022-10-02","2022-10-08","NB",,78687,631,493,3,77351,843,,,27,3,,,,
+"2022-10-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week40.pdf","2022-10-02","2022-10-08","NB",,78687,631,493,3,77351,843,27,3,924670,5101,27,1811,2,386
 "2022-10-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week40.pdf","2022-10-02","2022-10-08","NB","Zone 1",24600,153,131,,,,,,,,,,,
 "2022-10-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week40.pdf","2022-10-02","2022-10-08","NB","Zone 2",17479,165,91,,,,,,,,,,,
 "2022-10-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week40.pdf","2022-10-02","2022-10-08","NB","Zone 3",15061,139,83,,,,,,,,,,,
@@ -223,7 +223,7 @@
 "2022-10-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week40.pdf","2022-10-02","2022-10-08","NB","Zone 5",3105,22,32,,,,,,,,,,,
 "2022-10-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week40.pdf","2022-10-02","2022-10-08","NB","Zone 6",7401,57,53,,,,,,,,,,,
 "2022-10-12","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/COVIDReport2022-Week40.pdf","2022-10-02","2022-10-08","NB","Zone 7",4668,32,34,,,,,,,,,,,
-"2022-10-18","https://www2.gnb.ca//content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-41.pdf","2022-10-09","2022-10-15","NB",,79434,747,576,4,77839,1019,,,35,2,,,,
+"2022-10-18","https://www2.gnb.ca//content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-41.pdf","2022-10-09","2022-10-15","NB",,79434,747,576,4,77839,1019,35,2,928758,4088,29,1840,2,388
 "2022-10-18","https://www2.gnb.ca//content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-41.pdf","2022-10-09","2022-10-15","NB","Zone 1",24823,225,167,,,,,,,,,,,
 "2022-10-18","https://www2.gnb.ca//content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-41.pdf","2022-10-09","2022-10-15","NB","Zone 2",17616,136,101,,,,,,,,,,,
 "2022-10-18","https://www2.gnb.ca//content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-41.pdf","2022-10-09","2022-10-15","NB","Zone 3",15213,152,95,,,,,,,,,,,
@@ -231,7 +231,7 @@
 "2022-10-18","https://www2.gnb.ca//content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-41.pdf","2022-10-09","2022-10-15","NB","Zone 5",3128,22,34,,,,,,,,,,,
 "2022-10-18","https://www2.gnb.ca//content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-41.pdf","2022-10-09","2022-10-15","NB","Zone 6",7480,79,66,,,,,,,,,,,
 "2022-10-18","https://www2.gnb.ca//content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-41.pdf","2022-10-09","2022-10-15","NB","Zone 7",4714,46,36,,,,,,,,,,,
-"2022-10-25","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-42.pdf","2022-10-16","2022-10-22","NB",,80126,692,585,9,78474,1067,,,33,1,,,,
+"2022-10-25","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-42.pdf","2022-10-16","2022-10-22","NB",,80126,692,585,9,78474,1067,33,1,933402,4644,29,1869,2,391
 "2022-10-25","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-42.pdf","2022-10-16","2022-10-22","NB","Zone 1",25015,192,173,,,,,,,,,,,
 "2022-10-25","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-42.pdf","2022-10-16","2022-10-22","NB","Zone 2",17741,125,101,,,,,,,,,,,
 "2022-10-25","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-42.pdf","2022-10-16","2022-10-22","NB","Zone 3",15356,143,98,,,,,,,,,,,
@@ -239,7 +239,7 @@
 "2022-10-25","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-42.pdf","2022-10-16","2022-10-22","NB","Zone 5",3182,54,34,,,,,,,,,,,
 "2022-10-25","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-42.pdf","2022-10-16","2022-10-22","NB","Zone 6",7572,92,66,,,,,,,,,,,
 "2022-10-25","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-42.pdf","2022-10-16","2022-10-22","NB","Zone 7",4749,35,36,,,,,,,,,,,
-"2022-11-01","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-43.pdf","2022-10-23","2022-10-29","NB",,80715,589,592,7,79276,847,,,43,2,,,,
+"2022-11-01","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-43.pdf","2022-10-23","2022-10-29","NB",,80715,589,592,7,79276,847,43,2,938798,5396,38,1907,2,393
 "2022-11-01","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-43.pdf","2022-10-23","2022-10-29","NB","Zone 1",25166,151,176,,,,,,,,,,,
 "2022-11-01","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-43.pdf","2022-10-23","2022-10-29","NB","Zone 2",17874,133,102,,,,,,,,,,,
 "2022-11-01","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-43.pdf","2022-10-23","2022-10-29","NB","Zone 3",15460,104,100,,,,,,,,,,,
@@ -247,7 +247,7 @@
 "2022-11-01","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-43.pdf","2022-10-23","2022-10-29","NB","Zone 5",3236,54,34,,,,,,,,,,,
 "2022-11-01","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-43.pdf","2022-10-23","2022-10-29","NB","Zone 6",7634,62,67,,,,,,,,,,,
 "2022-11-01","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-43.pdf","2022-10-23","2022-10-29","NB","Zone 7",4790,41,36,,,,,,,,,,,
-"2022-11-08","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-44.pdf","2022-10-30","2022-11-05","NB",,81269,554,599,7,79849,821,,,33,5,,,,
+"2022-11-08","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-44.pdf","2022-10-30","2022-11-05","NB",,81269,554,599,7,79849,821,33,5,943035,4237,23,1930,3,397
 "2022-11-08","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-44.pdf","2022-10-30","2022-11-05","NB","Zone 1",25307,141,179,,,,,,,,,,,
 "2022-11-08","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-44.pdf","2022-10-30","2022-11-05","NB","Zone 2",17985,111,102,,,,,,,,,,,
 "2022-11-08","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-44.pdf","2022-10-30","2022-11-05","NB","Zone 3",15591,131,102,,,,,,,,,,,
@@ -255,7 +255,7 @@
 "2022-11-08","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-44.pdf","2022-10-30","2022-11-05","NB","Zone 5",3268,32,34,,,,,,,,,,,
 "2022-11-08","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-44.pdf","2022-10-30","2022-11-05","NB","Zone 6",7697,63,68,,,,,,,,,,,
 "2022-11-08","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-44.pdf","2022-10-30","2022-11-05","NB","Zone 7",4836,46,36,,,,,,,,,,,
-"2022-11-15","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-45.pdf","2022-11-06","2022-11-12","NB",,81787,518,603,4,80425,759,,,29,0,,,,
+"2022-11-15","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-45.pdf","2022-11-06","2022-11-12","NB",,81787,518,603,4,80425,759,29,0,947765,4730,22,1952,0,397
 "2022-11-15","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-45.pdf","2022-11-06","2022-11-12","NB","Zone 1",25443,136,180,,,,,,,,,,,
 "2022-11-15","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-45.pdf","2022-11-06","2022-11-12","NB","Zone 2",18094,109,103,,,,,,,,,,,
 "2022-11-15","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-45.pdf","2022-11-06","2022-11-12","NB","Zone 3",15719,128,103,,,,,,,,,,,
@@ -263,7 +263,7 @@
 "2022-11-15","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-45.pdf","2022-11-06","2022-11-12","NB","Zone 5",3288,20,34,,,,,,,,,,,
 "2022-11-15","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-45.pdf","2022-11-06","2022-11-12","NB","Zone 6",7744,47,69,,,,,,,,,,,
 "2022-11-15","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-45.pdf","2022-11-06","2022-11-12","NB","Zone 7",4874,38,36,,,,,,,,,,,
-"2022-11-22","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-46.pdf","2022-11-13","2022-11-19","NB",,82223,436,609,6,80978,636,952545,4780,32,6,,,,
+"2022-11-22","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-46.pdf","2022-11-13","2022-11-19","NB",,82223,436,609,6,80978,636,32,6,952545,4780,24,1976,8,405
 "2022-11-22","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-46.pdf","2022-11-13","2022-11-19","NB","Zone 1",25587,144,182,,,,,,,,,,,
 "2022-11-22","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-46.pdf","2022-11-13","2022-11-19","NB","Zone 2",18165,71,103,,,,,,,,,,,
 "2022-11-22","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-46.pdf","2022-11-13","2022-11-19","NB","Zone 3",15806,87,103,,,,,,,,,,,
@@ -271,7 +271,7 @@
 "2022-11-22","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-46.pdf","2022-11-13","2022-11-19","NB","Zone 5",3308,20,35,,,,,,,,,,,
 "2022-11-22","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-46.pdf","2022-11-13","2022-11-19","NB","Zone 6",7785,41,71,,,,,,,,,,,
 "2022-11-22","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-46.pdf","2022-11-13","2022-11-19","NB","Zone 7",4918,44,36,,,,,,,,,,,
-"2022-11-29","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-47.pdf","2022-11-20","2022-11-26","NB",,82819,596,615,6,81414,790,957572,5027,38,3,,,,
+"2022-11-29","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-47.pdf","2022-11-20","2022-11-26","NB",,82819,596,615,6,81414,790,38,3,957572,5027,27,2003,3,408
 "2022-11-29","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-47.pdf","2022-11-20","2022-11-26","NB","Zone 1",25779,192,184,,,,,,,,,,,
 "2022-11-29","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-47.pdf","2022-11-20","2022-11-26","NB","Zone 2",18265,100,104,,,,,,,,,,,
 "2022-11-29","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-47.pdf","2022-11-20","2022-11-26","NB","Zone 3",15920,114,105,,,,,,,,,,,
@@ -279,7 +279,7 @@
 "2022-11-29","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-47.pdf","2022-11-20","2022-11-26","NB","Zone 5",3342,34,35,,,,,,,,,,,
 "2022-11-29","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-47.pdf","2022-11-20","2022-11-26","NB","Zone 6",7838,53,71,,,,,,,,,,,
 "2022-11-29","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-47.pdf","2022-11-20","2022-11-26","NB","Zone 7",4973,55,36,,,,,,,,,,,
-"2022-12-06","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-48.pdf","2022-11-27","2022-12-03","NB",,83425,606,621,6,81932,872,963272,5700,40,0,,,,
+"2022-12-06","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-48.pdf","2022-11-27","2022-12-03","NB",,83425,606,621,6,81932,872,40,0,963272,5700,32,2035,0,408
 "2022-12-06","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-48.pdf","2022-11-27","2022-12-03","NB","Zone 1",25972,193,185,,,,,,,,,,,
 "2022-12-06","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-48.pdf","2022-11-27","2022-12-03","NB","Zone 2",18389,124,106,,,,,,,,,,,
 "2022-12-06","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-48.pdf","2022-11-27","2022-12-03","NB","Zone 3",16067,147,106,,,,,,,,,,,
@@ -287,7 +287,7 @@
 "2022-12-06","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-48.pdf","2022-11-27","2022-12-03","NB","Zone 5",3376,34,36,,,,,,,,,,,
 "2022-12-06","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-48.pdf","2022-11-27","2022-12-03","NB","Zone 6",7885,47,71,,,,,,,,,,,
 "2022-12-06","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-48.pdf","2022-11-27","2022-12-03","NB","Zone 7",5005,32,36,,,,,,,,,,,
-"2022-12-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-49.pdf","2022-12-04","2022-12-10","NB",,84244,819,628,7,82541,1075,969652,6380,40,0,,,,
+"2022-12-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-49.pdf","2022-12-04","2022-12-10","NB",,84244,819,628,7,82541,1075,40,0,969652,6380,29,2064,0,408
 "2022-12-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-49.pdf","2022-12-04","2022-12-10","NB","Zone 1",26264,292,187,,,,,,,,,,,
 "2022-12-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-49.pdf","2022-12-04","2022-12-10","NB","Zone 2",18557,168,107,,,,,,,,,,,
 "2022-12-13","https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/covid-report-2022-week-49.pdf","2022-12-04","2022-12-10","NB","Zone 3",16215,148,107,,,,,,,,,,,

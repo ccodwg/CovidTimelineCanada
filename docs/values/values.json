@@ -378,7 +378,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "The hospital admissions time series begins on 2022-04-02 but includes cumulative values to the beginning of the pandemic.",
+                    "note": "The hospital admissions time series begins on 2022-04-02 but includes cumulative values to the beginning of the pandemic; the first daily value is censored because the change for that date is unknown.",
                     "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf"
                 }
             ],
@@ -446,6 +446,14 @@
                     "source": "https://web.archive.org/web/20230923074515/https://www.inspq.qc.ca/covid-19/donnees (figure 3.2); https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Hospitalisations)"
                 }
             ],
+            "sk": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Hospital admissions begin being counted on 2022-06-19.",
+                    "source": "https://web.archive.org/web/20220810005453/https://pubsaskdev.blob.core.windows.net/pubsask-prod/136327/Integrated%2BEpi%2BSit%2BMonthly%2BReport%2BJuly%2B21%2B2022.pdf"
+                }
+            ],
             "yt": [
                 {
                     "date_start": "",
@@ -493,7 +501,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "The ICU admissions time series begins on 2022-04-02 but includes cumulative values to the beginning of the pandemic.",
+                    "note": "The ICU admissions time series begins on 2022-04-02 but includes cumulative values to the beginning of the pandemic; the first daily value is censored because the change for that date is unknown.",
                     "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf"
                 }
             ],
@@ -525,6 +533,14 @@
                     "date_end": "",
                     "note": "Source dataset reported ICU admissions 'for' and 'with' COVID-19. We report only admissions 'with' COVID-19.",
                     "source": "https://web.archive.org/web/20230923074515/https://www.inspq.qc.ca/covid-19/donnees (figure 3.2); https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Hospitalisations)"
+                }
+            ],
+            "sk": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "ICU admissions begin being counted on 2022-06-19.",
+                    "source": "https://web.archive.org/web/20220810005453/https://pubsaskdev.blob.core.windows.net/pubsask-prod/136327/Integrated%2BEpi%2BSit%2BMonthly%2BReport%2BJuly%2B21%2B2022.pdf"
                 }
             ]
         }

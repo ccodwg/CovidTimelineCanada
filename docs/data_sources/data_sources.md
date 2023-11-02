@@ -90,28 +90,32 @@
 | AB    | - Alberta respiratory virus dashboard (2020-03-07–present)                                                                                                                                                                                        |
 | BC    | - British Columbia COVID-19 Situation Report (2020-01-03–present)                                                                                                                                                                                 |
 | MB    | - Manitoba weekly surveillance report (2020-05-16–2022-03-19)<br>- Manitoba weekly surveillance report (2022-03-26–2022-11-05)<br>- Manitoba weekly surveillance report (2022-11-12–present)                                                      |
+| NB    | - New Brunswick COVIDWATCH weekly report (2022-04-02–2022-12-10)<br>- New Brunswick COVIDWATCH weekly report (2022-12-17–2023-08-26)<br>- New Brunswick Respiratory Watch weekly report (2023-09-02–present)                                      |
 | NS    | - Nova Scotia dashboard (2021-12-08–2023-05-16)<br>- Nova Scotia dashboard (2022-05-23–2023-05-22)<br>- Nova Scotia epidemiologic summary (monthly report) (2023-05-31–2023-08-31)<br>- Nova Scotia Respiratory Watch report (2023-09-30–present) |
 | NT    | - Northwest Territories COVID-19 dashboard (2021-08-25–2022-06-13)                                                                                                                                                                                |
 | NU    | - Not available                                                                                                                                                                                                                                   |
 | ON    | - Public Health Ontario Ontario Respiratory Virus Tool (2020-01-11–present)                                                                                                                                                                       |
 | QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                                                                                 |
+| SK    | - Saskatchewan monthly COVID-19 situation report (2022-06-25–2022-09-10)<br>- Saskatchewan community respiratory illness surveillance program (CRISP) report (2022-09-17–present)                                                                 |
 | YT    | - Yukon dashboard (2020-07-14–2022-11-10)                                                                                                                                                                                                         |
 </details>
 
 <details>
 <summary><b>ICU admissions</b></summary>
 
-| P/T   | Data sources                                                                                                                                                                                 |
-|:------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AB    | - Alberta respiratory virus dashboard (2020-03-07–present)                                                                                                                                   |
-| BC    | - British Columbia COVID-19 Situation Report (2020-01-03–present)                                                                                                                            |
-| MB    | - Manitoba weekly surveillance report (2020-05-16–2022-03-19)<br>- Manitoba weekly surveillance report (2022-03-26–2022-11-05)<br>- Manitoba weekly surveillance report (2022-11-12–present) |
-| NS    | - Not available                                                                                                                                                                              |
-| NT    | - Northwest Territories COVID-19 dashboard (2021-09-08–2022-06-13)                                                                                                                           |
-| NU    | - Not available                                                                                                                                                                              |
-| ON    | - Not available                                                                                                                                                                              |
-| QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                            |
-| YT    | - Not available                                                                                                                                                                              |
+| P/T   | Data sources                                                                                                                                                                                                 |
+|:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AB    | - Alberta respiratory virus dashboard (2020-03-07–present)                                                                                                                                                   |
+| BC    | - British Columbia COVID-19 Situation Report (2020-01-03–present)                                                                                                                                            |
+| MB    | - Manitoba weekly surveillance report (2020-05-16–2022-03-19)<br>- Manitoba weekly surveillance report (2022-03-26–2022-11-05)<br>- Manitoba weekly surveillance report (2022-11-12–present)                 |
+| NB    | - New Brunswick COVIDWATCH weekly report (2022-04-02–2022-12-10)<br>- New Brunswick COVIDWATCH weekly report (2022-12-17–2023-08-26)<br>- New Brunswick Respiratory Watch weekly report (2023-09-02–present) |
+| NS    | - Not available                                                                                                                                                                                              |
+| NT    | - Northwest Territories COVID-19 dashboard (2021-09-08–2022-06-13)                                                                                                                                           |
+| NU    | - Not available                                                                                                                                                                                              |
+| ON    | - Not available                                                                                                                                                                                              |
+| QC    | - INSPQ time series data CSV (2020-01-24–present)                                                                                                                                                            |
+| SK    | - Saskatchewan monthly COVID-19 situation report (2022-06-25–2022-09-10)<br>- Saskatchewan community respiratory illness surveillance program (CRISP) report (2022-09-17–present)                            |
+| YT    | - Not available                                                                                                                                                                                              |
 </details>
 
 <details>
