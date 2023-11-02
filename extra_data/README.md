@@ -2,6 +2,11 @@
 
 This repository contains several datasets that do not fit into the main datasets. They are located in the [`extra_data`](/extra_data) directory and described below.
 
+### Wastewater data
+
+- Public Health Agency of Canada wastewater dataset ([`extra_data/phac_wastewater/phac_wastewater.csv`](/extra_data/phac_wastewater/phac_wastewater.csv))
+  - The Public Health Agency of Canada (PHAC) maintains a [wastewater surveillance dataset](https://health-infobase.canada.ca/covid-19/wastewater/) with time series of SARS-CoV-2 viral load (copies/mL) for participating wastewater surveillance sites from across the country. This dataset has been reproduced here in a convenient format. All sites have a value for `region` (province/territory) and `sub_region_1` (city or region). Some sites also have multiple values for `sub_region_2` (neighbourhood or specific facility within a city), such as Toronto having Ashbridges Bay, Highland Creek, Humber, and North Toronto. See the Public Health Agency of Canada's [technical notes](https://health-infobase.canada.ca/covid-19/wastewater/technical-notes.html) for aid with interpretation of the data.
+
 ### Extra case data
 
 - A time series of individual-level data for all confirmed cases of COVID-19 reported to the Public Health Agency of Canada ([`extra_data/phac_individual_ts/phac_individual_ts.csv`](/extra_data/phac_individual_ts/phac_individual_ts.csv))
