@@ -1,0 +1,11 @@
+"date","source","date_start","date_end","region","sub_region_1","cases","cases_period","cumulative_cases_since_2023-08-27","cumulative_cases_since_2023-08-27_diff","deaths","cumulative_deaths_since_2023-08-27","cumulative_deaths_since_2023-08-27_diff","hosp_admissions","cumulative_hosp_admissions_since_2023-08-27","cumulative_hosp_admissions_since_2023-08-27_diff","icu_admissions","cumulative_icu_admissions_since_2023-08-27","cumulative_icu_admissions_since_2023-08-27_diff","notes"
+"2023-09-30","https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-35-39.pdf","2023-08-27","2023-09-30","NS",,1476,1476,1476,,7,7,,63,63,,5,5,,Date of release unknown, set to end of reporting period.
+"2023-09-30","https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-35-39.pdf","2023-08-27","2023-09-30","NS","1201",305,305,305,,,,,,,,,,,
+"2023-09-30","https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-35-39.pdf","2023-08-27","2023-09-30","NS","1202",191,191,191,,,,,,,,,,,
+"2023-09-30","https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-35-39.pdf","2023-08-27","2023-09-30","NS","1203",276,276,276,,,,,,,,,,,
+"2023-09-30","https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-35-39.pdf","2023-08-27","2023-09-30","NS","1204",704,704,704,,,,,,,,,,,
+"2023-10-14","https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-40-41.pdf","2023-10-01","2023-10-14","NS",,936,930,2412,936,2,9,2,51,114,51,0,5,0,Date of release unknown, set to end of reporting period.
+"2023-10-14","https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-40-41.pdf","2023-10-01","2023-10-14","NS","1201",237,236,542,237,,,,,,,,,,
+"2023-10-14","https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-40-41.pdf","2023-10-01","2023-10-14","NS","1202",134,132,325,134,,,,,,,,,,
+"2023-10-14","https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-40-41.pdf","2023-10-01","2023-10-14","NS","1203",135,136,411,135,,,,,,,,,,
+"2023-10-14","https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-40-41.pdf","2023-10-01","2023-10-14","NS","1204",430,426,1134,430,,,,,,,,,,

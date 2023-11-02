@@ -1,4 +1,4 @@
-# Update Nova Scotia monthly epidemiologic summary data in Google Sheets #
+# Update Nova Scotia Respiratory Watch data in Google Sheets #
 # Author: Jean-Paul R. Soucy #
 
 # Note: This script assumes the working directory is set to the root directory of the project.
@@ -44,8 +44,8 @@ def get_legacy_session(custom_session):
     session.mount('https://', custom_session(ctx))
     return session
 
-req = get_legacy_session(CustomHttpAdapter).get('https://novascotia.ca/coronavirus/alerts-notices/', timeout=5)
-url_current = re.sub('^\\.\\.', 'https://novascotia.ca/coronavirus', BeautifulSoup(req.content).find('a', text=re.compile('^COVID-19 Epidemiologic Summary'))['href'])
+req = get_legacy_session(CustomHttpAdapter).get('https://novascotia.ca/dhw/cdpc/respiratory-watch.asp', timeout=5)
+url_current = 'https://novascotia.ca/dhw/cdpc/' + BeautifulSoup(req.content).find('a', text=re.compile('^Respiratory Watch Week'))['href']
 
 session = get_legacy_session(CustomHttpAdapter)
 with session.get(url_current, stream=True) as response:
@@ -54,38 +54,42 @@ with session.get(url_current, stream=True) as response:
             file.write(chunk)
 ", ds))
 
-# extract table
-tab <- camelot$read_pdf(ds, pages = "6", flavor = "lattice")
-tab <- lapply(seq_along(tab) - 1, function(i) tab[i]$df)[[1]]
-names(tab) <- gsub("\n", "", tab[1, ]) # fix column names
-tab <- tab[-1, ]
-tab[2, 2] <- readr::parse_number(tab[2, 1]) # fix extraction of hospitalizations number in second column
+# extract tables
+tab <- camelot$read_pdf(ds, pages = "5,7")
+tab_cases <- lapply(seq_along(tab) - 1, function(i) tab[i]$df)[[1]]
+tab_outcomes <- lapply(seq_along(tab) - 1, function(i) tab[i]$df)[[2]]
+
+# function: pad vector w/ NAs
+pad_na <- function(x, n) {
+  c(x, rep(NA, times = n))
+}
 
 # construct output table
+# hosp admission/ICU admission/death:
+# In this table, only the most severe outcome for a case is included; numbers of hospitalizations and ICU admissions
+# could therefore decline over time, if a person counted in one of those columns moves to a more severe outcome.
 out <- dplyr::tibble(
   date = date_today,
   source = url$url_current,
-  date_start = lubridate::floor_date(date_today - months(1), unit = "month"), # first day of previous month
-  date_end = lubridate::ceiling_date(date_today - months(1), unit = "month") - 1, # last day of previous month
+  date_start = "", # manual
+  date_end = "", # manual
   region = "NS",
-  sub_region_1 = NA,
+  sub_region_1 = c("", "1201", "1202", "1203", "1204"),
   cases = NA,
-  cases_monthly	= as.integer(tab[1, 2]),
-  cases_monthly_previous = as.integer(tab[1, 3]),
-  `cumulative_cases_since_2022-07-01` = as.integer(tab[1, 5]),
-  `cumulative_cases_since_2022-07-01_diff` = NA,
+  cases_period	= as.integer(tab_cases[c(6, 2:5), 2]),
+  `cumulative_cases_since_2023-08-27` = as.integer(tab_cases[c(6, 2:5), 3]),
+  `cumulative_cases_since_2023-08-27_diff` = NA,
   deaths = NA,
-  deaths_monthly = as.integer(tab[3, 2]),
-  deaths_monthly_previous = as.integer(tab[3, 3]),
-  `cumulative_deaths_since_2022-07-01` = as.integer(tab[3, 5]),
-  `cumulative_deaths_since_2022-07-01_diff` = NA,
-  new_hospitlizations	= NA,
-  new_hospitalizations_monthly = as.integer(tab[2, 2]),
-  new_hospitalizations_monthly_previous = as.integer(tab[2, 3]),
-  `new_hospitalizations_since_2022-07-01` = as.integer(tab[2, 5]),
-  `new_hospitalizations_since_2022-07-01_diff` = NA,
+  `cumulative_deaths_since_2023-08-27` = pad_na(as.integer(tab_outcomes[8, 4]), 4),
+  `cumulative_deaths_since_2023-08-27_diff` = NA,
+  hosp_admissions = NA,
+  `cumulative_hosp_admissions_since_2023-08-27`	= pad_na(as.integer(tab_outcomes[8, 2]) + as.integer(tab_outcomes[8, 3]), 4), # non-ICU + ICU
+  `cumulative_hosp_admissions_since_2023-08-27_diff` = NA,
+  icu_admissions = NA,
+  `cumulative_icu_admissions_since_2023-08-27` = pad_na(as.integer(tab_outcomes[8, 3]), 4),
+  `cumulative_icu_admissions_since_2023-08-27_diff` = NA,
   notes = NA
 )
 
 # append data
-googlesheets4::sheet_append(data = out, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "ns_monthly_report")
+googlesheets4::sheet_append(data = out, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "ns_respiratory_watch_report")

@@ -11,6 +11,14 @@
         },
         "general_notes": "Cases generally refer to PCR-confirmed cases of COVID-19, but may include probable and epi-linked cases in some jurisdictions early in the pandemic. Later in the pandemic, cases ascertained by point-of-care testing (POCT) may be included in case counts in some jurisdictions. Cases ascertained via rapid antigen testing (RAT) were also briefly reported in at least one jurisdiction. Some jurisdictions changed case definitions over time. Details regarding case definitions are included as data notes where available.",
         "data_notes": {
+            "ns": [
+                {
+                    "date_start": "2023-09-30",
+                    "date_end": "2023-09-30",
+                    "note": "Values for 2023-09-30 may be slightly overcounted due to a small overlap between this report (2023-08-27 to 2023-09-30) and the previous report (2023-08-01 to 2023-08-31).",
+                    "source": "https://web.archive.org/web/20231014151241/https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-35-39.pdf"
+                }
+            ],
             "nt": [
                 {
                     "date_start": "",
@@ -97,6 +105,14 @@
                     "date_end": "",
                     "note": "Definition: 'A confirmed case who was admitted to hospital and whose death occurred during their stay. A death due to COVID-19 or influenza does not mean that it was necessarily the primary or contributing factor to the cause of death.'",
                     "source": "https://web.archive.org/web/20230913182732/https://www2.gnb.ca/content/dam/gnb/Corporate/Promo/respiratory-respiratoire/RespiratoryReport2023-24-Week-35.pdf (Appendix A); https://web.archive.org/web/20230913134246/https://www.cbc.ca/news/canada/new-brunswick/covid-19-new-brunswick-deaths-hospitalizations-respiratory-watch-influzenza-russell-1.6963073"
+                }
+            ],
+            "ns": [
+                {
+                    "date_start": "2023-09-30",
+                    "date_end": "2023-09-30",
+                    "note": "Values for 2023-09-30 may be slightly overcounted due to a small overlap between this report (2023-08-27 to 2023-09-30) and the previous report (2023-08-01 to 2023-08-31).",
+                    "source": "https://web.archive.org/web/20231014151241/https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-35-39.pdf"
                 }
             ],
             "nu": [
@@ -372,6 +388,18 @@
                     "date_end": "",
                     "note": "Hospital admissions begin being counted on 2021-12-08.",
                     "source": ""
+                },
+                {
+                    "date_start": "2023-09-30",
+                    "date_end": "2023-09-30",
+                    "note": "Values for 2023-09-30 may be slightly overcounted due to a small overlap between this report (2023-08-27 to 2023-09-30) and the previous report (2023-08-01 to 2023-08-31).",
+                    "source": "https://web.archive.org/web/20231014151241/https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-35-39.pdf"
+                },
+                {
+                    "date_start": "",
+                    "date_end": "2023-09-30",
+                    "note": "Hospital and ICU admissions are undercounted in the source dataset for the following reason: 'In this table, only the most severe outcome for a case is included; numbers of hospitalizations and ICU admissions could therefore decline over time, if a person counted in one of those columns moves to a more severe outcome.'",
+                    "source": "https://web.archive.org/web/20231024180156/https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-40-41.pdf (Table 7)"
                 }
             ],
             "nt": [
