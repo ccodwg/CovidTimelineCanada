@@ -60,6 +60,10 @@ For a summary plot of each dataset, see our [dashboard](https://ccodwg.github.io
 - `value`: The cumulative value (e.g., cumulative number of cases, number of active hospitalizations)
 - `value_daily`: The daily value (e.g., daily number of cases, change in the number of active hospitalizations)
 
+## Extra datasets
+
+Additional datasets are available, including [wastewater data](/extra_data#wastewater-data), [excess mortality data](/extra_data#excess-mortality-data), and extra [case](/extra_data#extra-case-data) and [hospital/ICU](/extra_data#extra-hospitalicu-data) data. See [Extra datasets](extra_data#extra-datasets) for details about these datasets, which are found in the [`extra_data`](/extra_data/) directory.
+
 ## Citation and terms of use
 
 Datasets in our repository are provided under the [Creative Commons Attribution 4.0 International license (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Software and scripts in our repository are provided under the [MIT license](https://opensource.org/licenses/MIT).
@@ -85,10 +89,6 @@ To contribute to this project, please [open an issue on GitHub](https://github.c
 ## Technical report and detailed description of data sources
 
 See [Technical report](docs/technical_report/technical_report.md) and [Detailed description of data sources](docs/data_sources/data_sources.md).
-
-## Extra datasets
-
-See [Extra datasets](extra_data#extra-datasets) for details about datasets in the `extra_data` directory.
 
 ## Methodology
 
