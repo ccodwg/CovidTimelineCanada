@@ -5444,60 +5444,60 @@
     "pt": ["AB", "BC", "MB", "NB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-10-15": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "MB", "NL", "ON", "PE", "QC", "SK"]
+    "pt_n": 9,
+    "pt": ["AB", "BC", "MB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-10-16": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "MB", "NL", "ON", "PE", "QC", "SK"]
+    "pt_n": 9,
+    "pt": ["AB", "BC", "MB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-10-17": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "MB", "NL", "ON", "PE", "QC", "SK"]
+    "pt_n": 9,
+    "pt": ["AB", "BC", "MB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-10-18": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "MB", "NL", "ON", "PE", "QC", "SK"]
+    "pt_n": 9,
+    "pt": ["AB", "BC", "MB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-10-19": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "MB", "NL", "ON", "PE", "QC", "SK"]
+    "pt_n": 9,
+    "pt": ["AB", "BC", "MB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-10-20": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "MB", "NL", "ON", "PE", "QC", "SK"]
+    "pt_n": 9,
+    "pt": ["AB", "BC", "MB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-10-21": {
-    "pt_n": 8,
-    "pt": ["AB", "BC", "MB", "NL", "ON", "PE", "QC", "SK"]
+    "pt_n": 9,
+    "pt": ["AB", "BC", "MB", "NL", "NS", "ON", "PE", "QC", "SK"]
   },
   "2023-10-22": {
-    "pt_n": 4,
-    "pt": ["AB", "BC", "ON", "QC"]
+    "pt_n": 6,
+    "pt": ["AB", "BC", "MB", "NS", "ON", "QC"]
   },
   "2023-10-23": {
-    "pt_n": 4,
-    "pt": ["AB", "BC", "ON", "QC"]
+    "pt_n": 6,
+    "pt": ["AB", "BC", "MB", "NS", "ON", "QC"]
   },
   "2023-10-24": {
-    "pt_n": 4,
-    "pt": ["AB", "BC", "ON", "QC"]
+    "pt_n": 6,
+    "pt": ["AB", "BC", "MB", "NS", "ON", "QC"]
   },
   "2023-10-25": {
-    "pt_n": 4,
-    "pt": ["AB", "BC", "ON", "QC"]
+    "pt_n": 6,
+    "pt": ["AB", "BC", "MB", "NS", "ON", "QC"]
   },
   "2023-10-26": {
-    "pt_n": 4,
-    "pt": ["AB", "BC", "ON", "QC"]
+    "pt_n": 6,
+    "pt": ["AB", "BC", "MB", "NS", "ON", "QC"]
   },
   "2023-10-27": {
-    "pt_n": 4,
-    "pt": ["AB", "BC", "ON", "QC"]
+    "pt_n": 6,
+    "pt": ["AB", "BC", "MB", "NS", "ON", "QC"]
   },
   "2023-10-28": {
-    "pt_n": 4,
-    "pt": ["AB", "BC", "ON", "QC"]
+    "pt_n": 6,
+    "pt": ["AB", "BC", "MB", "NS", "ON", "QC"]
   },
   "2023-10-29": {
     "pt_n": 2,
