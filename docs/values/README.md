@@ -22,14 +22,16 @@ The file uses the following structure:
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Note relating to the Canada-level dataset."
+                    "note": "Note relating to the Canada-level dataset.",
+                    "source": "URL supporting the note."
                 }
             ],
             "ab": [
                 {
                     "date_start": "2022-01-01",
                     "date_end": "2022-03-31",
-                    "note": "Note relating to the dataset for Alberta."
+                    "note": "Note relating to the dataset for Alberta.",
+                    "source": "URL supporting the note."
                 }
             ]
         }
