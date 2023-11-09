@@ -294,6 +294,14 @@
                     "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf (footnote 3 on page 1)"
                 }
             ],
+            "on": [
+                {
+                    "date_start": "2023-09-09",
+                    "date_end": "2023-10-20",
+                    "note": "ICU occupancy data are not available for 2023-09-09 to 2023-10-20 (total hospital occupancy data are not affected). The value for ICU occupancy from 2023-09-08 was carried forward for this period of missing data, but is likely an underestimate given the trend in total hospital occupancy.",
+                    "source": "https://web.archive.org/web/20231109164621/https://data.ontario.ca/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-health-region"
+                }
+            ],
             "nu": [
                 {
                     "date_start": "",
@@ -428,6 +436,14 @@
                 "date_end": "",
                 "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces.",
                 "source": "https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update"
+            }
+        ],
+        "on": [
+            {
+                "date_start": "2023-09-09",
+                "date_end": "2023-10-20",
+                "note": "ICU occupancy data are not available for 2023-09-09 to 2023-10-20 (total hospital occupancy data are not affected). The value for ICU occupancy from 2023-09-08 was carried forward for this period of missing data, but is likely an underestimate given the trend in total hospital occupancy.",
+                "source": "https://web.archive.org/web/20231109164621/https://data.ontario.ca/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-health-region"
             }
         ],
         "pe": [
