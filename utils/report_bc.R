@@ -13,11 +13,11 @@ date_local <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 ### WEEKLY DATA ###
 
 # open dashboard with webdriver
-remDr <- Covid19CanadaData::webdriver_open("https://bccdc.shinyapps.io/respiratory_covid_sitrep/#Test_rates_and_percent_positivity")
+remDr <- Covid19CanadaData::webdriver_open("https://bccdc.shinyapps.io/respiratory_covid_sitrep/")
 Sys.sleep(15) # wait 15 seconds for dashboard to load
 
 # select "Currently in hospital" tab
-remDr$findElement(using = "css selector", "a[data-value='Currently in hospital'")$clickElement()
+remDr$findElement(using = "css selector", "a[data-value='Currently in hospital']")$clickElement()
 
 # wait for chart to update
 Sys.sleep(3)
@@ -146,12 +146,12 @@ googlesheets4::sheet_append(data = tab, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arB
 ### TESTING TIME SERIES ###
 
 # open dashboard with webdriver
-remDr <- Covid19CanadaData::webdriver_open("https://bccdc.shinyapps.io/respiratory_covid_sitrep/#Test_rates_and_percent_positivity")
+remDr <- Covid19CanadaData::webdriver_open("https://bccdc.shinyapps.io/respiratory_covid_sitrep/")
 Sys.sleep(15) # wait 15 seconds for dashboard to load
 
 # change time range from "Recent twelve months" to "All time"
-remDr$findElement(using = "css selector", "div#section-test-rates-and-percent-positivity .selectize-control")$clickElement()
-remDr$findElement(using = "css selector", "div#section-test-rates-and-percent-positivity .selectize-dropdown-content .option[data-value='all_time']")$clickElement()
+remDr$findElement(using = "css selector", "div .section_topic5 .selectize-control")$clickElement()
+remDr$findElement(using = "css selector", "div .section_topic5 .selectize-dropdown-content .option[data-value='all_time']")$clickElement()
 
 # wait for chart to update
 Sys.sleep(3)
@@ -192,7 +192,7 @@ googlesheets4::write_sheet(data = dat_testing, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl
 ### CUMULATIVE CASES, DEATHS, HOSPITAL ADMISSIONS, ICU ADMISSIONS BY HEALTH AUTHORITY ###
 
 # open dashboard with webdriver
-remDr <- Covid19CanadaData::webdriver_open("https://bccdc.shinyapps.io/respiratory_covid_sitrep/#Test_rates_and_percent_positivity")
+remDr <- Covid19CanadaData::webdriver_open("https://bccdc.shinyapps.io/respiratory_covid_sitrep/")
 Sys.sleep(15) # wait 15 seconds for dashboard to load
 
 # change tab from "Weekly totals" to "Historical totals"
@@ -291,7 +291,7 @@ dat_cum <- dat_cum |>
     deaths = .data$`deaths_up_to_2022-03-31` + .data$`deaths_after_2022-04-01`, .after = .data$`deaths_after_2022-04-01`)
 
 # add source for first entry
-dat_cum[1, "source"] <- "https://bccdc.shinyapps.io/respiratory_covid_sitrep/#COVID-19_cases,_hospitalizations,_critical_care_admissions_and_deaths"
+dat_cum[1, "source"] <- "https://bccdc.shinyapps.io/respiratory_covid_sitrep/"
 
 # sync data to Google Sheets
 googlesheets4::write_sheet(data = dat_cum, ss = "1ZTUb3fVzi6CLZAbU3lj6T6FTzl5Aq-arBNL49ru3VLo", sheet = "bc_monthly_report_cumulative")
