@@ -1,4 +1,5 @@
 "name","region","date","value_daily"
+"icu_admissions","AB","2019-08-31",0
 "icu_admissions","AB","2020-03-07",0
 "icu_admissions","AB","2020-03-14",5
 "icu_admissions","AB","2020-03-21",6
@@ -188,7 +189,8 @@
 "icu_admissions","AB","2023-09-30",12
 "icu_admissions","AB","2023-10-07",12
 "icu_admissions","AB","2023-10-14",10
-"icu_admissions","AB","2023-10-21",11
-"icu_admissions","AB","2023-10-28",8
+"icu_admissions","AB","2023-10-21",15
+"icu_admissions","AB","2023-10-28",9
 "icu_admissions","AB","2023-11-04",9
-"icu_admissions","AB","2023-11-11",4
+"icu_admissions","AB","2023-11-11",7
+"icu_admissions","AB","2023-11-18",8
