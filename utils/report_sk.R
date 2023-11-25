@@ -80,7 +80,7 @@ identify_table <- function(x) {
     tables[[i]]
     }
 }
-tab_cases <- identify_table("COVID-19 positive")
+tab_cases <- identify_table("SARS-CoV-2.*positive laboratory test")
 tab_outcomes <- identify_table("Deaths \u2013 COVID-19")
 tab_zone <- identify_table("Location")
 

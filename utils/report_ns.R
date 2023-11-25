@@ -15,6 +15,11 @@ googlesheets4::gs4_auth()
 # get today's date
 date_today <- lubridate::date(lubridate::with_tz(Sys.time(), "America/Toronto"))
 
+# get dates for most recent epi week
+epi_week <- MMWRweek::MMWRweek(date_today - 7)
+date_start <- MMWRweek::MMWRweek2Date(epi_week$MMWRyear, epi_week$MMWRweek)
+date_end <- date_start + 6
+
 # import camelot
 camelot <- reticulate::import("camelot")
 
@@ -71,8 +76,8 @@ pad_na <- function(x, n) {
 out <- dplyr::tibble(
   date = date_today,
   source = url$url_current,
-  date_start = "", # manual
-  date_end = "", # manual
+  date_start = date_start,
+  date_end = date_end,
   region = "NS",
   sub_region_1 = c("", "1201", "1202", "1203", "1204"),
   cases = NA,
