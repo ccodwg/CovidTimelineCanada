@@ -1,0 +1,6 @@
+"date","source","date_start","date_end","region","sub_region_1","deaths_current_period","deaths_previous_period","deaths","hosp_admissions","icu_admissions","notes"
+"2023-11-17","https://experience.arcgis.com/experience/6a9eae0871b94de1bcc67f6426a1abdf","2023-09-24","2023-10-21","NL",,1,,1,,,See discussion of death data from this period: https://github.com/ccodwg/CovidTimelineCanada/issues/113#issuecomment-1825140845
+"2023-11-17","https://experience.arcgis.com/experience/6a9eae0871b94de1bcc67f6426a1abdf","2023-10-22","2023-10-28","NL",,1,,1,,,See discussion of death data from this period: https://github.com/ccodwg/CovidTimelineCanada/issues/113#issuecomment-1825140845
+"2023-11-17","https://experience.arcgis.com/experience/6a9eae0871b94de1bcc67f6426a1abdf","2023-10-29","2023-11-04","NL",,1,,1,,,See discussion of death data from this period: https://github.com/ccodwg/CovidTimelineCanada/issues/113#issuecomment-1825140845
+"2023-11-17","https://experience.arcgis.com/experience/6a9eae0871b94de1bcc67f6426a1abdf","2023-11-05","2023-11-11","NL",,1,,1,14,2,See discussion of death data from this period: https://github.com/ccodwg/CovidTimelineCanada/issues/113#issuecomment-1825140845
+"2023-11-24","https://experience.arcgis.com/experience/6a9eae0871b94de1bcc67f6426a1abdf","2023-11-12","2023-11-18","NL",,1,0,1,14,2,

@@ -26,7 +26,7 @@
 | BC    | Still reporting at HR level |                        |
 | MB    | Ended reporting at HR level | 2022-11-05             |
 | NB    | Ended reporting at HR level | 2022-12-10             |
-| NL    | Still reporting at HR level |                        |
+| NL    | Ended reporting at HR level | 2023-10-21             |
 | NS    | Ended reporting at HR level | 2022-03-04             |
 | NT    | Ended reporting completely  | 2022-06-13             |
 | NU    | Ended reporting completely  | 2022-04-05             |
