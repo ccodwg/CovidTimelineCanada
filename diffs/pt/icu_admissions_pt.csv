@@ -1,8 +1,8 @@
 "name","region","date_current","value_current","date_previous","value_previous","date_diff","value_diff"
 "icu_admissions","AB","2023-11-18",4659,"2023-11-11",4643,7,16
 "icu_admissions","BC","2023-11-18",7876,"2023-11-11",7850,7,26
-"icu_admissions","MB","2023-11-11",2167,"2023-11-04",2161,7,6
+"icu_admissions","MB","2023-11-18",2179,"2023-11-11",2167,7,12
 "icu_admissions","NB","2023-11-11",479,"2023-11-04",477,7,2
 "icu_admissions","NT","2022-06-13",32,"",,,
 "icu_admissions","QC","2023-11-22",4173,"2023-11-15",4146,7,27
-"icu_admissions","SK","2023-11-04",482,"2023-10-21",458,14,24
+"icu_admissions","SK","2023-11-18",502,"2023-11-04",482,14,20
