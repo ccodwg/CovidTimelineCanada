@@ -18,6 +18,7 @@ Sys.sleep(15) # wait 15 seconds for dashboard to load
 
 # select "Currently in hospital" tab
 remDr$findElement(using = "css selector", "a[data-value='Currently in hospital']")$clickElement()
+remDr$findElement(using = "css selector", "a[data-value='Currently in hospital']")$clickElement()
 
 # wait for chart to update
 Sys.sleep(3)
@@ -151,6 +152,8 @@ Sys.sleep(15) # wait 15 seconds for dashboard to load
 
 # change time range from "Recent twelve months" to "All time"
 remDr$findElement(using = "css selector", "div .section_topic5 .selectize-control")$clickElement()
+remDr$findElement(using = "css selector", "div .section_topic5 .selectize-control")$clickElement()
+remDr$findElement(using = "css selector", "div .section_topic5 .selectize-dropdown-content .option[data-value='all_time']")$clickElement()
 remDr$findElement(using = "css selector", "div .section_topic5 .selectize-dropdown-content .option[data-value='all_time']")$clickElement()
 
 # wait for chart to update
@@ -196,6 +199,7 @@ remDr <- Covid19CanadaData::webdriver_open("https://bccdc.shinyapps.io/respirato
 Sys.sleep(15) # wait 15 seconds for dashboard to load
 
 # change tab from "Weekly totals" to "Historical totals"
+remDr$findElement(using = "css selector", "a[data-value='Historical totals']")$clickElement()
 remDr$findElement(using = "css selector", "a[data-value='Historical totals']")$clickElement()
 
 # wait for tab to update
