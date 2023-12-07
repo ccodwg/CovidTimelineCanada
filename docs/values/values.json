@@ -324,6 +324,14 @@
                     "source": "https://web.archive.org/web/20231025022442/https://www.princeedwardisland.ca/en/news/three-new-cases-of-covid-19-one-additional-hospitalization; https://web.archive.org/web/20230127004456/https://www.princeedwardisland.ca/en/news/one-new-hospitalization-129-new-cases-of-covid-19-in-pei"
                 }
             ],
+            "qc": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "The QC hospital and ICU occupancy datasets end on 2023-12-05. While data are available from the source dataset (MSSS) after this date, the new dataset uses a different methodology and replaces all data retroactively. However, the new dataset does not distinguish ICU occupancy. In the interest of preserving historical ICU occupancy data, this new hospital occupancy dataset was not incorporated.",
+                    "source": "https://web.archive.org/web/20231207031511/https://www.donneesquebec.ca/recherche/dataset/99517f1f-9e4d-4853-98da-47f7cafb4d77/resource/2227d1b2-8449-4a3d-9c3b-682226dfe687/download/listevariables_notesmetho_hospit_20231205.pdf (page 2)"
+                }
+            ],
             "sk": [
                 {
                     "date_start": "",
@@ -458,6 +466,14 @@
                 "date_end": "",
                 "note": "ICU occupancy was set to 0 between 2021-04-19 and 2021-12-28, since no new hospital admissions were reported during this period.",
                 "source": "https://web.archive.org/web/20231025022442/https://www.princeedwardisland.ca/en/news/three-new-cases-of-covid-19-one-additional-hospitalization; https://web.archive.org/web/20230127004456/https://www.princeedwardisland.ca/en/news/one-new-hospitalization-129-new-cases-of-covid-19-in-pei"
+            }
+        ],
+        "qc": [
+            {
+                "date_start": "",
+                "date_end": "",
+                "note": "The QC hospital and ICU occupancy datasets end on 2023-12-05. While data are available from the source dataset (MSSS) after this date, the new dataset uses a different methodology and replaces all data retroactively. However, the new dataset does not distinguish ICU occupancy. In the interest of preserving historical ICU occupancy data, this new hospital occupancy dataset was not incorporated.",
+                "source": "https://web.archive.org/web/20231207031511/https://www.donneesquebec.ca/recherche/dataset/99517f1f-9e4d-4853-98da-47f7cafb4d77/resource/2227d1b2-8449-4a3d-9c3b-682226dfe687/download/listevariables_notesmetho_hospit_20231205.pdf (page 2)"
             }
         ],
         "sk": [
@@ -604,6 +620,12 @@
                     "date_end": "",
                     "note": "Source dataset reported hospital admissions 'for' and 'with' COVID-19. We report only admissions 'for' COVID-19.",
                     "source": "https://web.archive.org/web/20230923074515/https://www.inspq.qc.ca/covid-19/donnees (figure 3.2); https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Hospitalisations)"
+                },
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "The QC hospital and ICU admissions datasets end on 2023-11-29. While data are available from the source dataset (INSPQ) after this date, the new dataset uses a different methodology and replaces all data retroactively. However, the new dataset does not distinguish ICU admissions. In the interest of preserving historical ICU admissions data, this new hospital admissions dataset was not incorporated.",
+                    "source": "https://web.archive.org/web/20231207032121/https://www.inspq.qc.ca/covid-19/donnees (warning at top of page)"
                 }
             ],
             "sk": [
@@ -719,6 +741,12 @@
                     "date_end": "",
                     "note": "Source dataset reported ICU admissions 'for' and 'with' COVID-19. We report only admissions 'for' COVID-19.",
                     "source": "https://web.archive.org/web/20230923074515/https://www.inspq.qc.ca/covid-19/donnees (figure 3.2); https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Hospitalisations)"
+                },
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "The QC hospital and ICU admissions datasets end on 2023-11-29. While data are available from the source dataset (INSPQ) after this date, the new dataset uses a different methodology and replaces all data retroactively. However, the new dataset does not distinguish ICU admissions. In the interest of preserving historical ICU admissions data, this new hospital admissions dataset was not incorporated.",
+                    "source": "https://web.archive.org/web/20231207032121/https://www.inspq.qc.ca/covid-19/donnees (warning at top of page)"
                 }
             ],
             "sk": [
