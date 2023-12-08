@@ -1,11 +1,11 @@
 "name","region","date_current","value_current","date_previous","value_previous","date_diff","value_diff"
 "hosp_admissions","AB","2023-12-02",34938,"2023-11-25",34754,7,184
 "hosp_admissions","BC","2023-12-02",40962,"2023-11-25",40776,7,186
-"hosp_admissions","MB","2023-11-25",16065,"2023-11-18",15940,7,125
+"hosp_admissions","MB","2023-12-02",16163,"2023-11-25",16065,7,98
 "hosp_admissions","NB","2023-11-25",3240,"2023-11-18",3175,7,65
 "hosp_admissions","NS","2023-12-02",3868,"2023-11-25",3785,7,83
 "hosp_admissions","NT","2022-06-13",126,"",,,
-"hosp_admissions","ON","2023-11-25",74325,"2023-11-18",74052,7,273
+"hosp_admissions","ON","2023-12-02",74325,"2023-11-25",74325,7,0
 "hosp_admissions","PE","2023-12-02",518,"",,,
 "hosp_admissions","QC","2023-11-29",40110,"2023-11-22",39692,7,418
 "hosp_admissions","SK","2023-11-18",6909,"2023-11-04",6643,14,266

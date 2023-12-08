@@ -4084,6 +4084,13 @@
 "hosp_admissions","MB","2023-11-23",15940,0
 "hosp_admissions","MB","2023-11-24",15940,0
 "hosp_admissions","MB","2023-11-25",16065,125
+"hosp_admissions","MB","2023-11-26",16065,0
+"hosp_admissions","MB","2023-11-27",16065,0
+"hosp_admissions","MB","2023-11-28",16065,0
+"hosp_admissions","MB","2023-11-29",16065,0
+"hosp_admissions","MB","2023-11-30",16065,0
+"hosp_admissions","MB","2023-12-01",16065,0
+"hosp_admissions","MB","2023-12-02",16163,98
 "hosp_admissions","NB","2022-04-02",982,
 "hosp_admissions","NB","2022-04-03",982,0
 "hosp_admissions","NB","2022-04-04",982,0
@@ -7120,6 +7127,13 @@
 "hosp_admissions","ON","2023-11-23",74095,0
 "hosp_admissions","ON","2023-11-24",74095,0
 "hosp_admissions","ON","2023-11-25",74325,230
+"hosp_admissions","ON","2023-11-26",74325,0
+"hosp_admissions","ON","2023-11-27",74325,0
+"hosp_admissions","ON","2023-11-28",74325,0
+"hosp_admissions","ON","2023-11-29",74325,0
+"hosp_admissions","ON","2023-11-30",74325,0
+"hosp_admissions","ON","2023-12-01",74325,0
+"hosp_admissions","ON","2023-12-02",74325,0
 "hosp_admissions","PE","2021-04-16",1,1
 "hosp_admissions","PE","2021-04-17",1,0
 "hosp_admissions","PE","2021-04-18",2,1
