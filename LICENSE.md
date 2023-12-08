@@ -28,7 +28,7 @@ Adapted from Statistics Canada, 17-10-0009-01, 2022-03-17 and Statistics Canada,
 
 #### Other acknowledgements
 
-All other information is provided as is by the respective provinces and territories through publicly accessible websites and datasets. Specific sources are available by cross-referencing the UUIDs in the [data download script](https://github.com/ccodwg/Covid19CanadaETL/blob/main/R/dl_datasets.R) with the [dataset metadata](https://github.com/ccodwg/Covid19CanadaArchive/blob/master/datasets.json).
+All other information is provided as is by the respective provinces and territories through publicly accessible websites and datasets. Specific sources are available by cross-referencing the UUIDs in the [list of data sources](https://github.com/ccodwg/CovidTimelineCanada/blob/main/docs/data_sources/data_sources.csv) with the [dataset metadata](https://github.com/ccodwg/Covid19CanadaArchive/blob/master/datasets.json).
 
 ## License for datasets in this repository
 
