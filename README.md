@@ -1,5 +1,9 @@
 # Timeline of COVID-19 in Canada
 
+### ⚠️ Updates to this dataset will end on December 31, 2023 ⚠️
+
+**Updates to this dataset will end on December 31, 2023. Historical data may receive updates for a short period after this date, but no new data will be added after this date.**
+
 The Timeline of COVID-19 in Canada (`CovidTimelineCanada`) is intended to be the definitive source for data regarding the COVID-19 pandemic in Canada. In addition to making available the ready-to-use datasets, this repository also acts as a hub for collaboration on expanding and improving the availability and quality of COVID-19 data in Canada. This repository is maintained by the [COVID-19 Canada Open Data Working Group](https://opencovid.ca/) and is one component of the **[What Happened? COVID-19 in Canada](https://whathappened.coronavirus.icu/)** project. Our work has been cited or republished by numerous organizations, researchers, and journalists: see [Citation and terms of use](#citation-and-terms-of-use) for some examples.
 
 Datasets in this repository are found in the [`data`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/data) directory and are updated automatically several times per day. Map, population and other spatial data are provided in the [`geo`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/geo) directory. A [Technical report](docs/technical_report/technical_report.md) and [Detailed description of data sources](docs/data_sources/data_sources.md) is also available. For more information on how this dataset was constructed, see [Methodology](#methodology).
