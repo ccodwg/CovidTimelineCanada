@@ -2682,6 +2682,9 @@
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-04",covN2,solid,40.8895901251064,-76.7109440739246,72.6447984550758,-2.6888449147847
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-06",covN2,solid,83.997549637056,43.1079595119496,80.6297842612471,7.9849858061713
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-07",covN2,solid,29.9148129752679,-54.0827366617881,81.0993612053756,0.469576944128505
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-09",covN2,solid,56.9909660179716,27.0761530427037,65.8786905908865,-15.2206706144891
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-10",covN2,solid,37.8303302232663,-19.1606357947053,49.9246497957336,-15.9540407951529
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-11",covN2,solid,33.6865673539497,-4.1437628693166,48.4840452415023,-1.4406045542313
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2021-04-14",covN2,solid,49.6687200720514,,49.6687200720514,
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2021-04-21",covN2,solid,42.6184117115618,-7.0503083604896,42.6184117115618,-7.0503083604896
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2021-04-28",covN2,solid,131.379230345455,88.7608186338932,131.379230345455,88.7608186338932
@@ -3357,6 +3360,9 @@
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-04",covN2,solid,72.7357619266475,-6.63673285202221,91.0367633053797,-4.23551004303221
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-06",covN2,solid,55.8665668861901,-16.8691950404574,82.0108521554186,-9.02591114996109
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-07",covN2,solid,48.4637950387274,-7.4027718474627,73.2489260487669,-8.7619261066517
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-09",covN2,solid,83.8608669987817,35.3970719600543,68.0598971258033,-5.1890289229636
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-10",covN2,solid,31.739573757434,-52.1212932413477,58.5333129215561,-9.5265842042472
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-11",covN2,solid,21.879524822417,-9.860048935017,48.36206550071,-10.1712474208461
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2021-04-14",covN2,solid,2.95017857065347,,2.95017857065347,
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2021-04-21",covN2,solid,4.75414400955591,1.80396543890244,4.75414400955591,1.80396543890244
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2021-04-28",covN2,solid,12.640093940024,7.88594993046809,12.640093940024,7.88594993046809
@@ -4021,6 +4027,9 @@
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-03",covN2,solid,60.5843403171434,-72.6587881230996,69.5932262559078,0.852224568134588
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-06",covN2,solid,47.3610770740935,-13.2232632430499,69.3364636624784,-0.2567625934294
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-07",covN2,solid,30.0240328917913,-17.3370441823022,67.8031446808177,-1.5333189816607
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-09",covN2,solid,20.1146598055018,-9.9093730862895,39.5210275221325,-28.2821171586852
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-10",covN2,solid,32.2989324093167,12.1842726038149,32.4496755451758,-7.0713519769567
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-11",covN2,solid,67.7904810178884,35.4915486085717,39.5178366397183,7.0681610945425
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-02-03",covN2,liquid,12.1091542778212,,12.1091542778212,
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-02-07",covN2,liquid,39.8432899322341,27.7341356544129,25.9762221050277,13.8670678272065
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-02-10",covN2,liquid,0,-39.8432899322341,19.9216449661171,-6.0545771389106
@@ -4103,6 +4112,77 @@
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-11-21",covN2,liquid,55.4668308332914,15.6235409010573,47.6550603827628,-19.3522177096072
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-11-24",covN2,liquid,19.2425772039951,-36.2242536292963,37.3547040186432,-10.3003563641196
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-11-28",covN2,liquid,63.3147092680471,44.072132064052,41.2786432360211,3.9239392173779
+"wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-12-08",covN2,liquid,72.2729665544771,8.95825728642999,72.2729665544771,30.994323318456
+"wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-12-12",covN2,liquid,20.558852461153,-51.7141140933241,46.415909507815,-25.8570570466621
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-03",covN2,solid,8.31214475302236,,8.31214475302236,
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-07",covN2,solid,12.5657248767793,4.25358012375694,10.4389348149009,2.12679006187854
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-10",covN2,solid,10.7358073611846,-1.8299175155947,11.650766118982,1.2118313040811
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-14",covN2,solid,71.1962509708289,60.4604436096443,40.9660291660067,29.3152630470247
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-17",covN2,solid,7.63506789530924,-63.5611830755197,39.415659433069,-1.5503697329377
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-21",covN2,solid,4.72980692591545,-2.90526096939379,6.18243741061234,-33.2332220224567
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-24",covN2,solid,26.2147937551974,21.484986829282,15.4723003405564,9.28986292994406
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-28",covN2,solid,9.32059038269157,-16.8942033725058,17.7676920689445,2.2953917283881
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-03-03",covN2,solid,8.58506094716588,-0.73552943552569,8.95282566492873,-8.81486640401577
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-03-07",covN2,solid,9.23233794972612,0.647277002560239,8.908699448446,-0.044126216482729
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-03-10",covN2,solid,3.49263275265989,-5.73970519706623,6.362485351193,-2.546214097253
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-03-14",covN2,solid,18.9731786365778,15.4805458839179,11.2329056946189,4.8704203434259
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-03-17",covN2,solid,3.3802346729778,-15.5929439636,11.1767066547778,-0.0561990398411005
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-03-21",covN2,solid,14.1646920081528,10.784457335175,8.77246334056533,-2.40424331421247
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-03-24",covN2,solid,3.75651281262116,-10.4081791955316,8.960602410387,0.18813906982167
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-03-28",covN2,solid,5.68565629002782,1.92914347740666,4.72108455132449,-4.23951785906251
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-03-31",covN2,solid,14.7131630849655,9.02750679493768,10.1994096874966,5.47832513617211
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-04-04",covN2,solid,10.4994382544589,-4.2137248305066,12.6063006697122,2.4068909822156
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-04-06",covN2,solid,9.51728818931952,-0.982150065139379,11.5766298429146,-1.0296708267976
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-04-11",covN2,solid,31.7113908325939,22.1941026432744,20.6143395109567,9.0377096680421
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-04-14",covN2,solid,2.25492597830469,-29.4564648542892,16.9831584054493,-3.6311811055074
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-04-18",covN2,solid,58.1599586658852,55.9050326875805,30.207442322095,13.2242839166457
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-04-21",covN2,solid,2.97400048241007,-55.1859581834751,30.5669795741477,0.3595372520527
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-04-25",covN2,solid,2.27851125501943,-0.69548922739064,2.62625586871475,-27.940723705433
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-04-28",covN2,solid,1.79841784924631,-0.48009340577312,2.03846455213287,-0.58779131658188
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-05-02",covN2,solid,23.5882637869069,21.7898459376606,12.6933408180766,10.6548762659437
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-05-05",covN2,solid,4.3108548162468,-19.2774089706601,13.9495593015768,1.2562184835002
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-05-09",covN2,solid,6.9508181975839,2.6399633813371,5.63083650691535,-8.31872279466145
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-05-12",covN2,solid,5.20926858088851,-1.74154961669539,6.0800433892362,0.449206882320849
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-05-16",covN2,solid,7.67517201191415,2.46590343102564,6.44222029640133,0.36217690716513
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-05-19",covN2,solid,1.11582191243723,-6.55935009947692,4.39549696217569,-2.04672333422564
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-05-24",covN2,solid,0.712914105032965,-0.402907807404265,0.914368008735099,-3.48112895344059
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-05-26",covN2,solid,2.51197958865158,1.79906548361862,1.61244684684227,0.698078838107171
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-05-30",covN2,solid,0.462100398904592,-2.04987918974699,1.22899803086305,-0.38344881597922
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-06-02",covN2,solid,0.860305816736307,0.398205417831715,0.66120310782045,-0.5677949230426
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-06-09",covN2,solid,0.640445600153843,-0.219860216582464,0.640445600153843,-0.020757507666607
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-06-13",covN2,solid,2.33026261515175,1.68981701499791,1.4853541076528,0.844908507498957
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-06-16",covN2,solid,0.299111020649796,-2.03115159450195,1.31468681790078,-0.17066728975202
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-06-20",covN2,solid,0.870752515839949,0.571641495190153,0.584931768244872,-0.729755049655908
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-06-23",covN2,solid,1.80266688132635,0.931914365486401,1.33670969858315,0.751777930338278
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-06-27",covN2,solid,2.68602045857793,0.88335357725158,2.24434366995214,0.90763397136899
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-06-30",covN2,solid,1.68638183997134,-0.99963861860659,2.18620114927463,-0.0581425206775101
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-07-07",covN2,solid,3.14686394964601,1.46048210967467,3.14686394964601,0.96066280037138
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-07-11",covN2,solid,2.26241906605867,-0.88444488358734,2.70464150785234,-0.44222244179367
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-07-21",covN2,solid,3.11914700843825,0.85672794237958,3.11914700843825,0.41450550058591
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-07-25",covN2,solid,4.07515260815239,0.95600559971414,3.59714980829532,0.47800279985707
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-07-28",covN2,solid,1.1021599547179,-2.97299265343449,2.58865628143514,-1.00849352686018
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-08-01",covN2,solid,5.17266753064639,4.07050757592849,3.13741374268214,0.548757461247
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-08-04",covN2,solid,4.97112650328826,-0.20154102735813,5.07189701696733,1.93448327428519
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-08-08",covN2,solid,3.67531131356255,-1.29581518972571,4.3232189084254,-0.74867810854193
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-08-11",covN2,solid,3.09284496107882,-0.58246635248373,3.38407813732068,-0.93914077110472
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-08-15",covN2,solid,3.20365335303361,0.11080839195479,3.14824915705621,-0.23582898026447
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-08-18",covN2,solid,3.1919164915821,-0.0117368614515101,3.19778492230785,0.0495357652516399
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-08-22",covN2,solid,2.25889189977767,-0.93302459180443,2.72540419567989,-0.47238072662796
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-08-25",covN2,solid,7.66402238029278,5.40513048051511,4.96145714003523,2.23605294435534
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-08-29",covN2,solid,3.89016055154307,-3.77386182874971,5.77709146591793,0.815634325882701
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-09-01",covN2,solid,2.16453568344666,-1.72562486809641,3.02734811749487,-2.74974334842306
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-09-05",covN2,solid,10.0253992944451,7.86086361099844,6.09496748894586,3.06761937145099
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-09-08",covN2,solid,7.35928039554457,-2.66611889890053,8.69233984499481,2.59737235604895
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-09-12",covN2,solid,0.78171832686671,-6.57756206867786,4.07049936120564,-4.62184048378917
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-09-15",covN2,solid,3.52805534466689,2.74633701780018,2.1548868357668,-1.91561252543884
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-09-19",covN2,solid,1.31034775566835,-2.21770758899854,2.41920155016762,0.26431471440082
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-09-22",covN2,solid,1.06935793240535,-0.240989823263,1.18985284403685,-1.22934870613077
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-09-26",covN2,solid,1.30654914630391,0.23719121389856,1.18795353935463,-0.00189930468221999
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-09-29",covN2,solid,3.58894725089858,2.28239810459467,2.44774819860125,1.25979465924662
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-10-03",covN2,solid,7.36242482109208,3.7734775701935,5.47568603599533,3.02793783739408
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-10-24",covN2,solid,2.28351363599876,-5.07891118509332,2.28351363599876,-3.19217239999657
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-11-14",covN2,solid,5.57168057784261,3.28816694184385,5.57168057784261,3.28816694184385
+"wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-11-21",covN2,solid,6.37683131278953,0.80515073494692,6.37683131278953,0.80515073494692
 "wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-02-10",covN2,liquid,32.6699368620533,,32.6699368620533,
 "wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-02-13",covN2,liquid,51.9155812119042,19.2456443498509,42.2927590369787,9.6228221749254
 "wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-02-17",covN2,liquid,34.9047014202801,-17.0108797916241,43.4101413160922,1.1173822791135
@@ -4189,6 +4269,79 @@
 "wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-11-26",covN2,liquid,94.1712662525059,11.6725585277172,78.6436584065031,12.9014784730714
 "wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-01",covN2,liquid,131.098152373174,36.9268861206681,112.63470931284,33.9910509063369
 "wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-04",covN2,liquid,107.495349105155,-23.602803268019,119.296750739164,6.662041426324
+"wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-08",covN2,liquid,254.069710576231,146.574361471076,180.782529840693,61.485779101529
+"wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-11",covN2,liquid,271.449174360081,17.37946378385,262.759442468156,81.976912627463
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-02-10",covN2,solid,50.7804741783405,,50.7804741783405,
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-02-13",covN2,solid,17.8996220118574,-32.8808521664831,34.340048095099,-16.4404260832415
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-02-17",covN2,solid,48.1859553052808,30.2863332934234,33.0427886585691,-1.2972594365299
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-02-21",covN2,solid,9.9560498613922,-38.2299054438886,29.0710025833365,-3.9717860752326
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-02-24",covN2,solid,27.7847983361306,17.8287484747384,18.8704240987614,-10.2005784845751
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-02-27",covN2,solid,13.1635212964686,-14.621277039662,16.9681231646638,-1.9023009340976
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-03-03",covN2,solid,39.1033521310325,25.9398308345639,26.1334367137506,9.1653135490868
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-03-06",covN2,solid,103.006570463327,63.9032183322945,71.05496129718,44.9215245834294
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-03-10",covN2,solid,11.7117754878873,-91.2947949754397,57.3591729756074,-13.6957883215726
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-03-13",covN2,solid,7.92448574941839,-3.78728973846891,9.81813061865284,-47.5410423569546
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-03-17",covN2,solid,1.97715321051781,-5.94733253890058,4.9508194799681,-4.86731113868474
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-03-20",covN2,solid,2.55073864801845,0.57358543750064,2.26394592926813,-2.68687355069997
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-03-24",covN2,solid,9.38805114878668,6.83731250076823,5.96939489840257,3.70544896913444
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-03-27",covN2,solid,118.952991106363,109.564939957576,64.1705211275751,58.2011262291725
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-03-31",covN2,solid,4.21179974639282,-114.74119135997,61.5823954263782,-2.5881257011969
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-04-03",covN2,solid,0.795638616737212,-3.41616112965561,2.50371918156502,-59.0786762448132
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-04-06",covN2,solid,6.35708010128292,5.56144148454571,3.78817282147099,1.28445363990597
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-04-11",covN2,solid,5.28010931921967,-1.07697078206325,5.81859471025129,2.0304218887803
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-04-14",covN2,solid,0.974472061094215,-4.30563725812545,3.12729069015694,-2.69130402009435
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-04-17",covN2,solid,0.0054886866065897,-0.968983374487625,2.08669002230682,-1.04060066785012
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-04-21",covN2,solid,2.53717348039712,2.53168479379053,1.27133108350185,-0.81535893880497
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-04-24",covN2,solid,2.29428201053429,-0.24289146986283,2.4157277454657,1.14439666196385
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-04-28",covN2,solid,3.14444431345983,0.85016230292554,2.71936316199706,0.30363541653136
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-05-01",covN2,solid,0.638770098661563,-2.50567421479827,1.8916072060607,-0.82775595593636
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-05-05",covN2,solid,1.4480046402146,0.809234541553037,1.04338736943808,-0.84821983662262
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-05-08",covN2,solid,1.24606015744158,-0.20194448277302,1.34703239882809,0.30364502939001
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-05-12",covN2,solid,3.04370039445957,1.79764023701799,2.14488027595058,0.79784787712249
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-05-15",covN2,solid,5.20418354163106,2.16048314717149,4.12394196804532,1.97906169209474
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-05-19",covN2,solid,0.814194311481501,-4.38998923014956,3.00918892655628,-1.11475304148904
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-05-23",covN2,solid,1.32453193943216,0.510337627950659,1.06936312545683,-1.93982580109945
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-05-26",covN2,solid,0.698054478472642,-0.626477460959518,1.0112932089524,-0.0580699165044301
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-05-29",covN2,solid,1.96701665046405,1.26896217199141,1.32986768945628,0.31857448050388
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-06-02",covN2,solid,0.464268017620473,-1.50274863284358,1.21564233404226,-0.11422535541402
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-06-05",covN2,solid,29.7841410425163,29.3198730248958,15.1242045300684,13.9085621960261
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-06-09",covN2,solid,1.20280245205991,-28.5813385904564,15.4934717472881,0.369267217219699
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-06-12",covN2,solid,0.246677506468138,-0.956124945591772,0.724739979264022,-14.7687317680241
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-06-16",covN2,solid,0.605381237191351,0.358703730723213,0.426029371829744,-0.298710607434278
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-06-19",covN2,solid,0.302516177038343,-0.302865060153008,0.453948707114847,0.027919335285103
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-06-23",covN2,solid,1.9784091246723,1.67589294763396,1.14046265085532,0.686513943740473
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-06-26",covN2,solid,2.54699774961056,0.56858862493826,2.26270343714143,1.12224078628611
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-06-30",covN2,solid,1.36074699116122,-1.18625075844934,1.95387237038589,-0.30883106675554
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-07-04",covN2,solid,5.33715796698929,3.97641097582807,3.34895247907525,1.39508010868936
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-07-07",covN2,solid,4.11025535194719,-1.2269026150421,4.72370665946824,1.37475418039299
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-07-10",covN2,solid,1.55465623413016,-2.55559911781703,3.66735651768888,-1.05635014177936
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-07-14",covN2,solid,0.335733333304663,-1.2189229008255,0.945194783717409,-2.72216173397147
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-07-17",covN2,solid,0.504720255853409,0.168986922548746,0.420226794579036,-0.524967989138373
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-07-21",covN2,solid,1.06089340238493,0.556173146531521,0.782806829119167,0.362580034540131
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-07-24",covN2,solid,1.02988755319421,-0.0310058491907199,1.04539047778957,0.262583648670403
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-07-28",covN2,solid,1.95226279001541,0.9223752368212,1.49107517160481,0.44568469381524
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-07-31",covN2,solid,1.58912640196938,-0.36313638804603,1.77069459599239,0.27961942438758
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-08-04",covN2,solid,0.738325494201348,-0.850800907768032,1.16372594808536,-0.60696864790703
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-08-08",covN2,solid,5.00039367378552,4.26206817958417,2.86935958399343,1.70563363590807
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-08-11",covN2,solid,0.285364647052932,-4.71502902673259,2.64287916041922,-0.22648042357421
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-08-14",covN2,solid,0.548260369502595,0.262895722449663,1.94467289678035,-0.69820626363887
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-08-18",covN2,solid,0.827288678045381,0.279028308542786,0.687774523773988,-1.25689837300636
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-08-21",covN2,solid,1.67656960001106,0.849280921965679,1.25192913902822,0.564154615254232
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-08-25",covN2,solid,3.72768485485321,2.05111525484215,2.70212722743213,1.45019808840391
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-08-28",covN2,solid,1.61384223751862,-2.11384261733459,2.67076354618592,-0.0313636812462099
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-09-01",covN2,solid,0.573785057102793,-1.04005718041583,1.09381364731071,-1.57694989887521
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-09-05",covN2,solid,2.39701521645707,1.82323015935428,1.48540013677993,0.39158648946922
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-09-08",covN2,solid,24.0431566346316,21.6461414181745,13.2200859255443,11.7346857887644
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-09-11",covN2,solid,4.70929663866444,-19.3338599959672,10.383156163251,-2.8369297622933
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-09-15",covN2,solid,15.0104537605517,10.3011571218873,9.85987519960804,-0.523280963642961
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-09-18",covN2,solid,0.0054886866065897,-15.0049650739451,7.50797122357912,-2.35190397602892
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-09-22",covN2,solid,0.741330120224023,0.735841433617433,0.373409403415307,-7.13456182016381
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-09-25",covN2,solid,5.16540872946053,4.42407860923651,2.95336942484227,2.57996002142696
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-09-29",covN2,solid,6.31222120864768,1.14681247918715,5.73881496905411,2.78544554421184
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-10-03",covN2,solid,40.398908485173,34.0866872765253,23.3555648469103,17.6167498778562
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-10-23",covN2,solid,12.3519038368707,-28.0470046483023,12.3519038368707,-11.0036610100396
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-11-06",covN2,solid,4.50267293944575,-7.84923089742495,4.50267293944575,-7.84923089742495
+"wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data) (NML Historical Data)","2023-11-14",covN2,solid,15.6380200509491,11.1353471115033,15.6380200509491,11.1353471115033
 "wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-03-23",covN2,liquid,42.5687427728588,,42.5687427728588,
 "wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-03-26",covN2,liquid,72.2729665544771,29.7042237816183,57.4208546636679,14.8521118908091
 "wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-03-30",covN2,liquid,42.5687427728588,-29.7042237816183,57.4208546636679,0
@@ -4261,6 +4414,8 @@
 "wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-11-20",covN2,liquid,114.848494517366,-93.47871483716,161.587851935946,-119.424121442341
 "wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-11-23",covN2,liquid,94.1712662525059,-20.6772282648601,104.509880384936,-57.07797155101
 "wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-11-27",covN2,liquid,377.891119425011,283.719853172505,236.031192838758,131.521312453822
+"wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-12-07",covN2,liquid,222.577688807412,-155.313430617599,222.577688807412,-13.453504031346
+"wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-12-11",covN2,liquid,114.848494517366,-107.729194290046,168.713091662389,-53.864597145023
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2022-12-22",covN2,liquid,17.2103080225198,,17.2103080225198,
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2022-12-26",covN2,liquid,21.3425637404397,4.1322557179199,19.2764358814798,2.06612785896
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-01-02",covN2,liquid,30.5499023930163,9.2073386525766,30.5499023930163,11.2734665115365
@@ -4351,6 +4506,85 @@
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-11-23",covN2,liquid,107.495349105155,-146.574361471076,107.495349105155,-146.574361471076
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-11-27",covN2,liquid,72.2729665544771,-35.2223825506779,89.884157829816,-17.611191275339
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-11-29",covN2,liquid,107.495349105155,35.2223825506779,95.7545549215957,5.87039709177969
+"wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-12-04",covN2,liquid,254.069710576231,146.574361471076,180.782529840693,85.0279749190973
+"wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-12-07",covN2,liquid,331.051394484224,76.981683907993,292.560552530228,111.778022689535
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2022-12-22",covN2,solid,12.4309662042057,,12.4309662042057,
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2022-12-26",covN2,solid,15.1978285472097,2.766862343004,13.8143973757077,1.383431171502
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-01-02",covN2,solid,119.031573402592,103.833744855382,119.031573402592,105.217176026884
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-01-05",covN2,solid,14.7127578568054,-104.318815545787,66.872165629699,-52.159407772893
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-01-09",covN2,solid,52.9047457686247,38.1919879118193,33.8087518127151,-33.0634138169839
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-01-12",covN2,solid,3.21025843907096,-49.6944873295537,28.0575021038478,-5.7512497088673
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-01-16",covN2,solid,30.7501425455916,27.5398841065206,16.9802004923313,-11.0773016115165
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-01-19",covN2,solid,10.8214287087392,-19.9287138368524,20.7857856271654,3.8055851348341
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-01-23",covN2,solid,101.170590382965,90.3491616742258,55.9960095458522,35.2102239186868
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-01-26",covN2,solid,47.306374273994,-53.864216108971,74.2384823284796,18.2424727826274
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-01-30",covN2,solid,105.572801377126,58.266427103132,76.4395878255603,2.20110549708069
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-02-02",covN2,solid,57.8674418773983,-47.7053594997277,81.7201216272624,5.28053380170211
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-02-09",covN2,solid,93.3434665544101,35.4760246770118,93.3434665544101,11.6233449271477
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-02-13",covN2,solid,152.645056768467,59.3015902140569,122.994261661439,29.6507951070289
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-02-16",covN2,solid,79.5115716632601,-73.1334851052069,116.078314215864,-6.915947445575
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-02-21",covN2,solid,58.42673582504,-21.0848358382201,68.96915374415,-47.109160471714
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-02-23",covN2,solid,30.8037287792624,-27.6230070457776,44.6152323021512,-24.3539214419988
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-02-27",covN2,solid,13.7676272021078,-17.0361015771546,34.3326972688034,-10.2825350333478
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-03-02",covN2,solid,15.4179332233353,1.6503060212275,14.5927802127216,-19.7399170560818
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-03-06",covN2,solid,30.3552430489212,14.9373098255859,22.8865881361282,8.2938079234066
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-03-09",covN2,solid,15.4400808798774,-14.9151621690438,22.8976619643993,0.0110738282711011
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-03-13",covN2,solid,63.4556872004675,48.0156063205901,39.4478840401725,16.5502220757732
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-03-16",covN2,solid,28.4858793699393,-34.9698078305282,45.9707832852034,6.52289924503091
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-03-20",covN2,solid,10.9054656978837,-17.5804136720556,19.6956725339115,-26.2751107512919
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-03-23",covN2,solid,19.3697130471308,8.4642473492471,15.1375893725072,-4.5580831614043
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-03-27",covN2,solid,10.5513390869792,-8.8183739601516,14.960526067055,-0.177063305452201
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-03-30",covN2,solid,5.05941842741997,-5.49192065955923,7.8053787571996,-7.1551473098554
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-04-06",covN2,solid,5.69308001329099,0.63366158587102,5.69308001329099,-2.11229874390861
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-04-11",covN2,solid,4.2820644101959,-1.41101560309509,4.98757221174345,-0.70550780154754
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-04-13",covN2,solid,2.32961183862966,-1.95245257156624,3.30583812441278,-1.68173408733067
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-04-17",covN2,solid,7.62267251488766,5.293060676258,4.74478292123774,1.43894479682496
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-04-20",covN2,solid,0.773857661376324,-6.84881485351134,4.19826508813199,-0.54651783310575
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-04-24",covN2,solid,4.60550746928927,3.83164980791295,2.6896825653328,-1.50858252279919
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-04-27",covN2,solid,1.41758922900776,-3.18791824028151,3.01154834914851,0.32186578381571
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-05-01",covN2,solid,31.3223635317576,29.9047743027498,16.3699763803827,13.3584280312342
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-05-04",covN2,solid,61.9350681350026,30.612704603245,46.6287158333801,30.2587394529974
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-05-08",covN2,solid,17.8105848751067,-44.1244832598959,39.8728265050546,-6.7558893283255
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-05-11",covN2,solid,22.4987841229179,4.6881992478112,20.1546844990123,-19.7181420060423
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-05-15",covN2,solid,6.58157245840731,-15.9172116645106,14.5401782906626,-5.6145062083497
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-05-18",covN2,solid,8.69790958945537,2.11633713104806,7.63974102393134,-6.90043726673126
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-05-23",covN2,solid,47.824977043303,39.1270674538476,28.2614433163792,20.6217022924479
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-05-25",covN2,solid,15.155940720044,-32.669036323259,31.4904588816735,3.2290155652943
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-05-29",covN2,solid,15.0735590659349,-0.0823816541091009,26.0181589430939,-5.4722999385796
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-05-31",covN2,solid,264.447230250643,249.373671184708,98.2255766788738,72.2074177357799
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-06-05",covN2,solid,16.7790497096693,-247.668180540974,140.613139980156,42.3875633012822
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-06-08",covN2,solid,26.0064340387465,9.2273843290772,21.3927418742079,-119.220398105948
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-06-12",covN2,solid,8.82730289144742,-17.1791311472991,17.416868465097,-3.9758734091109
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-06-15",covN2,solid,9.78898435002484,0.96168145857742,9.30814362073613,-8.10872484436087
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-06-19",covN2,solid,7.20337791263024,-2.5856064373946,8.49618113132754,-0.81196248940859
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-06-22",covN2,solid,3.48998932029578,-3.71338859233446,5.34668361646301,-3.14949751486453
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-06-26",covN2,solid,2.9469930166495,-0.54299630364628,3.21849116847264,-2.12819244799037
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-06-29",covN2,solid,5.52048403986394,2.57349102321444,4.23373852825672,1.01524735978408
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-07-04",covN2,solid,2.54850505108104,-2.9719789887829,4.03449454547249,-0.19924398278423
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-07-06",covN2,solid,2.5154370278189,-0.0330680232621399,2.53197103944997,-1.50252350602252
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-07-10",covN2,solid,12.240407356942,9.7249703291231,5.76811647861398,3.23614543916401
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-07-13",covN2,solid,4.01419643402593,-8.22621092291607,8.12730189548397,2.35918541686999
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-07-24",covN2,solid,4.04942967289501,0.0352332388690799,4.04942967289501,-4.07787222258896
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-07-27",covN2,solid,6.63053139276518,2.58110171987017,5.3399805328301,1.29055085993509
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-07-31",covN2,solid,2.68275449520955,-3.94777689755563,4.65664294398736,-0.68333758884274
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-08-01",covN2,solid,3.54501384980126,0.86225935459171,4.28609991259199,-0.37054303139537
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-08-10",covN2,solid,1.6574778762248,-1.88753597357646,1.6574778762248,-2.62862203636719
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-08-14",covN2,solid,5.19193450408349,3.53445662785869,3.42470619015414,1.76722831392934
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-08-17",covN2,solid,4.04145481521116,-1.15047968887233,4.61669465964732,1.19198846949318
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-08-21",covN2,solid,4.9113445469163,0.869889731705141,4.47639968106373,-0.14029497858359
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-08-24",covN2,solid,3.60468131268605,-1.30666323423025,4.25801292980118,-0.21838675126255
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-08-31",covN2,solid,1.64784870134842,-1.95683261133763,1.64784870134842,-2.61016422845276
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-09-07",covN2,solid,7.63647664524694,5.98862794389852,7.63647664524694,5.98862794389852
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-09-11",covN2,solid,5.2966663596452,-2.33981028560174,6.46657150244607,-1.16990514280087
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-09-14",covN2,solid,2.28190984916735,-3.01475651047785,3.78928810440627,-2.6772833980398
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-09-18",covN2,solid,0.652175890740221,-1.62973395842713,1.46704286995379,-2.32224523445248
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-09-21",covN2,solid,3.13804360531351,2.48586771457329,1.89510974802687,0.42806687807308
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-09-25",covN2,solid,17.5388716770773,14.4008280717638,10.3384576411954,8.44334789316853
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-09-28",covN2,solid,20.5414917991652,3.0026201220879,19.0401817381212,8.7017240969258
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-10-03",covN2,solid,37.442512187576,16.9010203884108,28.9920019933706,9.9518202552494
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-10-05",covN2,solid,34.7363206573554,-2.7061915302206,36.0894164224657,7.0974144290951
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-11-09",covN2,solid,21.5221654466177,-13.2141552107377,21.5221654466177,-14.567250975848
+"wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-11-14",covN2,solid,27.5832262995545,6.0610608529368,24.5526958730862,3.0305304264685
 "wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-02-16",covN2,liquid,114.848494517366,,114.848494517366,
 "wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-02-21",covN2,liquid,77.2167491168933,-37.6317454004727,96.0326218171294,-18.8158727002366
 "wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-02-23",covN2,liquid,194.989113194526,117.772364077633,136.102931155709,40.0703093385796
@@ -4423,6 +4657,71 @@
 "wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-11-23",covN2,liquid,237.80296250473,42.813849310204,216.396037849628,33.49140608242
 "wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-11-27",covN2,liquid,149.646938149992,-88.156024354738,193.724950327361,-22.671087522267
 "wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-11-30",covN2,liquid,72.2729665544771,-77.3739715955149,110.959952352234,-82.764997975127
+"wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-12-07",covN2,liquid,431.35809279031,359.085126235833,431.35809279031,320.398140438076
+"wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-12-11",covN2,liquid,331.051394484224,-100.306698306086,381.204743637267,-50.1533491530431
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-02-16",covN2,solid,103.852446911388,,103.852446911388,
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-02-21",covN2,solid,21.5923413746209,-82.2601055367671,62.7223941430045,-41.1300527683835
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-02-23",covN2,solid,98.3182758489944,76.7259344743735,59.9553086118077,-2.7670855311968
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-02-27",covN2,solid,126.570586690881,28.2523108418866,82.1604013048319,22.2050926930242
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-03-02",covN2,solid,22.3863617226103,-104.184224968271,74.4784742067454,-7.68192709808649
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-03-06",covN2,solid,13.5611151123509,-8.8252466102594,17.9737384174806,-56.5047357892648
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-03-09",covN2,solid,28.9013529001812,15.3402377878303,21.231234006266,3.2574955887854
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-03-13",covN2,solid,10.0676254402504,-18.8337274599308,19.4844891702158,-1.7467448360502
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-03-16",covN2,solid,27.330318811843,17.2626933715926,18.6989721260467,-0.785517044169097
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-03-20",covN2,solid,75.4301488118156,48.0998299999726,51.3802338118293,32.6812616857826
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-03-23",covN2,solid,38.636834725835,-36.7933140859806,57.0334917688253,5.653257956996
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-03-27",covN2,solid,28.6254644032587,-10.0113703225763,33.6311495645468,-23.4023422042785
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-03-30",covN2,solid,5.72122414593069,-22.904240257328,17.1733442745947,-16.4578052899521
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-04-03",covN2,solid,22.839793888521,17.1185697425903,14.2805090172258,-2.8928352573689
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-04-06",covN2,solid,12.4597885667616,-10.3800053217594,17.6497912276413,3.3692822104155
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-04-11",covN2,solid,2.93261979089596,-9.52716877586564,7.6962041788288,-9.9535870488125
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-04-13",covN2,solid,2.28246225578332,-0.65015753511264,2.60754102333964,-5.08866315548916
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-04-17",covN2,solid,1.61575641548368,-0.66670584029964,2.27694615405432,-0.33059486928532
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-04-20",covN2,solid,1.16876476845207,-0.44699164703161,1.39226059196788,-0.88468556208644
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-04-24",covN2,solid,0.21515721663192,-0.95360755182015,0.691960992541996,-0.700299599425884
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-04-27",covN2,solid,9.83311813547827,9.61796091884635,5.02413767605509,4.33217668351309
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-05-01",covN2,solid,7.06992249619057,-2.7631956392877,8.45152031583441,3.42738263977932
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-05-04",covN2,solid,104.993765691354,97.9238431951634,56.0318440937725,47.5803237779381
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-05-08",covN2,solid,4.88003047983131,-100.113735211523,54.9368980855929,-1.0949460081796
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-05-11",covN2,solid,2.97862182657778,-1.90140865325353,3.92932615320454,-51.0075719323884
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-05-15",covN2,solid,26.9042970680903,23.9256752415125,14.941459447334,11.0121332941295
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-05-19",covN2,solid,6.26295244899019,-20.6413446191001,16.5836247585402,1.6421653112062
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-05-23",covN2,solid,3.74345602600604,-2.51949642298415,5.00320423749812,-11.5804205210421
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-05-25",covN2,solid,9.37514528555956,5.63168925955352,6.46051792018527,1.45731368268715
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-05-29",covN2,solid,1.79659140735797,-7.57855387820159,4.97173090630786,-1.48878701387741
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-06-01",covN2,solid,7.73835124046055,5.94175983310258,4.76747132390926,-0.2042595823986
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-06-05",covN2,solid,0.639299549768191,-7.09905169069236,4.18882539511437,-0.57864592879489
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-06-08",covN2,solid,0.279827670503367,-0.359471879264824,0.459563610135779,-3.72926178497859
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-06-12",covN2,solid,0.587635503668817,0.30780783316545,0.433731587086092,-0.025832023049687
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-06-15",covN2,solid,0.533921030438502,-0.053714473230315,0.56077826705366,0.127046679967568
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-06-19",covN2,solid,0.0054886866065897,-0.528432343831912,0.269704858522546,-0.291073408531114
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-06-22",covN2,solid,0.557937193445493,0.552448506838903,0.281712940026041,0.012008081503495
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-06-26",covN2,solid,0.999461175445155,0.441523981999662,0.778699184445324,0.496986244419283
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-06-29",covN2,solid,0.441430687635924,-0.558030487809231,0.720445931540539,-0.058253252904785
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-07-03",covN2,solid,0.788935468161545,0.347504780525621,0.615183077898734,-0.105262853641805
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-07-06",covN2,solid,0.768512255698963,-0.0204232124625821,0.778723861930254,0.16354078403152
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-07-10",covN2,solid,0.661345768350937,-0.107166487348026,0.71492901202495,-0.063794849905304
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-07-13",covN2,solid,0.274972638701981,-0.386373129648956,0.468159203526459,-0.246769808498491
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-07-17",covN2,solid,0.767764127030347,0.492791488328366,0.521368382866164,0.053209179339705
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-07-20",covN2,solid,15.9858765143886,15.2181123873583,8.37682032070947,7.85545193784331
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-07-24",covN2,solid,2.82121581697822,-13.1646606974104,9.40354616568341,1.02672584497394
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-07-31",covN2,solid,0.0054886866065897,-2.81572713037163,0.0054886866065897,-9.39805747907682
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-08-10",covN2,solid,0.455501143989588,0.450012457382998,0.455501143989588,0.450012457382998
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-08-14",covN2,solid,0.178149313822043,-0.277351830167545,0.316825228905816,-0.138675915083772
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-08-17",covN2,solid,0.168406517731565,-0.00974279609047798,0.173277915776804,-0.143547313129012
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-08-21",covN2,solid,2.38860554880455,2.22019903107299,1.27850603326806,1.10522811749126
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-08-24",covN2,solid,1.22864478230025,-1.1599607665043,1.8086251655524,0.53011913228434
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-08-28",covN2,solid,0.444685796872582,-0.783958985427668,0.836665289586418,-0.971959875965982
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-08-31",covN2,solid,7.43176859286023,6.98708279598765,3.93822719486641,3.10156190527999
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-09-04",covN2,solid,2.19430464953863,-5.2374639433216,4.81303662119943,0.87480942633302
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-09-07",covN2,solid,3.74541345258754,1.55110880304891,2.96985905106309,-1.84317757013634
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-09-11",covN2,solid,2.27862436606986,-1.46678908651768,3.0120189093287,0.0421598582656104
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-09-14",covN2,solid,2.99743087652178,0.71880651045192,2.63802762129582,-0.37399128803288
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-09-18",covN2,solid,0.189838851069866,-2.80759202545191,1.59363486379583,-1.04439275749999
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-09-21",covN2,solid,0.676502720659692,0.486663869589826,0.433170785864779,-1.16046407793105
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-09-25",covN2,solid,2.42991544841153,1.75341272775184,1.55320908453561,1.12003829867083
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-11-02",covN2,solid,11.3014815635191,8.87156611510757,11.3014815635191,9.74827247898349
+"wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data) (NML Historical Data)","2023-11-15",covN2,solid,38.2187008221735,26.9172192586544,38.2187008221735,26.9172192586544
 "wastewater_copies_per_ml","NB","Moncton","Moncton","2022-06-13",covN2,liquid,24.6349612275257,,24.6349612275257,
 "wastewater_copies_per_ml","NB","Moncton","Moncton","2022-06-16",covN2,liquid,14.9101958217339,-9.7247654057918,19.7725785246298,-4.8623827028959
 "wastewater_copies_per_ml","NB","Moncton","Moncton","2022-06-20",covN2,liquid,26.4669886453339,11.5567928236,20.6885922335339,0.916013708904099
@@ -4567,6 +4866,140 @@
 "wastewater_copies_per_ml","NB","Moncton","Moncton","2023-11-23",covN2,liquid,94.1712662525059,-100.81784694202,94.1712662525059,-94.5757829552751
 "wastewater_copies_per_ml","NB","Moncton","Moncton","2023-11-27",covN2,liquid,182.504985221037,88.3337189685311,138.338125736772,44.1668594842661
 "wastewater_copies_per_ml","NB","Moncton","Moncton","2023-11-30",covN2,liquid,140.065831307162,-42.439153913875,161.2854082641,22.947282527328
+"wastewater_copies_per_ml","NB","Moncton","Moncton","2023-12-04",covN2,liquid,131.098152373174,-8.967678933988,135.581991840168,-25.703416423932
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-06-13",covN2,solid,5.22858950174284,,5.22858950174284,
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-06-16",covN2,solid,40.9260917031606,35.6975022014178,23.0773406024517,17.8487511007089
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-06-20",covN2,solid,11.6670872212578,-29.2590044819028,26.2965894622092,3.2192488597575
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-06-23",covN2,solid,14.5416302126463,2.8745429913885,13.1043587169521,-13.1922307452571
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-06-27",covN2,solid,17.7473209561259,3.2056907434796,16.1444755843861,3.040116867434
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-06-30",covN2,solid,47.9014341145046,30.1541131583787,32.8243775353152,16.6799019509291
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-07-04",covN2,solid,21.6492124239558,-26.2522216905488,34.7753232692302,1.950945733915
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-07-07",covN2,solid,10.749387668067,-10.8998247558888,16.1993000460114,-18.5760232232188
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-07-11",covN2,solid,72.2149225854278,61.4655349173608,41.4821551267474,25.282855080736
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-07-14",covN2,solid,78.2323071459729,6.0173845605451,75.2236148657003,33.7414597389529
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-07-18",covN2,solid,36.4230717953006,-41.8092353506723,57.3276894706367,-17.8959253950636
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-07-25",covN2,solid,15.429125454406,-20.9939463408946,15.429125454406,-41.8985640162307
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-07-28",covN2,solid,11.2268305264197,-4.2022949279863,13.3279779904128,-2.1011474639932
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-08-04",covN2,solid,12.3229981339931,1.0961676075734,12.3229981339931,-1.0049798564197
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-08-08",covN2,solid,25.8609024825817,13.5379043485886,19.0919503082874,6.7689521742943
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-08-09",covN2,solid,9.23053963423546,-16.6303628483462,15.8048134169367,-3.2871368913507
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-08-11",covN2,solid,10.9736217986088,1.74308216437334,15.355021305142,-0.4497921117947
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-08-15",covN2,solid,1.46071688173281,-9.51290491687599,7.22162610485904,-8.13339520028296
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-08-18",covN2,solid,5.86319628421075,4.40247940247794,3.66195658297178,-3.55966952188726
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-08-22",covN2,solid,122.634249893633,116.771053609422,64.2487230889216,60.5867665059498
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-08-25",covN2,solid,29.7172582901842,-92.9169916034488,76.1757540919083,11.9270310029867
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-08-29",covN2,solid,48.2367594239176,18.5195011337334,38.9770088570509,-37.1987452348574
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-09-01",covN2,solid,20.9148246402926,-27.321934783625,34.5757920321051,-4.4012168249458
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-09-06",covN2,solid,8.32198667807011,-12.5928379622225,14.6184056591813,-19.9573863729238
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-09-08",covN2,solid,23.8236822326166,15.5016955545465,16.0728344553434,1.4544287961621
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-09-12",covN2,solid,5.81198709199723,-18.0116951406194,12.6525520008947,-3.4202824544487
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-09-15",covN2,solid,22.073150049652,16.2611629576548,13.9425685708246,1.2900165699299
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-09-20",covN2,solid,8.18122218698759,-13.8919278626644,15.1271861183198,1.1846175474952
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-09-22",covN2,solid,9.79959174694633,1.61836955995874,8.99040696696696,-6.13677915135284
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-09-26",covN2,solid,6.15773132324684,-3.64186042369949,8.04618175239359,-0.94422521457337
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-09-29",covN2,solid,0.322284225726104,-5.83544709752074,3.24000777448647,-4.80617397790712
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-10-03",covN2,solid,4.32378192475406,4.00149769902796,2.32303307524008,-0.91697469924639
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-10-06",covN2,solid,6.7160306342618,2.39224870950774,5.51990627950793,3.19687320426785
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-10-11",covN2,solid,18.5282060328152,11.8121753985534,12.6221183335385,7.10221205403057
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-10-13",covN2,solid,43.625966896671,25.0977608638558,31.0770864647431,18.4549681312046
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-10-17",covN2,solid,47.1593210788076,3.5333541821366,36.4378313360979,5.3607448713548
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-10-20",covN2,solid,8.25653797212091,-38.9027831066867,27.7079295254642,-8.7299018106337
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-10-24",covN2,solid,15.1932672709089,6.93672929878799,11.7249026215149,-15.9830269039493
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-10-27",covN2,solid,16.1616311931235,0.968363922214602,15.6774492320162,3.9525466105013
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-10-31",covN2,solid,8.96704005352781,-7.19459113959569,12.5643356233257,-3.1131136086905
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-11-03",covN2,solid,22.6034532783366,13.6364132248088,15.7852466659322,3.2209110426065
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-11-07",covN2,solid,38.3203766071966,15.71692332886,30.4619149427666,14.6766682768344
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-11-10",covN2,solid,103.546674332029,65.2262977248324,70.9335254696128,40.4716105268462
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-11-14",covN2,solid,3.64980869534172,-99.8968656366873,53.5982415136854,-17.3352839559274
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-11-17",covN2,solid,8.31604111810928,4.66623242276756,5.9829249067255,-47.6153166069599
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-11-21",covN2,solid,21.728635705096,13.4125945869867,15.0223384116027,9.0394135048772
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-11-24",covN2,solid,29.0828456341893,7.3542099290933,25.4057406696427,10.38340225804
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-11-28",covN2,solid,148.405267243814,119.322421609625,88.7440564390016,63.3383157693589
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-12-01",covN2,solid,42.6204130304423,-105.784854213372,95.5128401371282,6.7687836981266
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-12-05",covN2,solid,21.8761778355022,-20.7442351949401,32.2482954329723,-63.2645447041559
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-12-08",covN2,solid,51.5578147879964,29.6816369524942,36.7169963117493,4.468700878777
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-12-12",covN2,solid,95.7061016481285,44.1482868601321,73.6319582180624,36.9149619063131
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-12-15",covN2,solid,40.4841707992736,-55.2219308488549,68.095136223701,-5.53682199436139
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-12-19",covN2,solid,13.4438741281202,-27.0402966711534,26.9640224636969,-41.1311137600041
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-12-22",covN2,solid,21.8795927283329,8.4357186002127,17.6617334282265,-9.3022890354704
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2022-12-29",covN2,solid,20.7055617607724,-1.1740309675605,20.7055617607724,3.0438283325459
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-01-05",covN2,solid,27.8462754772748,7.1407137165024,27.8462754772748,7.1407137165024
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-01-09",covN2,solid,19.8344121184352,-8.0118633588396,23.8403437978549,-4.0059316794199
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-01-12",covN2,solid,77.0406004778262,57.206188359391,48.4375062981307,24.5971625002758
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-01-16",covN2,solid,11.6988397614441,-65.3417607163821,44.3697201196351,-4.0677861784956
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-01-19",covN2,solid,5.89656247473876,-5.80227728670534,8.7977011180914,-35.5720190015437
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-01-23",covN2,solid,16.8675384504767,10.9709759757379,11.3820504626077,2.5843493445163
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-01-26",covN2,solid,16.3047008010046,-0.562837649472101,16.5861196257407,5.204069163133
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-01-30",covN2,solid,23.2811946603364,6.9764938593318,19.7929477306705,3.2068281049298
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-02-02",covN2,solid,29.4820802122738,6.2008855519374,26.3816374363051,6.5886897056346
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-02-06",covN2,solid,24.8519318018403,-4.6301484104335,27.167006007057,0.785368570751903
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-02-09",covN2,solid,47.2877325866423,22.435800784802,36.0698321942413,8.9028261871843
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-02-13",covN2,solid,21.381877507992,-25.9058550786503,34.3348050473171,-1.7350271469242
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-02-16",covN2,solid,35.2887611262193,13.9068836182273,28.3353193171057,-5.9994857302114
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-02-21",covN2,solid,25.6073232461566,-9.6814378800627,30.448042186188,2.1127228690823
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-02-23",covN2,solid,31.1539647415804,5.5466414954238,28.3806439938685,-2.0673981923195
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-02-27",covN2,solid,55.3118710647906,24.1579063232102,37.3577196841759,8.9770756903074
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-03-02",covN2,solid,33.1638678077369,-22.1480032570537,44.2378694362638,6.8801497520879
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-03-06",covN2,solid,37.9925122894034,4.8286444816665,35.5781900485701,-8.6596793876937
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-03-09",covN2,solid,44.2956193426623,6.3031070532589,41.1440658160328,5.5658757674627
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-03-13",covN2,solid,80.721482519081,36.4258631764187,62.5085509308716,21.3644851148388
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-03-16",covN2,solid,41.4164063002764,-39.3050762188046,61.0689444096787,-1.4396065211929
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-03-20",covN2,solid,6.05997340739936,-35.356432892877,23.7381898538379,-37.3307545558408
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-03-23",covN2,solid,17.9484250622384,11.888451654839,12.0041992348189,-11.733990619019
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-03-27",covN2,solid,95.7993332601631,77.8509081979247,56.8738791612007,44.8696799263818
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-03-30",covN2,solid,19.1751842574803,-76.6241490026828,57.4872587588217,0.613379597621005
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-04-03",covN2,solid,8.17496420599071,-11.0002200514896,13.6750742317355,-43.8121845270862
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-04-06",covN2,solid,12.2047112850904,4.02974707909969,10.1898377455405,-3.485236486195
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-04-11",covN2,solid,32.9744669548028,20.7697556697124,22.5895891199466,12.3997513744061
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-04-13",covN2,solid,11.9067331228858,-21.067733831917,22.4406000388443,-0.1489890811023
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-04-17",covN2,solid,19.307522764159,7.4007896412732,21.3962409472825,-1.0443590915618
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-04-20",covN2,solid,16.3641752042517,-2.9433475599073,17.8358489842054,-3.5603919630771
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-04-24",covN2,solid,20.606628777004,4.2424535727523,18.4854019906279,0.649553006422501
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-04-27",covN2,solid,24.4974559625608,3.8908271855568,22.5520423697824,4.0666403791545
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-05-01",covN2,solid,21.3425840633446,-3.1548718992162,22.9200200129527,0.367977643170303
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-05-04",covN2,solid,30.8696826933131,9.5270986299685,26.1061333783288,3.1861133653761
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-05-08",covN2,solid,50.9987536430017,20.1290709496886,40.9342181681574,14.8280847898286
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-05-18",covN2,solid,12.2212912819183,-38.7774623610834,12.2212912819183,-28.7129268862391
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-05-25",covN2,solid,46.4105540023639,34.1892627204456,46.4105540023639,34.1892627204456
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-05-29",covN2,solid,40.7872665565551,-5.6232874458088,43.5989102794595,-2.8116437229044
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-06-01",covN2,solid,7.17181441847429,-33.6154521380808,23.9795404875147,-19.6193697919448
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-06-05",covN2,solid,6.02413864400828,-1.14767577446601,6.59797653124128,-17.3815639562734
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-06-08",covN2,solid,54.683281891475,48.6591432474667,30.3537102677417,23.7557337365004
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-06-12",covN2,solid,8.05117251496291,-46.6321093765121,31.367227203219,1.0135169354773
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-06-15",covN2,solid,6.87898746101288,-1.17218505395003,7.4650799879879,-23.9021472152311
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-06-19",covN2,solid,1.18483215801156,-5.69415530300132,4.03190980951222,-3.43317017847568
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-06-29",covN2,solid,2.3389159627821,1.15408380477054,2.3389159627821,-1.69299384673012
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-07-04",covN2,solid,0.452732253007447,-1.88618370977465,1.39582410789477,-0.94309185488733
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-07-06",covN2,solid,1.21228547894112,0.759553225933673,0.832508865974285,-0.563315241920485
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-07-10",covN2,solid,2.65324943371668,1.44096395477556,1.43942238855508,0.606913522580795
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-07-13",covN2,solid,11.4746514300505,8.82140199633382,7.06395043188357,5.62452804332849
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-07-17",covN2,solid,4.14449458454135,-7.33015684550915,7.8095730072959,0.74562257541233
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-07-20",covN2,solid,2.76144564035058,-1.38304894419077,3.45297011244597,-4.35660289484993
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-07-24",covN2,solid,4.94397522285823,2.18252958250765,3.85271043160441,0.39974031915844
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-07-27",covN2,solid,6.79503497439415,1.85105975153592,5.86950509862619,2.01679466702178
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-08-01",covN2,solid,12.1150942982075,5.32005932381335,9.45506463630083,3.58555953767464
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-08-03",covN2,solid,2.97522850471938,-9.13986579348812,7.54516140146344,-1.90990323483739
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-08-08",covN2,solid,2.04589875319522,-0.92932975152416,2.5105636289573,-5.03459777250614
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-08-10",covN2,solid,7.20124615844608,5.15534740525086,4.62357245582065,2.11300882686335
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-08-14",covN2,solid,4.51232021930185,-2.68892593914423,4.58648837698105,-0.0370840788395999
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-08-17",covN2,solid,5.86877604680013,1.35645582749828,5.19054813305099,0.60405975606994
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-08-20",covN2,solid,7.18631683391239,1.31754078711226,5.85580436667145,0.665256233620459
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-08-28",covN2,solid,3.66978761691281,-3.51652921699958,3.66978761691281,-2.18601674975864
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-08-31",covN2,solid,1.63278061757999,-2.03700699933282,2.6512841172464,-1.01850349966641
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-09-05",covN2,solid,12.135328432241,10.502547814661,6.88405452491049,4.23277040766409
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-09-07",covN2,solid,9.12453891518173,-3.01078951705927,10.6299336737114,3.74587914880091
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-09-11",covN2,solid,6.64751354149643,-2.4770253736853,9.30246029630639,-1.32747337740501
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-09-14",covN2,solid,5.92932581785441,-0.71818772364202,6.28841967967542,-3.01404061663097
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-09-18",covN2,solid,4.49307171673331,-1.4362541011211,5.21119876729386,-1.07722091238156
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-09-21",covN2,solid,11.003131388344,6.51005967161069,7.74810155253865,2.53690278524479
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-09-25",covN2,solid,42.6650925335929,31.6619611452489,26.8341119609684,19.0860104084298
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-09-28",covN2,solid,14.4758814177608,-28.1892111158321,28.5704869756769,1.7363750147085
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-10-03",covN2,solid,50.1093247870346,35.6334433692738,32.2926031023977,3.7221161267208
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-10-05",covN2,solid,42.1280700699405,-7.9812547170941,46.1186974284876,13.8260943260899
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-10-23",covN2,solid,3.26063402748811,-38.8674360424524,3.26063402748811,-42.8580634009995
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-11-06",covN2,solid,18.1262928095336,14.8656587820455,18.1262928095336,14.8656587820455
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-11-20",covN2,solid,7.91066347956497,-10.2156293299686,7.91066347956497,-10.2156293299686
+"wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data) (NML Historical Data)","2023-11-23",covN2,solid,58.0409260342815,50.1302625547165,32.9757947569232,25.0651312773582
 "wastewater_copies_per_ml","NB","Saint John","Saint John","2023-08-17",covN2,liquid,9.29332838933438,,9.29332838933438,
 "wastewater_copies_per_ml","NB","Saint John","Saint John","2023-08-21",covN2,liquid,7.62016520810072,-1.67316318123366,8.45674679871755,-0.836581590616831
 "wastewater_copies_per_ml","NB","Saint John","Saint John","2023-08-24",covN2,liquid,2.02885842818627,-5.59130677991445,4.82451181814349,-3.63223498057406
@@ -4589,6 +5022,8 @@
 "wastewater_copies_per_ml","NB","Saint John","Saint John","2023-11-26",covN2,liquid,48.591699436921,-6.8751313963704,38.7225615160112,4.9345689604549
 "wastewater_copies_per_ml","NB","Saint John","Saint John","2023-11-30",covN2,liquid,11.3338687801933,-37.2578306567277,29.9627841085571,-8.7597774074541
 "wastewater_copies_per_ml","NB","Saint John","Saint John","2023-12-04",covN2,liquid,12.9374726466151,1.6036038664218,12.1356707134042,-17.8271133951529
+"wastewater_copies_per_ml","NB","Saint John","Saint John","2023-12-07",covN2,liquid,10.6082207377536,-2.3292519088615,11.7728466921843,-0.3628240212199
+"wastewater_copies_per_ml","NB","Saint John","Saint John","2023-12-11",covN2,liquid,21.9651666218443,11.3569458840907,16.286693679799,4.5138469876147
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2021-04-19",covN2,solid,0.0054886866065897,,0.0054886866065897,
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2021-04-22",covN2,solid,0.0054886866065897,0,0.0054886866065897,0
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2021-04-26",covN2,solid,0.0054886866065897,0,0.0054886866065897,0
@@ -4859,6 +5294,7 @@
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2023-11-30",covN2,solid,10.5197241177754,3.65448542617744,8.69248140468668,2.32263374118367
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2023-12-04",covN2,solid,28.4596793560048,17.9399552382294,19.4897017368901,10.7972203322034
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2023-12-07",covN2,solid,26.484745885812,-1.9749334701928,27.4722126209084,7.9825108840183
+"wastewater_copies_per_ml","NL","St. John's","St. John's","2023-12-11",covN2,solid,10.8033378142788,-15.6814080715332,18.6440418500454,-8.828170770863
 "wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-01-13",covN2,solid,29.3353545443375,,29.3353545443375,
 "wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-01-17",covN2,solid,0.271941099567709,-29.0634134447698,14.8036478219526,-14.5317067223849
 "wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-01-19",covN2,solid,0.886462456096645,0.614521356528936,10.164586033334,-4.6390617886186
@@ -6312,6 +6748,8 @@
 "wastewater_copies_per_ml","NS","Trenton","Trenton","2023-11-28",covN2,solid,27.3269288040213,-18.0311156364478,36.3424866222452,2.74140075598579
 "wastewater_copies_per_ml","NS","Trenton","Trenton","2023-12-01",covN2,solid,20.7854733901608,-6.5414554138605,24.0562010970911,-12.2862855251541
 "wastewater_copies_per_ml","NS","Trenton","Trenton","2023-12-05",covN2,solid,14.0234146274523,-6.7620587627085,17.4044440088065,-6.6517570882846
+"wastewater_copies_per_ml","NS","Trenton","Trenton","2023-12-08",covN2,solid,12.7098966281662,-1.3135179992861,13.3666556278092,-4.0377883809973
+"wastewater_copies_per_ml","NS","Trenton","Trenton","2023-12-11",covN2,solid,50.9999556084322,38.290058980266,25.9110889546836,12.5444333268744
 "wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-02-13",covN2,solid,8.82727561961151,,8.82727561961151,
 "wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-02-21",covN2,solid,2.73148442158539,-6.09579119802612,2.73148442158539,-6.09579119802612
 "wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-02-24",covN2,solid,60.9076647164719,58.1761802948865,31.8195745690286,29.0880901474432
@@ -10380,6 +10818,8 @@
 "wastewater_copies_per_ml","SK","Regina","Regina","2023-12-03",covN2,solid,19.8063516044627,0,23.4450575318296,0
 "wastewater_copies_per_ml","SK","Regina","Regina","2023-12-05",covN2,solid,28.7078085807634,8.9014569763007,24.2570800926131,0.8120225607835
 "wastewater_copies_per_ml","SK","Regina","Regina","2023-12-05",covN2,solid,28.7078085807634,0,24.2570800926131,0
+"wastewater_copies_per_ml","SK","Regina","Regina","2023-12-10",covN2,solid,11.3872017621371,-17.3206068186263,20.0475051714502,-4.2095749211629
+"wastewater_copies_per_ml","SK","Regina","Regina","2023-12-10",covN2,solid,11.3872017621371,0,20.0475051714502,0
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2021-03-27",covN2,mixed,2.34,,2.34,
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2021-03-31",covN2,mixed,4.67,2.33,3.505,1.165
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2021-04-03",covN2,mixed,1.4,-3.27,3.035,-0.47
