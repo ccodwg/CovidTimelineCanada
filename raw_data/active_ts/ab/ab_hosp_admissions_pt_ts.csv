@@ -80,7 +80,7 @@
 "hosp_admissions","AB","2021-09-04",454
 "hosp_admissions","AB","2021-09-11",560
 "hosp_admissions","AB","2021-09-18",583
-"hosp_admissions","AB","2021-09-25",584
+"hosp_admissions","AB","2021-09-25",585
 "hosp_admissions","AB","2021-10-02",557
 "hosp_admissions","AB","2021-10-09",453
 "hosp_admissions","AB","2021-10-16",384
@@ -93,11 +93,11 @@
 "hosp_admissions","AB","2021-12-04",127
 "hosp_admissions","AB","2021-12-11",108
 "hosp_admissions","AB","2021-12-18",111
-"hosp_admissions","AB","2021-12-25",132
+"hosp_admissions","AB","2021-12-25",133
 "hosp_admissions","AB","2022-01-01",283
 "hosp_admissions","AB","2022-01-08",604
 "hosp_admissions","AB","2022-01-15",828
-"hosp_admissions","AB","2022-01-22",929
+"hosp_admissions","AB","2022-01-22",930
 "hosp_admissions","AB","2022-01-29",990
 "hosp_admissions","AB","2022-02-05",582
 "hosp_admissions","AB","2022-02-12",486
@@ -112,7 +112,7 @@
 "hosp_admissions","AB","2022-04-16",360
 "hosp_admissions","AB","2022-04-23",388
 "hosp_admissions","AB","2022-04-30",347
-"hosp_admissions","AB","2022-05-07",305
+"hosp_admissions","AB","2022-05-07",307
 "hosp_admissions","AB","2022-05-14",240
 "hosp_admissions","AB","2022-05-21",215
 "hosp_admissions","AB","2022-05-28",148
@@ -190,9 +190,10 @@
 "hosp_admissions","AB","2023-10-14",241
 "hosp_admissions","AB","2023-10-21",218
 "hosp_admissions","AB","2023-10-28",201
-"hosp_admissions","AB","2023-11-04",228
+"hosp_admissions","AB","2023-11-04",229
 "hosp_admissions","AB","2023-11-11",192
-"hosp_admissions","AB","2023-11-18",237
-"hosp_admissions","AB","2023-11-25",198
-"hosp_admissions","AB","2023-12-02",171
-"hosp_admissions","AB","2023-12-09",151
+"hosp_admissions","AB","2023-11-18",239
+"hosp_admissions","AB","2023-11-25",201
+"hosp_admissions","AB","2023-12-02",172
+"hosp_admissions","AB","2023-12-09",190
+"hosp_admissions","AB","2023-12-16",144
