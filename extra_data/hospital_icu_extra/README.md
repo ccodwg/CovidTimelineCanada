@@ -42,11 +42,13 @@ The following columns are included:
 
 ### SK
 
-Sourced from Saskatchewan's [weekly COVID-19 reports](https://publications.saskatchewan.ca/#/categories/5688) (archive UUID: `2b3954e7-a659-4555-b02e-3fcc4b1f0960`), which covered the period between 2022-01-23 and 2022-06-29. The following columns are included:
+Sourced from Saskatchewan's [weekly COVID-19 reports](https://publications.saskatchewan.ca/#/categories/5688) (archive UUID: `2b3954e7-a659-4555-b02e-3fcc4b1f0960`), which covered the period between 2022-02-02 and 2022-06-29. The following columns are included:
 
-- `active_hospitalizations`: Total COVID Hospitalized
-- `active_icu`: Total COVID Adult ICU/ICU Surge
-- `average_daily_new_hospitalizations_past_7_days`: Average Daily Admissions over past 7 days
-- `hosp_covid_related_illness`: Total COVID Related Illness
-- `hosp_incidental_infection`: Total Incidental COVID Infection
-- `hosp_patient_under_investigation`: Total Undetermined
+- `sk_active_hospitalizations`: Total hospital occupancy related to COVID-19
+- `sk_active_icu`: Total adult ICU/ICU surge occupancy related to COVID-19
+- `sk_hosp_covid_related_illness`: Of total hospital occupancy related to COVID-19, those hospitalized "for" COVID-19
+- `sk_hosp_incidental_infection`: Of total hospital occupancy related to COVID-19, those hospitalized "with" COVID-19
+- `sk_hosp_patient_under_investigation`: Of total hospital occupancy related to COVID-19, those of undetermined status
+- `sk_average_daily_new_hospitalizations_past_7_days`: Average daily hospital admissions related to COVID-19 over the past 7 days
+
+Note that on 2022-03-09, there is a discrepancy between the first column and the sum of the third, fourth, and fifth columns (339 vs. 340).
