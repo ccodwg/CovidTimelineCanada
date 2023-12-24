@@ -40,6 +40,16 @@ The following columns are included:
 - `nb_total_hosp_admissions`: Total hospital admissions (note that this number is much higher than the cumulative totals later given in the NB's weekly reports, so these values were not included in the main dataset; this may be due to a "for" and "with" distinction)
 - `nb_total_hosp_discharged`: Total discharged from hospital
 
+### PE
+
+The PEI COVID-19 [news releases](https://www.princeedwardisland.ca/en/search/site?f%5B0%5D=type%3Anews&f%5B1%5D=field_news_type%3A22&f%5B2%5D=field_department%3A612) and [data webpage](https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-testing-and-case-data) (archive UUIDs: `fff9248e-fa24-4efb-ae04-000f3e5c815f` and `68e5cbb9-0dcc-4a4f-ade0-58a0b06b1455`) decomposed hospital occupancy "for" and "with" COVID-19 between 2021-12-31 and 2022-11-08. ICU occupancy was presented as a subset of hospital occupancy "for" COVID-19. The following columns are included:
+
+- `pe_hosp_occupancy_for`: Hospital occupancy "for" COVID-19
+- `pe_hosp_occupancy_with`: Hospital occupancy "with" COVID-19
+- `pe_icu_occupancy`: ICU occupancy (subset of hospital occupancy "for" COVID-19)
+
+Occasionally, the number of patients in hospital "with" COVID-19 was not given and is thus missing from the dataset. The definitions given for individuals "with" COVID-19 were as follows: "individuals in hospital for other reasons who have tested positive for COVID-19" and "admitted for other reasons and were COVID-19 positive on or after admission".
+
 ### QC
 
 The [INSPQ dashboard](https://www.inspq.qc.ca/covid-19/donnees) (archive UUID: `3b93b663-4b3f-43b4-a23d-cbf6d149d2c5`) decomposed hospital/ICU admissions "for" and "with" COVID-19 between 2020-01-24 and 2023-11-29. The following columns are included:

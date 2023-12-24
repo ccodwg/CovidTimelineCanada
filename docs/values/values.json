@@ -314,7 +314,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Source dataset reported hospital occupancy both 'for' and 'with' COVID-19. We only report hospital occupancy 'with' COVID-19.",
+                    "note": "Source dataset reported hospital occupancy both 'for' and 'with' COVID-19. We only report hospital occupancy 'for' COVID-19.",
                     "source": "https://web.archive.org/web/20220426152110/https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-testing-and-case-data; https://web.archive.org/web/20211231183240/https://www.princeedwardisland.ca/en/news/islanders-encouraged-to-keep-new-years-eve-gatherings-small-175-new-cases-of-covid-19-in-pei"
                 },
                 {
@@ -458,7 +458,7 @@
             {
                 "date_start": "",
                 "date_end": "",
-                "note": "While the source dataset reported hospital occupancy both 'for' and 'with' COVID-19 (and we only report hospital occupancy 'with' COVID-19), the source dataset made no such distinction for ICU occupancy.",
+                "note": "The source dataset reported hospital occupancy both 'for' and 'with' COVID-19, but presented ICU occupancy as a subset of hospital occupancy 'for' COVID-19.",
                 "source": "https://web.archive.org/web/20220426152110/https://www.princeedwardisland.ca/en/information/health-and-wellness/covid-19-testing-and-case-data; https://web.archive.org/web/20211231183240/https://www.princeedwardisland.ca/en/news/islanders-encouraged-to-keep-new-years-eve-gatherings-small-175-new-cases-of-covid-19-in-pei"
             },
             {
