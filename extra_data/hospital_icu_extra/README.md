@@ -40,6 +40,20 @@ The following columns are included:
 - `nb_total_hosp_admissions`: Total hospital admissions (note that this number is much higher than the cumulative totals later given in the NB's weekly reports, so these values were not included in the main dataset; this may be due to a "for" and "with" distinction)
 - `nb_total_hosp_discharged`: Total discharged from hospital
 
+### QC
+
+The [INSPQ dashboard](https://www.inspq.qc.ca/covid-19/donnees) (archive UUID: `3b93b663-4b3f-43b4-a23d-cbf6d149d2c5`) decomposed hospital/ICU admissions "for" and "with" COVID-19 between 2020-01-24 and 2023-11-29. The following columns are included:
+
+- `qc_hosp_admissions_for_with`: Hospital admissions "for" and "with" COVID-19
+- `qc_hosp_admissions_for`: Hospital admissions "for" COVID-19
+- `qc_hosp_admissions_with`: Hospital admissions "with" COVID-19
+- `qc_icu_admissions_for_with`: ICU admissions "for" and "with" COVID-19
+- `qc_icu_admissions_for`: ICU admissions "for" COVID-19
+- `qc_icu_admissions_with`: ICU admissions "with" COVID-19
+
+According to the original data notes, admissions with unknown status are included in the "with" category. The most recent days of data, particularly the most recent day of data, may be incomplete.
+
+
 ### SK
 
 Sourced from Saskatchewan's [weekly COVID-19 reports](https://publications.saskatchewan.ca/#/categories/5688) (archive UUID: `2b3954e7-a659-4555-b02e-3fcc4b1f0960`), which covered the period between 2022-02-02 and 2022-06-29. The following columns are included:

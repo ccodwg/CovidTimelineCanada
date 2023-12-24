@@ -618,7 +618,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Source dataset reported hospital admissions 'for' and 'with' COVID-19. We report only admissions 'for' COVID-19.",
+                    "note": "Source dataset reported hospital admissions 'for' and 'with' COVID-19. We report only admissions 'for' COVID-19. Admissions with unknown status are included in the 'with' category. The most recent days of data, particularly the most recent day of data, may be incomplete.",
                     "source": "https://web.archive.org/web/20230923074515/https://www.inspq.qc.ca/covid-19/donnees (figure 3.2); https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Hospitalisations)"
                 },
                 {
@@ -739,7 +739,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Source dataset reported ICU admissions 'for' and 'with' COVID-19. We report only admissions 'for' COVID-19.",
+                    "note": "Source dataset reported ICU admissions 'for' and 'with' COVID-19. We report only admissions 'for' COVID-19. Admissions with unknown status are included in the 'with' category. The most recent days of data, particularly the most recent day of data, may be incomplete.",
                     "source": "https://web.archive.org/web/20230923074515/https://www.inspq.qc.ca/covid-19/donnees (figure 3.2); https://web.archive.org/web/20231014190201/https://www.inspq.qc.ca/covid-19/donnees/methodologie (Hospitalisations)"
                 },
                 {
