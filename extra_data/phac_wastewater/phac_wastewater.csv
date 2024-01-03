@@ -297,6 +297,8 @@
 "wastewater_copies_per_ml","AB","Edmonton","Edmonton Goldbar","2023-12-03","covN2","solid",43.8724996120801,-16.0868846419436,51.9159419330519,-31.7111014386608
 "wastewater_copies_per_ml","AB","Edmonton","Edmonton Goldbar","2023-12-06","covN2","solid",83.3381450232439,39.4656454111638,63.605322317662,11.6893803846101
 "wastewater_copies_per_ml","AB","Edmonton","Edmonton Goldbar","2023-12-10","covN2","solid",74.3220169956172,-9.01612802762669,78.8300810094306,15.2247586917686
+"wastewater_copies_per_ml","AB","Edmonton","Edmonton Goldbar","2023-12-13","covN2","solid",74.9128891000802,0.590872104463003,74.6174530478487,-4.2126279615819
+"wastewater_copies_per_ml","AB","Edmonton","Edmonton Goldbar","2023-12-17","covN2","solid",59.1474917523734,-15.7653973477068,67.0301904262268,-7.5872626216219
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Annacis Island","2020-11-06","covN2","solid",15.7641273759557,,15.7641273759557,
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Annacis Island","2020-11-08","covN2","solid",17.1076677633857,1.34354038743,16.4358975696707,0.671770193715
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Annacis Island","2020-11-12","covN2","solid",48.8471562025421,31.7394884391564,27.2396504472945,10.8037528776238
@@ -655,6 +657,8 @@
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Annacis Island","2023-11-30","covN2","solid",21.9151517671621,5.7899637607038,19.0201698868102,-2.8511847842131
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Annacis Island","2023-12-07","covN2","solid",15.3141371204665,-6.6010146466956,15.3141371204665,-3.7060327663437
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Annacis Island","2023-12-10","covN2","solid",13.3289185299824,-1.9852185904841,14.3215278252245,-0.992609295242
+"wastewater_copies_per_ml","BC","Vancouver","Vancouver Annacis Island","2023-12-14","covN2","solid",25.3947329495393,12.0658144195569,19.3618257397609,5.0402979145364
+"wastewater_copies_per_ml","BC","Vancouver","Vancouver Annacis Island","2023-12-17","covN2","solid",15.6059184317012,-9.7888145178381,20.5003256906203,1.1384999508594
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Iona Island","2021-02-07","covN2","solid",4.3871911082996,,4.3871911082996,
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Iona Island","2021-02-09","covN2","solid",6.64856650494665,2.26137539664705,5.51787880662313,1.13068769832353
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Iona Island","2021-02-11","covN2","solid",8.87541217838512,2.22684567343847,6.63705659721046,1.11917779058733
@@ -972,6 +976,8 @@
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Iona Island","2023-12-03","covN2","solid",2.9754927991985,-25.9883441152763,15.9696648568366,-7.8506770573911
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Iona Island","2023-12-07","covN2","solid",4.42496707609562,1.44947427689712,3.70022993764706,-12.2694349191895
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Iona Island","2023-12-10","covN2","solid",1.2177519389146,-3.20721513718102,2.82135950750511,-0.87887043014195
+"wastewater_copies_per_ml","BC","Vancouver","Vancouver Iona Island","2023-12-14","covN2","solid",20.8363679474415,19.6186160085269,11.0270599431781,8.20570043567299
+"wastewater_copies_per_ml","BC","Vancouver","Vancouver Iona Island","2023-12-17","covN2","solid",15.2654719065359,-5.5708960409056,18.0509199269887,7.0238599838106
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lions Gate","2021-02-07","covN2","solid",8.67775816097199,,8.67775816097199,
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lions Gate","2021-02-09","covN2","solid",20.4749279490375,11.7971697880655,14.5763430550047,5.89858489403271
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lions Gate","2021-02-11","covN2","solid",11.1697543315792,-9.3051736174583,13.4408134805295,-1.1355295744752
@@ -1273,6 +1279,8 @@
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lions Gate","2023-12-03","covN2","solid",6.93843359800902,-4.94950597293478,9.41318658447639,-8.25297874132021
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lions Gate","2023-12-07","covN2","solid",7.95792001455775,1.01948641654873,7.44817680628339,-1.965009778193
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lions Gate","2023-12-10","covN2","solid",11.2255393888608,3.26761937430305,9.59172970170927,2.14355289542588
+"wastewater_copies_per_ml","BC","Vancouver","Vancouver Lions Gate","2023-12-14","covN2","solid",9.75115312993703,-1.47438625892377,10.4883462593989,0.896616557689631
+"wastewater_copies_per_ml","BC","Vancouver","Vancouver Lions Gate","2023-12-17","covN2","solid",54.2289965721431,44.4778434422061,31.9900748510401,21.5017285916412
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lulu Island","2021-02-07","covN2","solid",10.5432620712966,,10.5432620712966,
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lulu Island","2021-02-09","covN2","solid",6.00151728427489,-4.54174478702171,8.27238967778577,-2.27087239351083
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lulu Island","2021-02-11","covN2","solid",5.06965730681457,-0.93185997746032,7.20481222079537,-1.0675774569904
@@ -1572,6 +1580,8 @@
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lulu Island","2023-12-03","covN2","solid",16.7499844935764,-13.8262971937969,23.6631330904749,-0.247202699467998
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lulu Island","2023-12-07","covN2","solid",20.7489678608921,3.9989833673157,18.7494761772342,-4.9136569132407
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Lulu Island","2023-12-10","covN2","solid",46.7616309249569,26.0126630640648,33.7552993929245,15.0058232156903
+"wastewater_copies_per_ml","BC","Vancouver","Vancouver Lulu Island","2023-12-14","covN2","solid",19.3560475937574,-27.4055833311995,33.0588392593571,-0.696460133567399
+"wastewater_copies_per_ml","BC","Vancouver","Vancouver Lulu Island","2023-12-17","covN2","solid",34.9898651533784,15.633817559621,27.1729563735679,-5.8858828857892
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Northwest Langley","2021-02-07","covN2","solid",3.91478428484928,,3.91478428484928,
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Northwest Langley","2021-02-09","covN2","solid",12.9568867617774,9.04210247692812,8.43583552331334,4.52105123846406
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Northwest Langley","2021-02-11","covN2","solid",20.774017815853,7.8171310540756,12.5485629541599,4.11272743084656
@@ -1872,6 +1882,8 @@
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Northwest Langley","2023-12-03","covN2","solid",16.3634314309466,-6.5511185850781,19.6389907234856,-1.2540678580553
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Northwest Langley","2023-12-07","covN2","solid",25.6334307312129,9.2699993002663,20.9984310810798,1.3594403575942
 "wastewater_copies_per_ml","BC","Vancouver","Vancouver Northwest Langley","2023-12-10","covN2","solid",15.2536789711949,-10.379751760018,20.4435548512039,-0.554876229875902
+"wastewater_copies_per_ml","BC","Vancouver","Vancouver Northwest Langley","2023-12-14","covN2","solid",11.9812788098864,-3.2724001613085,13.6174788905406,-6.8260759606633
+"wastewater_copies_per_ml","BC","Vancouver","Vancouver Northwest Langley","2023-12-17","covN2","solid",11.5965395698884,-0.384739239998,11.7889091898874,-1.8285697006532
 "wastewater_copies_per_ml","MB","Brandon","Brandon","2022-05-27","covN2","solid",27.1057788125388,,27.1057788125388,
 "wastewater_copies_per_ml","MB","Brandon","Brandon","2022-05-31","covN2","solid",25.5786323065731,-1.5271465059657,26.342205559556,-0.763573252982802
 "wastewater_copies_per_ml","MB","Brandon","Brandon","2022-06-03","covN2","solid",24.3819915275041,-1.196640779069,24.9803119170386,-1.3618936425174
@@ -2034,6 +2046,8 @@
 "wastewater_copies_per_ml","MB","Brandon","Brandon","2023-12-05","covN2","solid",36.7008393484863,12.1020791212526,30.64979978786,1.0795372072326
 "wastewater_copies_per_ml","MB","Brandon","Brandon","2023-12-08","covN2","solid",60.3890830137844,23.6882436652981,48.5449611811354,17.8951613932754
 "wastewater_copies_per_ml","MB","Brandon","Brandon","2023-12-12","covN2","solid",39.9566821883874,-20.432400825397,50.1728826010859,1.6279214199505
+"wastewater_copies_per_ml","MB","Brandon","Brandon","2023-12-15","covN2","solid",83.364298972765,43.4076167843776,61.6604905805762,11.4876079794903
+"wastewater_copies_per_ml","MB","Brandon","Brandon","2023-12-19","covN2","solid",28.7718631009947,-54.5924358717703,56.0680810368798,-5.5924095436964
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2021-04-13","covN2","solid",14.7045747745189,,14.7045747745189,
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2021-04-20","covN2","solid",51.8545818188685,37.1500070443496,51.8545818188685,37.1500070443496
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2021-04-27","covN2","solid",446.355157337855,394.500575518987,446.355157337855,394.500575518987
@@ -2701,6 +2715,14 @@
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-11","covN2","solid",33.6865673539497,-4.1437628693166,48.4840452415023,-1.4406045542313
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-13","covN2","solid",228.712685309244,195.026117955294,77.4270723759398,28.9430271344375
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-14","covN2","solid",39.1244254793812,-189.588259829863,79.2689948767625,1.8419225008227
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-16","covN2","solid",54.5713085276492,15.446883048268,78.785063378698,-0.483931498064507
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-17","covN2","solid",24.4829905100264,-30.0883180176228,76.11559543605,-2.669467942648
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-18","covN2","solid",32.3111955915044,7.828205081478,75.8405210835609,-0.275074352489099
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-20","covN2","solid",39.0261803725692,6.7149847810648,37.9032200962261,-37.9373009873348
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-21","covN2","solid",29.2088122658457,-9.8173681067235,35.9200974535189,-1.9831226427072
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-23","covN2","solid",42.1197107021284,12.9108984362827,33.4297778884148,-2.4903195651041
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-24","covN2","solid",99.0344780115567,56.9147673094283,48.3400753887209,14.9102975003061
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg North End","2023-12-25","covN2","solid",20.4930226848551,-78.5414553267016,45.976440807391,-2.3636345813299
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2021-04-14","covN2","solid",49.6687200720514,,49.6687200720514,
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2021-04-21","covN2","solid",42.6184117115618,-7.0503083604896,42.6184117115618,-7.0503083604896
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2021-04-28","covN2","solid",131.379230345455,88.7608186338932,131.379230345455,88.7608186338932
@@ -3381,6 +3403,14 @@
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-11","covN2","solid",21.879524822417,-9.860048935017,48.36206550071,-10.1712474208461
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-13","covN2","solid",246.119190045196,224.239665222779,86.4125901325111,38.0505246318011
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-14","covN2","solid",110.548296840997,-135.570893204199,98.8294904929651,12.416900360454
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-16","covN2","solid",34.4009909140484,-76.1473059269486,88.9375152760185,-9.89197521694661
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-17","covN2","solid",22.99542088091,-11.4055700331384,87.1886847007137,-1.74883057530481
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-18","covN2","solid",46.4381638678277,23.4427429869177,92.1004125097958,4.91172780908211
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-20","covN2","solid",60.5751787932706,14.1370149254429,54.9916102594108,-37.108802250385
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-21","covN2","solid",38.8641132128271,-21.7110655804435,40.6547735337767,-14.3368367256341
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-23","covN2","solid",82.3884828784684,43.5243696656413,50.2522719266608,9.5974983928841
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-24","covN2","solid",76.7141287477295,-5.67435413073889,60.9960135000247,10.7437415733639
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg South End","2023-12-25","covN2","solid",75.2923178706723,-1.4218108770572,66.7668443005936,5.7708308005689
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2021-04-14","covN2","solid",2.95017857065347,,2.95017857065347,
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2021-04-21","covN2","solid",4.75414400955591,1.80396543890244,4.75414400955591,1.80396543890244
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2021-04-28","covN2","solid",12.640093940024,7.88594993046809,12.640093940024,7.88594993046809
@@ -4050,6 +4080,14 @@
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-11","covN2","solid",67.7904810178884,35.4915486085717,39.5178366397183,7.0681610945425
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-13","covN2","solid",117.982928366354,50.1924473484656,53.6422068981704,14.1243702584521
 "wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-14","covN2","solid",69.1952743422958,-48.7876540240582,61.4764551882714,7.834248290101
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-16","covN2","solid",78.347955460819,9.15268111852319,73.1231143193348,11.6466591310634
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-17","covN2","solid",20.1390675621014,-58.2088878987176,70.6911413498917,-2.43197296944311
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-18","covN2","solid",40.4290476278941,20.2899800657927,65.2188546718929,-5.4722866779988
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-20","covN2","solid",19.9416987495309,-20.4873488783632,45.6106087485283,-19.6082459233646
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-21","covN2","solid",28.9405095290372,8.9988107795063,37.5596557858765,-8.0509529626518
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-23","covN2","solid",39.4854564972683,10.5449469682311,29.7871559931664,-7.7724997927101
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-24","covN2","solid",31.2780921826934,-8.2073643145749,32.0149609172848,2.2278049241184
+"wastewater_copies_per_ml","MB","Winnipeg","Winnipeg West End","2023-12-25","covN2","solid",27.4194953404739,-3.8585968422195,29.4130504598008,-2.601910457484
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-02-03","covN2","liquid",12.1091542778212,,12.1091542778212,
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-02-07","covN2","liquid",39.8432899322341,27.7341356544129,25.9762221050277,13.8670678272065
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-02-10","covN2","liquid",0,-39.8432899322341,19.9216449661171,-6.0545771389106
@@ -4134,6 +4172,8 @@
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-11-28","covN2","liquid",63.3147092680471,44.072132064052,41.2786432360211,3.9239392173779
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-12-08","covN2","liquid",72.2729665544771,8.95825728642999,72.2729665544771,30.994323318456
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-12-12","covN2","liquid",20.558852461153,-51.7141140933241,46.415909507815,-25.8570570466621
+"wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-12-15","covN2","liquid",63.3147092680471,42.7558568068941,41.9367808646,-4.479128643215
+"wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-12-19","covN2","liquid",100.61298694248,37.2982776744329,81.9638481052634,40.0270672406634
 "wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-03","covN2","solid",8.31214475302236,,8.31214475302236,
 "wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-07","covN2","solid",12.5657248767793,4.25358012375694,10.4389348149009,2.12679006187854
 "wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-10","covN2","solid",10.7358073611846,-1.8299175155947,11.650766118982,1.2118313040811
@@ -4290,8 +4330,10 @@
 "wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-11-26","covN2","liquid",94.1712662525059,11.6725585277172,78.6436584065031,12.9014784730714
 "wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-01","covN2","liquid",131.098152373174,36.9268861206681,112.63470931284,33.9910509063369
 "wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-04","covN2","liquid",107.495349105155,-23.602803268019,119.296750739164,6.662041426324
-"wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-08","covN2","liquid",254.069710576231,146.574361471076,180.782529840693,61.485779101529
-"wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-11","covN2","liquid",271.449174360081,17.37946378385,262.759442468156,81.976912627463
+"wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-08","covN2","liquid",403.740501507549,296.245152402394,255.617925306352,136.321174567188
+"wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-11","covN2","liquid",271.449174360081,-132.291327147468,337.594837933815,81.976912627463
+"wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-15","covN2","liquid",182.504985221037,-88.944189139044,226.977079790559,-110.617758143256
+"wastewater_copies_per_ml","NB","Campbellton","Campbellton","2023-12-18","covN2","liquid",377.891119425011,195.386134203974,280.198052323024,53.220972532465
 "wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data)","2023-02-10","covN2","solid",50.7804741783405,,50.7804741783405,
 "wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data)","2023-02-13","covN2","solid",17.8996220118574,-32.8808521664831,34.340048095099,-16.4404260832415
 "wastewater_copies_per_ml","NB","Campbellton (NML Historical Data)","Campbellton (NML Historical Data)","2023-02-17","covN2","solid",48.1859553052808,30.2863332934234,33.0427886585691,-1.2972594365299
@@ -4438,6 +4480,8 @@
 "wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-11-27","covN2","liquid",377.891119425011,283.719853172505,236.031192838758,131.521312453822
 "wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-12-07","covN2","liquid",222.577688807412,-155.313430617599,222.577688807412,-13.453504031346
 "wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-12-11","covN2","liquid",114.848494517366,-107.729194290046,168.713091662389,-53.864597145023
+"wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-12-14","covN2","liquid",222.577688807412,107.729194290046,168.713091662389,0
+"wastewater_copies_per_ml","NB","Edmundston","Edmundston","2023-12-18","covN2","liquid",140.065831307162,-82.51185750025,181.321760057287,12.608668394898
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2022-12-22","covN2","liquid",17.2103080225198,,17.2103080225198,
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2022-12-26","covN2","liquid",21.3425637404397,4.1322557179199,19.2764358814798,2.06612785896
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-01-02","covN2","liquid",30.5499023930163,9.2073386525766,30.5499023930163,11.2734665115365
@@ -4680,8 +4724,11 @@
 "wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-11-23","covN2","liquid",237.80296250473,42.813849310204,216.396037849628,33.49140608242
 "wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-11-27","covN2","liquid",149.646938149992,-88.156024354738,193.724950327361,-22.671087522267
 "wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-11-30","covN2","liquid",72.2729665544771,-77.3739715955149,110.959952352234,-82.764997975127
-"wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-12-07","covN2","liquid",431.35809279031,359.085126235833,431.35809279031,320.398140438076
-"wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-12-11","covN2","liquid",331.051394484224,-100.306698306086,381.204743637267,-50.1533491530431
+"wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-12-04","covN2","liquid",182.504985221037,110.23201866656,127.388975887757,16.429023535523
+"wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-12-07","covN2","liquid",431.35809279031,248.853107569273,306.931539005674,179.542563117917
+"wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-12-11","covN2","liquid",331.051394484224,-100.306698306086,381.204743637267,74.273204631593
+"wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-12-14","covN2","liquid",82.4987077247887,-248.552686759435,206.775051104506,-174.429692532761
+"wastewater_copies_per_ml","NB","Miramichi","Miramichi","2023-12-18","covN2","liquid",107.495349105155,24.9966413803663,94.9970284149719,-111.778022689534
 "wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data)","2023-02-16","covN2","solid",103.852446911388,,103.852446911388,
 "wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data)","2023-02-21","covN2","solid",21.5923413746209,-82.2601055367671,62.7223941430045,-41.1300527683835
 "wastewater_copies_per_ml","NB","Miramichi (NML Historical Data)","Miramichi (NML Historical Data)","2023-02-23","covN2","solid",98.3182758489944,76.7259344743735,59.9553086118077,-2.7670855311968
@@ -4891,6 +4938,8 @@
 "wastewater_copies_per_ml","NB","Moncton","Moncton","2023-11-27","covN2","liquid",182.504985221037,88.3337189685311,138.338125736772,44.1668594842661
 "wastewater_copies_per_ml","NB","Moncton","Moncton","2023-11-30","covN2","liquid",140.065831307162,-42.439153913875,161.2854082641,22.947282527328
 "wastewater_copies_per_ml","NB","Moncton","Moncton","2023-12-04","covN2","liquid",131.098152373174,-8.967678933988,135.581991840168,-25.703416423932
+"wastewater_copies_per_ml","NB","Moncton","Moncton","2023-12-11","covN2","liquid",131.098152373174,0,131.098152373174,-4.483839466994
+"wastewater_copies_per_ml","NB","Moncton","Moncton","2023-12-14","covN2","liquid",170.820150339891,39.721997966717,150.959151356533,19.860998983359
 "wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data)","2022-06-13","covN2","solid",5.22858950174284,,5.22858950174284,
 "wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data)","2022-06-16","covN2","solid",40.9260917031606,35.6975022014178,23.0773406024517,17.8487511007089
 "wastewater_copies_per_ml","NB","Moncton (NML Historical Data)","Moncton (NML Historical Data)","2022-06-20","covN2","solid",11.6670872212578,-29.2590044819028,26.2965894622092,3.2192488597575
@@ -5049,6 +5098,8 @@
 "wastewater_copies_per_ml","NB","Saint John","Saint John","2023-12-04","covN2","liquid",12.9374726466151,1.6036038664218,12.1356707134042,-17.8271133951529
 "wastewater_copies_per_ml","NB","Saint John","Saint John","2023-12-07","covN2","liquid",10.6082207377536,-2.3292519088615,11.7728466921843,-0.3628240212199
 "wastewater_copies_per_ml","NB","Saint John","Saint John","2023-12-11","covN2","liquid",21.9651666218443,11.3569458840907,16.286693679799,4.5138469876147
+"wastewater_copies_per_ml","NB","Saint John","Saint John","2023-12-14","covN2","liquid",25.0729691563984,3.1078025345541,23.5190678891214,7.2323742093224
+"wastewater_copies_per_ml","NB","Saint John","Saint John","2023-12-18","covN2","liquid",16.8574536140087,-8.2155155423897,20.9652113852036,-2.5538565039178
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2021-04-19","covN2","solid",0.0054886866065897,,0.0054886866065897,
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2021-04-22","covN2","solid",0.0054886866065897,0,0.0054886866065897,0
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2021-04-26","covN2","solid",0.0054886866065897,0,0.0054886866065897,0
@@ -5321,6 +5372,8 @@
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2023-12-07","covN2","solid",26.484745885812,-1.9749334701928,27.4722126209084,7.9825108840183
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2023-12-11","covN2","solid",10.8033378142788,-15.6814080715332,18.6440418500454,-8.828170770863
 "wastewater_copies_per_ml","NL","St. John's","St. John's","2023-12-13","covN2","solid",10.1247424641735,-0.678595350105299,15.8042753880881,-2.8397664619573
+"wastewater_copies_per_ml","NL","St. John's","St. John's","2023-12-18","covN2","solid",29.0151737463905,18.890431282217,19.569958105282,3.7656827171939
+"wastewater_copies_per_ml","NL","St. John's","St. John's","2023-12-21","covN2","solid",41.3539241814673,12.3387504350768,35.1845489639289,15.6145908586469
 "wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-01-13","covN2","solid",29.3353545443375,,29.3353545443375,
 "wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-01-17","covN2","solid",0.271941099567709,-29.0634134447698,14.8036478219526,-14.5317067223849
 "wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-01-19","covN2","solid",0.886462456096645,0.614521356528936,10.164586033334,-4.6390617886186
@@ -5417,6 +5470,8 @@
 "wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-12-04","covN2","solid",13.0199014806305,11.4833443899768,7.27822928564207,4.06146748266016
 "wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-12-07","covN2","solid",1.75738258206958,-11.2625188985609,7.38864203135002,0.110412745707951
 "wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-12-11","covN2","solid",4.6737479878224,2.91636540575282,3.215565284946,-4.17307674640402
+"wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-12-14","covN2","solid",10.0515885016415,5.3778405138191,7.36266824473195,4.14710295978595
+"wastewater_copies_per_ml","NS","Battery Point","Battery Point","2023-12-18","covN2","solid",13.6315728994407,3.5799843977992,11.8415807005411,4.47891245580915
 "wastewater_copies_per_ml","NS","Bridgewater","Bridgewater","2023-01-05","covN2","solid",25.8016059216921,,25.8016059216921,
 "wastewater_copies_per_ml","NS","Bridgewater","Bridgewater","2023-01-09","covN2","solid",29.7452554337252,3.9436495120331,27.7734306777086,1.9718247560165
 "wastewater_copies_per_ml","NS","Bridgewater","Bridgewater","2023-01-12","covN2","solid",4.05851252442082,-25.6867429093044,16.901883979073,-10.8715466986356
@@ -5511,6 +5566,8 @@
 "wastewater_copies_per_ml","NS","Bridgewater","Bridgewater","2023-11-27","covN2","solid",3.21211620268948,0.29769617325728,3.06326811606084,-1.790804976541
 "wastewater_copies_per_ml","NS","Bridgewater","Bridgewater","2023-11-30","covN2","solid",3.25227083699278,0.0401546343033004,3.23219351984113,0.16892540378029
 "wastewater_copies_per_ml","NS","Bridgewater","Bridgewater","2023-12-04","covN2","solid",2.80693985240072,-0.44533098459206,3.02960534469675,-0.20258817514438
+"wastewater_copies_per_ml","NS","Bridgewater","Bridgewater","2023-12-14","covN2","solid",11.4773976002406,8.67045774783988,11.4773976002406,8.44779225554385
+"wastewater_copies_per_ml","NS","Bridgewater","Bridgewater","2023-12-18","covN2","solid",33.8153152305086,22.337917630268,22.6463564153746,11.168958815134
 "wastewater_copies_per_ml","NS","Central Colchester","Central Colchester","2023-03-31","covN2","solid",14.2092091069793,,14.2092091069793,
 "wastewater_copies_per_ml","NS","Central Colchester","Central Colchester","2023-04-05","covN2","solid",44.2880291476466,30.0788200406673,29.2486191273129,15.0394100203336
 "wastewater_copies_per_ml","NS","Central Colchester","Central Colchester","2023-04-12","covN2","solid",11.8440772284232,-32.4439519192234,11.8440772284232,-17.4045418988897
@@ -5584,6 +5641,8 @@
 "wastewater_copies_per_ml","NS","Central Colchester","Central Colchester","2023-12-06","covN2","solid",4.25052435601454,-24.4629416557564,16.4819951838927,0.069658278896199
 "wastewater_copies_per_ml","NS","Central Colchester","Central Colchester","2023-12-08","covN2","solid",43.5618008999241,39.3112765439096,23.9061626279693,7.4241674440766
 "wastewater_copies_per_ml","NS","Central Colchester","Central Colchester","2023-12-13","covN2","solid",27.9269440750177,-15.6348568249064,35.7443724874709,11.8382098595016
+"wastewater_copies_per_ml","NS","Central Colchester","Central Colchester","2023-12-15","covN2","solid",25.1142011817906,-2.8127428932271,26.5205726284041,-9.2237998590668
+"wastewater_copies_per_ml","NS","Central Colchester","Central Colchester","2023-12-20","covN2","solid",20.4972771361462,-4.6169240456444,22.8057391589684,-3.7148334694357
 "wastewater_copies_per_ml","NS","Dominion-Bridgeport","Dominion-Bridgeport","2023-01-19","covN2","solid",2.06105829106864,,2.06105829106864,
 "wastewater_copies_per_ml","NS","Dominion-Bridgeport","Dominion-Bridgeport","2023-01-23","covN2","solid",0.333791759669842,-1.7272665313988,1.19742502536924,-0.8636332656994
 "wastewater_copies_per_ml","NS","Dominion-Bridgeport","Dominion-Bridgeport","2023-01-26","covN2","solid",5.4853233778293,5.15153161815946,2.90955756874957,1.71213254338033
@@ -5677,6 +5736,8 @@
 "wastewater_copies_per_ml","NS","Dominion-Bridgeport","Dominion-Bridgeport","2023-12-04","covN2","solid",0.584150745480488,-1.92457569382442,1.5464385923927,-0.0426653823352801
 "wastewater_copies_per_ml","NS","Dominion-Bridgeport","Dominion-Bridgeport","2023-12-07","covN2","solid",1.02848982807223,0.444339082591742,0.806320286776359,-0.740118305616341
 "wastewater_copies_per_ml","NS","Dominion-Bridgeport","Dominion-Bridgeport","2023-12-11","covN2","solid",1.72441771160548,0.69592788353325,1.37645376983886,0.570133483062501
+"wastewater_copies_per_ml","NS","Dominion-Bridgeport","Dominion-Bridgeport","2023-12-14","covN2","solid",6.3661234593238,4.64170574771832,4.04527058546464,2.66881681562578
+"wastewater_copies_per_ml","NS","Dominion-Bridgeport","Dominion-Bridgeport","2023-12-18","covN2","solid",2.56650435829147,-3.79961910103233,4.46631390880763,0.42104332334299
 "wastewater_copies_per_ml","NS","Halifax","Halifax Dartmouth","2020-11-12","covN2","solid",2.7639934584831,,2.7639934584831,
 "wastewater_copies_per_ml","NS","Halifax","Halifax Dartmouth","2020-11-19","covN2","solid",2.17665151235705,-0.58734194612605,2.17665151235705,-0.58734194612605
 "wastewater_copies_per_ml","NS","Halifax","Halifax Dartmouth","2020-11-23","covN2","solid",1.11885951091462,-1.05779200144243,1.64775551163584,-0.52889600072121
@@ -6015,6 +6076,8 @@
 "wastewater_copies_per_ml","NS","Halifax","Halifax Dartmouth","2023-12-06","covN2","solid",22.7993505175214,-0.264668018448699,22.9316845267457,7.6422079804964
 "wastewater_copies_per_ml","NS","Halifax","Halifax Dartmouth","2023-12-11","covN2","solid",23.7503792748311,0.9510287573097,23.2748648961763,0.343180369430602
 "wastewater_copies_per_ml","NS","Halifax","Halifax Dartmouth","2023-12-13","covN2","solid",60.4687565609317,36.7183772861006,42.1095679178814,18.8347030217051
+"wastewater_copies_per_ml","NS","Halifax","Halifax Dartmouth","2023-12-18","covN2","solid",13.3970508763467,-47.071705684585,36.9329037186392,-5.1766641992422
+"wastewater_copies_per_ml","NS","Halifax","Halifax Dartmouth","2023-12-20","covN2","solid",10.8742797095152,-2.5227711668315,12.135665292931,-24.7972384257082
 "wastewater_copies_per_ml","NS","Halifax","Halifax Halifax","2020-11-16","covN2","solid",1.22289455251775,,1.22289455251775,
 "wastewater_copies_per_ml","NS","Halifax","Halifax Halifax","2020-11-19","covN2","solid",5.7646994007062,4.54180484818845,3.49379697661198,2.27090242409423
 "wastewater_copies_per_ml","NS","Halifax","Halifax Halifax","2020-11-23","covN2","solid",4.17539052553797,-1.58930887516823,4.97004496312208,1.4762479865101
@@ -6351,6 +6414,8 @@
 "wastewater_copies_per_ml","NS","Halifax","Halifax Halifax","2023-12-06","covN2","solid",51.5866748258669,10.2459904075767,46.4636796220785,16.476537164389
 "wastewater_copies_per_ml","NS","Halifax","Halifax Halifax","2023-12-11","covN2","solid",40.1475102462913,-11.4391645795756,45.8670925360791,-0.596587085999403
 "wastewater_copies_per_ml","NS","Halifax","Halifax Halifax","2023-12-13","covN2","solid",18.9597328037266,-21.1877774425647,29.5536215250089,-16.3134710110702
+"wastewater_copies_per_ml","NS","Halifax","Halifax Halifax","2023-12-18","covN2","solid",31.7898746428436,12.830141839117,25.3748037232851,-4.1788178017238
+"wastewater_copies_per_ml","NS","Halifax","Halifax Halifax","2023-12-20","covN2","solid",23.3289396775753,-8.4609349652683,27.5594071602094,2.1846034369243
 "wastewater_copies_per_ml","NS","Halifax","Halifax Millcove","2020-11-19","covN2","solid",0.869737668293212,,0.869737668293212,
 "wastewater_copies_per_ml","NS","Halifax","Halifax Millcove","2020-11-23","covN2","solid",0.0054886866065897,-0.864248981686622,0.437613177449901,-0.432124490843311
 "wastewater_copies_per_ml","NS","Halifax","Halifax Millcove","2020-11-26","covN2","solid",0.0054886866065897,0,0.0054886866065897,-0.432124490843311
@@ -6689,6 +6754,8 @@
 "wastewater_copies_per_ml","NS","Halifax","Halifax Millcove","2023-12-06","covN2","solid",61.4397139091524,-2.58219858233029,62.7308132003176,23.3839267864798
 "wastewater_copies_per_ml","NS","Halifax","Halifax Millcove","2023-12-11","covN2","solid",19.4232354369112,-42.0164784722412,40.4314746730318,-22.2993385272858
 "wastewater_copies_per_ml","NS","Halifax","Halifax Millcove","2023-12-13","covN2","solid",31.4729002993955,12.0496648624843,25.4480678681534,-14.9834068048784
+"wastewater_copies_per_ml","NS","Halifax","Halifax Millcove","2023-12-18","covN2","solid",26.5709264466166,-4.9019738527789,29.0219133730061,3.5738455048527
+"wastewater_copies_per_ml","NS","Halifax","Halifax Millcove","2023-12-20","covN2","solid",10.8929254284858,-15.6780010181308,18.7319259375512,-10.2899874354549
 "wastewater_copies_per_ml","NS","Trenton","Trenton","2022-12-30","covN2","solid",14.1619618529944,,14.1619618529944,
 "wastewater_copies_per_ml","NS","Trenton","Trenton","2023-01-03","covN2","solid",10.7622240171871,-3.3997378358073,12.4620929350907,-1.6998689179037
 "wastewater_copies_per_ml","NS","Trenton","Trenton","2023-01-06","covN2","solid",62.2730176109252,51.5107935937381,36.5176208140561,24.0555278789654
@@ -6788,6 +6855,8 @@
 "wastewater_copies_per_ml","NS","Trenton","Trenton","2023-12-05","covN2","solid",14.0234146274523,-6.7620587627085,17.4044440088065,-6.6517570882846
 "wastewater_copies_per_ml","NS","Trenton","Trenton","2023-12-08","covN2","solid",12.7098966281662,-1.3135179992861,13.3666556278092,-4.0377883809973
 "wastewater_copies_per_ml","NS","Trenton","Trenton","2023-12-11","covN2","solid",50.9999556084322,38.290058980266,25.9110889546836,12.5444333268744
+"wastewater_copies_per_ml","NS","Trenton","Trenton","2023-12-18","covN2","solid",28.5128918091413,-22.4870637992909,28.5128918091413,2.6018028544577
+"wastewater_copies_per_ml","NS","Trenton","Trenton","2023-12-19","covN2","solid",18.1131987939747,-10.3996930151666,23.313045301558,-5.1998465075833
 "wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-02-13","covN2","solid",8.82727561961151,,8.82727561961151,
 "wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-02-21","covN2","solid",2.73148442158539,-6.09579119802612,2.73148442158539,-6.09579119802612
 "wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-02-24","covN2","solid",60.9076647164719,58.1761802948865,31.8195745690286,29.0880901474432
@@ -6872,6 +6941,8 @@
 "wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-12-04","covN2","solid",2.77873440756202,-44.4362658258854,18.2945473718532,-0.4039658264238
 "wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-12-08","covN2","solid",144.587296570742,141.80856216318,73.6830154891518,55.3884681172986
 "wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-12-11","covN2","solid",25.3940219323154,-119.193274638427,84.9906592515284,11.3076437623766
+"wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-12-17","covN2","solid",3.7006375945449,-21.6933843377705,14.5473297634301,-70.4433294880983
+"wastewater_copies_per_ml","NS","Yarmouth","Yarmouth","2023-12-18","covN2","solid",10.9931825825639,7.292544988019,7.3469100885544,-7.2004196748757
 "wastewater_copies_per_ml","ON","Toronto","Toronto Ashbridges Bay","2021-01-05","covN2","solid",145.869413573307,,145.869413573307,
 "wastewater_copies_per_ml","ON","Toronto","Toronto Ashbridges Bay","2021-01-06","covN2","solid",163.470213567079,17.600799993772,154.669813570193,8.800399996886
 "wastewater_copies_per_ml","ON","Toronto","Toronto Ashbridges Bay","2021-01-07","covN2","solid",221.126733559876,57.656519992797,176.822120233421,22.152306663228
@@ -7217,6 +7288,9 @@
 "wastewater_copies_per_ml","ON","Toronto","Toronto Ashbridges Bay","2023-12-03","covN2","solid",75.4819457739706,16.4444610254575,67.2597152612419,24.3317914264198
 "wastewater_copies_per_ml","ON","Toronto","Toronto Ashbridges Bay","2023-12-05","covN2","solid",82.3194293213102,6.8374835473396,78.9006875476404,11.6409722863985
 "wastewater_copies_per_ml","ON","Toronto","Toronto Ashbridges Bay","2023-12-10","covN2","solid",53.9044792357914,-28.4149500855188,68.1119542785508,-10.7887332690896
+"wastewater_copies_per_ml","ON","Toronto","Toronto Ashbridges Bay","2023-12-12","covN2","solid",37.7678147758591,-16.1366644599323,45.8361470058253,-22.2758072727255
+"wastewater_copies_per_ml","ON","Toronto","Toronto Ashbridges Bay","2023-12-17","covN2","solid",25.9232642837634,-11.8445504920957,31.8455395298112,-13.9906074760141
+"wastewater_copies_per_ml","ON","Toronto","Toronto Ashbridges Bay","2023-12-19","covN2","solid",129.703788078395,103.780523794632,77.8135261810792,45.967986651268
 "wastewater_copies_per_ml","ON","Toronto","Toronto Highland Creek","2021-02-11","covN2","solid",32.7112604712776,,32.7112604712776,
 "wastewater_copies_per_ml","ON","Toronto","Toronto Highland Creek","2021-02-16","covN2","solid",28.145274848756,-4.5659856225216,30.4282676600168,-2.2829928112608
 "wastewater_copies_per_ml","ON","Toronto","Toronto Highland Creek","2021-02-18","covN2","solid",5.61027317933292,-22.5350016694231,16.8777740140445,-13.5504936459723
@@ -7504,6 +7578,9 @@
 "wastewater_copies_per_ml","ON","Toronto","Toronto Highland Creek","2023-12-03","covN2","solid",74.7070355041166,5.3423349490652,72.035868029584,-2.94618174752591
 "wastewater_copies_per_ml","ON","Toronto","Toronto Highland Creek","2023-12-05","covN2","solid",96.913135076001,22.2060995718844,85.8100852900588,13.7742172604748
 "wastewater_copies_per_ml","ON","Toronto","Toronto Highland Creek","2023-12-10","covN2","solid",83.2165706203413,-13.6965644556597,90.0648528481711,4.25476755811231
+"wastewater_copies_per_ml","ON","Toronto","Toronto Highland Creek","2023-12-12","covN2","solid",281.513076348121,198.29650572778,182.364823484231,92.2999706360599
+"wastewater_copies_per_ml","ON","Toronto","Toronto Highland Creek","2023-12-17","covN2","solid",62.3608442437841,-219.152232104337,171.936960295953,-10.427863188278
+"wastewater_copies_per_ml","ON","Toronto","Toronto Highland Creek","2023-12-19","covN2","solid",273.094679070678,210.733834826894,167.727761657231,-4.209198638722
 "wastewater_copies_per_ml","ON","Toronto","Toronto Humber","2020-11-05","covN2","solid",48.9427487834688,,48.9427487834688,
 "wastewater_copies_per_ml","ON","Toronto","Toronto Humber","2020-11-09","covN2","solid",62.2540714146065,13.3113226311377,55.5984100990376,6.6556613155688
 "wastewater_copies_per_ml","ON","Toronto","Toronto Humber","2020-11-12","covN2","solid",9.98768372059221,-52.2663876940143,36.1208775675994,-19.4775325314382
@@ -7831,6 +7908,9 @@
 "wastewater_copies_per_ml","ON","Toronto","Toronto Humber","2023-12-03","covN2","solid",71.9884803822561,-65.0356707699999,104.506315767256,21.184425059642
 "wastewater_copies_per_ml","ON","Toronto","Toronto Humber","2023-12-05","covN2","solid",112.788202795005,40.7997224127489,92.3883415886306,-12.1179741786254
 "wastewater_copies_per_ml","ON","Toronto","Toronto Humber","2023-12-10","covN2","solid",38.8365797860359,-73.9516230089691,75.8123912905205,-16.5759502981101
+"wastewater_copies_per_ml","ON","Toronto","Toronto Humber","2023-12-12","covN2","solid",97.2573186243825,58.4207388383466,68.0469492052092,-7.76544208531129
+"wastewater_copies_per_ml","ON","Toronto","Toronto Humber","2023-12-17","covN2","solid",52.5945518850594,-44.6627667393231,74.925935254721,6.87898604951179
+"wastewater_copies_per_ml","ON","Toronto","Toronto Humber","2023-12-19","covN2","solid",158.155133519909,105.56058163485,105.374842702484,30.448907447763
 "wastewater_copies_per_ml","ON","Toronto","Toronto North Toronto","2021-02-11","covN2","solid",31.5193498075386,,31.5193498075386,
 "wastewater_copies_per_ml","ON","Toronto","Toronto North Toronto","2021-02-14","covN2","solid",13.3959261971733,-18.1234236103653,22.457638002356,-9.0617118051826
 "wastewater_copies_per_ml","ON","Toronto","Toronto North Toronto","2021-02-16","covN2","solid",7.47974194362913,-5.91618425354417,17.4650059827804,-4.9926320195756
@@ -8120,6 +8200,9 @@
 "wastewater_copies_per_ml","ON","Toronto","Toronto North Toronto","2023-12-03","covN2","solid",135.021508684223,-72.433089324276,171.238053346361,56.864916233695
 "wastewater_copies_per_ml","ON","Toronto","Toronto North Toronto","2023-12-05","covN2","solid",83.8625417084017,-51.1589669758213,109.442025196312,-61.796028150049
 "wastewater_copies_per_ml","ON","Toronto","Toronto North Toronto","2023-12-10","covN2","solid",123.842200903031,39.9796591946293,103.852371305716,-5.589653890596
+"wastewater_copies_per_ml","ON","Toronto","Toronto North Toronto","2023-12-12","covN2","solid",129.610207085346,5.76800618231499,126.726203994188,22.873832688472
+"wastewater_copies_per_ml","ON","Toronto","Toronto North Toronto","2023-12-17","covN2","solid",175.024460642774,45.414253557428,152.31733386406,25.591129869872
+"wastewater_copies_per_ml","ON","Toronto","Toronto North Toronto","2023-12-19","covN2","solid",80.0848707156962,-94.9395899270778,127.554665679235,-24.762668184825
 "wastewater_copies_per_ml","PE","Alberton","Alberton","2022-11-02","covN2","solid",2.16723422048486,,2.16723422048486,
 "wastewater_copies_per_ml","PE","Alberton","Alberton","2022-11-09","covN2","solid",10.3175963500886,8.15036212960374,10.3175963500886,8.15036212960374
 "wastewater_copies_per_ml","PE","Alberton","Alberton","2022-11-16","covN2","solid",44.1074470889906,33.789850738902,44.1074470889906,33.789850738902
@@ -8177,6 +8260,7 @@
 "wastewater_copies_per_ml","PE","Alberton","Alberton","2023-11-22","covN2","solid",152.188762205598,119.841891851092,152.188762205598,119.841891851092
 "wastewater_copies_per_ml","PE","Alberton","Alberton","2023-11-29","covN2","solid",78.0284340802174,-74.1603281253806,78.0284340802174,-74.1603281253806
 "wastewater_copies_per_ml","PE","Alberton","Alberton","2023-12-06","covN2","solid",399.770169156841,321.741735076624,399.770169156841,321.741735076624
+"wastewater_copies_per_ml","PE","Alberton","Alberton","2023-12-13","covN2","solid",53.6387083854245,-346.131460771417,53.6387083854245,-346.131460771417
 "wastewater_copies_per_ml","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford","2022-05-05","covN2","solid",13.0167057404232,,13.0167057404232,
 "wastewater_copies_per_ml","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford","2022-05-09","covN2","solid",38.3631958517941,25.3464901113709,25.6899507961087,12.6732450556855
 "wastewater_copies_per_ml","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford","2022-05-12","covN2","solid",55.1889153753708,16.8257195235767,46.7760556135825,21.0861048174738
@@ -8336,6 +8420,8 @@
 "wastewater_copies_per_ml","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford","2023-12-04","covN2","solid",33.379939155598,1.8686698596962,32.4456042257499,11.3131466467919
 "wastewater_copies_per_ml","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford","2023-12-07","covN2","solid",16.4583294259682,-16.9216097296298,24.9191342907831,-7.5264699349668
 "wastewater_copies_per_ml","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford","2023-12-11","covN2","solid",39.8228666813451,23.3645372553769,28.1405980536566,3.2214637628735
+"wastewater_copies_per_ml","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford","2023-12-14","covN2","solid",32.630087707826,-7.1927789735191,36.2264771945856,8.085879140929
+"wastewater_copies_per_ml","PE","City of Charlottetown & Town of Stratford","City of Charlottetown & Town of Stratford","2023-12-18","covN2","solid",24.4755363357327,-8.1545513720933,28.5528120217794,-7.6736651728062
 "wastewater_copies_per_ml","PE","Montague","Montague","2022-11-23","covN2","solid",33.1098332559335,,33.1098332559335,
 "wastewater_copies_per_ml","PE","Montague","Montague","2022-11-28","covN2","solid",57.9423521861205,24.832518930187,45.526092721027,12.4162594650935
 "wastewater_copies_per_ml","PE","Montague","Montague","2022-11-30","covN2","solid",18.3974393940497,-39.5449127920708,38.1698957900851,-7.3561969309419
@@ -8441,6 +8527,8 @@
 "wastewater_copies_per_ml","PE","Montague","Montague","2023-12-04","covN2","solid",37.9530919494107,21.3484463550855,27.278868771868,9.833460315198
 "wastewater_copies_per_ml","PE","Montague","Montague","2023-12-06","covN2","solid",48.8161663456736,10.8630743962629,43.3846291475422,16.1057603756742
 "wastewater_copies_per_ml","PE","Montague","Montague","2023-12-11","covN2","solid",34.0495809781846,-14.766585367489,41.4328736619291,-1.9517554856131
+"wastewater_copies_per_ml","PE","Montague","Montague","2023-12-13","covN2","solid",15.7939561208649,-18.2556248573197,24.9217685495247,-16.5111051124044
+"wastewater_copies_per_ml","PE","Montague","Montague","2023-12-18","covN2","solid",1.95831026746982,-13.8356458533951,8.87613319416734,-16.0456353553574
 "wastewater_copies_per_ml","PE","Souris","Souris","2022-11-23","covN2","solid",21.5252678885408,,21.5252678885408,
 "wastewater_copies_per_ml","PE","Souris","Souris","2022-11-28","covN2","solid",4.31031358597668,-17.2149543025641,12.9177907372587,-8.6074771512821
 "wastewater_copies_per_ml","PE","Souris","Souris","2022-11-30","covN2","solid",78.3054489248997,73.995135338923,41.3078812554382,28.3900905181795
@@ -8550,6 +8638,8 @@
 "wastewater_copies_per_ml","PE","Souris","Souris","2023-12-04","covN2","solid",2.8599437524398,-6.06590393260879,5.89289571874419,-57.33716693501
 "wastewater_copies_per_ml","PE","Souris","Souris","2023-12-06","covN2","solid",47.75271926392,44.8927755114802,25.3063315081799,19.4134357894357
 "wastewater_copies_per_ml","PE","Souris","Souris","2023-12-11","covN2","solid",38.4755791928441,-9.2771400710759,43.114149228382,17.8078177202021
+"wastewater_copies_per_ml","PE","Souris","Souris","2023-12-13","covN2","solid",54.0909465030854,15.6153673102413,46.2832628479647,3.1691136195827
+"wastewater_copies_per_ml","PE","Souris","Souris","2023-12-18","covN2","solid",12.7037939664926,-41.3871525365928,33.397370234789,-12.8858926131757
 "wastewater_copies_per_ml","PE","Summerside","Summerside","2022-05-05","covN2","solid",62.3140489380968,,62.3140489380968,
 "wastewater_copies_per_ml","PE","Summerside","Summerside","2022-05-09","covN2","solid",45.4187781645987,-16.8952707734981,53.8664135513477,-8.44763538674911
 "wastewater_copies_per_ml","PE","Summerside","Summerside","2022-05-12","covN2","solid",47.9547222037322,2.5359440391335,46.6867501841655,-7.1796633671822
@@ -8706,6 +8796,8 @@
 "wastewater_copies_per_ml","PE","Summerside","Summerside","2023-12-04","covN2","solid",44.6818249679329,26.4996614972978,31.431994219284,12.4674396173369
 "wastewater_copies_per_ml","PE","Summerside","Summerside","2023-12-07","covN2","solid",35.5204441865517,-9.1613807813812,40.1011345772422,8.6691403579582
 "wastewater_copies_per_ml","PE","Summerside","Summerside","2023-12-11","covN2","solid",38.748172349796,3.2277281632443,37.1343082681738,-2.9668263090684
+"wastewater_copies_per_ml","PE","Summerside","Summerside","2023-12-14","covN2","solid",28.3455023353993,-10.4026700143967,33.5468373425976,-3.5874709255762
+"wastewater_copies_per_ml","PE","Summerside","Summerside","2023-12-18","covN2","solid",24.5669369518445,-3.7785653835548,26.4562196436219,-7.0906176989757
 "wastewater_copies_per_ml","QC","Montreal","Montreal North","2020-10-29","covN2","solid",4.2712022287494,,4.2712022287494,
 "wastewater_copies_per_ml","QC","Montreal","Montreal North","2020-11-01","covN2","solid",11.0328603773379,6.7616581485885,7.65203130304367,3.38082907429427
 "wastewater_copies_per_ml","QC","Montreal","Montreal North","2020-11-05","covN2","solid",6.40184508429213,-4.63101529304577,8.71735273081504,1.06532142777137
@@ -9088,6 +9180,8 @@
 "wastewater_copies_per_ml","QC","Montreal","Montreal North","2023-11-25","covN2","solid",11.8885058038026,-2.7035306241554,13.2402711158803,-2.8073286683256
 "wastewater_copies_per_ml","QC","Montreal","Montreal North","2023-11-29","covN2","solid",34.3623906410212,22.4738848372186,23.125448222412,9.8851771065317
 "wastewater_copies_per_ml","QC","Montreal","Montreal North","2023-12-02","covN2","solid",26.9482158893521,-7.4141747516691,30.6553032651867,7.5298550427747
+"wastewater_copies_per_ml","QC","Montreal","Montreal North","2023-12-13","covN2","solid",32.95163530786,6.0034194185079,32.95163530786,2.2963320426733
+"wastewater_copies_per_ml","QC","Montreal","Montreal North","2023-12-16","covN2","solid",56.6844417357508,23.7328064278908,44.8180385218054,11.8664032139454
 "wastewater_copies_per_ml","QC","Montreal","Montreal South","2020-11-15","covN2","solid",26.9287681126333,,26.9287681126333,
 "wastewater_copies_per_ml","QC","Montreal","Montreal South","2021-02-09","covN2","solid",11.7044147431839,-15.2243533694494,11.7044147431839,-15.2243533694494
 "wastewater_copies_per_ml","QC","Montreal","Montreal South","2021-02-11","covN2","solid",27.4987969068758,15.7943821636919,19.6016058250298,7.8971910818459
@@ -9389,6 +9483,8 @@
 "wastewater_copies_per_ml","QC","Montreal","Montreal South","2023-11-25","covN2","solid",63.2165536737375,34.5071508900757,45.9629782286996,27.4147115292723
 "wastewater_copies_per_ml","QC","Montreal","Montreal South","2023-11-29","covN2","solid",38.1323506899977,-25.0842029837398,50.6744521818676,4.711473953168
 "wastewater_copies_per_ml","QC","Montreal","Montreal South","2023-12-02","covN2","solid",17.8718129129133,-20.2605377770844,28.0020818014555,-22.6723703804121
+"wastewater_copies_per_ml","QC","Montreal","Montreal South","2023-12-13","covN2","solid",54.29163261195,36.4198196990367,54.29163261195,26.2895508104945
+"wastewater_copies_per_ml","QC","Montreal","Montreal South","2023-12-16","covN2","solid",15.6260324800332,-38.6656001319168,34.9588325459916,-19.3328000659584
 "wastewater_copies_per_ml","SK","Assiniboia","Assiniboia","2023-05-29","covN2","liquid",0,,0,
 "wastewater_copies_per_ml","SK","Assiniboia","Assiniboia","2023-06-01","covN2","liquid",6.9,6.9,3.45,3.45
 "wastewater_copies_per_ml","SK","Assiniboia","Assiniboia","2023-06-06","covN2","liquid",17.1,10.2,12,8.55
@@ -9443,6 +9539,8 @@
 "wastewater_copies_per_ml","SK","Assiniboia","Assiniboia","2023-12-04","covN2","liquid",95.4,92.1,49.35,39.15
 "wastewater_copies_per_ml","SK","Assiniboia","Assiniboia","2023-12-07","covN2","liquid",6.9,-88.5,51.15,1.8
 "wastewater_copies_per_ml","SK","Assiniboia","Assiniboia","2023-12-14","covN2","liquid",0,-6.9,0,-51.15
+"wastewater_copies_per_ml","SK","Assiniboia","Assiniboia","2023-12-18","covN2","liquid",0,0,0,0
+"wastewater_copies_per_ml","SK","Assiniboia","Assiniboia","2023-12-21","covN2","liquid",0,0,0,0
 "wastewater_copies_per_ml","SK","Battleford","Battleford","2023-05-23","covN2","liquid",0,,0,
 "wastewater_copies_per_ml","SK","Battleford","Battleford","2023-05-25","covN2","liquid",13.8,13.8,6.9,6.9
 "wastewater_copies_per_ml","SK","Battleford","Battleford","2023-06-01","covN2","liquid",0,-13.8,0,-6.9
@@ -9502,6 +9600,8 @@
 "wastewater_copies_per_ml","SK","Battleford","Battleford","2023-12-07","covN2","liquid",13.5,10.2,8.4,-51.15
 "wastewater_copies_per_ml","SK","Battleford","Battleford","2023-12-12","covN2","liquid",54.3,40.8,33.9,25.5
 "wastewater_copies_per_ml","SK","Battleford","Battleford","2023-12-14","covN2","liquid",3.3,-51,28.8,-5.1
+"wastewater_copies_per_ml","SK","Battleford","Battleford","2023-12-19","covN2","liquid",24,20.7,13.65,-15.15
+"wastewater_copies_per_ml","SK","Battleford","Battleford","2023-12-21","covN2","liquid",30.6,6.6,27.3,13.65
 "wastewater_copies_per_ml","SK","Birch Hills","Birch Hills","2023-05-30","covN2","liquid",3.3,,3.3,
 "wastewater_copies_per_ml","SK","Birch Hills","Birch Hills","2023-06-06","covN2","liquid",10.2,6.9,10.2,6.9
 "wastewater_copies_per_ml","SK","Birch Hills","Birch Hills","2023-06-08","covN2","liquid",6.9,-3.3,8.55,-1.65
@@ -9534,6 +9634,7 @@
 "wastewater_copies_per_ml","SK","Birch Hills","Birch Hills","2023-11-28","covN2","liquid",0,-10.2,0,-10.2
 "wastewater_copies_per_ml","SK","Birch Hills","Birch Hills","2023-12-05","covN2","liquid",0,0,0,0
 "wastewater_copies_per_ml","SK","Birch Hills","Birch Hills","2023-12-12","covN2","liquid",10.2,10.2,10.2,10.2
+"wastewater_copies_per_ml","SK","Birch Hills","Birch Hills","2023-12-19","covN2","liquid",0,-10.2,0,-10.2
 "wastewater_copies_per_ml","SK","Canora","Canora","2023-05-29","covN2","liquid",0,,0,
 "wastewater_copies_per_ml","SK","Canora","Canora","2023-06-01","covN2","liquid",0,0,0,0
 "wastewater_copies_per_ml","SK","Canora","Canora","2023-06-05","covN2","liquid",3.3,3.3,1.65,1.65
@@ -9568,6 +9669,8 @@
 "wastewater_copies_per_ml","SK","Estevan","Estevan","2023-12-07","covN2","liquid",20.4,20.4,10.2,-5.1
 "wastewater_copies_per_ml","SK","Estevan","Estevan","2023-12-11","covN2","liquid",6.9,-13.5,13.65,3.45
 "wastewater_copies_per_ml","SK","Estevan","Estevan","2023-12-14","covN2","liquid",13.5,6.6,10.2,-3.45
+"wastewater_copies_per_ml","SK","Estevan","Estevan","2023-12-18","covN2","liquid",6.9,-6.6,10.2,0
+"wastewater_copies_per_ml","SK","Estevan","Estevan","2023-12-21","covN2","liquid",6.9,0,6.9,-3.3
 "wastewater_copies_per_ml","SK","La Ronge","La Ronge","2023-06-07","covN2","liquid",37.5,,37.5,
 "wastewater_copies_per_ml","SK","La Ronge","La Ronge","2023-06-14","covN2","liquid",10.2,-27.3,10.2,-27.3
 "wastewater_copies_per_ml","SK","La Ronge","La Ronge","2023-06-27","covN2","liquid",0,-10.2,0,-10.2
@@ -9588,6 +9691,7 @@
 "wastewater_copies_per_ml","SK","La Ronge","La Ronge","2023-11-29","covN2","liquid",3.3,3.3,3.3,3.3
 "wastewater_copies_per_ml","SK","La Ronge","La Ronge","2023-12-06","covN2","liquid",17.1,13.8,17.1,13.8
 "wastewater_copies_per_ml","SK","La Ronge","La Ronge","2023-12-13","covN2","liquid",3.3,-13.8,3.3,-13.8
+"wastewater_copies_per_ml","SK","La Ronge","La Ronge","2023-12-20","covN2","liquid",10.2,6.9,10.2,6.9
 "wastewater_copies_per_ml","SK","Lumsden","Lumsden","2023-06-28","covN2","liquid",3.3,,3.3,
 "wastewater_copies_per_ml","SK","Lumsden","Lumsden","2023-07-05","covN2","liquid",0,-3.3,0,-3.3
 "wastewater_copies_per_ml","SK","Lumsden","Lumsden","2023-07-10","covN2","liquid",6.9,6.9,3.45,3.45
@@ -9618,6 +9722,7 @@
 "wastewater_copies_per_ml","SK","Lumsden","Lumsden","2023-11-28","covN2","liquid",30.6,27.3,30.6,27.3
 "wastewater_copies_per_ml","SK","Lumsden","Lumsden","2023-12-05","covN2","liquid",3.3,-27.3,3.3,-27.3
 "wastewater_copies_per_ml","SK","Lumsden","Lumsden","2023-12-12","covN2","liquid",0,-3.3,0,-3.3
+"wastewater_copies_per_ml","SK","Lumsden","Lumsden","2023-12-18","covN2","liquid",6.9,6.9,3.45,3.45
 "wastewater_copies_per_ml","SK","Maple Creek","Maple Creek","2023-08-21","covN2","liquid",44.1,,44.1,
 "wastewater_copies_per_ml","SK","Maple Creek","Maple Creek","2023-08-24","covN2","liquid",3.3,-40.8,23.7,-20.4
 "wastewater_copies_per_ml","SK","Maple Creek","Maple Creek","2023-08-28","covN2","liquid",0,-3.3,1.65,-22.05
@@ -9647,6 +9752,8 @@
 "wastewater_copies_per_ml","SK","Maple Creek","Maple Creek","2023-12-07","covN2","liquid",10.2,-102.3,61.35,-51.15
 "wastewater_copies_per_ml","SK","Maple Creek","Maple Creek","2023-12-11","covN2","liquid",10.2,0,10.2,-51.15
 "wastewater_copies_per_ml","SK","Maple Creek","Maple Creek","2023-12-14","covN2","liquid",57.9,47.7,34.05,23.85
+"wastewater_copies_per_ml","SK","Maple Creek","Maple Creek","2023-12-18","covN2","liquid",40.8,-17.1,49.35,15.3
+"wastewater_copies_per_ml","SK","Maple Creek","Maple Creek","2023-12-21","covN2","liquid",6.9,-33.9,23.85,-25.5
 "wastewater_copies_per_ml","SK","Meadow Lake","Meadow Lake","2023-06-13","covN2","liquid",10.2,,10.2,
 "wastewater_copies_per_ml","SK","Meadow Lake","Meadow Lake","2023-06-20","covN2","liquid",3.3,-6.9,3.3,-6.9
 "wastewater_copies_per_ml","SK","Meadow Lake","Meadow Lake","2023-06-22","covN2","liquid",0,-3.3,1.65,-1.65
@@ -9696,6 +9803,7 @@
 "wastewater_copies_per_ml","SK","Meadow Lake","Meadow Lake","2023-12-07","covN2","liquid",54.3,-174,141.3,23.7
 "wastewater_copies_per_ml","SK","Meadow Lake","Meadow Lake","2023-12-12","covN2","liquid",27.3,-27,40.8,-100.5
 "wastewater_copies_per_ml","SK","Meadow Lake","Meadow Lake","2023-12-14","covN2","liquid",20.4,-6.9,23.85,-16.95
+"wastewater_copies_per_ml","SK","Meadow Lake","Meadow Lake","2023-12-19","covN2","liquid",23.7,3.3,22.05,-1.8
 "wastewater_copies_per_ml","SK","Melvile","Melvile","2023-05-19","covN2","liquid",0,,0,
 "wastewater_copies_per_ml","SK","Melvile","Melvile","2023-05-23","covN2","liquid",0,0,0,0
 "wastewater_copies_per_ml","SK","Melvile","Melvile","2023-05-30","covN2","liquid",6.9,6.9,6.9,6.9
@@ -9742,6 +9850,8 @@
 "wastewater_copies_per_ml","SK","Melvile","Melvile","2023-12-07","covN2","liquid",10.2,3.3,8.55,0
 "wastewater_copies_per_ml","SK","Melvile","Melvile","2023-12-13","covN2","liquid",10.2,0,10.2,1.65
 "wastewater_copies_per_ml","SK","Melvile","Melvile","2023-12-14","covN2","liquid",20.4,10.2,15.3,5.1
+"wastewater_copies_per_ml","SK","Melvile","Melvile","2023-12-19","covN2","liquid",23.7,3.3,18.1,2.8
+"wastewater_copies_per_ml","SK","Melvile","Melvile","2023-12-21","covN2","liquid",20.4,-3.3,22.05,3.95
 "wastewater_copies_per_ml","SK","Moose Jaw","Moose Jaw","2023-04-13","covN2","liquid",17.1,,17.1,
 "wastewater_copies_per_ml","SK","Moose Jaw","Moose Jaw","2023-04-24","covN2","liquid",3.3,-13.8,3.3,-13.8
 "wastewater_copies_per_ml","SK","Moose Jaw","Moose Jaw","2023-04-26","covN2","liquid",0,-3.3,1.65,-1.65
@@ -9777,6 +9887,7 @@
 "wastewater_copies_per_ml","SK","Moose Jaw","Moose Jaw","2023-11-30","covN2","liquid",33.9,23.7,33.9,23.7
 "wastewater_copies_per_ml","SK","Moose Jaw","Moose Jaw","2023-12-07","covN2","liquid",17.1,-16.8,17.1,-16.8
 "wastewater_copies_per_ml","SK","Moose Jaw","Moose Jaw","2023-12-14","covN2","liquid",27.3,10.2,27.3,10.2
+"wastewater_copies_per_ml","SK","Moose Jaw","Moose Jaw","2023-12-21","covN2","liquid",54.6,27.3,54.6,27.3
 "wastewater_copies_per_ml","SK","North Battleford","North Battleford","2021-08-04","covN2","mixed",0.87,,0.87,
 "wastewater_copies_per_ml","SK","North Battleford","North Battleford","2021-08-06","covN2","mixed",0,-0.87,0.435,-0.435
 "wastewater_copies_per_ml","SK","North Battleford","North Battleford","2021-08-10","covN2","mixed",0.73,0.73,0.533333333333333,0.098333333333333
@@ -10100,6 +10211,7 @@
 "wastewater_copies_per_ml","SK","North Battleford","North Battleford","2023-12-05","covN2","liquid",6.9,-10.2,12,-5.1
 "wastewater_copies_per_ml","SK","North Battleford","North Battleford","2023-12-12","covN2","liquid",17.1,10.2,17.1,5.1
 "wastewater_copies_per_ml","SK","North Battleford","North Battleford","2023-12-14","covN2","liquid",27.3,10.2,22.2,5.1
+"wastewater_copies_per_ml","SK","North Battleford","North Battleford","2023-12-19","covN2","liquid",3.3,-24,15.3,-6.9
 "wastewater_copies_per_ml","SK","Pasqua","Pasqua","2023-05-09","covN2","liquid",0,,0,
 "wastewater_copies_per_ml","SK","Pasqua","Pasqua","2023-05-16","covN2","liquid",12,12,12,12
 "wastewater_copies_per_ml","SK","Pasqua","Pasqua","2023-05-24","covN2","liquid",0,-12,0,-12
@@ -10892,6 +11004,10 @@
 "wastewater_copies_per_ml","SK","Regina","Regina","2023-12-10","covN2","solid",11.3872017621371,0,20.0475051714502,0
 "wastewater_copies_per_ml","SK","Regina","Regina","2023-12-12","covN2","solid",23.9371811380352,12.5499793758981,17.6621914500862,-2.385313721364
 "wastewater_copies_per_ml","SK","Regina","Regina","2023-12-12","covN2","solid",23.9371811380352,0,17.6621914500862,0
+"wastewater_copies_per_ml","SK","Regina","Regina","2023-12-17","covN2","solid",52.7892250967918,28.8520439587566,38.3632031174135,20.7010116673273
+"wastewater_copies_per_ml","SK","Regina","Regina","2023-12-17","covN2","solid",52.7892250967918,0,38.3632031174135,0
+"wastewater_copies_per_ml","SK","Regina","Regina","2023-12-19","covN2","solid",31.9258717054296,-20.8633533913622,42.3575484011107,3.9943452836972
+"wastewater_copies_per_ml","SK","Regina","Regina","2023-12-19","covN2","solid",31.9258717054296,0,42.3575484011107,0
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2021-03-27","covN2","mixed",2.34,,2.34,
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2021-03-31","covN2","mixed",4.67,2.33,3.505,1.165
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2021-04-03","covN2","mixed",1.4,-3.27,3.035,-0.47
@@ -11332,6 +11448,10 @@
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-10","covN2","liquid",47.7,0,39.15,0
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-13","covN2","liquid",51,3.3,49.35,10.2
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-13","covN2","liquid",51,0,49.35,0
+"wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-17","covN2","liquid",54.3,3.3,52.65,3.3
+"wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-17","covN2","liquid",54.3,0,52.65,0
+"wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-20","covN2","liquid",81.9,27.6,68.1,15.45
+"wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-20","covN2","liquid",81.9,0,68.1,0
 "wastewater_copies_per_ml","SK","Southey","Southey","2023-05-29","covN2","liquid",3.3,,3.3,
 "wastewater_copies_per_ml","SK","Southey","Southey","2023-06-01","covN2","liquid",3.3,0,3.3,0
 "wastewater_copies_per_ml","SK","Southey","Southey","2023-06-05","covN2","liquid",10.2,6.9,6.75,3.45
@@ -11385,6 +11505,7 @@
 "wastewater_copies_per_ml","SK","Southey","Southey","2023-12-07","covN2","liquid",3.3,-3.6,5.1,-10.2
 "wastewater_copies_per_ml","SK","Southey","Southey","2023-12-11","covN2","liquid",0,-3.3,1.65,-3.45
 "wastewater_copies_per_ml","SK","Southey","Southey","2023-12-14","covN2","liquid",3.3,3.3,1.65,0
+"wastewater_copies_per_ml","SK","Southey","Southey","2023-12-18","covN2","liquid",6.9,3.6,5.1,3.45
 "wastewater_copies_per_ml","SK","Swift Current","Swift Current","2023-04-12","covN2","liquid",10.2,,10.2,
 "wastewater_copies_per_ml","SK","Swift Current","Swift Current","2023-04-14","covN2","liquid",17.1,6.9,13.65,3.45
 "wastewater_copies_per_ml","SK","Swift Current","Swift Current","2023-04-16","covN2","liquid",24,6.9,17.1,3.45
@@ -11436,6 +11557,7 @@
 "wastewater_copies_per_ml","SK","Swift Current","Swift Current","2023-11-29","covN2","liquid",30.6,10.2,30.6,10.2
 "wastewater_copies_per_ml","SK","Swift Current","Swift Current","2023-12-05","covN2","liquid",10.2,-20.4,20.4,-10.2
 "wastewater_copies_per_ml","SK","Swift Current","Swift Current","2023-12-13","covN2","liquid",13.5,3.3,13.5,-6.9
+"wastewater_copies_per_ml","SK","Swift Current","Swift Current","2023-12-20","covN2","liquid",6.9,-6.6,6.9,-6.6
 "wastewater_copies_per_ml","SK","Unity","Unity","2023-05-30","covN2","liquid",0,,0,
 "wastewater_copies_per_ml","SK","Unity","Unity","2023-06-13","covN2","liquid",3.3,3.3,3.3,3.3
 "wastewater_copies_per_ml","SK","Unity","Unity","2023-06-20","covN2","liquid",0,-3.3,0,-3.3
@@ -11462,6 +11584,7 @@
 "wastewater_copies_per_ml","SK","Unity","Unity","2023-11-27","covN2","liquid",6.9,-3.3,6.9,0.15
 "wastewater_copies_per_ml","SK","Unity","Unity","2023-12-06","covN2","liquid",3.3,-3.6,3.3,-3.6
 "wastewater_copies_per_ml","SK","Unity","Unity","2023-12-11","covN2","liquid",3.3,0,3.3,0
+"wastewater_copies_per_ml","SK","Unity","Unity","2023-12-18","covN2","liquid",13.8,10.5,13.8,10.5
 "wastewater_copies_per_ml","SK","Watrous","Watrous","2023-05-29","covN2","liquid",6.9,,6.9,
 "wastewater_copies_per_ml","SK","Watrous","Watrous","2023-06-01","covN2","liquid",0,-6.9,3.45,-3.45
 "wastewater_copies_per_ml","SK","Watrous","Watrous","2023-06-12","covN2","liquid",6.9,6.9,6.9,3.45
@@ -11526,6 +11649,8 @@
 "wastewater_copies_per_ml","SK","Weyburn","Weyburn","2023-12-07","covN2","liquid",10.2,-142.8,81.6,-15.3
 "wastewater_copies_per_ml","SK","Weyburn","Weyburn","2023-12-12","covN2","liquid",6.9,-3.3,8.55,-73.05
 "wastewater_copies_per_ml","SK","Weyburn","Weyburn","2023-12-14","covN2","liquid",3.3,-3.6,5.1,-3.45
+"wastewater_copies_per_ml","SK","Weyburn","Weyburn","2023-12-19","covN2","liquid",0,-3.3,1.65,-3.45
+"wastewater_copies_per_ml","SK","Weyburn","Weyburn","2023-12-21","covN2","liquid",13.5,13.5,6.75,5.1
 "wastewater_copies_per_ml","SK","Yorkton","Yorkton","2023-04-24","covN2","liquid",0,,0,
 "wastewater_copies_per_ml","SK","Yorkton","Yorkton","2023-04-27","covN2","liquid",27.6,27.6,13.8,13.8
 "wastewater_copies_per_ml","SK","Yorkton","Yorkton","2023-04-29","covN2","liquid",3.3,-24.3,10.3,-3.5
@@ -11599,6 +11724,8 @@
 "wastewater_copies_per_ml","SK","Yorkton","Yorkton","2023-12-07","covN2","liquid",0,-13.5,6.75,-3.45
 "wastewater_copies_per_ml","SK","Yorkton","Yorkton","2023-12-11","covN2","liquid",3.3,3.3,1.65,-5.1
 "wastewater_copies_per_ml","SK","Yorkton","Yorkton","2023-12-14","covN2","liquid",10.2,6.9,6.75,5.1
+"wastewater_copies_per_ml","SK","Yorkton","Yorkton","2023-12-18","covN2","liquid",0,-10.2,5.1,-1.65
+"wastewater_copies_per_ml","SK","Yorkton","Yorkton","2023-12-21","covN2","liquid",17.1,17.1,8.55,3.45
 "wastewater_copies_per_ml","SK","Île-à-la-Crosse","Île-à-la-Crosse","2023-07-23","covN2","liquid",27.3,,27.3,
 "wastewater_copies_per_ml","SK","Île-à-la-Crosse","Île-à-la-Crosse","2023-07-25","covN2","liquid",1.65,-25.65,14.475,-12.825
 "wastewater_copies_per_ml","SK","Île-à-la-Crosse","Île-à-la-Crosse","2023-07-30","covN2","liquid",1.65,0,1.65,-12.825
@@ -11640,6 +11767,8 @@
 "wastewater_copies_per_ml","SK","Île-à-la-Crosse","Île-à-la-Crosse","2023-12-03","covN2","liquid",6.9,0,6.9,1.8
 "wastewater_copies_per_ml","SK","Île-à-la-Crosse","Île-à-la-Crosse","2023-12-05","covN2","liquid",0,-6.9,3.45,-3.45
 "wastewater_copies_per_ml","SK","Île-à-la-Crosse","Île-à-la-Crosse","2023-12-10","covN2","liquid",74.7,74.7,37.35,33.9
+"wastewater_copies_per_ml","SK","Île-à-la-Crosse","Île-à-la-Crosse","2023-12-17","covN2","liquid",3.3,-71.4,3.3,-34.05
+"wastewater_copies_per_ml","SK","Île-à-la-Crosse","Île-à-la-Crosse","2023-12-19","covN2","liquid",17.1,13.8,10.2,6.9
 "wastewater_copies_per_ml","YT","Haines Junction","Haines Junction","2022-06-16","covN2","solid",70.0412849960709,,70.0412849960709,
 "wastewater_copies_per_ml","YT","Haines Junction","Haines Junction","2022-06-20","covN2","solid",38.5864138538509,-31.45487114222,54.3138494249609,-15.72743557111
 "wastewater_copies_per_ml","YT","Haines Junction","Haines Junction","2022-06-22","covN2","solid",13.2865767713295,-25.2998370825214,40.6380918737504,-13.6757575512105
