@@ -4213,6 +4213,7 @@
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-12-19","covN2","liquid",100.61298694248,37.2982776744329,81.9638481052634,40.0270672406634
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-12-22","covN2","liquid",82.4987077247887,-18.1142792176913,91.5558473336342,9.59199922837081
 "wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-12-27","covN2","liquid",122.704626783456,40.2059190586673,102.601667254122,11.0458199204878
+"wastewater_copies_per_ml","NB","Bathurst","Bathurst","2023-12-29","covN2","liquid",59.25,-63.454626783456,90.977313391728,-11.624353862394
 "wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-03","covN2","solid",8.31214475302236,,8.31214475302236,
 "wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-07","covN2","solid",12.5657248767793,4.25358012375694,10.4389348149009,2.12679006187854
 "wastewater_copies_per_ml","NB","Bathurst (NML Historical Data)","Bathurst (NML Historical Data)","2023-02-10","covN2","solid",10.7358073611846,-1.8299175155947,11.650766118982,1.2118313040811
@@ -4619,7 +4620,7 @@
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-12-18","covN2","liquid",88.1419750779317,-106.847138116594,141.565544136229,-82.963867749149
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-12-21","covN2","liquid",107.495349105155,19.3533740272233,97.8186620915433,-43.7468820446857
 "wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-12-26","covN2","liquid",222.577688807412,115.082339702257,165.036518956284,67.2178568647407
-"wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-12-28","covN2","liquid",149.646938149992,-72.93075065742,186.112313478702,21.075794522418
+"wastewater_copies_per_ml","NB","Fredericton","Fredericton","2023-12-28","covN2","liquid",114.85,-107.727688807412,168.713844403706,3.67732544742199
 "wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2022-12-22","covN2","solid",12.4309662042057,,12.4309662042057,
 "wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2022-12-26","covN2","solid",15.1978285472097,2.766862343004,13.8143973757077,1.383431171502
 "wastewater_copies_per_ml","NB","Fredericton (NML Historical Data)","Fredericton (NML Historical Data)","2023-01-02","covN2","solid",119.031573402592,103.833744855382,119.031573402592,105.217176026884
@@ -11562,8 +11563,6 @@
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-24","covN2","liquid",33.9,0,57.9,0
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-27","covN2","liquid",54.3,20.4,44.1,-13.8
 "wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-27","covN2","liquid",54.3,0,44.1,0
-"wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-31","covN2","liquid",95.1,40.8,74.7,30.6
-"wastewater_copies_per_ml","SK","Saskatoon","Saskatoon","2023-12-31","covN2","liquid",95.1,0,74.7,0
 "wastewater_copies_per_ml","SK","Southey","Southey","2023-05-29","covN2","liquid",3.3,,3.3,
 "wastewater_copies_per_ml","SK","Southey","Southey","2023-06-01","covN2","liquid",3.3,0,3.3,0
 "wastewater_copies_per_ml","SK","Southey","Southey","2023-06-05","covN2","liquid",10.2,6.9,6.75,3.45
