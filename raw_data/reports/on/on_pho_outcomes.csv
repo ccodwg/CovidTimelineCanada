@@ -751,15 +751,15 @@
 "2023-09-17","2023-09-23","ON",,"COVID-19 deaths",33
 "2023-09-17","2023-09-23","ON",,"COVID-19 hospital bed occupancy",787
 "2023-09-17","2023-09-23","ON",,"COVID-19 ICU bed occupancy",
-"2023-09-24","2023-09-30","ON",,"COVID-19 hospitalizations",298
+"2023-09-24","2023-09-30","ON",,"COVID-19 hospitalizations",299
 "2023-09-24","2023-09-30","ON",,"COVID-19 deaths",41
 "2023-09-24","2023-09-30","ON",,"COVID-19 hospital bed occupancy",986
 "2023-09-24","2023-09-30","ON",,"COVID-19 ICU bed occupancy",
-"2023-10-01","2023-10-07","ON",,"COVID-19 hospitalizations",274
+"2023-10-01","2023-10-07","ON",,"COVID-19 hospitalizations",275
 "2023-10-01","2023-10-07","ON",,"COVID-19 deaths",31
 "2023-10-01","2023-10-07","ON",,"COVID-19 hospital bed occupancy",1139
 "2023-10-01","2023-10-07","ON",,"COVID-19 ICU bed occupancy",
-"2023-10-08","2023-10-14","ON",,"COVID-19 hospitalizations",242
+"2023-10-08","2023-10-14","ON",,"COVID-19 hospitalizations",243
 "2023-10-08","2023-10-14","ON",,"COVID-19 deaths",44
 "2023-10-08","2023-10-14","ON",,"COVID-19 hospital bed occupancy",1040
 "2023-10-08","2023-10-14","ON",,"COVID-19 ICU bed occupancy",
@@ -774,42 +774,46 @@
 "2023-10-29","2023-11-04","ON",,"COVID-19 deaths",47
 "2023-10-29","2023-11-04","ON",,"COVID-19 hospital bed occupancy",1104
 "2023-10-29","2023-11-04","ON",,"COVID-19 ICU bed occupancy",57
-"2023-11-05","2023-11-11","ON",,"COVID-19 hospitalizations",308
+"2023-11-05","2023-11-11","ON",,"COVID-19 hospitalizations",309
 "2023-11-05","2023-11-11","ON",,"COVID-19 deaths",52
 "2023-11-05","2023-11-11","ON",,"COVID-19 hospital bed occupancy",1147
 "2023-11-05","2023-11-11","ON",,"COVID-19 ICU bed occupancy",75
-"2023-11-12","2023-11-18","ON",,"COVID-19 hospitalizations",354
+"2023-11-12","2023-11-18","ON",,"COVID-19 hospitalizations",353
 "2023-11-12","2023-11-18","ON",,"COVID-19 deaths",70
 "2023-11-12","2023-11-18","ON",,"COVID-19 hospital bed occupancy",1333
 "2023-11-12","2023-11-18","ON",,"COVID-19 ICU bed occupancy",85
-"2023-11-19","2023-11-25","ON",,"COVID-19 hospitalizations",363
+"2023-11-19","2023-11-25","ON",,"COVID-19 hospitalizations",365
 "2023-11-19","2023-11-25","ON",,"COVID-19 deaths",53
 "2023-11-19","2023-11-25","ON",,"COVID-19 hospital bed occupancy",1666
 "2023-11-19","2023-11-25","ON",,"COVID-19 ICU bed occupancy",97
-"2023-11-26","2023-12-02","ON",,"COVID-19 hospitalizations",306
+"2023-11-26","2023-12-02","ON",,"COVID-19 hospitalizations",311
 "2023-11-26","2023-12-02","ON",,"COVID-19 deaths",46
 "2023-11-26","2023-12-02","ON",,"COVID-19 hospital bed occupancy",1738
 "2023-11-26","2023-12-02","ON",,"COVID-19 ICU bed occupancy",110
-"2023-12-03","2023-12-09","ON",,"COVID-19 hospitalizations",263
-"2023-12-03","2023-12-09","ON",,"COVID-19 deaths",65
+"2023-12-03","2023-12-09","ON",,"COVID-19 hospitalizations",272
+"2023-12-03","2023-12-09","ON",,"COVID-19 deaths",66
 "2023-12-03","2023-12-09","ON",,"COVID-19 hospital bed occupancy",1579
 "2023-12-03","2023-12-09","ON",,"COVID-19 ICU bed occupancy",110
-"2023-12-10","2023-12-16","ON",,"COVID-19 hospitalizations",273
-"2023-12-10","2023-12-16","ON",,"COVID-19 deaths",35
+"2023-12-10","2023-12-16","ON",,"COVID-19 hospitalizations",295
+"2023-12-10","2023-12-16","ON",,"COVID-19 deaths",36
 "2023-12-10","2023-12-16","ON",,"COVID-19 hospital bed occupancy",1547
 "2023-12-10","2023-12-16","ON",,"COVID-19 ICU bed occupancy",115
-"2023-12-17","2023-12-23","ON",,"COVID-19 hospitalizations",240
-"2023-12-17","2023-12-23","ON",,"COVID-19 deaths",27
+"2023-12-17","2023-12-23","ON",,"COVID-19 hospitalizations",274
+"2023-12-17","2023-12-23","ON",,"COVID-19 deaths",29
 "2023-12-17","2023-12-23","ON",,"COVID-19 hospital bed occupancy",1474
 "2023-12-17","2023-12-23","ON",,"COVID-19 ICU bed occupancy",108
-"2023-12-24","2023-12-30","ON",,"COVID-19 hospitalizations",194
-"2023-12-24","2023-12-30","ON",,"COVID-19 deaths",35
-"2023-12-24","2023-12-30","ON",,"COVID-19 hospital bed occupancy",1489
+"2023-12-24","2023-12-30","ON",,"COVID-19 hospitalizations",299
+"2023-12-24","2023-12-30","ON",,"COVID-19 deaths",40
+"2023-12-24","2023-12-30","ON",,"COVID-19 hospital bed occupancy",1488
 "2023-12-24","2023-12-30","ON",,"COVID-19 ICU bed occupancy",119
-"2023-12-31","2024-01-06","ON",,"COVID-19 hospitalizations",143
-"2023-12-31","2024-01-06","ON",,"COVID-19 deaths",29
-"2023-12-31","2024-01-06","ON",,"COVID-19 hospital bed occupancy",1548
+"2023-12-31","2024-01-06","ON",,"COVID-19 hospitalizations",283
+"2023-12-31","2024-01-06","ON",,"COVID-19 deaths",41
+"2023-12-31","2024-01-06","ON",,"COVID-19 hospital bed occupancy",1581
 "2023-12-31","2024-01-06","ON",,"COVID-19 ICU bed occupancy",112
+"2024-01-07","2024-01-13","ON",,"COVID-19 hospitalizations",146
+"2024-01-07","2024-01-13","ON",,"COVID-19 deaths",29
+"2024-01-07","2024-01-13","ON",,"COVID-19 hospital bed occupancy",1396
+"2024-01-07","2024-01-13","ON",,"COVID-19 ICU bed occupancy",106
 "2020-01-05","2020-01-11","ON","Algoma Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Algoma Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Algoma Public Health","COVID-19 hospitalizations",0
@@ -1226,8 +1230,10 @@
 "2023-12-17","2023-12-23","ON","Algoma Public Health","COVID-19 deaths",0
 "2023-12-24","2023-12-30","ON","Algoma Public Health","COVID-19 hospitalizations",5
 "2023-12-24","2023-12-30","ON","Algoma Public Health","COVID-19 deaths",0
-"2023-12-31","2024-01-06","ON","Algoma Public Health","COVID-19 hospitalizations",7
+"2023-12-31","2024-01-06","ON","Algoma Public Health","COVID-19 hospitalizations",8
 "2023-12-31","2024-01-06","ON","Algoma Public Health","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Algoma Public Health","COVID-19 hospitalizations",7
+"2024-01-07","2024-01-13","ON","Algoma Public Health","COVID-19 deaths",1
 "2020-01-05","2020-01-11","ON","Brant County Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Brant County Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Brant County Health Unit","COVID-19 hospitalizations",0
@@ -1642,10 +1648,12 @@
 "2023-12-10","2023-12-16","ON","Brant County Health Unit","COVID-19 deaths",2
 "2023-12-17","2023-12-23","ON","Brant County Health Unit","COVID-19 hospitalizations",15
 "2023-12-17","2023-12-23","ON","Brant County Health Unit","COVID-19 deaths",1
-"2023-12-24","2023-12-30","ON","Brant County Health Unit","COVID-19 hospitalizations",13
+"2023-12-24","2023-12-30","ON","Brant County Health Unit","COVID-19 hospitalizations",14
 "2023-12-24","2023-12-30","ON","Brant County Health Unit","COVID-19 deaths",1
 "2023-12-31","2024-01-06","ON","Brant County Health Unit","COVID-19 hospitalizations",11
 "2023-12-31","2024-01-06","ON","Brant County Health Unit","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Brant County Health Unit","COVID-19 hospitalizations",3
+"2024-01-07","2024-01-13","ON","Brant County Health Unit","COVID-19 deaths",1
 "2020-01-05","2020-01-11","ON","Chatham-Kent Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Chatham-Kent Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Chatham-Kent Public Health","COVID-19 hospitalizations",0
@@ -2062,8 +2070,10 @@
 "2023-12-17","2023-12-23","ON","Chatham-Kent Public Health","COVID-19 deaths",0
 "2023-12-24","2023-12-30","ON","Chatham-Kent Public Health","COVID-19 hospitalizations",1
 "2023-12-24","2023-12-30","ON","Chatham-Kent Public Health","COVID-19 deaths",0
-"2023-12-31","2024-01-06","ON","Chatham-Kent Public Health","COVID-19 hospitalizations",1
+"2023-12-31","2024-01-06","ON","Chatham-Kent Public Health","COVID-19 hospitalizations",3
 "2023-12-31","2024-01-06","ON","Chatham-Kent Public Health","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Chatham-Kent Public Health","COVID-19 hospitalizations",0
+"2024-01-07","2024-01-13","ON","Chatham-Kent Public Health","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","City of Hamilton Public Health Services","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","City of Hamilton Public Health Services","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","City of Hamilton Public Health Services","COVID-19 hospitalizations",0
@@ -2480,8 +2490,10 @@
 "2023-12-17","2023-12-23","ON","City of Hamilton Public Health Services","COVID-19 deaths",0
 "2023-12-24","2023-12-30","ON","City of Hamilton Public Health Services","COVID-19 hospitalizations",4
 "2023-12-24","2023-12-30","ON","City of Hamilton Public Health Services","COVID-19 deaths",3
-"2023-12-31","2024-01-06","ON","City of Hamilton Public Health Services","COVID-19 hospitalizations",7
-"2023-12-31","2024-01-06","ON","City of Hamilton Public Health Services","COVID-19 deaths",2
+"2023-12-31","2024-01-06","ON","City of Hamilton Public Health Services","COVID-19 hospitalizations",8
+"2023-12-31","2024-01-06","ON","City of Hamilton Public Health Services","COVID-19 deaths",3
+"2024-01-07","2024-01-13","ON","City of Hamilton Public Health Services","COVID-19 hospitalizations",0
+"2024-01-07","2024-01-13","ON","City of Hamilton Public Health Services","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Durham Region Health Department","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Durham Region Health Department","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Durham Region Health Department","COVID-19 hospitalizations",0
@@ -2896,10 +2908,12 @@
 "2023-12-10","2023-12-16","ON","Durham Region Health Department","COVID-19 deaths",1
 "2023-12-17","2023-12-23","ON","Durham Region Health Department","COVID-19 hospitalizations",4
 "2023-12-17","2023-12-23","ON","Durham Region Health Department","COVID-19 deaths",1
-"2023-12-24","2023-12-30","ON","Durham Region Health Department","COVID-19 hospitalizations",8
+"2023-12-24","2023-12-30","ON","Durham Region Health Department","COVID-19 hospitalizations",10
 "2023-12-24","2023-12-30","ON","Durham Region Health Department","COVID-19 deaths",1
-"2023-12-31","2024-01-06","ON","Durham Region Health Department","COVID-19 hospitalizations",1
+"2023-12-31","2024-01-06","ON","Durham Region Health Department","COVID-19 hospitalizations",6
 "2023-12-31","2024-01-06","ON","Durham Region Health Department","COVID-19 deaths",1
+"2024-01-07","2024-01-13","ON","Durham Region Health Department","COVID-19 hospitalizations",1
+"2024-01-07","2024-01-13","ON","Durham Region Health Department","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Eastern Ontario Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Eastern Ontario Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Eastern Ontario Health Unit","COVID-19 hospitalizations",0
@@ -3318,6 +3332,8 @@
 "2023-12-24","2023-12-30","ON","Eastern Ontario Health Unit","COVID-19 deaths",1
 "2023-12-31","2024-01-06","ON","Eastern Ontario Health Unit","COVID-19 hospitalizations",0
 "2023-12-31","2024-01-06","ON","Eastern Ontario Health Unit","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Eastern Ontario Health Unit","COVID-19 hospitalizations",0
+"2024-01-07","2024-01-13","ON","Eastern Ontario Health Unit","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Grey Bruce Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Grey Bruce Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Grey Bruce Health Unit","COVID-19 hospitalizations",0
@@ -3732,10 +3748,12 @@
 "2023-12-10","2023-12-16","ON","Grey Bruce Health Unit","COVID-19 deaths",0
 "2023-12-17","2023-12-23","ON","Grey Bruce Health Unit","COVID-19 hospitalizations",2
 "2023-12-17","2023-12-23","ON","Grey Bruce Health Unit","COVID-19 deaths",0
-"2023-12-24","2023-12-30","ON","Grey Bruce Health Unit","COVID-19 hospitalizations",0
+"2023-12-24","2023-12-30","ON","Grey Bruce Health Unit","COVID-19 hospitalizations",1
 "2023-12-24","2023-12-30","ON","Grey Bruce Health Unit","COVID-19 deaths",0
 "2023-12-31","2024-01-06","ON","Grey Bruce Health Unit","COVID-19 hospitalizations",3
 "2023-12-31","2024-01-06","ON","Grey Bruce Health Unit","COVID-19 deaths",1
+"2024-01-07","2024-01-13","ON","Grey Bruce Health Unit","COVID-19 hospitalizations",4
+"2024-01-07","2024-01-13","ON","Grey Bruce Health Unit","COVID-19 deaths",1
 "2020-01-05","2020-01-11","ON","Haldimand-Norfolk Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Haldimand-Norfolk Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Haldimand-Norfolk Health Unit","COVID-19 hospitalizations",0
@@ -4124,7 +4142,7 @@
 "2023-09-10","2023-09-16","ON","Haldimand-Norfolk Health Unit","COVID-19 deaths",1
 "2023-09-17","2023-09-23","ON","Haldimand-Norfolk Health Unit","COVID-19 hospitalizations",9
 "2023-09-17","2023-09-23","ON","Haldimand-Norfolk Health Unit","COVID-19 deaths",1
-"2023-09-24","2023-09-30","ON","Haldimand-Norfolk Health Unit","COVID-19 hospitalizations",7
+"2023-09-24","2023-09-30","ON","Haldimand-Norfolk Health Unit","COVID-19 hospitalizations",8
 "2023-09-24","2023-09-30","ON","Haldimand-Norfolk Health Unit","COVID-19 deaths",0
 "2023-10-01","2023-10-07","ON","Haldimand-Norfolk Health Unit","COVID-19 hospitalizations",8
 "2023-10-01","2023-10-07","ON","Haldimand-Norfolk Health Unit","COVID-19 deaths",0
@@ -4152,8 +4170,10 @@
 "2023-12-17","2023-12-23","ON","Haldimand-Norfolk Health Unit","COVID-19 deaths",0
 "2023-12-24","2023-12-30","ON","Haldimand-Norfolk Health Unit","COVID-19 hospitalizations",5
 "2023-12-24","2023-12-30","ON","Haldimand-Norfolk Health Unit","COVID-19 deaths",0
-"2023-12-31","2024-01-06","ON","Haldimand-Norfolk Health Unit","COVID-19 hospitalizations",1
+"2023-12-31","2024-01-06","ON","Haldimand-Norfolk Health Unit","COVID-19 hospitalizations",3
 "2023-12-31","2024-01-06","ON","Haldimand-Norfolk Health Unit","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Haldimand-Norfolk Health Unit","COVID-19 hospitalizations",1
+"2024-01-07","2024-01-13","ON","Haldimand-Norfolk Health Unit","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Haliburton, Kawartha, Pine Ridge District Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Haliburton, Kawartha, Pine Ridge District Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Haliburton, Kawartha, Pine Ridge District Health Unit","COVID-19 hospitalizations",0
@@ -4572,6 +4592,8 @@
 "2023-12-24","2023-12-30","ON","Haliburton, Kawartha, Pine Ridge District Health Unit","COVID-19 deaths",0
 "2023-12-31","2024-01-06","ON","Haliburton, Kawartha, Pine Ridge District Health Unit","COVID-19 hospitalizations",3
 "2023-12-31","2024-01-06","ON","Haliburton, Kawartha, Pine Ridge District Health Unit","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Haliburton, Kawartha, Pine Ridge District Health Unit","COVID-19 hospitalizations",3
+"2024-01-07","2024-01-13","ON","Haliburton, Kawartha, Pine Ridge District Health Unit","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Halton Region Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Halton Region Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Halton Region Public Health","COVID-19 hospitalizations",0
@@ -4989,7 +5011,9 @@
 "2023-12-24","2023-12-30","ON","Halton Region Public Health","COVID-19 hospitalizations",3
 "2023-12-24","2023-12-30","ON","Halton Region Public Health","COVID-19 deaths",2
 "2023-12-31","2024-01-06","ON","Halton Region Public Health","COVID-19 hospitalizations",0
-"2023-12-31","2024-01-06","ON","Halton Region Public Health","COVID-19 deaths",1
+"2023-12-31","2024-01-06","ON","Halton Region Public Health","COVID-19 deaths",4
+"2024-01-07","2024-01-13","ON","Halton Region Public Health","COVID-19 hospitalizations",1
+"2024-01-07","2024-01-13","ON","Halton Region Public Health","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",0
@@ -5380,7 +5404,7 @@
 "2023-09-17","2023-09-23","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
 "2023-09-24","2023-09-30","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",1
 "2023-09-24","2023-09-30","ON","Hastings Prince Edward Public Health","COVID-19 deaths",1
-"2023-10-01","2023-10-07","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",6
+"2023-10-01","2023-10-07","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",7
 "2023-10-01","2023-10-07","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
 "2023-10-08","2023-10-14","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",6
 "2023-10-08","2023-10-14","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
@@ -5388,13 +5412,13 @@
 "2023-10-15","2023-10-21","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
 "2023-10-22","2023-10-28","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",5
 "2023-10-22","2023-10-28","ON","Hastings Prince Edward Public Health","COVID-19 deaths",1
-"2023-10-29","2023-11-04","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",4
+"2023-10-29","2023-11-04","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",3
 "2023-10-29","2023-11-04","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
 "2023-11-05","2023-11-11","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",12
 "2023-11-05","2023-11-11","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
-"2023-11-12","2023-11-18","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",9
+"2023-11-12","2023-11-18","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",8
 "2023-11-12","2023-11-18","ON","Hastings Prince Edward Public Health","COVID-19 deaths",2
-"2023-11-19","2023-11-25","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",19
+"2023-11-19","2023-11-25","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",20
 "2023-11-19","2023-11-25","ON","Hastings Prince Edward Public Health","COVID-19 deaths",2
 "2023-11-26","2023-12-02","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",17
 "2023-11-26","2023-12-02","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
@@ -5405,9 +5429,11 @@
 "2023-12-17","2023-12-23","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",16
 "2023-12-17","2023-12-23","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
 "2023-12-24","2023-12-30","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",18
-"2023-12-24","2023-12-30","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
-"2023-12-31","2024-01-06","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",8
+"2023-12-24","2023-12-30","ON","Hastings Prince Edward Public Health","COVID-19 deaths",1
+"2023-12-31","2024-01-06","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",9
 "2023-12-31","2024-01-06","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Hastings Prince Edward Public Health","COVID-19 hospitalizations",0
+"2024-01-07","2024-01-13","ON","Hastings Prince Edward Public Health","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Huron Perth Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Huron Perth Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Huron Perth Public Health","COVID-19 hospitalizations",0
@@ -5824,8 +5850,10 @@
 "2023-12-17","2023-12-23","ON","Huron Perth Public Health","COVID-19 deaths",1
 "2023-12-24","2023-12-30","ON","Huron Perth Public Health","COVID-19 hospitalizations",9
 "2023-12-24","2023-12-30","ON","Huron Perth Public Health","COVID-19 deaths",1
-"2023-12-31","2024-01-06","ON","Huron Perth Public Health","COVID-19 hospitalizations",4
+"2023-12-31","2024-01-06","ON","Huron Perth Public Health","COVID-19 hospitalizations",7
 "2023-12-31","2024-01-06","ON","Huron Perth Public Health","COVID-19 deaths",1
+"2024-01-07","2024-01-13","ON","Huron Perth Public Health","COVID-19 hospitalizations",2
+"2024-01-07","2024-01-13","ON","Huron Perth Public Health","COVID-19 deaths",3
 "2020-01-05","2020-01-11","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 hospitalizations",0
@@ -6239,11 +6267,13 @@
 "2023-12-10","2023-12-16","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 hospitalizations",19
 "2023-12-10","2023-12-16","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 deaths",3
 "2023-12-17","2023-12-23","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 hospitalizations",18
-"2023-12-17","2023-12-23","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 deaths",0
-"2023-12-24","2023-12-30","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 hospitalizations",13
+"2023-12-17","2023-12-23","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 deaths",1
+"2023-12-24","2023-12-30","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 hospitalizations",14
 "2023-12-24","2023-12-30","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 deaths",2
-"2023-12-31","2024-01-06","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 hospitalizations",8
-"2023-12-31","2024-01-06","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 deaths",1
+"2023-12-31","2024-01-06","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 hospitalizations",12
+"2023-12-31","2024-01-06","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 deaths",3
+"2024-01-07","2024-01-13","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 hospitalizations",5
+"2024-01-07","2024-01-13","ON","Kingston, Frontenac and Lennox & Addington Public Health","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Lambton Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Lambton Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Lambton Public Health","COVID-19 hospitalizations",0
@@ -6662,6 +6692,8 @@
 "2023-12-24","2023-12-30","ON","Lambton Public Health","COVID-19 deaths",0
 "2023-12-31","2024-01-06","ON","Lambton Public Health","COVID-19 hospitalizations",0
 "2023-12-31","2024-01-06","ON","Lambton Public Health","COVID-19 deaths",1
+"2024-01-07","2024-01-13","ON","Lambton Public Health","COVID-19 hospitalizations",0
+"2024-01-07","2024-01-13","ON","Lambton Public Health","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 hospitalizations",0
@@ -7078,8 +7110,10 @@
 "2023-12-17","2023-12-23","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 deaths",0
 "2023-12-24","2023-12-30","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 hospitalizations",9
 "2023-12-24","2023-12-30","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 deaths",1
-"2023-12-31","2024-01-06","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 hospitalizations",13
+"2023-12-31","2024-01-06","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 hospitalizations",15
 "2023-12-31","2024-01-06","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 deaths",2
+"2024-01-07","2024-01-13","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 hospitalizations",4
+"2024-01-07","2024-01-13","ON","Leeds, Grenville & Lanark District Health Unit","COVID-19 deaths",5
 "2020-01-05","2020-01-11","ON","Middlesex-London Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Middlesex-London Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Middlesex-London Health Unit","COVID-19 hospitalizations",0
@@ -7495,9 +7529,11 @@
 "2023-12-17","2023-12-23","ON","Middlesex-London Health Unit","COVID-19 hospitalizations",0
 "2023-12-17","2023-12-23","ON","Middlesex-London Health Unit","COVID-19 deaths",3
 "2023-12-24","2023-12-30","ON","Middlesex-London Health Unit","COVID-19 hospitalizations",0
-"2023-12-24","2023-12-30","ON","Middlesex-London Health Unit","COVID-19 deaths",0
+"2023-12-24","2023-12-30","ON","Middlesex-London Health Unit","COVID-19 deaths",1
 "2023-12-31","2024-01-06","ON","Middlesex-London Health Unit","COVID-19 hospitalizations",0
 "2023-12-31","2024-01-06","ON","Middlesex-London Health Unit","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Middlesex-London Health Unit","COVID-19 hospitalizations",1
+"2024-01-07","2024-01-13","ON","Middlesex-London Health Unit","COVID-19 deaths",1
 "2020-01-05","2020-01-11","ON","Niagara Region Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Niagara Region Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Niagara Region Public Health","COVID-19 hospitalizations",0
@@ -7890,7 +7926,7 @@
 "2023-09-24","2023-09-30","ON","Niagara Region Public Health","COVID-19 deaths",2
 "2023-10-01","2023-10-07","ON","Niagara Region Public Health","COVID-19 hospitalizations",17
 "2023-10-01","2023-10-07","ON","Niagara Region Public Health","COVID-19 deaths",5
-"2023-10-08","2023-10-14","ON","Niagara Region Public Health","COVID-19 hospitalizations",11
+"2023-10-08","2023-10-14","ON","Niagara Region Public Health","COVID-19 hospitalizations",12
 "2023-10-08","2023-10-14","ON","Niagara Region Public Health","COVID-19 deaths",4
 "2023-10-15","2023-10-21","ON","Niagara Region Public Health","COVID-19 hospitalizations",11
 "2023-10-15","2023-10-21","ON","Niagara Region Public Health","COVID-19 deaths",2
@@ -7898,24 +7934,26 @@
 "2023-10-22","2023-10-28","ON","Niagara Region Public Health","COVID-19 deaths",2
 "2023-10-29","2023-11-04","ON","Niagara Region Public Health","COVID-19 hospitalizations",15
 "2023-10-29","2023-11-04","ON","Niagara Region Public Health","COVID-19 deaths",2
-"2023-11-05","2023-11-11","ON","Niagara Region Public Health","COVID-19 hospitalizations",21
+"2023-11-05","2023-11-11","ON","Niagara Region Public Health","COVID-19 hospitalizations",22
 "2023-11-05","2023-11-11","ON","Niagara Region Public Health","COVID-19 deaths",1
 "2023-11-12","2023-11-18","ON","Niagara Region Public Health","COVID-19 hospitalizations",30
 "2023-11-12","2023-11-18","ON","Niagara Region Public Health","COVID-19 deaths",5
-"2023-11-19","2023-11-25","ON","Niagara Region Public Health","COVID-19 hospitalizations",32
+"2023-11-19","2023-11-25","ON","Niagara Region Public Health","COVID-19 hospitalizations",34
 "2023-11-19","2023-11-25","ON","Niagara Region Public Health","COVID-19 deaths",2
 "2023-11-26","2023-12-02","ON","Niagara Region Public Health","COVID-19 hospitalizations",26
 "2023-11-26","2023-12-02","ON","Niagara Region Public Health","COVID-19 deaths",1
-"2023-12-03","2023-12-09","ON","Niagara Region Public Health","COVID-19 hospitalizations",21
+"2023-12-03","2023-12-09","ON","Niagara Region Public Health","COVID-19 hospitalizations",25
 "2023-12-03","2023-12-09","ON","Niagara Region Public Health","COVID-19 deaths",1
-"2023-12-10","2023-12-16","ON","Niagara Region Public Health","COVID-19 hospitalizations",25
+"2023-12-10","2023-12-16","ON","Niagara Region Public Health","COVID-19 hospitalizations",35
 "2023-12-10","2023-12-16","ON","Niagara Region Public Health","COVID-19 deaths",0
-"2023-12-17","2023-12-23","ON","Niagara Region Public Health","COVID-19 hospitalizations",18
+"2023-12-17","2023-12-23","ON","Niagara Region Public Health","COVID-19 hospitalizations",31
 "2023-12-17","2023-12-23","ON","Niagara Region Public Health","COVID-19 deaths",0
-"2023-12-24","2023-12-30","ON","Niagara Region Public Health","COVID-19 hospitalizations",3
+"2023-12-24","2023-12-30","ON","Niagara Region Public Health","COVID-19 hospitalizations",37
 "2023-12-24","2023-12-30","ON","Niagara Region Public Health","COVID-19 deaths",0
-"2023-12-31","2024-01-06","ON","Niagara Region Public Health","COVID-19 hospitalizations",0
+"2023-12-31","2024-01-06","ON","Niagara Region Public Health","COVID-19 hospitalizations",28
 "2023-12-31","2024-01-06","ON","Niagara Region Public Health","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Niagara Region Public Health","COVID-19 hospitalizations",19
+"2024-01-07","2024-01-13","ON","Niagara Region Public Health","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","North Bay Parry Sound District Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","North Bay Parry Sound District Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","North Bay Parry Sound District Health Unit","COVID-19 hospitalizations",0
@@ -8332,8 +8370,10 @@
 "2023-12-17","2023-12-23","ON","North Bay Parry Sound District Health Unit","COVID-19 deaths",0
 "2023-12-24","2023-12-30","ON","North Bay Parry Sound District Health Unit","COVID-19 hospitalizations",6
 "2023-12-24","2023-12-30","ON","North Bay Parry Sound District Health Unit","COVID-19 deaths",1
-"2023-12-31","2024-01-06","ON","North Bay Parry Sound District Health Unit","COVID-19 hospitalizations",6
+"2023-12-31","2024-01-06","ON","North Bay Parry Sound District Health Unit","COVID-19 hospitalizations",7
 "2023-12-31","2024-01-06","ON","North Bay Parry Sound District Health Unit","COVID-19 deaths",1
+"2024-01-07","2024-01-13","ON","North Bay Parry Sound District Health Unit","COVID-19 hospitalizations",5
+"2024-01-07","2024-01-13","ON","North Bay Parry Sound District Health Unit","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Northwestern Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Northwestern Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Northwestern Health Unit","COVID-19 hospitalizations",0
@@ -8752,6 +8792,8 @@
 "2023-12-24","2023-12-30","ON","Northwestern Health Unit","COVID-19 deaths",0
 "2023-12-31","2024-01-06","ON","Northwestern Health Unit","COVID-19 hospitalizations",1
 "2023-12-31","2024-01-06","ON","Northwestern Health Unit","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Northwestern Health Unit","COVID-19 hospitalizations",0
+"2024-01-07","2024-01-13","ON","Northwestern Health Unit","COVID-19 deaths",2
 "2020-01-05","2020-01-11","ON","Ottawa Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Ottawa Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Ottawa Public Health","COVID-19 hospitalizations",0
@@ -9169,7 +9211,9 @@
 "2023-12-24","2023-12-30","ON","Ottawa Public Health","COVID-19 hospitalizations",0
 "2023-12-24","2023-12-30","ON","Ottawa Public Health","COVID-19 deaths",3
 "2023-12-31","2024-01-06","ON","Ottawa Public Health","COVID-19 hospitalizations",0
-"2023-12-31","2024-01-06","ON","Ottawa Public Health","COVID-19 deaths",4
+"2023-12-31","2024-01-06","ON","Ottawa Public Health","COVID-19 deaths",5
+"2024-01-07","2024-01-13","ON","Ottawa Public Health","COVID-19 hospitalizations",0
+"2024-01-07","2024-01-13","ON","Ottawa Public Health","COVID-19 deaths",4
 "2020-01-05","2020-01-11","ON","Peel Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Peel Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Peel Public Health","COVID-19 hospitalizations",0
@@ -9584,10 +9628,12 @@
 "2023-12-10","2023-12-16","ON","Peel Public Health","COVID-19 deaths",2
 "2023-12-17","2023-12-23","ON","Peel Public Health","COVID-19 hospitalizations",3
 "2023-12-17","2023-12-23","ON","Peel Public Health","COVID-19 deaths",1
-"2023-12-24","2023-12-30","ON","Peel Public Health","COVID-19 hospitalizations",0
+"2023-12-24","2023-12-30","ON","Peel Public Health","COVID-19 hospitalizations",1
 "2023-12-24","2023-12-30","ON","Peel Public Health","COVID-19 deaths",1
-"2023-12-31","2024-01-06","ON","Peel Public Health","COVID-19 hospitalizations",0
+"2023-12-31","2024-01-06","ON","Peel Public Health","COVID-19 hospitalizations",1
 "2023-12-31","2024-01-06","ON","Peel Public Health","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Peel Public Health","COVID-19 hospitalizations",0
+"2024-01-07","2024-01-13","ON","Peel Public Health","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Peterborough Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Peterborough Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Peterborough Public Health","COVID-19 hospitalizations",0
@@ -10003,9 +10049,11 @@
 "2023-12-17","2023-12-23","ON","Peterborough Public Health","COVID-19 hospitalizations",1
 "2023-12-17","2023-12-23","ON","Peterborough Public Health","COVID-19 deaths",1
 "2023-12-24","2023-12-30","ON","Peterborough Public Health","COVID-19 hospitalizations",3
-"2023-12-24","2023-12-30","ON","Peterborough Public Health","COVID-19 deaths",2
+"2023-12-24","2023-12-30","ON","Peterborough Public Health","COVID-19 deaths",3
 "2023-12-31","2024-01-06","ON","Peterborough Public Health","COVID-19 hospitalizations",3
 "2023-12-31","2024-01-06","ON","Peterborough Public Health","COVID-19 deaths",1
+"2024-01-07","2024-01-13","ON","Peterborough Public Health","COVID-19 hospitalizations",2
+"2024-01-07","2024-01-13","ON","Peterborough Public Health","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Porcupine Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Porcupine Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Porcupine Health Unit","COVID-19 hospitalizations",0
@@ -10410,7 +10458,7 @@
 "2023-11-05","2023-11-11","ON","Porcupine Health Unit","COVID-19 deaths",2
 "2023-11-12","2023-11-18","ON","Porcupine Health Unit","COVID-19 hospitalizations",4
 "2023-11-12","2023-11-18","ON","Porcupine Health Unit","COVID-19 deaths",0
-"2023-11-19","2023-11-25","ON","Porcupine Health Unit","COVID-19 hospitalizations",4
+"2023-11-19","2023-11-25","ON","Porcupine Health Unit","COVID-19 hospitalizations",3
 "2023-11-19","2023-11-25","ON","Porcupine Health Unit","COVID-19 deaths",1
 "2023-11-26","2023-12-02","ON","Porcupine Health Unit","COVID-19 hospitalizations",4
 "2023-11-26","2023-12-02","ON","Porcupine Health Unit","COVID-19 deaths",1
@@ -10418,12 +10466,14 @@
 "2023-12-03","2023-12-09","ON","Porcupine Health Unit","COVID-19 deaths",0
 "2023-12-10","2023-12-16","ON","Porcupine Health Unit","COVID-19 hospitalizations",1
 "2023-12-10","2023-12-16","ON","Porcupine Health Unit","COVID-19 deaths",0
-"2023-12-17","2023-12-23","ON","Porcupine Health Unit","COVID-19 hospitalizations",1
+"2023-12-17","2023-12-23","ON","Porcupine Health Unit","COVID-19 hospitalizations",2
 "2023-12-17","2023-12-23","ON","Porcupine Health Unit","COVID-19 deaths",0
-"2023-12-24","2023-12-30","ON","Porcupine Health Unit","COVID-19 hospitalizations",1
-"2023-12-24","2023-12-30","ON","Porcupine Health Unit","COVID-19 deaths",0
+"2023-12-24","2023-12-30","ON","Porcupine Health Unit","COVID-19 hospitalizations",3
+"2023-12-24","2023-12-30","ON","Porcupine Health Unit","COVID-19 deaths",1
 "2023-12-31","2024-01-06","ON","Porcupine Health Unit","COVID-19 hospitalizations",1
 "2023-12-31","2024-01-06","ON","Porcupine Health Unit","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Porcupine Health Unit","COVID-19 hospitalizations",1
+"2024-01-07","2024-01-13","ON","Porcupine Health Unit","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Public Health Sudbury & Districts","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Public Health Sudbury & Districts","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Public Health Sudbury & Districts","COVID-19 hospitalizations",0
@@ -10835,13 +10885,15 @@
 "2023-12-03","2023-12-09","ON","Public Health Sudbury & Districts","COVID-19 hospitalizations",1
 "2023-12-03","2023-12-09","ON","Public Health Sudbury & Districts","COVID-19 deaths",3
 "2023-12-10","2023-12-16","ON","Public Health Sudbury & Districts","COVID-19 hospitalizations",5
-"2023-12-10","2023-12-16","ON","Public Health Sudbury & Districts","COVID-19 deaths",0
+"2023-12-10","2023-12-16","ON","Public Health Sudbury & Districts","COVID-19 deaths",1
 "2023-12-17","2023-12-23","ON","Public Health Sudbury & Districts","COVID-19 hospitalizations",0
-"2023-12-17","2023-12-23","ON","Public Health Sudbury & Districts","COVID-19 deaths",0
-"2023-12-24","2023-12-30","ON","Public Health Sudbury & Districts","COVID-19 hospitalizations",0
+"2023-12-17","2023-12-23","ON","Public Health Sudbury & Districts","COVID-19 deaths",1
+"2023-12-24","2023-12-30","ON","Public Health Sudbury & Districts","COVID-19 hospitalizations",3
 "2023-12-24","2023-12-30","ON","Public Health Sudbury & Districts","COVID-19 deaths",1
-"2023-12-31","2024-01-06","ON","Public Health Sudbury & Districts","COVID-19 hospitalizations",0
+"2023-12-31","2024-01-06","ON","Public Health Sudbury & Districts","COVID-19 hospitalizations",7
 "2023-12-31","2024-01-06","ON","Public Health Sudbury & Districts","COVID-19 deaths",1
+"2024-01-07","2024-01-13","ON","Public Health Sudbury & Districts","COVID-19 hospitalizations",8
+"2024-01-07","2024-01-13","ON","Public Health Sudbury & Districts","COVID-19 deaths",1
 "2020-01-05","2020-01-11","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 hospitalizations",0
@@ -11256,10 +11308,12 @@
 "2023-12-10","2023-12-16","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 deaths",0
 "2023-12-17","2023-12-23","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 hospitalizations",14
 "2023-12-17","2023-12-23","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 deaths",1
-"2023-12-24","2023-12-30","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 hospitalizations",28
+"2023-12-24","2023-12-30","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 hospitalizations",27
 "2023-12-24","2023-12-30","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 deaths",1
-"2023-12-31","2024-01-06","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 hospitalizations",22
+"2023-12-31","2024-01-06","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 hospitalizations",23
 "2023-12-31","2024-01-06","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 hospitalizations",14
+"2024-01-07","2024-01-13","ON","Region of Waterloo Public Health and Emergency Services","COVID-19 deaths",3
 "2020-01-05","2020-01-11","ON","Renfrew County and District Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Renfrew County and District Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Renfrew County and District Health Unit","COVID-19 hospitalizations",0
@@ -11676,8 +11730,10 @@
 "2023-12-17","2023-12-23","ON","Renfrew County and District Health Unit","COVID-19 deaths",1
 "2023-12-24","2023-12-30","ON","Renfrew County and District Health Unit","COVID-19 hospitalizations",9
 "2023-12-24","2023-12-30","ON","Renfrew County and District Health Unit","COVID-19 deaths",1
-"2023-12-31","2024-01-06","ON","Renfrew County and District Health Unit","COVID-19 hospitalizations",6
+"2023-12-31","2024-01-06","ON","Renfrew County and District Health Unit","COVID-19 hospitalizations",7
 "2023-12-31","2024-01-06","ON","Renfrew County and District Health Unit","COVID-19 deaths",2
+"2024-01-07","2024-01-13","ON","Renfrew County and District Health Unit","COVID-19 hospitalizations",5
+"2024-01-07","2024-01-13","ON","Renfrew County and District Health Unit","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Simcoe Muskoka District Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Simcoe Muskoka District Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Simcoe Muskoka District Health Unit","COVID-19 hospitalizations",0
@@ -12092,10 +12148,12 @@
 "2023-12-10","2023-12-16","ON","Simcoe Muskoka District Health Unit","COVID-19 deaths",1
 "2023-12-17","2023-12-23","ON","Simcoe Muskoka District Health Unit","COVID-19 hospitalizations",3
 "2023-12-17","2023-12-23","ON","Simcoe Muskoka District Health Unit","COVID-19 deaths",3
-"2023-12-24","2023-12-30","ON","Simcoe Muskoka District Health Unit","COVID-19 hospitalizations",2
+"2023-12-24","2023-12-30","ON","Simcoe Muskoka District Health Unit","COVID-19 hospitalizations",4
 "2023-12-24","2023-12-30","ON","Simcoe Muskoka District Health Unit","COVID-19 deaths",1
-"2023-12-31","2024-01-06","ON","Simcoe Muskoka District Health Unit","COVID-19 hospitalizations",0
+"2023-12-31","2024-01-06","ON","Simcoe Muskoka District Health Unit","COVID-19 hospitalizations",2
 "2023-12-31","2024-01-06","ON","Simcoe Muskoka District Health Unit","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Simcoe Muskoka District Health Unit","COVID-19 hospitalizations",2
+"2024-01-07","2024-01-13","ON","Simcoe Muskoka District Health Unit","COVID-19 deaths",1
 "2020-01-05","2020-01-11","ON","Southwestern Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Southwestern Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Southwestern Public Health","COVID-19 hospitalizations",0
@@ -12510,10 +12568,12 @@
 "2023-12-10","2023-12-16","ON","Southwestern Public Health","COVID-19 deaths",0
 "2023-12-17","2023-12-23","ON","Southwestern Public Health","COVID-19 hospitalizations",16
 "2023-12-17","2023-12-23","ON","Southwestern Public Health","COVID-19 deaths",1
-"2023-12-24","2023-12-30","ON","Southwestern Public Health","COVID-19 hospitalizations",17
+"2023-12-24","2023-12-30","ON","Southwestern Public Health","COVID-19 hospitalizations",18
 "2023-12-24","2023-12-30","ON","Southwestern Public Health","COVID-19 deaths",4
-"2023-12-31","2024-01-06","ON","Southwestern Public Health","COVID-19 hospitalizations",11
-"2023-12-31","2024-01-06","ON","Southwestern Public Health","COVID-19 deaths",2
+"2023-12-31","2024-01-06","ON","Southwestern Public Health","COVID-19 hospitalizations",13
+"2023-12-31","2024-01-06","ON","Southwestern Public Health","COVID-19 deaths",3
+"2024-01-07","2024-01-13","ON","Southwestern Public Health","COVID-19 hospitalizations",7
+"2024-01-07","2024-01-13","ON","Southwestern Public Health","COVID-19 deaths",2
 "2020-01-05","2020-01-11","ON","Thunder Bay District Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Thunder Bay District Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Thunder Bay District Health Unit","COVID-19 hospitalizations",0
@@ -12920,7 +12980,7 @@
 "2023-11-12","2023-11-18","ON","Thunder Bay District Health Unit","COVID-19 deaths",0
 "2023-11-19","2023-11-25","ON","Thunder Bay District Health Unit","COVID-19 hospitalizations",2
 "2023-11-19","2023-11-25","ON","Thunder Bay District Health Unit","COVID-19 deaths",1
-"2023-11-26","2023-12-02","ON","Thunder Bay District Health Unit","COVID-19 hospitalizations",4
+"2023-11-26","2023-12-02","ON","Thunder Bay District Health Unit","COVID-19 hospitalizations",6
 "2023-11-26","2023-12-02","ON","Thunder Bay District Health Unit","COVID-19 deaths",0
 "2023-12-03","2023-12-09","ON","Thunder Bay District Health Unit","COVID-19 hospitalizations",3
 "2023-12-03","2023-12-09","ON","Thunder Bay District Health Unit","COVID-19 deaths",0
@@ -12930,8 +12990,10 @@
 "2023-12-17","2023-12-23","ON","Thunder Bay District Health Unit","COVID-19 deaths",0
 "2023-12-24","2023-12-30","ON","Thunder Bay District Health Unit","COVID-19 hospitalizations",1
 "2023-12-24","2023-12-30","ON","Thunder Bay District Health Unit","COVID-19 deaths",0
-"2023-12-31","2024-01-06","ON","Thunder Bay District Health Unit","COVID-19 hospitalizations",2
+"2023-12-31","2024-01-06","ON","Thunder Bay District Health Unit","COVID-19 hospitalizations",3
 "2023-12-31","2024-01-06","ON","Thunder Bay District Health Unit","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Thunder Bay District Health Unit","COVID-19 hospitalizations",4
+"2024-01-07","2024-01-13","ON","Thunder Bay District Health Unit","COVID-19 deaths",1
 "2020-01-05","2020-01-11","ON","Timiskaming Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Timiskaming Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Timiskaming Health Unit","COVID-19 hospitalizations",0
@@ -13350,6 +13412,8 @@
 "2023-12-24","2023-12-30","ON","Timiskaming Health Unit","COVID-19 deaths",0
 "2023-12-31","2024-01-06","ON","Timiskaming Health Unit","COVID-19 hospitalizations",0
 "2023-12-31","2024-01-06","ON","Timiskaming Health Unit","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Timiskaming Health Unit","COVID-19 hospitalizations",0
+"2024-01-07","2024-01-13","ON","Timiskaming Health Unit","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Toronto Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Toronto Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Toronto Public Health","COVID-19 hospitalizations",0
@@ -13748,7 +13812,7 @@
 "2023-10-15","2023-10-21","ON","Toronto Public Health","COVID-19 deaths",5
 "2023-10-22","2023-10-28","ON","Toronto Public Health","COVID-19 hospitalizations",46
 "2023-10-22","2023-10-28","ON","Toronto Public Health","COVID-19 deaths",9
-"2023-10-29","2023-11-04","ON","Toronto Public Health","COVID-19 hospitalizations",46
+"2023-10-29","2023-11-04","ON","Toronto Public Health","COVID-19 hospitalizations",47
 "2023-10-29","2023-11-04","ON","Toronto Public Health","COVID-19 deaths",13
 "2023-11-05","2023-11-11","ON","Toronto Public Health","COVID-19 hospitalizations",38
 "2023-11-05","2023-11-11","ON","Toronto Public Health","COVID-19 deaths",6
@@ -13756,18 +13820,20 @@
 "2023-11-12","2023-11-18","ON","Toronto Public Health","COVID-19 deaths",13
 "2023-11-19","2023-11-25","ON","Toronto Public Health","COVID-19 hospitalizations",38
 "2023-11-19","2023-11-25","ON","Toronto Public Health","COVID-19 deaths",7
-"2023-11-26","2023-12-02","ON","Toronto Public Health","COVID-19 hospitalizations",6
+"2023-11-26","2023-12-02","ON","Toronto Public Health","COVID-19 hospitalizations",9
 "2023-11-26","2023-12-02","ON","Toronto Public Health","COVID-19 deaths",2
-"2023-12-03","2023-12-09","ON","Toronto Public Health","COVID-19 hospitalizations",2
-"2023-12-03","2023-12-09","ON","Toronto Public Health","COVID-19 deaths",2
-"2023-12-10","2023-12-16","ON","Toronto Public Health","COVID-19 hospitalizations",0
+"2023-12-03","2023-12-09","ON","Toronto Public Health","COVID-19 hospitalizations",7
+"2023-12-03","2023-12-09","ON","Toronto Public Health","COVID-19 deaths",3
+"2023-12-10","2023-12-16","ON","Toronto Public Health","COVID-19 hospitalizations",12
 "2023-12-10","2023-12-16","ON","Toronto Public Health","COVID-19 deaths",1
-"2023-12-17","2023-12-23","ON","Toronto Public Health","COVID-19 hospitalizations",0
+"2023-12-17","2023-12-23","ON","Toronto Public Health","COVID-19 hospitalizations",20
 "2023-12-17","2023-12-23","ON","Toronto Public Health","COVID-19 deaths",1
-"2023-12-24","2023-12-30","ON","Toronto Public Health","COVID-19 hospitalizations",0
-"2023-12-24","2023-12-30","ON","Toronto Public Health","COVID-19 deaths",1
-"2023-12-31","2024-01-06","ON","Toronto Public Health","COVID-19 hospitalizations",0
-"2023-12-31","2024-01-06","ON","Toronto Public Health","COVID-19 deaths",0
+"2023-12-24","2023-12-30","ON","Toronto Public Health","COVID-19 hospitalizations",58
+"2023-12-24","2023-12-30","ON","Toronto Public Health","COVID-19 deaths",2
+"2023-12-31","2024-01-06","ON","Toronto Public Health","COVID-19 hospitalizations",71
+"2023-12-31","2024-01-06","ON","Toronto Public Health","COVID-19 deaths",4
+"2024-01-07","2024-01-13","ON","Toronto Public Health","COVID-19 hospitalizations",19
+"2024-01-07","2024-01-13","ON","Toronto Public Health","COVID-19 deaths",0
 "2020-01-05","2020-01-11","ON","Wellington-Dufferin-Guelph Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Wellington-Dufferin-Guelph Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Wellington-Dufferin-Guelph Public Health","COVID-19 hospitalizations",0
@@ -14186,6 +14252,8 @@
 "2023-12-24","2023-12-30","ON","Wellington-Dufferin-Guelph Public Health","COVID-19 deaths",0
 "2023-12-31","2024-01-06","ON","Wellington-Dufferin-Guelph Public Health","COVID-19 hospitalizations",4
 "2023-12-31","2024-01-06","ON","Wellington-Dufferin-Guelph Public Health","COVID-19 deaths",0
+"2024-01-07","2024-01-13","ON","Wellington-Dufferin-Guelph Public Health","COVID-19 hospitalizations",9
+"2024-01-07","2024-01-13","ON","Wellington-Dufferin-Guelph Public Health","COVID-19 deaths",1
 "2020-01-05","2020-01-11","ON","Windsor-Essex County Health Unit","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","Windsor-Essex County Health Unit","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","Windsor-Essex County Health Unit","COVID-19 hospitalizations",0
@@ -14604,6 +14672,8 @@
 "2023-12-24","2023-12-30","ON","Windsor-Essex County Health Unit","COVID-19 deaths",2
 "2023-12-31","2024-01-06","ON","Windsor-Essex County Health Unit","COVID-19 hospitalizations",0
 "2023-12-31","2024-01-06","ON","Windsor-Essex County Health Unit","COVID-19 deaths",4
+"2024-01-07","2024-01-13","ON","Windsor-Essex County Health Unit","COVID-19 hospitalizations",0
+"2024-01-07","2024-01-13","ON","Windsor-Essex County Health Unit","COVID-19 deaths",1
 "2020-01-05","2020-01-11","ON","York Region Public Health","COVID-19 hospitalizations",0
 "2020-01-05","2020-01-11","ON","York Region Public Health","COVID-19 deaths",0
 "2020-01-12","2020-01-18","ON","York Region Public Health","COVID-19 hospitalizations",0
@@ -15020,5 +15090,7 @@
 "2023-12-17","2023-12-23","ON","York Region Public Health","COVID-19 deaths",3
 "2023-12-24","2023-12-30","ON","York Region Public Health","COVID-19 hospitalizations",25
 "2023-12-24","2023-12-30","ON","York Region Public Health","COVID-19 deaths",5
-"2023-12-31","2024-01-06","ON","York Region Public Health","COVID-19 hospitalizations",20
+"2023-12-31","2024-01-06","ON","York Region Public Health","COVID-19 hospitalizations",24
 "2023-12-31","2024-01-06","ON","York Region Public Health","COVID-19 deaths",4
+"2024-01-07","2024-01-13","ON","York Region Public Health","COVID-19 hospitalizations",19
+"2024-01-07","2024-01-13","ON","York Region Public Health","COVID-19 deaths",1
