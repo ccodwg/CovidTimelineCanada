@@ -2,6 +2,7 @@
 import os
 import importlib
 import pandas as pd
+import numpy as np
 
 # check for tabulate module (required for df.to_markdown())
 check_tabulate = importlib.util.find_spec("tabulate")
@@ -70,6 +71,9 @@ def gen_table(d_one, d_mult, title):
     t_one = pd.DataFrame({"region": pt_one})
     t_one = pd.merge(t_one, d_one, on = "region", how = "left")
     t_one["status"] = t_one.apply(lambda x: "Still reporting (single HR)" if pd.isna(x["date_end"]) else "Ended reporting completely", axis = 1)
+    # PE is an exception, continued reporting until the end of the PHAC weekly time series
+    t_one.loc[t_one["region"] == "PE", "status"] = "Still reporting (single HR)"
+    t_one.loc[t_one["region"] == "PE", "date_end"] = np.nan
     # generate rows for province/territories with multiple health regions
     t_mult = pd.DataFrame({"region": pt_mult})
     t_mult = pd.merge(t_mult, d_mult, on = "region", how = "left")

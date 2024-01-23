@@ -1393,7 +1393,6 @@
 "hosp_admissions","AB","2023-12-28",35490,0
 "hosp_admissions","AB","2023-12-29",35490,0
 "hosp_admissions","AB","2023-12-30",35627,137
-"hosp_admissions","AB","2023-12-31",35627,0
 "hosp_admissions","BC","2020-01-03",1,1
 "hosp_admissions","BC","2020-01-04",1,0
 "hosp_admissions","BC","2020-01-05",1,0
@@ -7304,7 +7303,6 @@
 "hosp_admissions","ON","2023-12-28",75704,0
 "hosp_admissions","ON","2023-12-29",75704,0
 "hosp_admissions","ON","2023-12-30",76003,299
-"hosp_admissions","ON","2023-12-31",76003,0
 "hosp_admissions","PE","2021-04-16",1,1
 "hosp_admissions","PE","2021-04-17",1,0
 "hosp_admissions","PE","2021-04-18",2,1
@@ -10254,7 +10252,6 @@
 "hosp_admissions","SK","2023-12-28",7386,0
 "hosp_admissions","SK","2023-12-29",7386,0
 "hosp_admissions","SK","2023-12-30",7456,70
-"hosp_admissions","SK","2023-12-31",7456,0
 "hosp_admissions","YT","2020-07-14",1,1
 "hosp_admissions","YT","2020-07-15",1,0
 "hosp_admissions","YT","2020-07-16",1,0
