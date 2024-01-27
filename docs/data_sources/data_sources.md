@@ -164,21 +164,21 @@
 <details>
 <summary><b>Vaccine administration</b></summary>
 
-| P/T   | Data sources                                                                                                                                         |
-|:------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
-| AB    | - CCODWG Covid19Canada dataset (2020-12-19–2020-12-19)<br>- Public Health Agency of Canada vaccination administration (2020-12-19–present)           |
-| BC    | - Public Health Agency of Canada vaccination administration (2020-12-19–present)                                                                     |
-| MB    | - Manitoba vaccine dashboard time series (2020-12-19–2022-04-02)<br>- Public Health Agency of Canada vaccination administration (2020-12-19–present) |
-| NB    | - CCODWG Covid19Canada dataset (2020-12-19–2020-12-19)<br>- Public Health Agency of Canada vaccination administration (2020-12-19–present)           |
-| NL    | - Public Health Agency of Canada vaccination administration (2020-12-19–present)                                                                     |
-| NS    | - Public Health Agency of Canada vaccination administration (2020-12-19–present)                                                                     |
-| NT    | - Public Health Agency of Canada vaccination administration (2020-12-19–present)                                                                     |
-| NU    | - Public Health Agency of Canada vaccination administration (2020-12-19–present)                                                                     |
-| ON    | - Ontario vaccine data by age CSV (2020-12-19–2021-01-09)<br>- Public Health Agency of Canada vaccination administration (2020-12-19–present)        |
-| PE    | - CCODWG Covid19Canada dataset (2020-12-19–2020-12-19)<br>- Public Health Agency of Canada vaccination administration (2020-12-19–present)           |
-| QC    | - MSSS vaccine administration CSV (2020-12-19–present)                                                                                               |
-| SK    | - Public Health Agency of Canada vaccination administration (2020-12-19–present)                                                                     |
-| YT    | - Public Health Agency of Canada vaccination administration (2020-12-19–present)                                                                     |
+| P/T   | Data sources                                                                                                                                            |
+|:------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| AB    | - CCODWG Covid19Canada dataset (2020-12-19–2020-12-19)<br>- Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)           |
+| BC    | - Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)                                                                     |
+| MB    | - Manitoba vaccine dashboard time series (2020-12-19–2022-04-02)<br>- Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03) |
+| NB    | - CCODWG Covid19Canada dataset (2020-12-19–2020-12-19)<br>- Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)           |
+| NL    | - Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)                                                                     |
+| NS    | - Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)                                                                     |
+| NT    | - Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)                                                                     |
+| NU    | - Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)                                                                     |
+| ON    | - Ontario vaccine data by age CSV (2020-12-19–2021-01-09)<br>- Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)        |
+| PE    | - CCODWG Covid19Canada dataset (2020-12-19–2020-12-19)<br>- Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)           |
+| QC    | - MSSS vaccine administration CSV (2020-12-19–2023-12-03)                                                                                               |
+| SK    | - Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)                                                                     |
+| YT    | - Public Health Agency of Canada vaccination administration (2020-12-19–2023-12-03)                                                                     |
 </details>
 
 <details>
