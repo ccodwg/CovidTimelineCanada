@@ -145,20 +145,20 @@
 
 | P/T   | Data sources                                                                  |
 |:------|:------------------------------------------------------------------------------|
-| AB    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| BC    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| CAN   | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| MB    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| NB    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| NL    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| NS    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| NT    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| NU    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| ON    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| PE    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| AB    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| BC    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| CAN   | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| MB    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| NB    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| NL    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| NS    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| NT    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| NU    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| ON    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| PE    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
 | QC    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2022-07-17) |
-| SK    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
-| YT    | - Public Health Agency of Canada vaccination coverage (2020-12-19–present)    |
+| SK    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
+| YT    | - Public Health Agency of Canada vaccination coverage (2020-12-19–2023-09-10) |
 </details>
 
 <details>
@@ -186,5 +186,18 @@
 
 | P/T   | Data sources                                                                                                                         |
 |:------|:-------------------------------------------------------------------------------------------------------------------------------------|
-| CAN   | - CCODWG Covid19Canada dataset (2020-12-19–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2020-12-19–2023-07-14) |
+| AB    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| BC    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| CAN   | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| MB    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| NB    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| NL    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| NS    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| NT    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| NU    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| ON    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| PE    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| QC    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| SK    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
+| YT    | - CCODWG Covid19Canada dataset (2020-12-13–2021-01-01)<br>- Public Health Agency of Canada doses distributed (2021-01-02–2023-07-14) |
 </details>
