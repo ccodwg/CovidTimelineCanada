@@ -1,2 +1,2 @@
 "name","region","date_current","value_current","date_previous","value_previous","date_diff","value_diff"
-"vaccine_coverage_dose_3","CAN","2023-12-03",50.9,"2023-09-10",50.9,84,0
+"vaccine_coverage_dose_3","CAN","2023-09-10",50.9,"2023-12-03",50.9,-84,0
