@@ -1,11 +1,4 @@
 "name","region","date","value","value_daily"
-"icu_admissions","AB","2020-03-07",0,0
-"icu_admissions","AB","2020-03-08",0,0
-"icu_admissions","AB","2020-03-09",0,0
-"icu_admissions","AB","2020-03-10",0,0
-"icu_admissions","AB","2020-03-11",0,0
-"icu_admissions","AB","2020-03-12",0,0
-"icu_admissions","AB","2020-03-13",0,0
 "icu_admissions","AB","2020-03-14",5,5
 "icu_admissions","AB","2020-03-15",5,0
 "icu_admissions","AB","2020-03-16",5,0
