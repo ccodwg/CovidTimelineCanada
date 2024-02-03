@@ -16,23 +16,9 @@ A simple [dashboard](https://ccodwg.github.io/CovidTimelineCanada-js-dashboard/)
 
 We offer three groups of datasets: health region-level (`hr`), for case and death data only, province/territory-level (`pt`), for all data types, and Canada-level (`can`), for all data types. Because each province/territory has a different update schedule, the most recent date of data for each region is different; for the same reason, the Canada-level data are incomplete in recent days (completeness: [cases](data/can/cases_can_completeness.json), [deaths](data/can/deaths_can_completeness.json), [tests](data/can/tests_completed_can_completeness.json)).
 
-To download all of the datasets in this repository, click the big green "Code" button, then click "Download ZIP". Save it to the location of your choice and unzip the contents. All of the CSV files containing the data can be opened using your spreadsheet software or statistical package of choice. Alternatively, you can download individual CSV files in the [`data`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/data) directory by right clicking the "Raw" button on the page and selecting "Save link as...".
+To download all of the datasets in this repository, click the big green "Code" button, then click "Download ZIP". Save it to the location of your choice and unzip the contents. All of the CSV files containing the data can be opened using your spreadsheet software or statistical package of choice. Alternatively, you can download individual CSV files in the [`data`](https://github.com/ccodwg/CovidTimelineCanada/tree/main/data) directory by right clicking the "Raw" button on the page and selecting "Save link as...". Previously, data were also available via an API ([https://api.opencovid.ca/](https://api.opencovid.ca/)), but this was retired in February 2024.
 
 For a list of available datasets see [Available datasets](#available-datasets) and for an explanation of the data format see [Data format](#data-format).
-
-For more advanced users or those wanting an always-up-to-date data source, we recommend using our API ([https://api.opencovid.ca/](https://api.opencovid.ca/)), which can return data in JSON or CSV format.
-
-Below is an example query that will return the latest 7 days of case data for each province/territory (again, the dates will be different for each region because of their differing update schedules) in JSON format:
-
-```
-https://api.opencovid.ca/timeseries?stat=cases&geo=pt&date=7
-```
-
-The next query will return the latest day of case data for each health region in JSON format:
-
-```
-https://api.opencovid.ca/timeseries?stat=cases&geo=hr&hr_names=short&date=1
-```
 
 Some provinces no longer offer health region-level data for cases and/or deaths. For these provinces/territories, all recent cases and/or deaths will show up under the "Unknown" (code: 9999) health region. See [Health region-level data reporting](docs/data_sources/hr_reporting.md) for details on if and when this transition occured for each province.
 
