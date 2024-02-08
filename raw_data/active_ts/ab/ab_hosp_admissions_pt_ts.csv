@@ -95,7 +95,7 @@
 "hosp_admissions","AB","2021-12-18",111
 "hosp_admissions","AB","2021-12-25",133
 "hosp_admissions","AB","2022-01-01",283
-"hosp_admissions","AB","2022-01-08",604
+"hosp_admissions","AB","2022-01-08",603
 "hosp_admissions","AB","2022-01-15",828
 "hosp_admissions","AB","2022-01-22",930
 "hosp_admissions","AB","2022-01-29",990
@@ -201,5 +201,6 @@
 "hosp_admissions","AB","2023-12-30",137
 "hosp_admissions","AB","2024-01-06",147
 "hosp_admissions","AB","2024-01-13",133
-"hosp_admissions","AB","2024-01-20",103
-"hosp_admissions","AB","2024-01-27",75
+"hosp_admissions","AB","2024-01-20",106
+"hosp_admissions","AB","2024-01-27",81
+"hosp_admissions","AB","2024-02-03",89
