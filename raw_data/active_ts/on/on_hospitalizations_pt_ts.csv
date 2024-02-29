@@ -1154,8 +1154,8 @@
 "hospitalizations","ON","2023-05-28",412
 "hospitalizations","ON","2023-05-29",435
 "hospitalizations","ON","2023-05-30",443
-"hospitalizations","ON","2023-05-31",453
-"hospitalizations","ON","2023-06-01",467
+"hospitalizations","ON","2023-05-31",456
+"hospitalizations","ON","2023-06-01",469
 "hospitalizations","ON","2023-06-02",436
 "hospitalizations","ON","2023-06-03",447
 "hospitalizations","ON","2023-06-04",430
@@ -1226,7 +1226,7 @@
 "hospitalizations","ON","2023-08-08",250
 "hospitalizations","ON","2023-08-09",260
 "hospitalizations","ON","2023-08-10",252
-"hospitalizations","ON","2023-08-11",253
+"hospitalizations","ON","2023-08-11",254
 "hospitalizations","ON","2023-08-12",266
 "hospitalizations","ON","2023-08-13",279
 "hospitalizations","ON","2023-08-14",295
@@ -1332,7 +1332,7 @@
 "hospitalizations","ON","2023-11-22",1659
 "hospitalizations","ON","2023-11-23",1744
 "hospitalizations","ON","2023-11-24",1734
-"hospitalizations","ON","2023-11-25",1704
+"hospitalizations","ON","2023-11-25",1730
 "hospitalizations","ON","2023-11-26",1832
 "hospitalizations","ON","2023-11-27",1810
 "hospitalizations","ON","2023-11-28",1777
@@ -1395,7 +1395,7 @@
 "hospitalizations","ON","2024-01-24",794
 "hospitalizations","ON","2024-01-25",759
 "hospitalizations","ON","2024-01-26",744
-"hospitalizations","ON","2024-01-27",760
+"hospitalizations","ON","2024-01-27",761
 "hospitalizations","ON","2024-01-28",788
 "hospitalizations","ON","2024-01-29",754
 "hospitalizations","ON","2024-01-30",742
@@ -1418,5 +1418,12 @@
 "hospitalizations","ON","2024-02-16",491
 "hospitalizations","ON","2024-02-17",515
 "hospitalizations","ON","2024-02-18",499
-"hospitalizations","ON","2024-02-19",532
-"hospitalizations","ON","2024-02-20",519
+"hospitalizations","ON","2024-02-19",533
+"hospitalizations","ON","2024-02-20",520
+"hospitalizations","ON","2024-02-21",479
+"hospitalizations","ON","2024-02-22",487
+"hospitalizations","ON","2024-02-23",439
+"hospitalizations","ON","2024-02-24",417
+"hospitalizations","ON","2024-02-25",440
+"hospitalizations","ON","2024-02-26",440
+"hospitalizations","ON","2024-02-27",418

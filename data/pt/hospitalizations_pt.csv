@@ -7396,9 +7396,9 @@
 "hospitalizations","ON","2023-05-28",412,9
 "hospitalizations","ON","2023-05-29",435,23
 "hospitalizations","ON","2023-05-30",443,8
-"hospitalizations","ON","2023-05-31",453,10
-"hospitalizations","ON","2023-06-01",467,14
-"hospitalizations","ON","2023-06-02",436,-31
+"hospitalizations","ON","2023-05-31",456,13
+"hospitalizations","ON","2023-06-01",469,13
+"hospitalizations","ON","2023-06-02",436,-33
 "hospitalizations","ON","2023-06-03",447,11
 "hospitalizations","ON","2023-06-04",430,-17
 "hospitalizations","ON","2023-06-05",394,-36
@@ -7468,8 +7468,8 @@
 "hospitalizations","ON","2023-08-08",250,2
 "hospitalizations","ON","2023-08-09",260,10
 "hospitalizations","ON","2023-08-10",252,-8
-"hospitalizations","ON","2023-08-11",253,1
-"hospitalizations","ON","2023-08-12",266,13
+"hospitalizations","ON","2023-08-11",254,2
+"hospitalizations","ON","2023-08-12",266,12
 "hospitalizations","ON","2023-08-13",279,13
 "hospitalizations","ON","2023-08-14",295,16
 "hospitalizations","ON","2023-08-15",325,30
@@ -7574,8 +7574,8 @@
 "hospitalizations","ON","2023-11-22",1659,-8
 "hospitalizations","ON","2023-11-23",1744,85
 "hospitalizations","ON","2023-11-24",1734,-10
-"hospitalizations","ON","2023-11-25",1704,-30
-"hospitalizations","ON","2023-11-26",1832,128
+"hospitalizations","ON","2023-11-25",1730,-4
+"hospitalizations","ON","2023-11-26",1832,102
 "hospitalizations","ON","2023-11-27",1810,-22
 "hospitalizations","ON","2023-11-28",1777,-33
 "hospitalizations","ON","2023-11-29",1801,24
