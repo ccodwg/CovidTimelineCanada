@@ -1,5 +1,5 @@
 "name","region","date_current","value_current","date_previous","value_previous","date_diff","value_diff"
-"hosp_admissions","AB","2023-12-30",35633,"2023-12-31",41718,-1,-6085
+"hosp_admissions","AB","2023-12-30",35634,"2023-12-31",41718,-1,-6084
 "hosp_admissions","BC","2023-12-31",41718,"2023-12-30",41694,1,24
 "hosp_admissions","MB","2023-12-30",16463,"2023-12-23",16399,7,64
 "hosp_admissions","NB","2023-12-30",3541,"2023-12-02",3292,28,249
