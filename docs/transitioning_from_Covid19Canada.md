@@ -1,5 +1,7 @@
 ## Transitioning from `Covid19Canada`
 
+⚠️ This document is no longer current, as the API has been retired. The workarounds offered will no longer function. ⚠️
+
 On April 30, 2022, `CovidTimelineCanada` superseded the original [`Covid19Canada`](https://github.com/ccodwg/Covid19Canada) dataset, which was first made available in March of 2020. This document offers some useful information for those converting their workflows to use the new dataset.
 
 ⚠️ **Province/territory (PT) names are now given using two-letter codes and health region (HR) names are given using unique identifiers**. See the [geo](https://github.com/ccodwg/CovidTimelineCanada/tree/main/geo) directory for files that can be used to map these values to alternative names. The [JSON API](https://api.opencovid.ca/) is also capable of performing these conversions automatically through the use of the `pt_names` and `hr_names` parameters.
