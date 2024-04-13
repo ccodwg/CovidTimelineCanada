@@ -94,9 +94,9 @@ dat_cases <- dat_cases |>
   )
 
 # outcome data
-dat_outcomes <- dplyr::bind_rows(lapply(seq_along(hr), function(x) {
+dat_outcomes_1 <- dplyr::bind_rows(lapply(seq_along(hr), function(x) {
   tmp <- tempfile()
-  on_outcome_data(tmp, auth, aid, ua, start_date, end_date, hr[x])
+  on_outcome_data_1(tmp, auth, aid, ua, start_date, end_date, hr[x])
   d <- readxl::read_xlsx(tmp, skip = 2)
   hr_name <- ifelse(hr[x] == "'Ontario'", "",
                     substr(hr[x], 2, nchar(hr[x]) - 1))
@@ -106,16 +106,40 @@ dat_outcomes <- dplyr::bind_rows(lapply(seq_along(hr), function(x) {
     sub_region_1 = hr_name,
     .before = 1)
 }))
-dat_outcomes <- dat_outcomes |>
+dat_outcomes_1 <- dat_outcomes_1 |>
   dplyr::mutate(dplyr::across(where(lubridate::is.POSIXct), as.Date)) |>
   dplyr::transmute(
     date_start = .data$`Week end date` - 6,
     date_end = .data$`Week end date`,
     .data$region,
     .data$sub_region_1,
-    outcome_weekly_type = .data$`Selected outcomes`,
+    outcome_weekly_type = "COVID-19 deaths",
     outcome_weekly_value = .data$Number
   )
+dat_outcomes_2 <- dplyr::bind_rows(lapply(seq_along(hr), function(x) {
+  tmp <- tempfile()
+  on_outcome_data_2(tmp, auth, aid, ua, start_date, end_date, hr[x])
+  d <- readxl::read_xlsx(tmp, skip = 2)
+  hr_name <- ifelse(hr[x] == "'Ontario'", "",
+                    substr(hr[x], 2, nchar(hr[x]) - 1))
+  d <- dplyr::mutate(
+    d,
+    region = "ON",
+    sub_region_1 = hr_name,
+    .before = 1)
+}))
+dat_outcomes_2 <- dat_outcomes_2 |>
+  dplyr::mutate(dplyr::across(where(lubridate::is.POSIXct), as.Date)) |>
+  dplyr::transmute(
+    date_start = .data$`Week end date` - 6,
+    date_end = .data$`Week end date`,
+    .data$region,
+    .data$sub_region_1,
+    outcome_weekly_type = "COVID-19 hospitalizations",
+    outcome_weekly_value = .data$Number
+  )
+dat_outcomes <- dplyr::bind_rows(dat_outcomes_1, dat_outcomes_2) |>
+  dplyr::arrange(.data$sub_region_1, .data$date_start, .data$outcome_weekly_type)
 
 # testing data (Ontario only)
 dat_testing <- dplyr::bind_rows(lapply(seq_along(hr[1]), function(x) {

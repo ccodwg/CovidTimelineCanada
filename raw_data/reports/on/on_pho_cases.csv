@@ -174,7 +174,7 @@
 "2023-04-23","2023-04-29","ON",,1519,9.88556434272386,15365840
 "2023-04-30","2023-05-06","ON",,1451,9.44302426681522,15365840
 "2023-05-07","2023-05-13","ON",,1378,8.96794447944271,15365840
-"2023-05-14","2023-05-20","ON",,1262,8.21302317348092,15365840
+"2023-05-14","2023-05-20","ON",,1261,8.20651523118814,15365840
 "2023-05-21","2023-05-27","ON",,1207,7.85508634737834,15365840
 "2023-05-28","2023-06-03","ON",,1152,7.49714952127577,15365840
 "2023-06-04","2023-06-10","ON",,880,5.72698921764121,15365840
@@ -182,34 +182,45 @@
 "2023-06-18","2023-06-24","ON",,633,4.11952747132601,15365840
 "2023-06-25","2023-07-01","ON",,518,3.37111410765699,15365840
 "2023-07-02","2023-07-08","ON",,446,2.90254226257725,15365840
-"2023-07-09","2023-07-15","ON",,572,3.72254299146679,15365840
+"2023-07-09","2023-07-15","ON",,573,3.72905093375956,15365840
 "2023-07-16","2023-07-22","ON",,660,4.29524191323091,15365840
-"2023-07-23","2023-07-29","ON",,706,4.59460725869852,15365840
+"2023-07-23","2023-07-29","ON",,705,4.58809931640574,15365840
 "2023-07-30","2023-08-05","ON",,678,4.41238487450084,15365840
 "2023-08-06","2023-08-12","ON",,727,4.73127404684677,15365840
 "2023-08-13","2023-08-19","ON",,1162,7.56222894420351,15365840
-"2023-08-20","2023-08-26","ON",,1560,10.1523899767276,15365840
+"2023-08-20","2023-08-26","ON",,1559,10.1458820344348,15365840
 "2023-08-27","2023-09-02","ON",,1584,10.3085805917542,15365840
 "2023-09-03","2023-09-09","ON",,1835,11.9420741072405,15365840
 "2023-09-10","2023-09-16","ON",,2274,14.7990607737683,15365840
 "2023-09-17","2023-09-23","ON",,2759,17.9554127857637,15365840
 "2023-09-24","2023-09-30","ON",,3228,21.0076377210748,15365840
-"2023-10-01","2023-10-07","ON",,3060,19.9143034158887,15365840
-"2023-10-08","2023-10-14","ON",,2515,16.3674748663269,15365840
-"2023-10-15","2023-10-21","ON",,2952,19.2114456482691,15365840
-"2023-10-22","2023-10-28","ON",,3424,22.2831944104585,15365840
-"2023-10-29","2023-11-04","ON",,3130,20.3698593763829,15365840
-"2023-11-05","2023-11-11","ON",,3440,22.3873214871429,15365840
-"2023-11-12","2023-11-18","ON",,4119,26.8062143039365,15365840
-"2023-11-19","2023-11-25","ON",,4528,29.4679627016811,15365840
-"2023-11-26","2023-12-02","ON",,4236,27.5676435521911,15365840
-"2023-12-03","2023-12-09","ON",,4091,26.6239919197388,15365840
-"2023-12-10","2023-12-16","ON",,4443,28.9147876067953,15365840
-"2023-12-17","2023-12-23","ON",,4157,27.0535161110619,15365840
-"2023-12-24","2023-12-30","ON",,3895,25.3484352303551,15365840
-"2023-12-31","2024-01-06","ON",,4165,26.6981959647584,15600305
-"2024-01-07","2024-01-13","ON",,3076,19.7175632143089,15600305
-"2024-01-14","2024-01-20","ON",,2337,14.980476343251,15600305
+"2023-10-01","2023-10-07","ON",,3057,19.8947795890104,15365840
+"2023-10-08","2023-10-14","ON",,2514,16.3609669240341,15365840
+"2023-10-15","2023-10-21","ON",,2951,19.2049377059764,15365840
+"2023-10-22","2023-10-28","ON",,3425,22.2897023527513,15365840
+"2023-10-29","2023-11-04","ON",,3131,20.3763673186757,15365840
+"2023-11-05","2023-11-11","ON",,3439,22.3808135448501,15365840
+"2023-11-12","2023-11-18","ON",,4110,26.7476428233016,15365840
+"2023-11-19","2023-11-25","ON",,4520,29.4158991633389,15365840
+"2023-11-26","2023-12-02","ON",,4221,27.4700244177995,15365840
+"2023-12-03","2023-12-09","ON",,4075,26.5198648430545,15365840
+"2023-12-10","2023-12-16","ON",,4431,28.836692299282,15365840
+"2023-12-17","2023-12-23","ON",,4161,27.079547880233,15365840
+"2023-12-24","2023-12-30","ON",,3889,25.3093875765985,15365840
+"2023-12-31","2024-01-06","ON",,4167,26.7110162269263,15600305
+"2024-01-07","2024-01-13","ON",,3088,19.7944847873167,15600305
+"2024-01-14","2024-01-20","ON",,2355,15.0958587027625,15600305
+"2024-01-21","2024-01-27","ON",,1972,12.6407784975999,15600305
+"2024-01-28","2024-02-03","ON",,1716,10.9997849401021,15600305
+"2024-02-04","2024-02-10","ON",,1333,8.54470473493948,15600305
+"2024-02-11","2024-02-17","ON",,1171,7.50626349933543,15600305
+"2024-02-18","2024-02-24","ON",,1014,6.49987291915126,15600305
+"2024-02-25","2024-03-02","ON",,860,5.51271273221902,15600305
+"2024-03-03","2024-03-09","ON",,719,4.60888424937846,15600305
+"2024-03-10","2024-03-16","ON",,889,5.69860653365431,15600305
+"2024-03-17","2024-03-23","ON",,608,3.89735969905717,15600305
+"2024-03-24","2024-03-30","ON",,524,3.35890868800322,15600305
+"2024-03-31","2024-04-06","ON",,689,4.41658031685919,15600305
 "2020-01-05","2020-01-11","ON","Algoma Public Health",0,0,117637
 "2020-01-12","2020-01-18","ON","Algoma Public Health",0,0,117637
 "2020-01-19","2020-01-25","ON","Algoma Public Health",0,0,117637
@@ -419,8 +430,19 @@
 "2023-12-17","2023-12-23","ON","Algoma Public Health",43,36.4675650691612,117913
 "2023-12-24","2023-12-30","ON","Algoma Public Health",43,36.4675650691612,117913
 "2023-12-31","2024-01-06","ON","Algoma Public Health",43,36.416914386375,118077
-"2024-01-07","2024-01-13","ON","Algoma Public Health",30,25.4071495718895,118077
+"2024-01-07","2024-01-13","ON","Algoma Public Health",29,24.5602445861599,118077
 "2024-01-14","2024-01-20","ON","Algoma Public Health",23,19.478814671782,118077
+"2024-01-21","2024-01-27","ON","Algoma Public Health",28,23.7133396004302,118077
+"2024-01-28","2024-02-03","ON","Algoma Public Health",44,37.2638193721046,118077
+"2024-02-04","2024-02-10","ON","Algoma Public Health",39,33.0292944434564,118077
+"2024-02-11","2024-02-17","ON","Algoma Public Health",41,34.7231044149157,118077
+"2024-02-18","2024-02-24","ON","Algoma Public Health",63,53.355014100968,118077
+"2024-02-25","2024-03-02","ON","Algoma Public Health",37,31.3354844719971,118077
+"2024-03-03","2024-03-09","ON","Algoma Public Health",24,20.3257196575116,118077
+"2024-03-10","2024-03-16","ON","Algoma Public Health",21,17.7850047003227,118077
+"2024-03-17","2024-03-23","ON","Algoma Public Health",8,6.77523988583721,118077
+"2024-03-24","2024-03-30","ON","Algoma Public Health",18,15.2442897431337,118077
+"2024-03-31","2024-04-06","ON","Algoma Public Health",15,12.7035747859448,118077
 "2020-01-05","2020-01-11","ON","Brant County Health Unit",0,0,153604
 "2020-01-12","2020-01-18","ON","Brant County Health Unit",0,0,153604
 "2020-01-19","2020-01-25","ON","Brant County Health Unit",0,0,153604
@@ -626,12 +648,23 @@
 "2023-11-19","2023-11-25","ON","Brant County Health Unit",72,44.7981284337454,160721
 "2023-11-26","2023-12-02","ON","Brant County Health Unit",61,37.9539699230343,160721
 "2023-12-03","2023-12-09","ON","Brant County Health Unit",37,23.0212604451192,160721
-"2023-12-10","2023-12-16","ON","Brant County Health Unit",42,26.1322415863515,160721
+"2023-12-10","2023-12-16","ON","Brant County Health Unit",41,25.510045358105,160721
 "2023-12-17","2023-12-23","ON","Brant County Health Unit",41,25.510045358105,160721
 "2023-12-24","2023-12-30","ON","Brant County Health Unit",49,30.4876151840768,160721
 "2023-12-31","2024-01-06","ON","Brant County Health Unit",44,27.0571089479089,162619
 "2024-01-07","2024-01-13","ON","Brant County Health Unit",30,18.4480288281197,162619
-"2024-01-14","2024-01-20","ON","Brant County Health Unit",22,13.5285544739545,162619
+"2024-01-14","2024-01-20","ON","Brant County Health Unit",21,12.9136201796838,162619
+"2024-01-21","2024-01-27","ON","Brant County Health Unit",14,8.6090801197892,162619
+"2024-01-28","2024-02-03","ON","Brant County Health Unit",16,9.83894870833051,162619
+"2024-02-04","2024-02-10","ON","Brant County Health Unit",14,8.6090801197892,162619
+"2024-02-11","2024-02-17","ON","Brant County Health Unit",8,4.91947435416526,162619
+"2024-02-18","2024-02-24","ON","Brant County Health Unit",4,2.45973717708263,162619
+"2024-02-25","2024-03-02","ON","Brant County Health Unit",12,7.37921153124789,162619
+"2024-03-03","2024-03-09","ON","Brant County Health Unit",11,6.76427723697723,162619
+"2024-03-10","2024-03-16","ON","Brant County Health Unit",7,4.3045400598946,162619
+"2024-03-17","2024-03-23","ON","Brant County Health Unit",7,4.3045400598946,162619
+"2024-03-24","2024-03-30","ON","Brant County Health Unit",6,3.68960576562394,162619
+"2024-03-31","2024-04-06","ON","Brant County Health Unit",6,3.68960576562394,162619
 "2020-01-05","2020-01-11","ON","Chatham-Kent Public Health",0,0,106975
 "2020-01-12","2020-01-18","ON","Chatham-Kent Public Health",0,0,106975
 "2020-01-19","2020-01-25","ON","Chatham-Kent Public Health",0,0,106975
@@ -838,11 +871,22 @@
 "2023-11-26","2023-12-02","ON","Chatham-Kent Public Health",37,34.0586914098457,108636
 "2023-12-03","2023-12-09","ON","Chatham-Kent Public Health",35,32.2176810633676,108636
 "2023-12-10","2023-12-16","ON","Chatham-Kent Public Health",45,41.4227327957583,108636
-"2023-12-17","2023-12-23","ON","Chatham-Kent Public Health",16,14.7280827718252,108636
+"2023-12-17","2023-12-23","ON","Chatham-Kent Public Health",15,13.8075775985861,108636
 "2023-12-24","2023-12-30","ON","Chatham-Kent Public Health",10,9.20505173239074,108636
 "2023-12-31","2024-01-06","ON","Chatham-Kent Public Health",34,31.25,108800
 "2024-01-07","2024-01-13","ON","Chatham-Kent Public Health",14,12.8676470588235,108800
 "2024-01-14","2024-01-20","ON","Chatham-Kent Public Health",11,10.1102941176471,108800
+"2024-01-21","2024-01-27","ON","Chatham-Kent Public Health",9,8.27205882352941,108800
+"2024-01-28","2024-02-03","ON","Chatham-Kent Public Health",5,4.59558823529412,108800
+"2024-02-04","2024-02-10","ON","Chatham-Kent Public Health",19,17.4632352941176,108800
+"2024-02-11","2024-02-17","ON","Chatham-Kent Public Health",5,4.59558823529412,108800
+"2024-02-18","2024-02-24","ON","Chatham-Kent Public Health",10,9.19117647058824,108800
+"2024-02-25","2024-03-02","ON","Chatham-Kent Public Health",1,0.919117647058823,108800
+"2024-03-03","2024-03-09","ON","Chatham-Kent Public Health",2,1.83823529411765,108800
+"2024-03-10","2024-03-16","ON","Chatham-Kent Public Health",5,4.59558823529412,108800
+"2024-03-17","2024-03-23","ON","Chatham-Kent Public Health",1,0.919117647058823,108800
+"2024-03-24","2024-03-30","ON","Chatham-Kent Public Health",0,0,108800
+"2024-03-31","2024-04-06","ON","Chatham-Kent Public Health",3,2.75735294117647,108800
 "2020-01-05","2020-01-11","ON","City of Hamilton Public Health Services",0,0,582966
 "2020-01-12","2020-01-18","ON","City of Hamilton Public Health Services",0,0,582966
 "2020-01-19","2020-01-25","ON","City of Hamilton Public Health Services",0,0,582966
@@ -1043,17 +1087,28 @@
 "2023-10-15","2023-10-21","ON","City of Hamilton Public Health Services",155,25.584228231123,605842
 "2023-10-22","2023-10-28","ON","City of Hamilton Public Health Services",149,24.593871009273,605842
 "2023-10-29","2023-11-04","ON","City of Hamilton Public Health Services",73,12.049346199174,605842
-"2023-11-05","2023-11-11","ON","City of Hamilton Public Health Services",101,16.6710132344737,605842
+"2023-11-05","2023-11-11","ON","City of Hamilton Public Health Services",100,16.5059536974987,605842
 "2023-11-12","2023-11-18","ON","City of Hamilton Public Health Services",192,31.6914310991975,605842
 "2023-11-19","2023-11-25","ON","City of Hamilton Public Health Services",166,27.3998831378478,605842
 "2023-11-26","2023-12-02","ON","City of Hamilton Public Health Services",175,28.8854189706227,605842
-"2023-12-03","2023-12-09","ON","City of Hamilton Public Health Services",168,27.7300022117978,605842
+"2023-12-03","2023-12-09","ON","City of Hamilton Public Health Services",167,27.5649426748228,605842
 "2023-12-10","2023-12-16","ON","City of Hamilton Public Health Services",209,34.4974432277723,605842
 "2023-12-17","2023-12-23","ON","City of Hamilton Public Health Services",196,32.3516692470974,605842
 "2023-12-24","2023-12-30","ON","City of Hamilton Public Health Services",196,32.3516692470974,605842
 "2023-12-31","2024-01-06","ON","City of Hamilton Public Health Services",182,29.6568603487777,613686
 "2024-01-07","2024-01-13","ON","City of Hamilton Public Health Services",151,24.6054171025573,613686
-"2024-01-14","2024-01-20","ON","City of Hamilton Public Health Services",116,18.9021747277924,613686
+"2024-01-14","2024-01-20","ON","City of Hamilton Public Health Services",118,19.2280742920647,613686
+"2024-01-21","2024-01-27","ON","City of Hamilton Public Health Services",120,19.553973856337,613686
+"2024-01-28","2024-02-03","ON","City of Hamilton Public Health Services",114,18.5762751635201,613686
+"2024-02-04","2024-02-10","ON","City of Hamilton Public Health Services",71,11.569434531666,613686
+"2024-02-11","2024-02-17","ON","City of Hamilton Public Health Services",37,6.02914193903723,613686
+"2024-02-18","2024-02-24","ON","City of Hamilton Public Health Services",32,5.21439302835652,613686
+"2024-02-25","2024-03-02","ON","City of Hamilton Public Health Services",22,3.58489520699511,613686
+"2024-03-03","2024-03-09","ON","City of Hamilton Public Health Services",30,4.88849346408424,613686
+"2024-03-10","2024-03-16","ON","City of Hamilton Public Health Services",32,5.21439302835652,613686
+"2024-03-17","2024-03-23","ON","City of Hamilton Public Health Services",34,5.5402925926288,613686
+"2024-03-24","2024-03-30","ON","City of Hamilton Public Health Services",13,2.11834716776984,613686
+"2024-03-31","2024-04-06","ON","City of Hamilton Public Health Services",9,1.46654803922527,613686
 "2020-01-05","2020-01-11","ON","Durham Region Health Department",0,0,713532
 "2020-01-12","2020-01-18","ON","Durham Region Health Department",0,0,713532
 "2020-01-19","2020-01-25","ON","Durham Region Health Department",0,0,713532
@@ -1258,13 +1313,24 @@
 "2023-11-12","2023-11-18","ON","Durham Region Health Department",129,17.1747645459605,751102
 "2023-11-19","2023-11-25","ON","Durham Region Health Department",226,30.0891223828455,751102
 "2023-11-26","2023-12-02","ON","Durham Region Health Department",166,22.100859803329,751102
-"2023-12-03","2023-12-09","ON","Durham Region Health Department",199,26.4944042220631,751102
-"2023-12-10","2023-12-16","ON","Durham Region Health Department",163,21.7014466743532,751102
+"2023-12-03","2023-12-09","ON","Durham Region Health Department",200,26.6275419317217,751102
+"2023-12-10","2023-12-16","ON","Durham Region Health Department",164,21.8345843840118,751102
 "2023-12-17","2023-12-23","ON","Durham Region Health Department",137,18.2398662232293,751102
 "2023-12-24","2023-12-30","ON","Durham Region Health Department",159,21.1688958357187,751102
-"2023-12-31","2024-01-06","ON","Durham Region Health Department",150,19.710725394116,761007
+"2023-12-31","2024-01-06","ON","Durham Region Health Department",149,19.5793205581552,761007
 "2024-01-07","2024-01-13","ON","Durham Region Health Department",127,16.6884141670182,761007
-"2024-01-14","2024-01-20","ON","Durham Region Health Department",106,13.9289126118419,761007
+"2024-01-14","2024-01-20","ON","Durham Region Health Department",105,13.7975077758812,761007
+"2024-01-21","2024-01-27","ON","Durham Region Health Department",88,11.563625564548,761007
+"2024-01-28","2024-02-03","ON","Durham Region Health Department",79,10.3809820409011,761007
+"2024-02-04","2024-02-10","ON","Durham Region Health Department",57,7.49007564976406,761007
+"2024-02-11","2024-02-17","ON","Durham Region Health Department",44,5.78181278227401,761007
+"2024-02-18","2024-02-24","ON","Durham Region Health Department",33,4.33635958670551,761007
+"2024-02-25","2024-03-02","ON","Durham Region Health Department",27,3.54793057094087,761007
+"2024-03-03","2024-03-09","ON","Durham Region Health Department",18,2.36528704729391,761007
+"2024-03-10","2024-03-16","ON","Durham Region Health Department",13,1.70826286749005,761007
+"2024-03-17","2024-03-23","ON","Durham Region Health Department",30,3.94214507882319,761007
+"2024-03-24","2024-03-30","ON","Durham Region Health Department",12,1.57685803152928,761007
+"2024-03-31","2024-04-06","ON","Durham Region Health Department",29,3.81074024286242,761007
 "2020-01-05","2020-01-11","ON","Eastern Ontario Health Unit",0,0,216011
 "2020-01-12","2020-01-18","ON","Eastern Ontario Health Unit",0,0,216011
 "2020-01-19","2020-01-25","ON","Eastern Ontario Health Unit",0,0,216011
@@ -1459,7 +1525,7 @@
 "2023-09-03","2023-09-09","ON","Eastern Ontario Health Unit",29,13.0569462954292,222104
 "2023-09-10","2023-09-16","ON","Eastern Ontario Health Unit",32,14.4076648777149,222104
 "2023-09-17","2023-09-23","ON","Eastern Ontario Health Unit",46,20.7110182617152,222104
-"2023-09-24","2023-09-30","ON","Eastern Ontario Health Unit",47,21.1612577891438,222104
+"2023-09-24","2023-09-30","ON","Eastern Ontario Health Unit",46,20.7110182617152,222104
 "2023-10-01","2023-10-07","ON","Eastern Ontario Health Unit",83,37.3698807765731,222104
 "2023-10-08","2023-10-14","ON","Eastern Ontario Health Unit",80,36.0191621942874,222104
 "2023-10-15","2023-10-21","ON","Eastern Ontario Health Unit",131,58.9813780931456,222104
@@ -1468,14 +1534,25 @@
 "2023-11-05","2023-11-11","ON","Eastern Ontario Health Unit",74,33.3177250297158,222104
 "2023-11-12","2023-11-18","ON","Eastern Ontario Health Unit",137,61.6828152577171,222104
 "2023-11-19","2023-11-25","ON","Eastern Ontario Health Unit",130,58.531138565717,222104
-"2023-11-26","2023-12-02","ON","Eastern Ontario Health Unit",88,39.6210784137161,222104
+"2023-11-26","2023-12-02","ON","Eastern Ontario Health Unit",87,39.1708388862875,222104
 "2023-12-03","2023-12-09","ON","Eastern Ontario Health Unit",79,35.5689226668588,222104
 "2023-12-10","2023-12-16","ON","Eastern Ontario Health Unit",90,40.5215574685733,222104
-"2023-12-17","2023-12-23","ON","Eastern Ontario Health Unit",116,52.2277851817167,222104
-"2023-12-24","2023-12-30","ON","Eastern Ontario Health Unit",64,28.8153297554299,222104
-"2023-12-31","2024-01-06","ON","Eastern Ontario Health Unit",75,33.5462401374054,223572
-"2024-01-07","2024-01-13","ON","Eastern Ontario Health Unit",45,20.1277440824432,223572
-"2024-01-14","2024-01-20","ON","Eastern Ontario Health Unit",56,25.047859302596,223572
+"2023-12-17","2023-12-23","ON","Eastern Ontario Health Unit",117,52.6780247091453,222104
+"2023-12-24","2023-12-30","ON","Eastern Ontario Health Unit",63,28.3650902280013,222104
+"2023-12-31","2024-01-06","ON","Eastern Ontario Health Unit",73,32.6516737337413,223572
+"2024-01-07","2024-01-13","ON","Eastern Ontario Health Unit",44,19.6804608806112,223572
+"2024-01-14","2024-01-20","ON","Eastern Ontario Health Unit",58,25.9424257062602,223572
+"2024-01-21","2024-01-27","ON","Eastern Ontario Health Unit",37,16.5494784677867,223572
+"2024-01-28","2024-02-03","ON","Eastern Ontario Health Unit",19,8.49838083480937,223572
+"2024-02-04","2024-02-10","ON","Eastern Ontario Health Unit",18,8.0510976329773,223572
+"2024-02-11","2024-02-17","ON","Eastern Ontario Health Unit",19,8.49838083480937,223572
+"2024-02-18","2024-02-24","ON","Eastern Ontario Health Unit",27,12.0766464494659,223572
+"2024-02-25","2024-03-02","ON","Eastern Ontario Health Unit",28,12.523929651298,223572
+"2024-03-03","2024-03-09","ON","Eastern Ontario Health Unit",11,4.92011522015279,223572
+"2024-03-10","2024-03-16","ON","Eastern Ontario Health Unit",7,3.1309824128245,223572
+"2024-03-17","2024-03-23","ON","Eastern Ontario Health Unit",7,3.1309824128245,223572
+"2024-03-24","2024-03-30","ON","Eastern Ontario Health Unit",17,7.60381443114522,223572
+"2024-03-31","2024-04-06","ON","Eastern Ontario Health Unit",29,12.9712128531301,223572
 "2020-01-05","2020-01-11","ON","Grey Bruce Health Unit",0,0,176182
 "2020-01-12","2020-01-18","ON","Grey Bruce Health Unit",0,0,176182
 "2020-01-19","2020-01-25","ON","Grey Bruce Health Unit",0,0,176182
@@ -1680,13 +1757,24 @@
 "2023-11-12","2023-11-18","ON","Grey Bruce Health Unit",66,35.8761945142037,183966
 "2023-11-19","2023-11-25","ON","Grey Bruce Health Unit",111,60.3372362284335,183966
 "2023-11-26","2023-12-02","ON","Grey Bruce Health Unit",70,38.0505093332464,183966
-"2023-12-03","2023-12-09","ON","Grey Bruce Health Unit",61,33.1583009904004,183966
+"2023-12-03","2023-12-09","ON","Grey Bruce Health Unit",62,33.7018796951611,183966
 "2023-12-10","2023-12-16","ON","Grey Bruce Health Unit",35,19.0252546666232,183966
 "2023-12-17","2023-12-23","ON","Grey Bruce Health Unit",44,23.9174630094691,183966
 "2023-12-24","2023-12-30","ON","Grey Bruce Health Unit",46,25.0046204189905,183966
 "2023-12-31","2024-01-06","ON","Grey Bruce Health Unit",84,45.1076946209074,186221
 "2024-01-07","2024-01-13","ON","Grey Bruce Health Unit",62,33.2937746011459,186221
 "2024-01-14","2024-01-20","ON","Grey Bruce Health Unit",21,11.2769236552269,186221
+"2024-01-21","2024-01-27","ON","Grey Bruce Health Unit",14,7.51794910348457,186221
+"2024-01-28","2024-02-03","ON","Grey Bruce Health Unit",18,9.66593456162302,186221
+"2024-02-04","2024-02-10","ON","Grey Bruce Health Unit",9,4.83296728081151,186221
+"2024-02-11","2024-02-17","ON","Grey Bruce Health Unit",10,5.36996364534612,186221
+"2024-02-18","2024-02-24","ON","Grey Bruce Health Unit",18,9.66593456162302,186221
+"2024-02-25","2024-03-02","ON","Grey Bruce Health Unit",22,11.8139200197615,186221
+"2024-03-03","2024-03-09","ON","Grey Bruce Health Unit",16,8.59194183255379,186221
+"2024-03-10","2024-03-16","ON","Grey Bruce Health Unit",6,3.22197818720767,186221
+"2024-03-17","2024-03-23","ON","Grey Bruce Health Unit",5,2.68498182267306,186221
+"2024-03-24","2024-03-30","ON","Grey Bruce Health Unit",9,4.83296728081151,186221
+"2024-03-31","2024-04-06","ON","Grey Bruce Health Unit",18,9.66593456162302,186221
 "2020-01-05","2020-01-11","ON","Haldimand-Norfolk Health Unit",0,0,120025
 "2020-01-12","2020-01-18","ON","Haldimand-Norfolk Health Unit",0,0,120025
 "2020-01-19","2020-01-25","ON","Haldimand-Norfolk Health Unit",0,0,120025
@@ -1886,18 +1974,29 @@
 "2023-10-08","2023-10-14","ON","Haldimand-Norfolk Health Unit",13,10.2431567833336,126914
 "2023-10-15","2023-10-21","ON","Haldimand-Norfolk Health Unit",32,25.2139243897442,126914
 "2023-10-22","2023-10-28","ON","Haldimand-Norfolk Health Unit",43,33.8812108987188,126914
-"2023-10-29","2023-11-04","ON","Haldimand-Norfolk Health Unit",25,19.6983784294877,126914
+"2023-10-29","2023-11-04","ON","Haldimand-Norfolk Health Unit",24,18.9104432923082,126914
 "2023-11-05","2023-11-11","ON","Haldimand-Norfolk Health Unit",36,28.3656649384623,126914
 "2023-11-12","2023-11-18","ON","Haldimand-Norfolk Health Unit",28,22.0621838410262,126914
-"2023-11-19","2023-11-25","ON","Haldimand-Norfolk Health Unit",41,32.3053406243598,126914
+"2023-11-19","2023-11-25","ON","Haldimand-Norfolk Health Unit",40,31.5174054871803,126914
 "2023-11-26","2023-12-02","ON","Haldimand-Norfolk Health Unit",28,22.0621838410262,126914
 "2023-12-03","2023-12-09","ON","Haldimand-Norfolk Health Unit",21,16.5466378807697,126914
 "2023-12-10","2023-12-16","ON","Haldimand-Norfolk Health Unit",25,19.6983784294877,126914
 "2023-12-17","2023-12-23","ON","Haldimand-Norfolk Health Unit",26,20.4863135666672,126914
 "2023-12-24","2023-12-30","ON","Haldimand-Norfolk Health Unit",34,26.7897946641033,126914
-"2023-12-31","2024-01-06","ON","Haldimand-Norfolk Health Unit",46,35.7414803188762,128702
+"2023-12-31","2024-01-06","ON","Haldimand-Norfolk Health Unit",45,34.9644916162919,128702
 "2024-01-07","2024-01-13","ON","Haldimand-Norfolk Health Unit",32,24.8636384826965,128702
-"2024-01-14","2024-01-20","ON","Haldimand-Norfolk Health Unit",12,9.32386443101117,128702
+"2024-01-14","2024-01-20","ON","Haldimand-Norfolk Health Unit",13,10.1008531335954,128702
+"2024-01-21","2024-01-27","ON","Haldimand-Norfolk Health Unit",21,16.3167627542696,128702
+"2024-01-28","2024-02-03","ON","Haldimand-Norfolk Health Unit",12,9.32386443101117,128702
+"2024-02-04","2024-02-10","ON","Haldimand-Norfolk Health Unit",15,11.654830538764,128702
+"2024-02-11","2024-02-17","ON","Haldimand-Norfolk Health Unit",15,11.654830538764,128702
+"2024-02-18","2024-02-24","ON","Haldimand-Norfolk Health Unit",14,10.8778418361797,128702
+"2024-02-25","2024-03-02","ON","Haldimand-Norfolk Health Unit",1,0.776988702584264,128702
+"2024-03-03","2024-03-09","ON","Haldimand-Norfolk Health Unit",9,6.99289832325838,128702
+"2024-03-10","2024-03-16","ON","Haldimand-Norfolk Health Unit",6,4.66193221550559,128702
+"2024-03-17","2024-03-23","ON","Haldimand-Norfolk Health Unit",1,0.776988702584264,128702
+"2024-03-24","2024-03-30","ON","Haldimand-Norfolk Health Unit",2,1.55397740516853,128702
+"2024-03-31","2024-04-06","ON","Haldimand-Norfolk Health Unit",4,3.10795481033706,128702
 "2020-01-05","2020-01-11","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",0,0,191152
 "2020-01-12","2020-01-18","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",0,0,191152
 "2020-01-19","2020-01-25","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",0,0,191152
@@ -2103,12 +2202,23 @@
 "2023-11-19","2023-11-25","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",69,35.0054791184707,197112
 "2023-11-26","2023-12-02","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",96,48.7032752952636,197112
 "2023-12-03","2023-12-09","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",38,19.2783798043752,197112
-"2023-12-10","2023-12-16","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",148,75.0842160801981,197112
+"2023-12-10","2023-12-16","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",146,74.0695645115467,197112
 "2023-12-17","2023-12-23","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",106,53.7765331385202,197112
 "2023-12-24","2023-12-30","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",56,28.4102439222371,197112
 "2023-12-31","2024-01-06","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",63,31.6036600048158,199344
 "2024-01-07","2024-01-13","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",52,26.0855606388956,199344
 "2024-01-14","2024-01-20","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",23,11.5378441287423,199344
+"2024-01-21","2024-01-27","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",22,11.0361987318404,199344
+"2024-01-28","2024-02-03","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",15,7.52468095352757,199344
+"2024-02-04","2024-02-10","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",15,7.52468095352757,199344
+"2024-02-11","2024-02-17","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",9,4.51480857211654,199344
+"2024-02-18","2024-02-24","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",5,2.50822698450919,199344
+"2024-02-25","2024-03-02","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",10,5.01645396901838,199344
+"2024-03-03","2024-03-09","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",2,1.00329079380368,199344
+"2024-03-10","2024-03-16","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",2,1.00329079380368,199344
+"2024-03-17","2024-03-23","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",2,1.00329079380368,199344
+"2024-03-24","2024-03-30","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",8,4.0131631752147,199344
+"2024-03-31","2024-04-06","ON","Haliburton, Kawartha, Pine Ridge District Health Unit",5,2.50822698450919,199344
 "2020-01-05","2020-01-11","ON","Halton Region Public Health",0,0,610116
 "2020-01-12","2020-01-18","ON","Halton Region Public Health",0,0,610116
 "2020-01-19","2020-01-25","ON","Halton Region Public Health",0,0,610116
@@ -2309,17 +2419,28 @@
 "2023-10-15","2023-10-21","ON","Halton Region Public Health",64,9.91565495999653,645444
 "2023-10-22","2023-10-28","ON","Halton Region Public Health",113,17.5073282887439,645444
 "2023-10-29","2023-11-04","ON","Halton Region Public Health",110,17.042531962494,645444
-"2023-11-05","2023-11-11","ON","Halton Region Public Health",120,18.5918530499935,645444
+"2023-11-05","2023-11-11","ON","Halton Region Public Health",121,18.7467851587434,645444
 "2023-11-12","2023-11-18","ON","Halton Region Public Health",139,21.5355631162425,645444
 "2023-11-19","2023-11-25","ON","Halton Region Public Health",155,24.0144768562416,645444
 "2023-11-26","2023-12-02","ON","Halton Region Public Health",103,15.9580072012444,645444
-"2023-12-03","2023-12-09","ON","Halton Region Public Health",97,15.0284145487447,645444
+"2023-12-03","2023-12-09","ON","Halton Region Public Health",96,14.8734824399948,645444
 "2023-12-10","2023-12-16","ON","Halton Region Public Health",137,21.2256988987426,645444
 "2023-12-17","2023-12-23","ON","Halton Region Public Health",167,25.8736621612409,645444
 "2023-12-24","2023-12-30","ON","Halton Region Public Health",152,23.5496805299918,645444
-"2023-12-31","2024-01-06","ON","Halton Region Public Health",157,23.873534134592,657632
-"2024-01-07","2024-01-13","ON","Halton Region Public Health",84,12.7731010656416,657632
-"2024-01-14","2024-01-20","ON","Halton Region Public Health",58,8.81952216437156,657632
+"2023-12-31","2024-01-06","ON","Halton Region Public Health",163,24.7858984964235,657632
+"2024-01-07","2024-01-13","ON","Halton Region Public Health",94,14.2937083353608,657632
+"2024-01-14","2024-01-20","ON","Halton Region Public Health",59,8.97158289134349,657632
+"2024-01-21","2024-01-27","ON","Halton Region Public Health",70,10.6442508880346,657632
+"2024-01-28","2024-02-03","ON","Halton Region Public Health",58,8.81952216437156,657632
+"2024-02-04","2024-02-10","ON","Halton Region Public Health",28,4.25770035521386,657632
+"2024-02-11","2024-02-17","ON","Halton Region Public Health",52,7.90715780254002,657632
+"2024-02-18","2024-02-24","ON","Halton Region Public Health",47,7.1468541676804,657632
+"2024-02-25","2024-03-02","ON","Halton Region Public Health",13,1.97678945063501,657632
+"2024-03-03","2024-03-09","ON","Halton Region Public Health",11,1.67266799669116,657632
+"2024-03-10","2024-03-16","ON","Halton Region Public Health",34,5.1700647170454,657632
+"2024-03-17","2024-03-23","ON","Halton Region Public Health",22,3.34533599338232,657632
+"2024-03-24","2024-03-30","ON","Halton Region Public Health",32,4.86594326310155,657632
+"2024-03-31","2024-04-06","ON","Halton Region Public Health",26,3.95357890127001,657632
 "2020-01-05","2020-01-11","ON","Hastings Prince Edward Public Health",0,0,172830
 "2020-01-12","2020-01-18","ON","Hastings Prince Edward Public Health",0,0,172830
 "2020-01-19","2020-01-25","ON","Hastings Prince Edward Public Health",0,0,172830
@@ -2522,15 +2643,26 @@
 "2023-10-29","2023-11-04","ON","Hastings Prince Edward Public Health",73,41.1926688335139,177216
 "2023-11-05","2023-11-11","ON","Hastings Prince Edward Public Health",52,29.3427230046948,177216
 "2023-11-12","2023-11-18","ON","Hastings Prince Edward Public Health",49,27.6498736005778,177216
-"2023-11-19","2023-11-25","ON","Hastings Prince Edward Public Health",61,34.4212712170459,177216
+"2023-11-19","2023-11-25","ON","Hastings Prince Edward Public Health",60,33.8569880823402,177216
 "2023-11-26","2023-12-02","ON","Hastings Prince Edward Public Health",72,40.6283856988082,177216
 "2023-12-03","2023-12-09","ON","Hastings Prince Edward Public Health",73,41.1926688335139,177216
 "2023-12-10","2023-12-16","ON","Hastings Prince Edward Public Health",70,39.4998194293969,177216
 "2023-12-17","2023-12-23","ON","Hastings Prince Edward Public Health",94,53.042614662333,177216
 "2023-12-24","2023-12-30","ON","Hastings Prince Edward Public Health",82,46.2712170458649,177216
-"2023-12-31","2024-01-06","ON","Hastings Prince Edward Public Health",63,35.2844317246246,178549
-"2024-01-07","2024-01-13","ON","Hastings Prince Edward Public Health",35,19.6024620692359,178549
-"2024-01-14","2024-01-20","ON","Hastings Prince Edward Public Health",27,15.1218993105534,178549
+"2023-12-31","2024-01-06","ON","Hastings Prince Edward Public Health",64,35.8445020694599,178549
+"2024-01-07","2024-01-13","ON","Hastings Prince Edward Public Health",34,19.0423917244006,178549
+"2024-01-14","2024-01-20","ON","Hastings Prince Edward Public Health",26,14.5618289657181,178549
+"2024-01-21","2024-01-27","ON","Hastings Prince Edward Public Health",37,20.7226027589065,178549
+"2024-01-28","2024-02-03","ON","Hastings Prince Edward Public Health",12,6.72084413802374,178549
+"2024-02-04","2024-02-10","ON","Hastings Prince Edward Public Health",17,9.52119586220029,178549
+"2024-02-11","2024-02-17","ON","Hastings Prince Edward Public Health",8,4.48056275868249,178549
+"2024-02-18","2024-02-24","ON","Hastings Prince Edward Public Health",16,8.96112551736498,178549
+"2024-02-25","2024-03-02","ON","Hastings Prince Edward Public Health",4,2.24028137934125,178549
+"2024-03-03","2024-03-09","ON","Hastings Prince Edward Public Health",6,3.36042206901187,178549
+"2024-03-10","2024-03-16","ON","Hastings Prince Edward Public Health",8,4.48056275868249,178549
+"2024-03-17","2024-03-23","ON","Hastings Prince Edward Public Health",4,2.24028137934125,178549
+"2024-03-24","2024-03-30","ON","Hastings Prince Edward Public Health",4,2.24028137934125,178549
+"2024-03-31","2024-04-06","ON","Hastings Prince Edward Public Health",7,3.92049241384718,178549
 "2020-01-05","2020-01-11","ON","Huron Perth Public Health",0,0,146315
 "2020-01-12","2020-01-18","ON","Huron Perth Public Health",0,0,146315
 "2020-01-19","2020-01-25","ON","Huron Perth Public Health",0,0,146315
@@ -2739,9 +2871,20 @@
 "2023-12-10","2023-12-16","ON","Huron Perth Public Health",35,22.9595518295483,152442
 "2023-12-17","2023-12-23","ON","Huron Perth Public Health",40,26.239487805198,152442
 "2023-12-24","2023-12-30","ON","Huron Perth Public Health",31,20.3356030490285,152442
-"2023-12-31","2024-01-06","ON","Huron Perth Public Health",32,20.7350577989736,154328
+"2023-12-31","2024-01-06","ON","Huron Perth Public Health",33,21.3830283551915,154328
 "2024-01-07","2024-01-13","ON","Huron Perth Public Health",24,15.5512933492302,154328
 "2024-01-14","2024-01-20","ON","Huron Perth Public Health",24,15.5512933492302,154328
+"2024-01-21","2024-01-27","ON","Huron Perth Public Health",38,24.6228811362812,154328
+"2024-01-28","2024-02-03","ON","Huron Perth Public Health",25,16.1992639054481,154328
+"2024-02-04","2024-02-10","ON","Huron Perth Public Health",13,8.42361723083303,154328
+"2024-02-11","2024-02-17","ON","Huron Perth Public Health",24,15.5512933492302,154328
+"2024-02-18","2024-02-24","ON","Huron Perth Public Health",25,16.1992639054481,154328
+"2024-02-25","2024-03-02","ON","Huron Perth Public Health",47,30.4546161422425,154328
+"2024-03-03","2024-03-09","ON","Huron Perth Public Health",14,9.07158778705096,154328
+"2024-03-10","2024-03-16","ON","Huron Perth Public Health",12,7.77564667461511,154328
+"2024-03-17","2024-03-23","ON","Huron Perth Public Health",7,4.53579389352548,154328
+"2024-03-24","2024-03-30","ON","Huron Perth Public Health",4,2.5918822248717,154328
+"2024-03-31","2024-04-06","ON","Huron Perth Public Health",6,3.88782333730755,154328
 "2020-01-05","2020-01-11","ON","Kingston, Frontenac and Lennox & Addington Public Health",0,0,209260
 "2020-01-12","2020-01-18","ON","Kingston, Frontenac and Lennox & Addington Public Health",0,0,209260
 "2020-01-19","2020-01-25","ON","Kingston, Frontenac and Lennox & Addington Public Health",0,0,209260
@@ -2941,7 +3084,7 @@
 "2023-10-08","2023-10-14","ON","Kingston, Frontenac and Lennox & Addington Public Health",78,36.361432640446,214513
 "2023-10-15","2023-10-21","ON","Kingston, Frontenac and Lennox & Addington Public Health",62,28.9026772270212,214513
 "2023-10-22","2023-10-28","ON","Kingston, Frontenac and Lennox & Addington Public Health",92,42.8878436271928,214513
-"2023-10-29","2023-11-04","ON","Kingston, Frontenac and Lennox & Addington Public Health",71,33.0982271470727,214513
+"2023-10-29","2023-11-04","ON","Kingston, Frontenac and Lennox & Addington Public Health",72,33.5643993604117,214513
 "2023-11-05","2023-11-11","ON","Kingston, Frontenac and Lennox & Addington Public Health",66,30.7673660803774,214513
 "2023-11-12","2023-11-18","ON","Kingston, Frontenac and Lennox & Addington Public Health",74,34.4967437870898,214513
 "2023-11-19","2023-11-25","ON","Kingston, Frontenac and Lennox & Addington Public Health",70,32.6320549337336,214513
@@ -2951,8 +3094,19 @@
 "2023-12-17","2023-12-23","ON","Kingston, Frontenac and Lennox & Addington Public Health",119,55.4744933873472,214513
 "2023-12-24","2023-12-30","ON","Kingston, Frontenac and Lennox & Addington Public Health",94,43.8201880538709,214513
 "2023-12-31","2024-01-06","ON","Kingston, Frontenac and Lennox & Addington Public Health",75,34.6697360939689,216327
-"2024-01-07","2024-01-13","ON","Kingston, Frontenac and Lennox & Addington Public Health",57,26.3489994314163,216327
+"2024-01-07","2024-01-13","ON","Kingston, Frontenac and Lennox & Addington Public Health",56,25.8867362834967,216327
 "2024-01-14","2024-01-20","ON","Kingston, Frontenac and Lennox & Addington Public Health",52,24.0376836918184,216327
+"2024-01-21","2024-01-27","ON","Kingston, Frontenac and Lennox & Addington Public Health",49,22.6508942480597,216327
+"2024-01-28","2024-02-03","ON","Kingston, Frontenac and Lennox & Addington Public Health",27,12.4811049938288,216327
+"2024-02-04","2024-02-10","ON","Kingston, Frontenac and Lennox & Addington Public Health",34,15.7169470292659,216327
+"2024-02-11","2024-02-17","ON","Kingston, Frontenac and Lennox & Addington Public Health",26,12.0188418459092,216327
+"2024-02-18","2024-02-24","ON","Kingston, Frontenac and Lennox & Addington Public Health",20,9.2452629583917,216327
+"2024-02-25","2024-03-02","ON","Kingston, Frontenac and Lennox & Addington Public Health",18,8.32073666255252,216327
+"2024-03-03","2024-03-09","ON","Kingston, Frontenac and Lennox & Addington Public Health",14,6.47168407087419,216327
+"2024-03-10","2024-03-16","ON","Kingston, Frontenac and Lennox & Addington Public Health",25,11.5565786979896,216327
+"2024-03-17","2024-03-23","ON","Kingston, Frontenac and Lennox & Addington Public Health",14,6.47168407087419,216327
+"2024-03-24","2024-03-30","ON","Kingston, Frontenac and Lennox & Addington Public Health",27,12.4811049938288,216327
+"2024-03-31","2024-04-06","ON","Kingston, Frontenac and Lennox & Addington Public Health",48,22.1886311001401,216327
 "2020-01-05","2020-01-11","ON","Lambton Public Health",0,0,132592
 "2020-01-12","2020-01-18","ON","Lambton Public Health",0,0,132592
 "2020-01-19","2020-01-25","ON","Lambton Public Health",0,0,132592
@@ -3162,8 +3316,19 @@
 "2023-12-17","2023-12-23","ON","Lambton Public Health",10,7.44939995083396,134239
 "2023-12-24","2023-12-30","ON","Lambton Public Health",21,15.6437398967513,134239
 "2023-12-31","2024-01-06","ON","Lambton Public Health",18,13.3503426587949,134828
-"2024-01-07","2024-01-13","ON","Lambton Public Health",5,3.70842851633192,134828
-"2024-01-14","2024-01-20","ON","Lambton Public Health",8,5.93348562613107,134828
+"2024-01-07","2024-01-13","ON","Lambton Public Health",2,1.48337140653277,134828
+"2024-01-14","2024-01-20","ON","Lambton Public Health",9,6.67517132939745,134828
+"2024-01-21","2024-01-27","ON","Lambton Public Health",5,3.70842851633192,134828
+"2024-01-28","2024-02-03","ON","Lambton Public Health",13,9.64191414246299,134828
+"2024-02-04","2024-02-10","ON","Lambton Public Health",7,5.19179992286469,134828
+"2024-02-11","2024-02-17","ON","Lambton Public Health",3,2.22505710979915,134828
+"2024-02-18","2024-02-24","ON","Lambton Public Health",6,4.4501142195983,134828
+"2024-02-25","2024-03-02","ON","Lambton Public Health",8,5.93348562613107,134828
+"2024-03-03","2024-03-09","ON","Lambton Public Health",5,3.70842851633192,134828
+"2024-03-10","2024-03-16","ON","Lambton Public Health",9,6.67517132939745,134828
+"2024-03-17","2024-03-23","ON","Lambton Public Health",4,2.96674281306554,134828
+"2024-03-24","2024-03-30","ON","Lambton Public Health",1,0.741685703266384,134828
+"2024-03-31","2024-04-06","ON","Lambton Public Health",1,0.741685703266384,134828
 "2020-01-05","2020-01-11","ON","Leeds, Grenville & Lanark District Health Unit",0,0,179841
 "2020-01-12","2020-01-18","ON","Leeds, Grenville & Lanark District Health Unit",0,0,179841
 "2020-01-19","2020-01-25","ON","Leeds, Grenville & Lanark District Health Unit",0,0,179841
@@ -3375,6 +3540,17 @@
 "2023-12-31","2024-01-06","ON","Leeds, Grenville & Lanark District Health Unit",52,27.7487246259258,187396
 "2024-01-07","2024-01-13","ON","Leeds, Grenville & Lanark District Health Unit",39,20.8115434694444,187396
 "2024-01-14","2024-01-20","ON","Leeds, Grenville & Lanark District Health Unit",28,14.9416209524216,187396
+"2024-01-21","2024-01-27","ON","Leeds, Grenville & Lanark District Health Unit",23,12.2734743537749,187396
+"2024-01-28","2024-02-03","ON","Leeds, Grenville & Lanark District Health Unit",8,4.26903455783475,187396
+"2024-02-04","2024-02-10","ON","Leeds, Grenville & Lanark District Health Unit",10,5.33629319729343,187396
+"2024-02-11","2024-02-17","ON","Leeds, Grenville & Lanark District Health Unit",10,5.33629319729343,187396
+"2024-02-18","2024-02-24","ON","Leeds, Grenville & Lanark District Health Unit",16,8.53806911566949,187396
+"2024-02-25","2024-03-02","ON","Leeds, Grenville & Lanark District Health Unit",30,16.0088795918803,187396
+"2024-03-03","2024-03-09","ON","Leeds, Grenville & Lanark District Health Unit",9,4.80266387756409,187396
+"2024-03-10","2024-03-16","ON","Leeds, Grenville & Lanark District Health Unit",6,3.20177591837606,187396
+"2024-03-17","2024-03-23","ON","Leeds, Grenville & Lanark District Health Unit",9,4.80266387756409,187396
+"2024-03-24","2024-03-30","ON","Leeds, Grenville & Lanark District Health Unit",4,2.13451727891737,187396
+"2024-03-31","2024-04-06","ON","Leeds, Grenville & Lanark District Health Unit",7,3.7354052381054,187396
 "2020-01-05","2020-01-11","ON","Middlesex-London Health Unit",0,0,510109
 "2020-01-12","2020-01-18","ON","Middlesex-London Health Unit",0,0,510109
 "2020-01-19","2020-01-25","ON","Middlesex-London Health Unit",1,0.196036533368359,510109
@@ -3578,14 +3754,25 @@
 "2023-11-05","2023-11-11","ON","Middlesex-London Health Unit",132,24.4853894568139,539097
 "2023-11-12","2023-11-18","ON","Middlesex-London Health Unit",155,28.751783074289,539097
 "2023-11-19","2023-11-25","ON","Middlesex-London Health Unit",106,19.6625097153203,539097
-"2023-11-26","2023-12-02","ON","Middlesex-London Health Unit",129,23.9289033327954,539097
-"2023-12-03","2023-12-09","ON","Middlesex-London Health Unit",139,25.7838570795237,539097
-"2023-12-10","2023-12-16","ON","Middlesex-London Health Unit",122,22.6304357100856,539097
+"2023-11-26","2023-12-02","ON","Middlesex-London Health Unit",128,23.7434079581226,539097
+"2023-12-03","2023-12-09","ON","Middlesex-London Health Unit",138,25.5983617048509,539097
+"2023-12-10","2023-12-16","ON","Middlesex-London Health Unit",123,22.8159310847584,539097
 "2023-12-17","2023-12-23","ON","Middlesex-London Health Unit",133,24.6708848314867,539097
 "2023-12-24","2023-12-30","ON","Middlesex-London Health Unit",104,19.2915189659746,539097
-"2023-12-31","2024-01-06","ON","Middlesex-London Health Unit",128,23.3095988199516,549130
-"2024-01-07","2024-01-13","ON","Middlesex-London Health Unit",106,19.3032615227724,549130
-"2024-01-14","2024-01-20","ON","Middlesex-London Health Unit",78,14.204286780908,549130
+"2023-12-31","2024-01-06","ON","Middlesex-London Health Unit",127,23.1274925791707,549130
+"2024-01-07","2024-01-13","ON","Middlesex-London Health Unit",107,19.4853677635533,549130
+"2024-01-14","2024-01-20","ON","Middlesex-London Health Unit",77,14.0221805401271,549130
+"2024-01-21","2024-01-27","ON","Middlesex-London Health Unit",48,8.74109955748184,549130
+"2024-01-28","2024-02-03","ON","Middlesex-London Health Unit",53,9.65163076138619,549130
+"2024-02-04","2024-02-10","ON","Middlesex-London Health Unit",32,5.82739970498789,549130
+"2024-02-11","2024-02-17","ON","Middlesex-London Health Unit",39,7.10214339045399,549130
+"2024-02-18","2024-02-24","ON","Middlesex-London Health Unit",38,6.92003714967312,549130
+"2024-02-25","2024-03-02","ON","Middlesex-London Health Unit",32,5.82739970498789,549130
+"2024-03-03","2024-03-09","ON","Middlesex-London Health Unit",32,5.82739970498789,549130
+"2024-03-10","2024-03-16","ON","Middlesex-London Health Unit",16,2.91369985249395,549130
+"2024-03-17","2024-03-23","ON","Middlesex-London Health Unit",21,3.8242310563983,549130
+"2024-03-24","2024-03-30","ON","Middlesex-London Health Unit",11,2.00316864858959,549130
+"2024-03-31","2024-04-06","ON","Middlesex-London Health Unit",14,2.5494873709322,549130
 "2020-01-05","2020-01-11","ON","Niagara Region Public Health",0,0,481700
 "2020-01-12","2020-01-18","ON","Niagara Region Public Health",0,0,481700
 "2020-01-19","2020-01-25","ON","Niagara Region Public Health",0,0,481700
@@ -3787,16 +3974,27 @@
 "2023-10-22","2023-10-28","ON","Niagara Region Public Health",77,15.342251764359,501882
 "2023-10-29","2023-11-04","ON","Niagara Region Public Health",98,19.5265022455478,501882
 "2023-11-05","2023-11-11","ON","Niagara Region Public Health",80,15.9400018331002,501882
-"2023-11-12","2023-11-18","ON","Niagara Region Public Health",110,21.9175025205128,501882
+"2023-11-12","2023-11-18","ON","Niagara Region Public Health",109,21.718252497599,501882
 "2023-11-19","2023-11-25","ON","Niagara Region Public Health",138,27.4965031620979,501882
 "2023-11-26","2023-12-02","ON","Niagara Region Public Health",174,34.669503986993,501882
 "2023-12-03","2023-12-09","ON","Niagara Region Public Health",125,24.9062528642191,501882
 "2023-12-10","2023-12-16","ON","Niagara Region Public Health",173,34.4702539640792,501882
-"2023-12-17","2023-12-23","ON","Niagara Region Public Health",186,37.060504261958,501882
+"2023-12-17","2023-12-23","ON","Niagara Region Public Health",187,37.2597542848717,501882
 "2023-12-24","2023-12-30","ON","Niagara Region Public Health",151,30.0867534599766,501882
-"2023-12-31","2024-01-06","ON","Niagara Region Public Health",152,29.8729221613845,508822
-"2024-01-07","2024-01-13","ON","Niagara Region Public Health",109,21.422029707835,508822
+"2023-12-31","2024-01-06","ON","Niagara Region Public Health",151,29.6763897787438,508822
+"2024-01-07","2024-01-13","ON","Niagara Region Public Health",108,21.2254973251943,508822
 "2024-01-14","2024-01-20","ON","Niagara Region Public Health",67,13.1676696369261,508822
+"2024-01-21","2024-01-27","ON","Niagara Region Public Health",72,14.1503315501295,508822
+"2024-01-28","2024-02-03","ON","Niagara Region Public Health",49,9.6300867493937,508822
+"2024-02-04","2024-02-10","ON","Niagara Region Public Health",65,12.7746048716447,508822
+"2024-02-11","2024-02-17","ON","Niagara Region Public Health",51,10.0231515146751,508822
+"2024-02-18","2024-02-24","ON","Niagara Region Public Health",34,6.68210100978338,508822
+"2024-02-25","2024-03-02","ON","Niagara Region Public Health",24,4.7167771833765,508822
+"2024-03-03","2024-03-09","ON","Niagara Region Public Health",12,2.35838859168825,508822
+"2024-03-10","2024-03-16","ON","Niagara Region Public Health",25,4.91330956601719,508822
+"2024-03-17","2024-03-23","ON","Niagara Region Public Health",31,6.09250386186132,508822
+"2024-03-24","2024-03-30","ON","Niagara Region Public Health",28,5.50290671393926,508822
+"2024-03-31","2024-04-06","ON","Niagara Region Public Health",40,7.86129530562751,508822
 "2020-01-05","2020-01-11","ON","North Bay Parry Sound District Health Unit",0,0,129721
 "2020-01-12","2020-01-18","ON","North Bay Parry Sound District Health Unit",0,0,129721
 "2020-01-19","2020-01-25","ON","North Bay Parry Sound District Health Unit",0,0,129721
@@ -4008,6 +4206,17 @@
 "2023-12-31","2024-01-06","ON","North Bay Parry Sound District Health Unit",69,51.9566576056264,132803
 "2024-01-07","2024-01-13","ON","North Bay Parry Sound District Health Unit",26,19.5778709818302,132803
 "2024-01-14","2024-01-20","ON","North Bay Parry Sound District Health Unit",17,12.8009156419659,132803
+"2024-01-21","2024-01-27","ON","North Bay Parry Sound District Health Unit",12,9.03594045315242,132803
+"2024-01-28","2024-02-03","ON","North Bay Parry Sound District Health Unit",14,10.5419305286778,132803
+"2024-02-04","2024-02-10","ON","North Bay Parry Sound District Health Unit",7,5.27096526433891,132803
+"2024-02-11","2024-02-17","ON","North Bay Parry Sound District Health Unit",11,8.28294541538971,132803
+"2024-02-18","2024-02-24","ON","North Bay Parry Sound District Health Unit",13,9.78893549091512,132803
+"2024-02-25","2024-03-02","ON","North Bay Parry Sound District Health Unit",13,9.78893549091512,132803
+"2024-03-03","2024-03-09","ON","North Bay Parry Sound District Health Unit",6,4.51797022657621,132803
+"2024-03-10","2024-03-16","ON","North Bay Parry Sound District Health Unit",8,6.02396030210161,132803
+"2024-03-17","2024-03-23","ON","North Bay Parry Sound District Health Unit",8,6.02396030210161,132803
+"2024-03-24","2024-03-30","ON","North Bay Parry Sound District Health Unit",6,4.51797022657621,132803
+"2024-03-31","2024-04-06","ON","North Bay Parry Sound District Health Unit",5,3.76497518881351,132803
 "2020-01-05","2020-01-11","ON","Northwestern Health Unit",0,0,81443
 "2020-01-12","2020-01-18","ON","Northwestern Health Unit",0,0,81443
 "2020-01-19","2020-01-25","ON","Northwestern Health Unit",0,0,81443
@@ -4219,6 +4428,17 @@
 "2023-12-31","2024-01-06","ON","Northwestern Health Unit",42,51.6649650031368,81293
 "2024-01-07","2024-01-13","ON","Northwestern Health Unit",30,36.903546430812,81293
 "2024-01-14","2024-01-20","ON","Northwestern Health Unit",15,18.451773215406,81293
+"2024-01-21","2024-01-27","ON","Northwestern Health Unit",9,11.0710639292436,81293
+"2024-01-28","2024-02-03","ON","Northwestern Health Unit",11,13.5313003579644,81293
+"2024-02-04","2024-02-10","ON","Northwestern Health Unit",9,11.0710639292436,81293
+"2024-02-11","2024-02-17","ON","Northwestern Health Unit",11,13.5313003579644,81293
+"2024-02-18","2024-02-24","ON","Northwestern Health Unit",17,20.9120096441268,81293
+"2024-02-25","2024-03-02","ON","Northwestern Health Unit",13,15.9915367866852,81293
+"2024-03-03","2024-03-09","ON","Northwestern Health Unit",15,18.451773215406,81293
+"2024-03-10","2024-03-16","ON","Northwestern Health Unit",7,8.6108275005228,81293
+"2024-03-17","2024-03-23","ON","Northwestern Health Unit",5,6.150591071802,81293
+"2024-03-24","2024-03-30","ON","Northwestern Health Unit",3,3.6903546430812,81293
+"2024-03-31","2024-04-06","ON","Northwestern Health Unit",4,4.9204728574416,81293
 "2020-01-05","2020-01-11","ON","Ottawa Public Health",0,0,1044484
 "2020-01-12","2020-01-18","ON","Ottawa Public Health",0,0,1044484
 "2020-01-19","2020-01-25","ON","Ottawa Public Health",0,0,1044484
@@ -4418,18 +4638,29 @@
 "2023-10-08","2023-10-14","ON","Ottawa Public Health",164,14.9693083540607,1095575
 "2023-10-15","2023-10-21","ON","Ottawa Public Health",201,18.3465303607695,1095575
 "2023-10-22","2023-10-28","ON","Ottawa Public Health",230,20.9935422038656,1095575
-"2023-10-29","2023-11-04","ON","Ottawa Public Health",214,19.5331218766401,1095575
+"2023-10-29","2023-11-04","ON","Ottawa Public Health",213,19.4418456061885,1095575
 "2023-11-05","2023-11-11","ON","Ottawa Public Health",228,20.8109896629624,1095575
-"2023-11-12","2023-11-18","ON","Ottawa Public Health",262,23.9143828583164,1095575
+"2023-11-12","2023-11-18","ON","Ottawa Public Health",263,24.005659128768,1095575
 "2023-11-19","2023-11-25","ON","Ottawa Public Health",319,29.117130274057,1095575
-"2023-11-26","2023-12-02","ON","Ottawa Public Health",304,27.7479862172832,1095575
+"2023-11-26","2023-12-02","ON","Ottawa Public Health",303,27.6567099468316,1095575
 "2023-12-03","2023-12-09","ON","Ottawa Public Health",272,24.8271455628323,1095575
 "2023-12-10","2023-12-16","ON","Ottawa Public Health",279,25.4660794559934,1095575
-"2023-12-17","2023-12-23","ON","Ottawa Public Health",258,23.5492777765101,1095575
+"2023-12-17","2023-12-23","ON","Ottawa Public Health",257,23.4580015060585,1095575
 "2023-12-24","2023-12-30","ON","Ottawa Public Health",252,23.0016201538005,1095575
-"2023-12-31","2024-01-06","ON","Ottawa Public Health",213,19.1184852415167,1114105
-"2024-01-07","2024-01-13","ON","Ottawa Public Health",229,20.5546155882973,1114105
+"2023-12-31","2024-01-06","ON","Ottawa Public Health",212,19.0287270948429,1114105
+"2024-01-07","2024-01-13","ON","Ottawa Public Health",230,20.6443737349711,1114105
 "2024-01-14","2024-01-20","ON","Ottawa Public Health",260,23.3371181351847,1114105
+"2024-01-21","2024-01-27","ON","Ottawa Public Health",187,16.7847734279983,1114105
+"2024-01-28","2024-02-03","ON","Ottawa Public Health",161,14.4510616144798,1114105
+"2024-02-04","2024-02-10","ON","Ottawa Public Health",140,12.5661405343302,1114105
+"2024-02-11","2024-02-17","ON","Ottawa Public Health",82,7.36016802725057,1114105
+"2024-02-18","2024-02-24","ON","Ottawa Public Health",79,7.09089358722921,1114105
+"2024-02-25","2024-03-02","ON","Ottawa Public Health",80,7.180651733903,1114105
+"2024-03-03","2024-03-09","ON","Ottawa Public Health",58,5.20597250707967,1114105
+"2024-03-10","2024-03-16","ON","Ottawa Public Health",62,5.56500509377482,1114105
+"2024-03-17","2024-03-23","ON","Ottawa Public Health",73,6.55234470718649,1114105
+"2024-03-24","2024-03-30","ON","Ottawa Public Health",74,6.64210285386027,1114105
+"2024-03-31","2024-04-06","ON","Ottawa Public Health",68,6.10355397381755,1114105
 "2020-01-05","2020-01-11","ON","Peel Public Health",0,0,1558793
 "2020-01-12","2020-01-18","ON","Peel Public Health",0,0,1558793
 "2020-01-19","2020-01-25","ON","Peel Public Health",0,0,1558793
@@ -4605,7 +4836,7 @@
 "2023-04-23","2023-04-29","ON","Peel Public Health",137,8.30544643290169,1649520
 "2023-04-30","2023-05-06","ON","Peel Public Health",144,8.72981230903536,1649520
 "2023-05-07","2023-05-13","ON","Peel Public Health",168,10.1847810272079,1649520
-"2023-05-14","2023-05-20","ON","Peel Public Health",151,9.15417818516902,1649520
+"2023-05-14","2023-05-20","ON","Peel Public Health",150,9.0935544885785,1649520
 "2023-05-21","2023-05-27","ON","Peel Public Health",96,5.81987487269024,1649520
 "2023-05-28","2023-06-03","ON","Peel Public Health",78,4.72864833406082,1649520
 "2023-06-04","2023-06-10","ON","Peel Public Health",80,4.84989572724186,1649520
@@ -4615,32 +4846,43 @@
 "2023-07-02","2023-07-08","ON","Peel Public Health",40,2.42494786362093,1649520
 "2023-07-09","2023-07-15","ON","Peel Public Health",58,3.51617440225035,1649520
 "2023-07-16","2023-07-22","ON","Peel Public Health",60,3.6374217954314,1649520
-"2023-07-23","2023-07-29","ON","Peel Public Health",57,3.45555070565983,1649520
+"2023-07-23","2023-07-29","ON","Peel Public Health",56,3.39492700906931,1649520
 "2023-07-30","2023-08-05","ON","Peel Public Health",56,3.39492700906931,1649520
-"2023-08-06","2023-08-12","ON","Peel Public Health",67,4.06178767156506,1649520
+"2023-08-06","2023-08-12","ON","Peel Public Health",68,4.12241136815558,1649520
 "2023-08-13","2023-08-19","ON","Peel Public Health",102,6.18361705223338,1649520
 "2023-08-20","2023-08-26","ON","Peel Public Health",172,10.42727581357,1649520
 "2023-08-27","2023-09-02","ON","Peel Public Health",134,8.12357534313012,1649520
 "2023-09-03","2023-09-09","ON","Peel Public Health",190,11.5185023521994,1649520
 "2023-09-10","2023-09-16","ON","Peel Public Health",193,11.700373441971,1649520
 "2023-09-17","2023-09-23","ON","Peel Public Health",227,13.7615791260488,1649520
-"2023-09-24","2023-09-30","ON","Peel Public Health",315,19.0964644260148,1649520
+"2023-09-24","2023-09-30","ON","Peel Public Health",316,19.1570881226054,1649520
 "2023-10-01","2023-10-07","ON","Peel Public Health",255,15.4590426305834,1649520
 "2023-10-08","2023-10-14","ON","Peel Public Health",150,9.0935544885785,1649520
 "2023-10-15","2023-10-21","ON","Peel Public Health",178,10.7910179931131,1649520
 "2023-10-22","2023-10-28","ON","Peel Public Health",309,18.7327222464717,1649520
-"2023-10-29","2023-11-04","ON","Peel Public Health",226,13.7009554294583,1649520
-"2023-11-05","2023-11-11","ON","Peel Public Health",249,15.0953004510403,1649520
-"2023-11-12","2023-11-18","ON","Peel Public Health",400,24.2494786362093,1649520
+"2023-10-29","2023-11-04","ON","Peel Public Health",227,13.7615791260488,1649520
+"2023-11-05","2023-11-11","ON","Peel Public Health",248,15.0346767544498,1649520
+"2023-11-12","2023-11-18","ON","Peel Public Health",397,24.0676075464378,1649520
 "2023-11-19","2023-11-25","ON","Peel Public Health",377,22.8551336146273,1649520
 "2023-11-26","2023-12-02","ON","Peel Public Health",363,22.00640186236,1649520
-"2023-12-03","2023-12-09","ON","Peel Public Health",330,20.0058198748727,1649520
-"2023-12-10","2023-12-16","ON","Peel Public Health",406,24.6132208157525,1649520
-"2023-12-17","2023-12-23","ON","Peel Public Health",396,24.0069838498472,1649520
-"2023-12-24","2023-12-30","ON","Peel Public Health",357,21.6426596828168,1649520
+"2023-12-03","2023-12-09","ON","Peel Public Health",331,20.0664435714632,1649520
+"2023-12-10","2023-12-16","ON","Peel Public Health",409,24.795091905524,1649520
+"2023-12-17","2023-12-23","ON","Peel Public Health",408,24.7344682089335,1649520
+"2023-12-24","2023-12-30","ON","Peel Public Health",360,21.8245307725884,1649520
 "2023-12-31","2024-01-06","ON","Peel Public Health",412,24.4282050901976,1686575
 "2024-01-07","2024-01-13","ON","Peel Public Health",261,15.4751493411203,1686575
-"2024-01-14","2024-01-20","ON","Peel Public Health",208,12.3326860649541,1686575
+"2024-01-14","2024-01-20","ON","Peel Public Health",201,11.9176437454605,1686575
+"2024-01-21","2024-01-27","ON","Peel Public Health",153,9.0716392689326,1686575
+"2024-01-28","2024-02-03","ON","Peel Public Health",142,8.4194299097283,1686575
+"2024-02-04","2024-02-10","ON","Peel Public Health",80,4.74334079421312,1686575
+"2024-02-11","2024-02-17","ON","Peel Public Health",69,4.09113143500882,1686575
+"2024-02-18","2024-02-24","ON","Peel Public Health",72,4.26900671479181,1686575
+"2024-02-25","2024-03-02","ON","Peel Public Health",52,3.08317151623853,1686575
+"2024-03-03","2024-03-09","ON","Peel Public Health",44,2.60883743681722,1686575
+"2024-03-10","2024-03-16","ON","Peel Public Health",47,2.78671271660021,1686575
+"2024-03-17","2024-03-23","ON","Peel Public Health",40,2.37167039710656,1686575
+"2024-03-24","2024-03-30","ON","Peel Public Health",49,2.90529623645554,1686575
+"2024-03-31","2024-04-06","ON","Peel Public Health",83,4.92121607399612,1686575
 "2020-01-05","2020-01-11","ON","Peterborough Public Health",0,0,147848
 "2020-01-12","2020-01-18","ON","Peterborough Public Health",0,0,147848
 "2020-01-19","2020-01-25","ON","Peterborough Public Health",0,0,147848
@@ -4844,14 +5086,25 @@
 "2023-11-05","2023-11-11","ON","Peterborough Public Health",66,43.5948584488157,151394
 "2023-11-12","2023-11-18","ON","Peterborough Public Health",55,36.3290487073464,151394
 "2023-11-19","2023-11-25","ON","Peterborough Public Health",64,42.2738021321849,151394
-"2023-11-26","2023-12-02","ON","Peterborough Public Health",94,62.0896468816466,151394
-"2023-12-03","2023-12-09","ON","Peterborough Public Health",83,54.8238371401773,151394
-"2023-12-10","2023-12-16","ON","Peterborough Public Health",139,91.8134140058391,151394
-"2023-12-17","2023-12-23","ON","Peterborough Public Health",68,44.9159147654465,151394
-"2023-12-24","2023-12-30","ON","Peterborough Public Health",55,36.3290487073464,151394
-"2023-12-31","2024-01-06","ON","Peterborough Public Health",42,27.4386061188092,153069
-"2024-01-07","2024-01-13","ON","Peterborough Public Health",22,14.3726032050905,153069
-"2024-01-14","2024-01-20","ON","Peterborough Public Health",21,13.7193030594046,153069
+"2023-11-26","2023-12-02","ON","Peterborough Public Health",91,60.1080624067004,151394
+"2023-12-03","2023-12-09","ON","Peterborough Public Health",77,50.8606681902849,151394
+"2023-12-10","2023-12-16","ON","Peterborough Public Health",135,89.1713013725775,151394
+"2023-12-17","2023-12-23","ON","Peterborough Public Health",63,41.6132739738695,151394
+"2023-12-24","2023-12-30","ON","Peterborough Public Health",51,33.6869360740848,151394
+"2023-12-31","2024-01-06","ON","Peterborough Public Health",40,26.1320058274373,153069
+"2024-01-07","2024-01-13","ON","Peterborough Public Health",20,13.0660029137187,153069
+"2024-01-14","2024-01-20","ON","Peterborough Public Health",20,13.0660029137187,153069
+"2024-01-21","2024-01-27","ON","Peterborough Public Health",19,12.4127027680327,153069
+"2024-01-28","2024-02-03","ON","Peterborough Public Health",16,10.4528023309749,153069
+"2024-02-04","2024-02-10","ON","Peterborough Public Health",17,11.1061024766609,153069
+"2024-02-11","2024-02-17","ON","Peterborough Public Health",21,13.7193030594046,153069
+"2024-02-18","2024-02-24","ON","Peterborough Public Health",7,4.57310101980153,153069
+"2024-02-25","2024-03-02","ON","Peterborough Public Health",12,7.83960174823119,153069
+"2024-03-03","2024-03-09","ON","Peterborough Public Health",13,8.49290189391712,153069
+"2024-03-10","2024-03-16","ON","Peterborough Public Health",11,7.18630160254526,153069
+"2024-03-17","2024-03-23","ON","Peterborough Public Health",9,5.87970131117339,153069
+"2024-03-24","2024-03-30","ON","Peterborough Public Health",3,1.9599004370578,153069
+"2024-03-31","2024-04-06","ON","Peterborough Public Health",6,3.91980087411559,153069
 "2020-01-05","2020-01-11","ON","Porcupine Health Unit",0,0,85030
 "2020-01-12","2020-01-18","ON","Porcupine Health Unit",0,0,85030
 "2020-01-19","2020-01-25","ON","Porcupine Health Unit",0,0,85030
@@ -5054,7 +5307,7 @@
 "2023-10-29","2023-11-04","ON","Porcupine Health Unit",61,72.6735527836353,83937
 "2023-11-05","2023-11-11","ON","Porcupine Health Unit",49,58.3771161704612,83937
 "2023-11-12","2023-11-18","ON","Porcupine Health Unit",53,63.1425950415192,83937
-"2023-11-19","2023-11-25","ON","Porcupine Health Unit",75,89.3527288323385,83937
+"2023-11-19","2023-11-25","ON","Porcupine Health Unit",74,88.161359114574,83937
 "2023-11-26","2023-12-02","ON","Porcupine Health Unit",38,45.2720492750515,83937
 "2023-12-03","2023-12-09","ON","Porcupine Health Unit",36,42.8893098395225,83937
 "2023-12-10","2023-12-16","ON","Porcupine Health Unit",34,40.5065704039935,83937
@@ -5063,6 +5316,17 @@
 "2023-12-31","2024-01-06","ON","Porcupine Health Unit",23,27.4853311982409,83681
 "2024-01-07","2024-01-13","ON","Porcupine Health Unit",20,23.9002879984704,83681
 "2024-01-14","2024-01-20","ON","Porcupine Health Unit",13,15.5351871990057,83681
+"2024-01-21","2024-01-27","ON","Porcupine Health Unit",19,22.7052735985469,83681
+"2024-01-28","2024-02-03","ON","Porcupine Health Unit",14,16.7302015989293,83681
+"2024-02-04","2024-02-10","ON","Porcupine Health Unit",15,17.9252159988528,83681
+"2024-02-11","2024-02-17","ON","Porcupine Health Unit",6,7.17008639954111,83681
+"2024-02-18","2024-02-24","ON","Porcupine Health Unit",22,26.2903167983174,83681
+"2024-02-25","2024-03-02","ON","Porcupine Health Unit",18,21.5102591986233,83681
+"2024-03-03","2024-03-09","ON","Porcupine Health Unit",32,38.2404607975526,83681
+"2024-03-10","2024-03-16","ON","Porcupine Health Unit",27,32.265388797935,83681
+"2024-03-17","2024-03-23","ON","Porcupine Health Unit",12,14.3401727990822,83681
+"2024-03-24","2024-03-30","ON","Porcupine Health Unit",4,4.78005759969408,83681
+"2024-03-31","2024-04-06","ON","Porcupine Health Unit",3,3.58504319977056,83681
 "2020-01-05","2020-01-11","ON","Public Health Sudbury & Districts",0,0,205137
 "2020-01-12","2020-01-18","ON","Public Health Sudbury & Districts",0,0,205137
 "2020-01-19","2020-01-25","ON","Public Health Sudbury & Districts",0,0,205137
@@ -5274,6 +5538,17 @@
 "2023-12-31","2024-01-06","ON","Public Health Sudbury & Districts",42,20.0358737549136,209624
 "2024-01-07","2024-01-13","ON","Public Health Sudbury & Districts",49,23.3751860473992,209624
 "2024-01-14","2024-01-20","ON","Public Health Sudbury & Districts",26,12.4031599435179,209624
+"2024-01-21","2024-01-27","ON","Public Health Sudbury & Districts",35,16.696561462428,209624
+"2024-01-28","2024-02-03","ON","Public Health Sudbury & Districts",47,22.4210968209747,209624
+"2024-02-04","2024-02-10","ON","Public Health Sudbury & Districts",39,18.6047399152769,209624
+"2024-02-11","2024-02-17","ON","Public Health Sudbury & Districts",39,18.6047399152769,209624
+"2024-02-18","2024-02-24","ON","Public Health Sudbury & Districts",29,13.8342937831546,209624
+"2024-02-25","2024-03-02","ON","Public Health Sudbury & Districts",11,5.2474907453345,209624
+"2024-03-03","2024-03-09","ON","Public Health Sudbury & Districts",10,4.77044613212228,209624
+"2024-03-10","2024-03-16","ON","Public Health Sudbury & Districts",14,6.67862458497119,209624
+"2024-03-17","2024-03-23","ON","Public Health Sudbury & Districts",5,2.38522306606114,209624
+"2024-03-24","2024-03-30","ON","Public Health Sudbury & Districts",5,2.38522306606114,209624
+"2024-03-31","2024-04-06","ON","Public Health Sudbury & Districts",7,3.33931229248559,209624
 "2020-01-05","2020-01-11","ON","Region of Waterloo Public Health and Emergency Services",0,0,604683
 "2020-01-12","2020-01-18","ON","Region of Waterloo Public Health and Emergency Services",0,0,604683
 "2020-01-19","2020-01-25","ON","Region of Waterloo Public Health and Emergency Services",0,0,604683
@@ -5473,18 +5748,29 @@
 "2023-10-08","2023-10-14","ON","Region of Waterloo Public Health and Emergency Services",141,21.7687662976269,647717
 "2023-10-15","2023-10-21","ON","Region of Waterloo Public Health and Emergency Services",139,21.4599894707102,647717
 "2023-10-22","2023-10-28","ON","Region of Waterloo Public Health and Emergency Services",135,20.8424358168768,647717
-"2023-10-29","2023-11-04","ON","Region of Waterloo Public Health and Emergency Services",124,19.144163268835,647717
+"2023-10-29","2023-11-04","ON","Region of Waterloo Public Health and Emergency Services",125,19.2985516822933,647717
 "2023-11-05","2023-11-11","ON","Region of Waterloo Public Health and Emergency Services",131,20.2248821630434,647717
 "2023-11-12","2023-11-18","ON","Region of Waterloo Public Health and Emergency Services",156,24.0845924995021,647717
 "2023-11-19","2023-11-25","ON","Region of Waterloo Public Health and Emergency Services",118,18.2178327880849,647717
-"2023-11-26","2023-12-02","ON","Region of Waterloo Public Health and Emergency Services",105,16.2107834131264,647717
+"2023-11-26","2023-12-02","ON","Region of Waterloo Public Health and Emergency Services",104,16.0563949996681,647717
 "2023-12-03","2023-12-09","ON","Region of Waterloo Public Health and Emergency Services",129,19.9161053361267,647717
 "2023-12-10","2023-12-16","ON","Region of Waterloo Public Health and Emergency Services",147,22.695096778377,647717
 "2023-12-17","2023-12-23","ON","Region of Waterloo Public Health and Emergency Services",109,16.8283370669598,647717
 "2023-12-24","2023-12-30","ON","Region of Waterloo Public Health and Emergency Services",140,21.6143778841686,647717
 "2023-12-31","2024-01-06","ON","Region of Waterloo Public Health and Emergency Services",113,17.0534118896991,662624
-"2024-01-07","2024-01-13","ON","Region of Waterloo Public Health and Emergency Services",89,13.4314483025064,662624
+"2024-01-07","2024-01-13","ON","Region of Waterloo Public Health and Emergency Services",87,13.1296180035737,662624
 "2024-01-14","2024-01-20","ON","Region of Waterloo Public Health and Emergency Services",68,10.2622301637128,662624
+"2024-01-21","2024-01-27","ON","Region of Waterloo Public Health and Emergency Services",76,11.4695513594437,662624
+"2024-01-28","2024-02-03","ON","Region of Waterloo Public Health and Emergency Services",38,5.73477567972183,662624
+"2024-02-04","2024-02-10","ON","Region of Waterloo Public Health and Emergency Services",53,7.99850292171729,662624
+"2024-02-11","2024-02-17","ON","Region of Waterloo Public Health and Emergency Services",50,7.5457574733182,662624
+"2024-02-18","2024-02-24","ON","Region of Waterloo Public Health and Emergency Services",27,4.07470903559183,662624
+"2024-02-25","2024-03-02","ON","Region of Waterloo Public Health and Emergency Services",22,3.32013328826001,662624
+"2024-03-03","2024-03-09","ON","Region of Waterloo Public Health and Emergency Services",21,3.16921813879364,662624
+"2024-03-10","2024-03-16","ON","Region of Waterloo Public Health and Emergency Services",36,5.43294538078911,662624
+"2024-03-17","2024-03-23","ON","Region of Waterloo Public Health and Emergency Services",19,2.86738783986092,662624
+"2024-03-24","2024-03-30","ON","Region of Waterloo Public Health and Emergency Services",10,1.50915149466364,662624
+"2024-03-31","2024-04-06","ON","Region of Waterloo Public Health and Emergency Services",6,0.905490896798184,662624
 "2020-01-05","2020-01-11","ON","Renfrew County and District Health Unit",0,0,108744
 "2020-01-12","2020-01-18","ON","Renfrew County and District Health Unit",0,0,108744
 "2020-01-19","2020-01-25","ON","Renfrew County and District Health Unit",0,0,108744
@@ -5680,22 +5966,33 @@
 "2023-09-10","2023-09-16","ON","Renfrew County and District Health Unit",27,24.5778526239133,109855
 "2023-09-17","2023-09-23","ON","Renfrew County and District Health Unit",17,15.4749442446862,109855
 "2023-09-24","2023-09-30","ON","Renfrew County and District Health Unit",27,24.5778526239133,109855
-"2023-10-01","2023-10-07","ON","Renfrew County and District Health Unit",59,53.7071594374403,109855
-"2023-10-08","2023-10-14","ON","Renfrew County and District Health Unit",30,27.3087251376815,109855
+"2023-10-01","2023-10-07","ON","Renfrew County and District Health Unit",56,50.9762869236721,109855
+"2023-10-08","2023-10-14","ON","Renfrew County and District Health Unit",29,26.3984342997588,109855
 "2023-10-15","2023-10-21","ON","Renfrew County and District Health Unit",21,19.116107596377,109855
 "2023-10-22","2023-10-28","ON","Renfrew County and District Health Unit",51,46.4248327340585,109855
 "2023-10-29","2023-11-04","ON","Renfrew County and District Health Unit",38,34.5910518410632,109855
-"2023-11-05","2023-11-11","ON","Renfrew County and District Health Unit",48,43.6939602202904,109855
-"2023-11-12","2023-11-18","ON","Renfrew County and District Health Unit",41,37.3219243548314,109855
-"2023-11-19","2023-11-25","ON","Renfrew County and District Health Unit",64,58.2586136270538,109855
+"2023-11-05","2023-11-11","ON","Renfrew County and District Health Unit",47,42.7836693823677,109855
+"2023-11-12","2023-11-18","ON","Renfrew County and District Health Unit",40,36.4116335169087,109855
+"2023-11-19","2023-11-25","ON","Renfrew County and District Health Unit",63,57.3483227891311,109855
 "2023-11-26","2023-12-02","ON","Renfrew County and District Health Unit",56,50.9762869236721,109855
-"2023-12-03","2023-12-09","ON","Renfrew County and District Health Unit",68,61.8997769787447,109855
-"2023-12-10","2023-12-16","ON","Renfrew County and District Health Unit",72,65.5409403304356,109855
-"2023-12-17","2023-12-23","ON","Renfrew County and District Health Unit",66,60.0791953028993,109855
-"2023-12-24","2023-12-30","ON","Renfrew County and District Health Unit",48,43.6939602202904,109855
+"2023-12-03","2023-12-09","ON","Renfrew County and District Health Unit",65,59.1689044649766,109855
+"2023-12-10","2023-12-16","ON","Renfrew County and District Health Unit",70,63.7203586545901,109855
+"2023-12-17","2023-12-23","ON","Renfrew County and District Health Unit",64,58.2586136270538,109855
+"2023-12-24","2023-12-30","ON","Renfrew County and District Health Unit",46,41.873378544445,109855
 "2023-12-31","2024-01-06","ON","Renfrew County and District Health Unit",39,35.4171964110574,110116
 "2024-01-07","2024-01-13","ON","Renfrew County and District Health Unit",39,35.4171964110574,110116
 "2024-01-14","2024-01-20","ON","Renfrew County and District Health Unit",35,31.7846634458208,110116
+"2024-01-21","2024-01-27","ON","Renfrew County and District Health Unit",19,17.2545315848741,110116
+"2024-01-28","2024-02-03","ON","Renfrew County and District Health Unit",27,24.5195975153475,110116
+"2024-02-04","2024-02-10","ON","Renfrew County and District Health Unit",16,14.5301318609466,110116
+"2024-02-11","2024-02-17","ON","Renfrew County and District Health Unit",21,19.0707980674925,110116
+"2024-02-18","2024-02-24","ON","Renfrew County and District Health Unit",22,19.9789313088016,110116
+"2024-02-25","2024-03-02","ON","Renfrew County and District Health Unit",13,11.8057321370191,110116
+"2024-03-03","2024-03-09","ON","Renfrew County and District Health Unit",9,8.17319917178248,110116
+"2024-03-10","2024-03-16","ON","Renfrew County and District Health Unit",22,19.9789313088016,110116
+"2024-03-17","2024-03-23","ON","Renfrew County and District Health Unit",2,1.81626648261833,110116
+"2024-03-24","2024-03-30","ON","Renfrew County and District Health Unit",8,7.26506593047332,110116
+"2024-03-31","2024-04-06","ON","Renfrew County and District Health Unit",11,9.98946565440081,110116
 "2020-01-05","2020-01-11","ON","Simcoe Muskoka District Health Unit",0,0,605206
 "2020-01-12","2020-01-18","ON","Simcoe Muskoka District Health Unit",0,0,605206
 "2020-01-19","2020-01-25","ON","Simcoe Muskoka District Health Unit",0,0,605206
@@ -5897,16 +6194,27 @@
 "2023-10-22","2023-10-28","ON","Simcoe Muskoka District Health Unit",126,19.6900843235675,639916
 "2023-10-29","2023-11-04","ON","Simcoe Muskoka District Health Unit",113,17.6585676870089,639916
 "2023-11-05","2023-11-11","ON","Simcoe Muskoka District Health Unit",162,25.3158227017296,639916
-"2023-11-12","2023-11-18","ON","Simcoe Muskoka District Health Unit",236,36.8798404790629,639916
+"2023-11-12","2023-11-18","ON","Simcoe Muskoka District Health Unit",235,36.7235699685584,639916
 "2023-11-19","2023-11-25","ON","Simcoe Muskoka District Health Unit",198,30.9415610798917,639916
 "2023-11-26","2023-12-02","ON","Simcoe Muskoka District Health Unit",194,30.3164790378737,639916
 "2023-12-03","2023-12-09","ON","Simcoe Muskoka District Health Unit",187,29.2225854643422,639916
 "2023-12-10","2023-12-16","ON","Simcoe Muskoka District Health Unit",197,30.7852905693872,639916
 "2023-12-17","2023-12-23","ON","Simcoe Muskoka District Health Unit",174,27.1910688277836,639916
 "2023-12-24","2023-12-30","ON","Simcoe Muskoka District Health Unit",141,22.034141981135,639916
-"2023-12-31","2024-01-06","ON","Simcoe Muskoka District Health Unit",192,29.5073199669272,650686
-"2024-01-07","2024-01-13","ON","Simcoe Muskoka District Health Unit",139,21.36207018439,650686
-"2024-01-14","2024-01-20","ON","Simcoe Muskoka District Health Unit",102,15.6757637324301,650686
+"2023-12-31","2024-01-06","ON","Simcoe Muskoka District Health Unit",195,29.9683718414104,650686
+"2024-01-07","2024-01-13","ON","Simcoe Muskoka District Health Unit",150,23.0525937241619,650686
+"2024-01-14","2024-01-20","ON","Simcoe Muskoka District Health Unit",117,17.9810231048463,650686
+"2024-01-21","2024-01-27","ON","Simcoe Muskoka District Health Unit",91,13.9852401926582,650686
+"2024-01-28","2024-02-03","ON","Simcoe Muskoka District Health Unit",71,10.9115610294366,650686
+"2024-02-04","2024-02-10","ON","Simcoe Muskoka District Health Unit",110,16.9052353977187,650686
+"2024-02-11","2024-02-17","ON","Simcoe Muskoka District Health Unit",68,10.4505091549534,650686
+"2024-02-18","2024-02-24","ON","Simcoe Muskoka District Health Unit",21,3.22736312138266,650686
+"2024-02-25","2024-03-02","ON","Simcoe Muskoka District Health Unit",27,4.14946687034914,650686
+"2024-03-03","2024-03-09","ON","Simcoe Muskoka District Health Unit",31,4.76420270299346,650686
+"2024-03-10","2024-03-16","ON","Simcoe Muskoka District Health Unit",17,2.61262728873835,650686
+"2024-03-17","2024-03-23","ON","Simcoe Muskoka District Health Unit",18,2.76631124689943,650686
+"2024-03-24","2024-03-30","ON","Simcoe Muskoka District Health Unit",12,1.84420749793295,650686
+"2024-03-31","2024-04-06","ON","Simcoe Muskoka District Health Unit",27,4.14946687034914,650686
 "2020-01-05","2020-01-11","ON","Southwestern Public Health",0,0,219045
 "2020-01-12","2020-01-18","ON","Southwestern Public Health",0,0,219045
 "2020-01-19","2020-01-25","ON","Southwestern Public Health",0,0,219045
@@ -6115,9 +6423,20 @@
 "2023-12-10","2023-12-16","ON","Southwestern Public Health",56,24.2902687110976,230545
 "2023-12-17","2023-12-23","ON","Southwestern Public Health",64,27.7603070983973,230545
 "2023-12-24","2023-12-30","ON","Southwestern Public Health",51,22.1214947190353,230545
-"2023-12-31","2024-01-06","ON","Southwestern Public Health",69,29.5057151287347,233853
+"2023-12-31","2024-01-06","ON","Southwestern Public Health",70,29.9333341885715,233853
 "2024-01-07","2024-01-13","ON","Southwestern Public Health",42,17.9600005131429,233853
 "2024-01-14","2024-01-20","ON","Southwestern Public Health",21,8.98000025657144,233853
+"2024-01-21","2024-01-27","ON","Southwestern Public Health",10,4.27619059836735,233853
+"2024-01-28","2024-02-03","ON","Southwestern Public Health",18,7.69714307706123,233853
+"2024-02-04","2024-02-10","ON","Southwestern Public Health",13,5.55904777787756,233853
+"2024-02-11","2024-02-17","ON","Southwestern Public Health",13,5.55904777787756,233853
+"2024-02-18","2024-02-24","ON","Southwestern Public Health",18,7.69714307706123,233853
+"2024-02-25","2024-03-02","ON","Southwestern Public Health",10,4.27619059836735,233853
+"2024-03-03","2024-03-09","ON","Southwestern Public Health",8,3.42095247869388,233853
+"2024-03-10","2024-03-16","ON","Southwestern Public Health",10,4.27619059836735,233853
+"2024-03-17","2024-03-23","ON","Southwestern Public Health",0,0,233853
+"2024-03-24","2024-03-30","ON","Southwestern Public Health",1,0.427619059836735,233853
+"2024-03-31","2024-04-06","ON","Southwestern Public Health",3,1.28285717951021,233853
 "2020-01-05","2020-01-11","ON","Thunder Bay District Health Unit",0,0,157423
 "2020-01-12","2020-01-18","ON","Thunder Bay District Health Unit",0,0,157423
 "2020-01-19","2020-01-25","ON","Thunder Bay District Health Unit",0,0,157423
@@ -6327,8 +6646,19 @@
 "2023-12-17","2023-12-23","ON","Thunder Bay District Health Unit",36,22.8436542232206,157593
 "2023-12-24","2023-12-30","ON","Thunder Bay District Health Unit",24,15.2291028154804,157593
 "2023-12-31","2024-01-06","ON","Thunder Bay District Health Unit",41,25.965801139962,157900
-"2024-01-07","2024-01-13","ON","Thunder Bay District Health Unit",35,22.1659278024066,157900
+"2024-01-07","2024-01-13","ON","Thunder Bay District Health Unit",34,21.5326155794807,157900
 "2024-01-14","2024-01-20","ON","Thunder Bay District Health Unit",32,20.2659911336289,157900
+"2024-01-21","2024-01-27","ON","Thunder Bay District Health Unit",14,8.86637112096263,157900
+"2024-01-28","2024-02-03","ON","Thunder Bay District Health Unit",16,10.1329955668144,157900
+"2024-02-04","2024-02-10","ON","Thunder Bay District Health Unit",29,18.3660544648512,157900
+"2024-02-11","2024-02-17","ON","Thunder Bay District Health Unit",28,17.7327422419253,157900
+"2024-02-18","2024-02-24","ON","Thunder Bay District Health Unit",25,15.8328055731476,157900
+"2024-02-25","2024-03-02","ON","Thunder Bay District Health Unit",27,17.0994300189994,157900
+"2024-03-03","2024-03-09","ON","Thunder Bay District Health Unit",27,17.0994300189994,157900
+"2024-03-10","2024-03-16","ON","Thunder Bay District Health Unit",23,14.5661811272958,157900
+"2024-03-17","2024-03-23","ON","Thunder Bay District Health Unit",20,12.6662444585181,157900
+"2024-03-24","2024-03-30","ON","Thunder Bay District Health Unit",12,7.59974667511083,157900
+"2024-03-31","2024-04-06","ON","Thunder Bay District Health Unit",12,7.59974667511083,157900
 "2020-01-05","2020-01-11","ON","Timiskaming Health Unit",0,0,34007
 "2020-01-12","2020-01-18","ON","Timiskaming Health Unit",0,0,34007
 "2020-01-19","2020-01-25","ON","Timiskaming Health Unit",0,0,34007
@@ -6540,6 +6870,17 @@
 "2023-12-31","2024-01-06","ON","Timiskaming Health Unit",29,84.6888415150542,34243
 "2024-01-07","2024-01-13","ON","Timiskaming Health Unit",22,64.246707356248,34243
 "2024-01-14","2024-01-20","ON","Timiskaming Health Unit",17,49.6451829571007,34243
+"2024-01-21","2024-01-27","ON","Timiskaming Health Unit",13,37.9639634377829,34243
+"2024-01-28","2024-02-03","ON","Timiskaming Health Unit",7,20.4421341588062,34243
+"2024-02-04","2024-02-10","ON","Timiskaming Health Unit",3,8.76091463948836,34243
+"2024-02-11","2024-02-17","ON","Timiskaming Health Unit",5,14.6015243991473,34243
+"2024-02-18","2024-02-24","ON","Timiskaming Health Unit",14,40.8842683176124,34243
+"2024-02-25","2024-03-02","ON","Timiskaming Health Unit",15,43.8045731974418,34243
+"2024-03-03","2024-03-09","ON","Timiskaming Health Unit",20,58.4060975965891,34243
+"2024-03-10","2024-03-16","ON","Timiskaming Health Unit",3,8.76091463948836,34243
+"2024-03-17","2024-03-23","ON","Timiskaming Health Unit",4,11.6812195193178,34243
+"2024-03-24","2024-03-30","ON","Timiskaming Health Unit",2,5.84060975965891,34243
+"2024-03-31","2024-04-06","ON","Timiskaming Health Unit",2,5.84060975965891,34243
 "2020-01-05","2020-01-11","ON","Toronto Public Health",0,0,2984054
 "2020-01-12","2020-01-18","ON","Toronto Public Health",0,0,2984054
 "2020-01-19","2020-01-25","ON","Toronto Public Health",2,0.0670229158051429,2984054
@@ -6723,13 +7064,13 @@
 "2023-06-18","2023-06-24","ON","Toronto Public Health",147,4.73845043000632,3102280
 "2023-06-25","2023-07-01","ON","Toronto Public Health",112,3.61024794667148,3102280
 "2023-07-02","2023-07-08","ON","Toronto Public Health",103,3.32013873667109,3102280
-"2023-07-09","2023-07-15","ON","Toronto Public Health",131,4.22270072333896,3102280
+"2023-07-09","2023-07-15","ON","Toronto Public Health",132,4.25493508000567,3102280
 "2023-07-16","2023-07-22","ON","Toronto Public Health",141,4.54504429000606,3102280
 "2023-07-23","2023-07-29","ON","Toronto Public Health",150,4.83515350000645,3102280
 "2023-07-30","2023-08-05","ON","Toronto Public Health",120,3.86812280000516,3102280
 "2023-08-06","2023-08-12","ON","Toronto Public Health",144,4.64174736000619,3102280
 "2023-08-13","2023-08-19","ON","Toronto Public Health",240,7.73624560001032,3102280
-"2023-08-20","2023-08-26","ON","Toronto Public Health",221,7.12379282334283,3102280
+"2023-08-20","2023-08-26","ON","Toronto Public Health",220,7.09155846667612,3102280
 "2023-08-27","2023-09-02","ON","Toronto Public Health",241,7.76847995667702,3102280
 "2023-09-03","2023-09-09","ON","Toronto Public Health",282,9.09008858001212,3102280
 "2023-09-10","2023-09-16","ON","Toronto Public Health",437,14.0864138633521,3102280
@@ -6737,20 +7078,31 @@
 "2023-09-24","2023-09-30","ON","Toronto Public Health",520,16.761865466689,3102280
 "2023-10-01","2023-10-07","ON","Toronto Public Health",520,16.761865466689,3102280
 "2023-10-08","2023-10-14","ON","Toronto Public Health",513,16.5362249700221,3102280
-"2023-10-15","2023-10-21","ON","Toronto Public Health",537,17.3098495300231,3102280
-"2023-10-22","2023-10-28","ON","Toronto Public Health",598,19.2761452866924,3102280
+"2023-10-15","2023-10-21","ON","Toronto Public Health",536,17.2776151733564,3102280
+"2023-10-22","2023-10-28","ON","Toronto Public Health",599,19.3083796433591,3102280
 "2023-10-29","2023-11-04","ON","Toronto Public Health",591,19.0505047900254,3102280
 "2023-11-05","2023-11-11","ON","Toronto Public Health",690,22.2417061000297,3102280
-"2023-11-12","2023-11-18","ON","Toronto Public Health",700,22.5640496666968,3102280
-"2023-11-19","2023-11-25","ON","Toronto Public Health",875,28.2050620833709,3102280
-"2023-11-26","2023-12-02","ON","Toronto Public Health",839,27.0446252433694,3102280
-"2023-12-03","2023-12-09","ON","Toronto Public Health",854,27.52814059337,3102280
-"2023-12-10","2023-12-16","ON","Toronto Public Health",880,28.3662338667045,3102280
-"2023-12-17","2023-12-23","ON","Toronto Public Health",932,30.0424204133734,3102280
-"2023-12-24","2023-12-30","ON","Toronto Public Health",875,28.2050620833709,3102280
+"2023-11-12","2023-11-18","ON","Toronto Public Health",701,22.5962840233635,3102280
+"2023-11-19","2023-11-25","ON","Toronto Public Health",873,28.1405933700375,3102280
+"2023-11-26","2023-12-02","ON","Toronto Public Health",831,26.7867503900357,3102280
+"2023-12-03","2023-12-09","ON","Toronto Public Health",845,27.2380313833697,3102280
+"2023-12-10","2023-12-16","ON","Toronto Public Health",871,28.0761246567041,3102280
+"2023-12-17","2023-12-23","ON","Toronto Public Health",931,30.0101860567067,3102280
+"2023-12-24","2023-12-30","ON","Toronto Public Health",876,28.2372964400376,3102280
 "2023-12-31","2024-01-06","ON","Toronto Public Health",812,25.7219651961537,3156835
-"2024-01-07","2024-01-13","ON","Toronto Public Health",664,21.0337252342932,3156835
-"2024-01-14","2024-01-20","ON","Toronto Public Health",463,14.666588529334,3156835
+"2024-01-07","2024-01-13","ON","Toronto Public Health",666,21.0970798283724,3156835
+"2024-01-14","2024-01-20","ON","Toronto Public Health",468,14.824975014532,3156835
+"2024-01-21","2024-01-27","ON","Toronto Public Health",402,12.7342734099185,3156835
+"2024-01-28","2024-02-03","ON","Toronto Public Health",367,11.6255680135325,3156835
+"2024-02-04","2024-02-10","ON","Toronto Public Health",198,6.27210481384044,3156835
+"2024-02-11","2024-02-17","ON","Toronto Public Health",201,6.36713670495924,3156835
+"2024-02-18","2024-02-24","ON","Toronto Public Health",114,3.6112118625142,3156835
+"2024-02-25","2024-03-02","ON","Toronto Public Health",107,3.38947078323701,3156835
+"2024-03-03","2024-03-09","ON","Toronto Public Health",94,2.97766592172223,3156835
+"2024-03-10","2024-03-16","ON","Toronto Public Health",77,2.43915187204906,3156835
+"2024-03-17","2024-03-23","ON","Toronto Public Health",96,3.04102051580143,3156835
+"2024-03-24","2024-03-30","ON","Toronto Public Health",78,2.47082916908866,3156835
+"2024-03-31","2024-04-06","ON","Toronto Public Health",87,2.75592484244504,3156835
 "2020-01-05","2020-01-11","ON","Wellington-Dufferin-Guelph Public Health",0,0,312535
 "2020-01-12","2020-01-18","ON","Wellington-Dufferin-Guelph Public Health",0,0,312535
 "2020-01-19","2020-01-25","ON","Wellington-Dufferin-Guelph Public Health",0,0,312535
@@ -6959,9 +7311,20 @@
 "2023-12-10","2023-12-16","ON","Wellington-Dufferin-Guelph Public Health",92,27.9945836566403,328635
 "2023-12-17","2023-12-23","ON","Wellington-Dufferin-Guelph Public Health",70,21.3002266952698,328635
 "2023-12-24","2023-12-30","ON","Wellington-Dufferin-Guelph Public Health",55,16.7358924034263,328635
-"2023-12-31","2024-01-06","ON","Wellington-Dufferin-Guelph Public Health",91,27.1716411671265,334908
-"2024-01-07","2024-01-13","ON","Wellington-Dufferin-Guelph Public Health",44,13.1379363885007,334908
+"2023-12-31","2024-01-06","ON","Wellington-Dufferin-Guelph Public Health",90,26.8730517037515,334908
+"2024-01-07","2024-01-13","ON","Wellington-Dufferin-Guelph Public Health",43,12.8393469251257,334908
 "2024-01-14","2024-01-20","ON","Wellington-Dufferin-Guelph Public Health",47,14.0337047786258,334908
+"2024-01-21","2024-01-27","ON","Wellington-Dufferin-Guelph Public Health",43,12.8393469251257,334908
+"2024-01-28","2024-02-03","ON","Wellington-Dufferin-Guelph Public Health",51,15.2280626321258,334908
+"2024-02-04","2024-02-10","ON","Wellington-Dufferin-Guelph Public Health",23,6.86755765762538,334908
+"2024-02-11","2024-02-17","ON","Wellington-Dufferin-Guelph Public Health",32,9.55486282800052,334908
+"2024-02-18","2024-02-24","ON","Wellington-Dufferin-Guelph Public Health",38,11.3463996082506,334908
+"2024-02-25","2024-03-02","ON","Wellington-Dufferin-Guelph Public Health",23,6.86755765762538,334908
+"2024-03-03","2024-03-09","ON","Wellington-Dufferin-Guelph Public Health",14,4.18025248725023,334908
+"2024-03-10","2024-03-16","ON","Wellington-Dufferin-Guelph Public Health",10,2.98589463375016,334908
+"2024-03-17","2024-03-23","ON","Wellington-Dufferin-Guelph Public Health",8,2.38871570700013,334908
+"2024-03-24","2024-03-30","ON","Wellington-Dufferin-Guelph Public Health",12,3.5830735605002,334908
+"2024-03-31","2024-04-06","ON","Wellington-Dufferin-Guelph Public Health",24,7.16614712100039,334908
 "2020-01-05","2020-01-11","ON","Windsor-Essex County Health Unit",0,0,427471
 "2020-01-12","2020-01-18","ON","Windsor-Essex County Health Unit",0,0,427471
 "2020-01-19","2020-01-25","ON","Windsor-Essex County Health Unit",0,0,427471
@@ -7162,17 +7525,28 @@
 "2023-10-15","2023-10-21","ON","Windsor-Essex County Health Unit",91,20.8008082599781,437483
 "2023-10-22","2023-10-28","ON","Windsor-Essex County Health Unit",72,16.4577823595431,437483
 "2023-10-29","2023-11-04","ON","Windsor-Essex County Health Unit",94,21.4865491916257,437483
-"2023-11-05","2023-11-11","ON","Windsor-Essex County Health Unit",84,19.2007460861336,437483
-"2023-11-12","2023-11-18","ON","Windsor-Essex County Health Unit",65,14.8577201856986,437483
+"2023-11-05","2023-11-11","ON","Windsor-Essex County Health Unit",85,19.4293263966828,437483
+"2023-11-12","2023-11-18","ON","Windsor-Essex County Health Unit",61,13.9433989435018,437483
 "2023-11-19","2023-11-25","ON","Windsor-Essex County Health Unit",81,18.515005154486,437483
 "2023-11-26","2023-12-02","ON","Windsor-Essex County Health Unit",39,8.91463211141919,437483
-"2023-12-03","2023-12-09","ON","Windsor-Essex County Health Unit",36,8.22889117977156,437483
-"2023-12-10","2023-12-16","ON","Windsor-Essex County Health Unit",41,9.37179273251761,437483
-"2023-12-17","2023-12-23","ON","Windsor-Essex County Health Unit",55,12.5719170802065,437483
-"2023-12-24","2023-12-30","ON","Windsor-Essex County Health Unit",46,10.5146942852637,437483
+"2023-12-03","2023-12-09","ON","Windsor-Essex County Health Unit",37,8.45747149032077,437483
+"2023-12-10","2023-12-16","ON","Windsor-Essex County Health Unit",42,9.60037304306682,437483
+"2023-12-17","2023-12-23","ON","Windsor-Essex County Health Unit",54,12.3433367696573,437483
+"2023-12-24","2023-12-30","ON","Windsor-Essex County Health Unit",45,10.2861139747144,437483
 "2023-12-31","2024-01-06","ON","Windsor-Essex County Health Unit",134,30.2723608826878,442648
 "2024-01-07","2024-01-13","ON","Windsor-Essex County Health Unit",54,12.1993096094414,442648
-"2024-01-14","2024-01-20","ON","Windsor-Essex County Health Unit",52,11.7474833276102,442648
+"2024-01-14","2024-01-20","ON","Windsor-Essex County Health Unit",54,12.1993096094414,442648
+"2024-01-21","2024-01-27","ON","Windsor-Essex County Health Unit",33,7.45513365021417,442648
+"2024-01-28","2024-02-03","ON","Windsor-Essex County Health Unit",46,10.3920044821167,442648
+"2024-02-04","2024-02-10","ON","Windsor-Essex County Health Unit",33,7.45513365021417,442648
+"2024-02-11","2024-02-17","ON","Windsor-Essex County Health Unit",29,6.55148108655184,442648
+"2024-02-18","2024-02-24","ON","Windsor-Essex County Health Unit",18,4.06643653648045,442648
+"2024-02-25","2024-03-02","ON","Windsor-Essex County Health Unit",20,4.51826281831162,442648
+"2024-03-03","2024-03-09","ON","Windsor-Essex County Health Unit",37,8.35878621387649,442648
+"2024-03-10","2024-03-16","ON","Windsor-Essex County Health Unit",229,51.734109269668,442648
+"2024-03-17","2024-03-23","ON","Windsor-Essex County Health Unit",19,4.29234967739604,442648
+"2024-03-24","2024-03-30","ON","Windsor-Essex County Health Unit",9,2.03321826824023,442648
+"2024-03-31","2024-04-06","ON","Windsor-Essex County Health Unit",15,3.38869711373371,442648
 "2020-01-05","2020-01-11","ON","York Region Public Health",0,0,1199551
 "2020-01-12","2020-01-18","ON","York Region Public Health",0,0,1199551
 "2020-01-19","2020-01-25","ON","York Region Public Health",0,0,1199551
@@ -7360,7 +7734,7 @@
 "2023-07-16","2023-07-22","ON","York Region Public Health",51,4.08082922449842,1249746
 "2023-07-23","2023-07-29","ON","York Region Public Health",52,4.16084548380231,1249746
 "2023-07-30","2023-08-05","ON","York Region Public Health",61,4.88099181753732,1249746
-"2023-08-06","2023-08-12","ON","York Region Public Health",53,4.2408617431062,1249746
+"2023-08-06","2023-08-12","ON","York Region Public Health",52,4.16084548380231,1249746
 "2023-08-13","2023-08-19","ON","York Region Public Health",82,6.56133326291902,1249746
 "2023-08-20","2023-08-26","ON","York Region Public Health",80,6.40130074431124,1249746
 "2023-08-27","2023-09-02","ON","York Region Public Health",136,10.8822112653291,1249746
@@ -7374,13 +7748,24 @@
 "2023-10-22","2023-10-28","ON","York Region Public Health",165,13.2026827851419,1249746
 "2023-10-29","2023-11-04","ON","York Region Public Health",165,13.2026827851419,1249746
 "2023-11-05","2023-11-11","ON","York Region Public Health",171,13.6827803409653,1249746
-"2023-11-12","2023-11-18","ON","York Region Public Health",233,18.6437884178065,1249746
-"2023-11-19","2023-11-25","ON","York Region Public Health",264,21.1242924562271,1249746
+"2023-11-12","2023-11-18","ON","York Region Public Health",232,18.5637721585026,1249746
+"2023-11-19","2023-11-25","ON","York Region Public Health",262,20.9642599376193,1249746
 "2023-11-26","2023-12-02","ON","York Region Public Health",291,23.2847314574322,1249746
-"2023-12-03","2023-12-09","ON","York Region Public Health",327,26.1653167923722,1249746
+"2023-12-03","2023-12-09","ON","York Region Public Health",328,26.2453330516761,1249746
 "2023-12-10","2023-12-16","ON","York Region Public Health",372,29.7660484610473,1249746
-"2023-12-17","2023-12-23","ON","York Region Public Health",290,23.2047151981283,1249746
-"2023-12-24","2023-12-30","ON","York Region Public Health",308,24.6450078655983,1249746
+"2023-12-17","2023-12-23","ON","York Region Public Health",291,23.2847314574322,1249746
+"2023-12-24","2023-12-30","ON","York Region Public Health",306,24.4849753469905,1249746
 "2023-12-31","2024-01-06","ON","York Region Public Health",404,31.9039218132799,1266302
-"2024-01-07","2024-01-13","ON","York Region Public Health",309,24.4017619809493,1266302
-"2024-01-14","2024-01-20","ON","York Region Public Health",208,16.4257815276293,1266302
+"2024-01-07","2024-01-13","ON","York Region Public Health",310,24.4807320844475,1266302
+"2024-01-14","2024-01-20","ON","York Region Public Health",209,16.5047516311275,1266302
+"2024-01-21","2024-01-27","ON","York Region Public Health",142,11.2137546967469,1266302
+"2024-01-28","2024-02-03","ON","York Region Public Health",103,8.13392066031642,1266302
+"2024-02-04","2024-02-10","ON","York Region Public Health",85,6.7124587973485,1266302
+"2024-02-11","2024-02-17","ON","York Region Public Health",84,6.63348869385028,1266302
+"2024-02-18","2024-02-24","ON","York Region Public Health",70,5.52790724487523,1266302
+"2024-02-25","2024-03-02","ON","York Region Public Health",61,4.81717631339128,1266302
+"2024-03-03","2024-03-09","ON","York Region Public Health",54,4.26438558890375,1266302
+"2024-03-10","2024-03-16","ON","York Region Public Health",52,4.10644538190732,1266302
+"2024-03-17","2024-03-23","ON","York Region Public Health",63,4.97511652038771,1266302
+"2024-03-24","2024-03-30","ON","York Region Public Health",40,3.15880413992871,1266302
+"2024-03-31","2024-04-06","ON","York Region Public Health",59,4.65923610639484,1266302
