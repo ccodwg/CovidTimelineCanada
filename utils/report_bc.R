@@ -289,9 +289,10 @@ Covid19CanadaData::webdriver_close(remDr)
 # format data frame
 dat_cum <- dplyr::bind_rows(dat_cum)
 
-# add combined deaths column
+# rename Island Health and add combined deaths column
 dat_cum <- dat_cum |>
   dplyr::mutate(
+    sub_region_1 = ifelse(.data$sub_region_1 == "ISLH", "Island Health", .data$sub_region_1),
     deaths = .data$`deaths_up_to_2022-03-31` + .data$`deaths_after_2022-04-01`, .after = .data$`deaths_after_2022-04-01`)
 
 # add source for first entry
