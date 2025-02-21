@@ -9,44 +9,58 @@
             "pt": "hr",
             "hr": "hr"
         },
-        "general_notes": "Cases generally refer to PCR-confirmed cases of COVID-19, but may include probable and epi-linked cases in some jurisdictions early in the pandemic. Later in the pandemic, cases ascertained by point-of-care testing (POCT) may be included in case counts in some jurisdictions. Cases ascertained via rapid antigen testing (RAT) were also briefly reported in at least one jurisdiction. Some jurisdictions changed case definitions over time. Details regarding case definitions are included as data notes where available.",
+        "general_notes": "Cases generally refer to PCR-confirmed cases of COVID-19, but may include probable and epi-linked cases in some jurisdictions, particularly during the early phase of the pandemic. Later in the pandemic, cases ascertained by point-of-care testing (POCT) may be included in case counts in some jurisdictions. Cases ascertained via rapid antigen testing (RAT) were also briefly reported in at least one jurisdiction. Some jurisdictions changed case definitions over time. Details regarding case definitions are included as data notes where available.",
         "data_notes": {
+            "ab": [
+                {
+                    "date_start": "",
+                    "date_end": "2023-08-26",
+                    "note": "Cases include both probable and confirmed. 'Probable cases include cases where the lab confirmation is pending.'",
+                    "source": "https://web.archive.org/web/20230823172322/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#total-cases"
+                },
+                {
+                    "date_start": "2023-09-02",
+                    "date_end": "'Laboratory-confirmed COVID-19 cases.'",
+                    "note": "",
+                    "source": "https://web.archive.org/web/20231203072822/https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=summary"
+                }
+            ],
             "bc": [
                 {
                     "date_start": "",
                     "date_end": "",
                     "note": "'Data sources and definitions have changed over time during as a result of system transitions. Most recently as of April 23, 2023, the surveillance system has been updated to capture potential reinfection episodes in addition to first-time episodes. Therefore, severe outcome measures (e.g. hospitalizations, critical care admissions, and deaths) and cases should not be compared across system transitions.'",
-                    "source":"https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
                 },
                 {
                     "date_start": "",
                     "date_end": "2022-03-31",
                     "note": "'Total COVID-19 cases include lab-confirmed, lab-probable and epi-linked cases. Cases included those reported by the health authorities for the first time and any individual with a first positive lab-confirmed COVID-19 test reported in the Provincial Laboratory Information Solution (PLIS) or Sunquest. From January 2020 to March 31, 2022, cases were reported by the health authority of residence or the reporting health authority; cases whose primary residence was outside of Canada were reported as 'Out of Canada'.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions, Data notes)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions, Data notes)"
                 },
                 {
                     "date_start": "2022-04-01",
                     "date_end": "",
-                    "note": "'As of April 1, 2022, the health authority is based on the case’s address provided during laboratory testing and cases from outside of BC are not included. Please note that the health authority of residence and the health authority reporting the case do not necessarily indicate the location of exposure or transmission.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
+                    "note": "'As of April 1, 2022, the health authority is based on the case's address provided during laboratory testing and cases from outside of BC are not included. Please note that the health authority of residence and the health authority reporting the case do not necessarily indicate the location of exposure or transmission.'",
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
                 },
                 {
                     "date_start": "2022-04-01",
                     "date_end": "2023-04-22",
                     "note": "'Any individual with a first positive lab-confirmed COVID-19 test reported in PLIS or Sunquest. Subsequent positive lab-confirmed COVID-19 tests were not included.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 },
                 {
                     "date_start": "2022-09-01",
                     "date_end": "",
                     "note": "'In September 2022, BC changed its testing strategies to focus on high-risk populations. Therefore, current case counts are an underestimate of the true number of COVID-19 cases in BC. This underestimation has increased compared to the period before the emergence of the Omicron sub-lineages in BC.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
                 },
                 {
                     "date_start": "2023-04-23",
                     "date_end": "",
                     "note": "'Positive lab-confirmed COVID-19 test(s) belonging to the same individual are grouped together and considered part of the same infection episode if they are within 30 days. Positive lab-confirmed COVID-19 tests that are 30 or more days apart (regardless of negative tests in between) are considered a separate infection episode, and therefore an individual may have more than one infection episode of COVID-19.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 }
             ],
             "ns": [
@@ -125,30 +139,44 @@
         },
         "general_notes": "Deaths may refer to deaths where COVID-19 was an underlying cause or deaths within a certain number of days of a positive COVID-19 test. The former definition is generally preferred if multiple metrics are available. Some jurisdictions changed death reporting definitions over time. Details regarding death reporting definitions are included as data notes where available.",
         "data_notes": {
+            "ab": [
+                {
+                    "date_start": "",
+                    "date_end": "2023-08-26",
+                    "note": "'A death resulting from a clinically compatible illness, in a probable or confirmed COVID-19 case, unless there is a clear alternative cause of death identified (e.g., trauma, poisoning, drug overdose). A Medical Officer of Health or relevant public health authority may use their discretion when determining if a death was due to COVID-19, and their judgement will supersede the above criteria. A death due to COVID-19 may be attributed when COVID-19 is the cause of death or is a contributing factor.'",
+                    "source": "https://web.archive.org/web/20230823172322/https://www.alberta.ca/stats/covid-19-alberta-statistics.htm#data-notes"
+                },
+                {
+                    "date_start": "2023-09-02",
+                    "date_end": "",
+                    "note": "'A death resulting from a clinically compatible illness in a laboratory-confirmed influenza case or a laboratory-confirmed COVID-19 case, unless there is a clear alternative cause of death identified (e.g. trauma, poisoning, drug overdose, etc.). A Medical Officer of Health or relevant public health authority may use their discretion when determining if a death was due to influenza or COVID-19, and their judgement will supersede the above criteria. A death due to influenza or COVID-19 may be attributed when influenza or COVID-19 is the cause of death or is a contributing factor.'",
+                    "source": "https://web.archive.org/web/20231203083033/https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=data-notes"
+                }
+            ],
             "bc": [
                 {
                     "date_start": "",
                     "date_end": "",
                     "note": "'Data sources and definitions have changed over time during as a result of system transitions. Most recently as of April 23, 2023, the surveillance system has been updated to capture potential reinfection episodes in addition to first-time episodes. Therefore, severe outcome measures (e.g. hospitalizations, critical care admissions, and deaths) and cases should not be compared across system transitions.'",
-                    "source":"https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
                 },
                 {
                     "date_start": "",
                     "date_end": "2022-03-31",
                     "note": "'A death occurring in any individual with no period of complete recovery between illness with COVID-19 and death, unless there is evidence that COVID-19 did not contribute to the death (e.g., trauma, poisoning, and drug overdose).'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 },
                 {
                     "date_start": "2022-04-01",
                     "date_end": "2023-04-22",
                     "note": "'A death (related or not related to COVID-19) that occurred within 30 days of a first positive lab-confirmed COVID-19 test.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 },
                 {
                     "date_start": "2023-04-23",
                     "date_end": "",
                     "note": "'A death (related or not related to COVID-19) that has a positive lab COVID-19 test within 30 days of date of death.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 }
             ],
             "nb": [
@@ -239,25 +267,25 @@
                     "date_start": "",
                     "date_end": "",
                     "note": "'Data sources and definitions have changed over time during as a result of system transitions. Most recently as of April 23, 2023, the surveillance system has been updated to capture potential reinfection episodes in addition to first-time episodes. Therefore, severe outcome measures (e.g. hospitalizations, critical care admissions, and deaths) and cases should not be compared across system transitions.'",
-                    "source":"https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
                 },
                 {
                     "date_start": "",
                     "date_end": "2022-03-31",
                     "note": "'Any person admitted to a hospital for at least an overnight stay, or with a prolonged hospital stay, for reasons directly or indirectly related to their COVID-19 infection, and with no period of complete recovery between illness and admission. This includes persons admitted to hospital but without transfer to a ward/unit.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 },
                 {
                     "date_start": "2022-04-01",
                     "date_end": "2023-04-22",
                     "note": "'A single hospitalization is linked to a first positive lab test and counted as a hospitalization if it meets one of the following criteria: 1. The hospitalization was related to an individual identified as a COVID-19 patient by the facility based on a positive lab test (regardless time between positive test date and admission date). 2. The hospitalization was initiated within 0-14 days of the first positive lab test (regardless of whether they were identified by the facility as being a COVID-19 patient). Single day hospital stays (e.g. admission, discharge on same date) are excluded.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 },
                 {
                     "date_start": "2023-04-23",
                     "date_end": "",
                     "note": "'All hospitalizations related to an individual identified by the facility as a COVID-19 patient (based on a positive test). Single day hospital stays (e.g. admission, discharge on same date) are excluded.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 }
             ],
             "mb": [
@@ -383,25 +411,25 @@
                 "date_start": "",
                 "date_end": "",
                 "note": "'Data sources and definitions have changed over time during as a result of system transitions. Most recently as of April 23, 2023, the surveillance system has been updated to capture potential reinfection episodes in addition to first-time episodes. Therefore, severe outcome measures (e.g. hospitalizations, critical care admissions, and deaths) and cases should not be compared across system transitions.'",
-                "source":"https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
+                "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
             },
             {
                 "date_start": "",
                 "date_end": "2022-03-31",
                 "note": "'Any person with a COVID-19 related hospitalization and an admission to the intensive care unit.'",
-                "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
             },
             {
                 "date_start": "2022-04-01",
                 "date_end": "2023-04-22",
                 "note": "'Any individual hospitalized (see above) and admitted to critical care (Intensive Care Unit, High Acuity Unit, or critical care surge beds) during that hospitalization.'",
-                "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
             },
             {
                 "date_start": "2023-04-23",
                 "date_end": "",
                 "note": "'Any individual hospitalized (see above) and admitted to critical care (Intensive Care Unit, High Acuity Unit, or critical care surge beds) during that hospitalization.'",
-                "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
             }
         ],
         "mb": [
@@ -515,25 +543,25 @@
                     "date_start": "",
                     "date_end": "",
                     "note": "'Data sources and definitions have changed over time during as a result of system transitions. Most recently as of April 23, 2023, the surveillance system has been updated to capture potential reinfection episodes in addition to first-time episodes. Therefore, severe outcome measures (e.g. hospitalizations, critical care admissions, and deaths) and cases should not be compared across system transitions.'",
-                    "source":"https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
                 },
                 {
                     "date_start": "",
                     "date_end": "2022-03-31",
                     "note": "'Any person admitted to a hospital for at least an overnight stay, or with a prolonged hospital stay, for reasons directly or indirectly related to their COVID-19 infection, and with no period of complete recovery between illness and admission. This includes persons admitted to hospital but without transfer to a ward/unit.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 },
                 {
                     "date_start": "2022-04-01",
                     "date_end": "2023-04-22",
                     "note": "'A single hospitalization is linked to a first positive lab test and counted as a hospitalization if it meets one of the following criteria: 1. The hospitalization was related to an individual identified as a COVID-19 patient by the facility based on a positive lab test (regardless time between positive test date and admission date). 2. The hospitalization was initiated within 0-14 days of the first positive lab test (regardless of whether they were identified by the facility as being a COVID-19 patient). Single day hospital stays (e.g. admission, discharge on same date) are excluded.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 },
                 {
                     "date_start": "2023-04-23",
                     "date_end": "",
                     "note": "'All hospitalizations related to an individual identified by the facility as a COVID-19 patient (based on a positive test). Single day hospital stays (e.g. admission, discharge on same date) are excluded.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 }
             ],
             "mb": [
@@ -676,25 +704,25 @@
                     "date_start": "",
                     "date_end": "",
                     "note": "'Data sources and definitions have changed over time during as a result of system transitions. Most recently as of April 23, 2023, the surveillance system has been updated to capture potential reinfection episodes in addition to first-time episodes. Therefore, severe outcome measures (e.g. hospitalizations, critical care admissions, and deaths) and cases should not be compared across system transitions.'",
-                    "source":"https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Data notes)"
                 },
                 {
                     "date_start": "",
                     "date_end": "2022-03-31",
                     "note": "'Any person with a COVID-19 related hospitalization and an admission to the intensive care unit.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 },
                 {
                     "date_start": "2022-04-01",
                     "date_end": "2023-04-22",
                     "note": "'Any individual hospitalized (see above) and admitted to critical care (Intensive Care Unit, High Acuity Unit, or critical care surge beds) during that hospitalization.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 },
                 {
                     "date_start": "2023-04-23",
                     "date_end": "",
                     "note": "'Any individual hospitalized (see above) and admitted to critical care (Intensive Care Unit, High Acuity Unit, or critical care surge beds) during that hospitalization.'",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Definitions)"
                 }
             ],
             "mb": [
@@ -769,14 +797,14 @@
             "pt": "pt",
             "hr": "na"
         },
-        "general_notes": "Tests completed may be derived from different sources than case numbers, and caution should be used if using them to calculate percent positivity. This is especially true if cases and tests are reported on different schedules (e.g., weekly case data but daily testing data), which may necessitate aggregation. Percent positivity calculated this way may different from officially reported values for this and other reasons, such as differences in definition of what is included in the numerator and/or denominator.",
+        "general_notes": "Test counts may be derived from different sources and with different reporting schedules (e.g., daily versus weekly) than case counts, so employ caution when using this dataset to calculate percent positivity.  Percent positivity calculated from this dataset may differ from officially reported values for these and other reasons, such as differences in definitions for what is included in the numerator and/or denominator. Nonetheless, using weekly aggregated case and test counts from this dataset should generally provide reasonable values for percent positivity. For most provinces and territories (9/13), the PHAC SALT (System for Analysis of Laboratory Tests) database is used until late 2022 due to superior data availability, temporal resolution, accuracy, and consistency. Four provinces use the PHAC RVDSS (Respiratory Virus Detection Surveillance System) dataset after this date, as test counts for these provinces seem to represent all labs rather than a subset of labs (see: https://github.com/ccodwg/CovidTimelineCanada/issues/94#issuecomment-1780388349). For the most part, tests completed should only include PCR tests, but numbers may include other kinds of tests (e.g., rapid molecular tests)later in the pandemic. This information is captured in data notes where possible.",
         "data_notes": {
             "bc": [
                 {
                     "date_start": "2022-11-26",
                     "date_end": "",
                     "note": "Medical Services Plan (MSP) tests are reported, excluding invalid and indeterminate results.",
-                    "source": "https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Test rates and percent positivity)"
+                    "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Test rates and percent positivity)"
                 }
             ],
             "pe": [
@@ -819,7 +847,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Vaccine coverage calculations are based on eligiblity (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
+                    "note": "Vaccine coverage calculations are based on eligibility (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
                 }
             ],
@@ -827,7 +855,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilties.",
+                    "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilities.",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
                 }
             ]
@@ -849,7 +877,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Vaccine coverage calculations are based on eligiblity (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
+                    "note": "Vaccine coverage calculations are based on eligibility (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
                 }
             ],
@@ -857,7 +885,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilties.",
+                    "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilities.",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
                 }
             ]
@@ -879,7 +907,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Vaccine coverage calculations are based on eligiblity (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
+                    "note": "Vaccine coverage calculations are based on eligibility (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
                 }
             ],
@@ -887,7 +915,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilties.",
+                    "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilities.",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
                 }
             ]
@@ -909,7 +937,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Vaccine coverage calculations are based on eligiblity (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
+                    "note": "Vaccine coverage calculations are based on eligibility (see PHAC technical notes). The calculation of Canada-level coverage depends on the number of provinces/territories reporting that value at each time point. For example, if only five provinces have begun reporting third dose coverage by a particular day, the Canada-level third dose coverage will be a function of only those five provinces for that week. All Canada-level vaccine coverage calculations exclude QC beginning 2022-08-14 due to data incompatibilities (last report from QC was 2022-07-17).",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
                 }
             ],
@@ -917,7 +945,7 @@
                 {
                     "date_start": "",
                     "date_end": "",
-                    "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilties.",
+                    "note": "Vaccine coverage data from QC are only available up to 2022-07-17 due to data incompatibilities.",
                     "source": "https://health-infobase.canada.ca/covid-19/vaccination-coverage/archive/2023-09-11/technical-notes.html"
                 }
             ]
