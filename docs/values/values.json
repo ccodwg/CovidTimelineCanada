@@ -322,6 +322,14 @@
                     "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf (footnote 3 on page 1)"
                 }
             ],
+            "nl": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Hospital and ICU occupancy data were reported for at least some of the period between 2022-03-15 and 2023-06-21. However, reporting had transitioned to hospital and ICU admissions by 2023-07-05 (the next time data were updated after 2023-06-21). It is not clear from archived data alone when this transition occurred, as the same field in the database was used to report both values. Thus, the hospital and ICU occupancy time series in this dataset ends on 2022-03-11.",
+                    "source": "https://web.archive.org/web/20220315185247/https://twitter.com/hcs_govnl/status/1503806214613970947; https://web.archive.org/web/20220315185207/https://www.gov.nl.ca/releases/2022/health/0315n06/; https://web.archive.org/web/20250224230751/https://www.gov.nl.ca/releases/2023/health/0705n03/"
+                }
+            ],
             "on": [
                 {
                     "date_start": "2023-09-09",
@@ -464,6 +472,14 @@
                 "date_end": "",
                 "note": "ICU occupancy included only 'with' COVID-19.",
                 "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf (footnote 3 on page 1)"
+            }
+        ],
+        "nl": [
+            {
+                "date_start": "",
+                "date_end": "",
+                "note": "Hospital and ICU occupancy data were reported for at least some of the period between 2022-03-15 and 2023-06-21. However, reporting had transitioned to hospital and ICU admissions by 2023-07-05 (the next time data were updated after 2023-06-21). It is not clear from archived data alone when this transition occurred, as the same field in the database was used to report both values. Thus, the hospital and ICU occupancy time series in this dataset ends on 2022-03-11.",
+                "source": "https://web.archive.org/web/20220315185247/https://twitter.com/hcs_govnl/status/1503806214613970947; https://web.archive.org/web/20220315185207/https://www.gov.nl.ca/releases/2022/health/0315n06/; https://web.archive.org/web/20250224230751/https://www.gov.nl.ca/releases/2023/health/0705n03/"
             }
         ],
         "nu": [
