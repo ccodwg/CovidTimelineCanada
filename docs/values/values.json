@@ -580,6 +580,14 @@
                     "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf"
                 }
             ],
+            "nl": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Hospital and ICU admissions begin being counted on 2022-12-18 (first reported on 2022-12-31). Previously, hospital and ICU occupancy were the values being reported. Reporting was biweekly from 2022-12-18 to 2023-07-01, followed by a report covering three weeks (2023-07-02 to 2023-07-22), then another report covering five weeks (2023-07-23 to 2023-08-26), and concluding with a weekly time series until the end of the dataset.",
+                    "source": "https://web.archive.org/web/20230104170537/https://www.cbc.ca/news/canada/newfoundland-labrador/nl-covid-19-update-jan-4-23-1.6703303; https://web.archive.org/web/20230118194404/https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-jan1-14-update-1.6717996; https://web.archive.org/web/20230705202250/https://www.cbc.ca/news/canada/newfoundland-labrador/nl-covid-19-update-1.6897724; https://web.archive.org/web/20250225043918/https://www.gov.nl.ca/releases/2023/health/1117n02/"
+                }
+            ],
             "ns": [
                 {
                     "date_start": "",
@@ -739,6 +747,14 @@
                     "date_end": "",
                     "note": "The ICU admissions time series begins on 2022-04-02 but includes cumulative values to the beginning of the pandemic; the first daily value is censored because the change for that date is unknown.",
                     "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf"
+                }
+            ],
+            "nl": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "Hospital and ICU admissions begin being counted on 2022-12-18 (first reported on 2022-12-31). Previously, hospital and ICU occupancy were the values being reported. Reporting was biweekly from 2022-12-18 to 2023-07-01, followed by a report covering three weeks (2023-07-02 to 2023-07-22), then another report covering five weeks (2023-07-23 to 2023-08-26), and concluding with a weekly time series until the end of the dataset.",
+                    "source": "https://web.archive.org/web/20230104170537/https://www.cbc.ca/news/canada/newfoundland-labrador/nl-covid-19-update-jan-4-23-1.6703303; https://web.archive.org/web/20230118194404/https://www.cbc.ca/news/canada/newfoundland-labrador/covid-19-jan1-14-update-1.6717996; https://web.archive.org/web/20230705202250/https://www.cbc.ca/news/canada/newfoundland-labrador/nl-covid-19-update-1.6897724; https://web.archive.org/web/20250225043918/https://www.gov.nl.ca/releases/2023/health/1117n02/"
                 }
             ],
             "nt": [
