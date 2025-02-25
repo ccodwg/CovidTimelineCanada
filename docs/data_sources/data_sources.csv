@@ -46,7 +46,7 @@ deaths,AB,Public Health Agency of Canada weekly epidemiology update,f7db31d0-650
 deaths,BC,British Columbia COVID-19 Situation Report,b85ca9d5-3a88-403d-9444-cac73ffb2d3f,report,reports,reports/bc/bc_monthly_report.csv,health_region,2020-01-29,2023-12-31,,,,R,monthly,Updated first Thursday of the month,,5,
 deaths,MB,Manitoba RHA times series CSV,48417109-97c4-4493-8278-39bcea1447ac,ts,static,static/mb/mb_deaths_hr_ts.csv,health_region,2020-03-14,2022-03-19,1 day forward,,,,,,,,
 deaths,MB,Manitoba weekly surveillance report,363c937c-c384-4f4e-be24-fbd47fac9e83,report,reports,reports/mb/mb_weekly_report.csv,health_region,2022-03-26,2022-11-05,,,,R,weekly,,,5,
-deaths,MB,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-11-12,2023-12-30,,,,M,weekly,,,9,
+deaths,MB,Public Health Agency of Canada weekly epidemiology update,f7db31d0-6504-4a55-86f7-608664517bdb,ts,active_ts,active_ts/can/can_deaths_pt_ts.csv,province_territory,2022-11-12,2023-12-09,,,,M,weekly,,,9,
 deaths,NB,CCODWG Covid19Canada dataset,,ts,ccodwg,ccodwg/can_deaths_hr_ts.csv,health_region,2020-01-25,2021-03-07,,,,,,,,,
 deaths,NB,New Brunswick dashboard,4f194e3b-39fd-4fe0-b420-8cefa9001f7e,archive_ts,static,static/nb/nb_deaths_hr_ts.csv,health_region,2021-03-08,2022-03-29,,,,,,,,,
 deaths,NB,New Brunswick COVIDWATCH weekly report,e693aab1-343f-452c-968b-9e785cbfbbb9,report,reports,reports/nb/nb_weekly_report.csv,health_region,2022-04-02,2022-12-10,,,,T,weekly,,,3,
