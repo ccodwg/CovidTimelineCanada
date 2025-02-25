@@ -28,14 +28,16 @@ The following datasets are available:
 
 - Cases (`cases`) (health region or province/territory)
 - Deaths (`deaths`) (health region or province/territory)
-- Active hospitalizations (`hospitalizations`)
-- Active ICU (`icu`)
+- Hospital occupancy (`hospitalizations`)
+- ICU occupancy (`icu`)
+- Hospital admissions (`hosp_admissions`)
+- ICU admissions (`icu_admissions`)
 - Tests completed (`tests_completed`)
 - Vaccine coverage by dose (`vaccine_coverage_dose_1`, `vaccine_coverage_dose_2`, `vaccine_coverage_dose_3`, `vaccine_coverage_dose_4`)
 - Vaccine administration by dose (`vaccine_administration_total_doses`, `vaccine_administration_dose_1`, `vaccine_administration_dose_2`, `vaccine_administration_dose_3`, `vaccine_administration_dose_4`, `vaccine_administration_dose_5plus`)
 - Vaccine distribution (`vaccine_distribution_total_doses`)
 
-While we do our best to ensure comparability for the same metrics across different provinces/territories, some regions use different difinitions for the same metric (e.g., how COVID-19 deaths are defined). Reporting of a metric may also change over time in the same region.
+While we do our best to ensure comparability for the same metrics across different provinces/territories, some regions use different definitions for the same metric (e.g., how COVID-19 deaths are defined). Reporting of a metric may also change over time in the same region.
 
 For more information on each value, including definitions, see the [Technical report](docs/technical_report/technical_report.md) and the [Detailed description of data sources](docs/data_sources/data_sources.md).
 
