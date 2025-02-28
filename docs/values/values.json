@@ -20,8 +20,8 @@
                 },
                 {
                     "date_start": "2023-09-02",
-                    "date_end": "'Laboratory-confirmed COVID-19 cases.'",
-                    "note": "",
+                    "date_end": "",
+                    "note": "'Laboratory-confirmed COVID-19 cases.'",
                     "source": "https://web.archive.org/web/20231203072822/https://www.alberta.ca/stats/dashboard/respiratory-virus-dashboard.htm?data=summary"
                 }
             ],
