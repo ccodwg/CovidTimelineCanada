@@ -10,19 +10,20 @@ hr <- utils::read.csv("geo/hr.csv") |>
     !dplyr::starts_with("pop")
   )
 
-# load annual population estimates from Statistics Canada (17-10-0134-01)
+# load annual population estimates from Statistics Canada (17-10-0157-01)
 temp <- tempfile()
 temp_dir <- tempdir()
-download.file("https://www150.statcan.gc.ca/n1/en/tbl/csv/17100134-eng.zip", temp)
-utils::unzip(temp, files = "17100134.csv", exdir = temp_dir)
-pop <- utils::read.csv(file.path(temp_dir, "17100134.csv")) |>
+download.file("https://www150.statcan.gc.ca/n1/en/tbl/csv/17100157-eng.zip", temp)
+utils::unzip(temp, files = "17100157.csv", exdir = temp_dir)
+pop <- utils::read.csv(file.path(temp_dir, "17100157.csv")) |>
   # keep total population numbers
   dplyr::filter(
-    .data$Age.group == "Total, all ages" & .data$Sex == "Both sexes") |>
+    .data$Age.group == "Total, all ages" & .data$Gender == "Total - gender") |>
   # keep relevant columns
   dplyr::transmute(
-    # remove peer group from HRUIDs
+    # remove peer group and other letters from HRUIDs
     hruid = sub("-.*$", "", .data$DGUID),
+    hruid = sub("^[^0-9]+", "", .data$hruid), # Toronto (A3595)
     date = .data$REF_DATE,
     pop = .data$VALUE) |>
   # remove Saskatchewan data
@@ -30,13 +31,18 @@ pop <- utils::read.csv(file.path(temp_dir, "17100134.csv")) |>
     !grepl("^47", .data$hruid)
   )
 
-# keep population estimates beginning 2019
-pop <- pop[which(pop$date == "2019")[1]:nrow(pop), ]
+# keep population estimates from 2019 to 2023
+pop <- pop[pop$date %in% 2019:2023, ]
 
 # update/combine health regions
 pop$hruid <- ifelse(grepl("^59", pop$hruid), substr(pop$hruid, 1, 3), pop$hruid) # BC HSDAs to HAs
 pop[pop$hruid == 3552, "hruid"] <- 3575 # Oxford -> Southwestern
 pop[pop$hruid == 3554, "hruid"] <- 3539 # Perth and Huron amalgamation
+pop[pop$hruid == 1020, "hruid"] <- 1011 # Eastern Urban + Rural amalgamation
+pop[pop$hruid == 1021, "hruid"] <- 1011 # Eastern Urban + Rural amalgamation
+pop[pop$hruid == 1022, "hruid"] <- 1012 # Central
+pop[pop$hruid == 1023, "hruid"] <- 1013 # Western
+pop[pop$hruid == 1024, "hruid"] <- 1014 # Labrador-Grenfell
 
 # filter to health regions in hr.csv
 pop <- dplyr::filter(pop, .data$hruid %in% as.character(hr$hruid))
@@ -74,17 +80,40 @@ hr <- dplyr::left_join(
   by = c("hruid")
 )
 
-# add SK population data
-sk_pop <- jsonlite::read_json("https://dashboard.saskatchewan.ca/api/health/subgeography/summary", simplifyVector = TRUE)$subgeographies
-sk_pop$name <- trimws(sub("\\d", "", sk_pop$name)) # aggregate 32 sub-zones to 13 zones
-sk_pop <- sk_pop |>
+# download and process SK population data
+sk_pop_2020 <- jsonlite::read_json("https://web.archive.org/web/20201006213033/https://dashboard.saskatchewan.ca/api/health/subgeography/summary", simplifyVector = TRUE)$subgeographies
+sk_pop_2020$name <- trimws(sub("\\d", "", sk_pop_2020$name)) # aggregate 32 sub-zones to 13 zones
+sk_pop_2020 <- sk_pop_2020 |>
   dplyr::select(c("name", "population")) |>
   dplyr::group_by(.data$name) |>
-  dplyr::summarize(population = sum(.data$population))
-hr <- dplyr::left_join(hr, sk_pop, by = c("name_canonical" = "name"))
-hr <- hr |>
-  dplyr::mutate(pop = ifelse(is.na(.data$population), .data$pop, .data$population)) |>
-  dplyr::select(-"population")
+  dplyr::summarize(pop_2020_07 = sum(.data$population))
+sk_pop_2021 <- jsonlite::read_json("https://web.archive.org/web/20210717040047/https://dashboard.saskatchewan.ca/api/health/subgeography/summary", simplifyVector = TRUE)$subgeographies
+sk_pop_2021$name <- trimws(sub("\\d", "", sk_pop_2021$name)) # aggregate 32 sub-zones to 13 zones
+sk_pop_2021 <- sk_pop_2021 |>
+  dplyr::select(c("name", "population")) |>
+  dplyr::group_by(.data$name) |>
+  dplyr::summarize(pop_2021_07 = sum(.data$population))
+sk_pop <- dplyr::left_join(sk_pop_2020, sk_pop_2021, by = "name") |>
+  dplyr::mutate(
+    pop = .data$pop_2021_07 # use most recent population
+  )
+
+# add SK data to hr
+idx_sk <- match(sk_pop$name, hr$name_canonical)
+valid_sk <- !is.na(idx_sk)
+hr[["pop_2020_07"]][idx_sk[valid_sk]] <- sk_pop[["pop_2020_07"]][valid_sk]
+hr[["pop_2021_07"]][idx_sk[valid_sk]] <- sk_pop[["pop_2021_07"]][valid_sk]
+hr[["pop"]][idx_sk[valid_sk]] <- sk_pop[["pop"]][valid_sk]
+
+# test that population data is available for all HRs in the map files
+for (f in c("geo/hr.geojson", "geo/hr_wgs84.geojson")) {
+  sf::read_sf(f) |>
+    dplyr::mutate(hruid = as.integer(.data$hruid)) |>
+    dplyr::left_join(hr, by = "hruid") |>
+    dplyr::filter(is.na(pop)) |>
+    dplyr::pull(hruid) |>
+    {\(x) if (length(x) > 0) stop(paste("Population data missing for HRs:", paste(x, collapse = ", ")))}()
+}
 
 # write data
 utils::write.csv(hr, "geo/hr.csv", row.names = FALSE, na = "")

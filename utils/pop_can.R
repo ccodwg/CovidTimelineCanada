@@ -24,11 +24,13 @@ pop <- utils::read.csv(file.path(temp_dir, "17100009.csv")) |>
     date = .data$REF_DATE,
     pop = .data$VALUE)
 
-# keep population estimates beginning Q1 2020
-pop <- pop[which(pop$date == "2020-01")[1]:nrow(pop), ]
-
 # filter to Canada
 pop <- pop[pop$region == "Canada", ]
+
+# keep population estimates beginning Q1 2020 and ending Q4 2023
+pop <- pop[pop$date %in%
+             apply(expand.grid(2020:2023, c("01", "04", "07", "10")),
+                   1, paste, collapse = "-"), ]
 
 # long to wide
 pop <- tidyr::pivot_wider(

@@ -1,100 +1,100 @@
-"region","pruid","hruid","name_canonical","name_canonical_fr","name_short","name_ccodwg","name_other_1","name_other_2","name_other_3","name_other_4","pop","pop_2019_07","pop_2020_07","pop_2021_07","pop_2022_07"
-"AB",48,4831,"South Zone","South Zone","South","South","South zone","SOUTH","","",313253,305937,307741,308667,313253
-"AB",48,4832,"Calgary Zone","Calgary Zone","Calgary","Calgary","Calgary zone","CALGARY","","",1778976,1681326,1710862,1726461,1778976
-"AB",48,4833,"Central Zone","Central Zone","Central","Central","Central zone","CENTRAL","","",480071,476750,476420,476362,480071
-"AB",48,4834,"Edmonton Zone","Edmonton Zone","Edmonton","Edmonton","Edmonton zone","EDMONTON","","",1513391,1440729,1464578,1477002,1513391
-"AB",48,4835,"North Zone","North Zone","North","North","North zone","NORTH","","",457420,457834,457081,455281,457420
-"BC",59,591,"Interior Health","Interior Health","Interior","Interior","Interior","","","",842705,807888,817728,828220,842705
-"BC",59,592,"Fraser Health","Fraser Health","Fraser","Fraser","Fraser","","","",2026967,1910339,1939433,1966130,2026967
-"BC",59,593,"Vancouver Coastal Health","Vancouver Coastal Health","Vancouver Coastal","Vancouver Coastal","Vancouver Coastal","","","",1265559,1230939,1241302,1240910,1265559
-"BC",59,594,"Island Health","Island Health","Island","Island","Vancouver Island","","","",882577,847137,857325,866766,882577
-"BC",59,595,"Northern Health","Northern Health","Northern","Northern","Northern","","","",301516,298493,299707,300352,301516
-"MB",46,4601,"Winnipeg Regional Health Authority","Office régional de la santé de Winnipeg","Winnipeg","Winnipeg","Winnipeg","Winnipeg RHA","","",801292,779626,784421,790502,801292
-"MB",46,4602,"Prairie Mountain Health","Santé de Prairie Mountain","Prairie Mountain","Prairie Mountain","Prairie Mountain Health","Prairie Mountain Health","","",174314,172092,172919,173327,174314
-"MB",46,4603,"Interlake-Eastern Regional Health Authority","Office régional de la santé d'Entre-les-Lacs et de l'Est","Interlake-Eastern","Interlake-Eastern","Interlake-Eastern","Interlake-Eastern RHA","","",138707,134350,135527,137101,138707
-"MB",46,4604,"Northern Regional Health Authority","Office régional de la santé du Nord","Northern","Northern","Northern","Northern Health Region","","",75839,75801,75932,75978,75839
-"MB",46,4605,"Southern Health—Santé Sud","Southern Health—Santé Sud","Southern","Southern Health","Southern Health-Santé Sud","Southern Health-Santé Sud","","",219071,208085,211089,215071,219071
-"NB",13,1301,"Zone 1 (Moncton area)","Zone 1 (région de Moncton)","South East (Moncton)","Zone 1 (Moncton area)","Zone 1: South East Region (Moncton)","Zone 1","","",242720,222877,226903,231827,242720
-"NB",13,1302,"Zone 2 (Saint John area)","Zone 2 (région de Saint John)","South Central (Saint John)","Zone 2 (Saint John area)","Zone 2: South Central Region (Saint John)","Zone 2","","",182018,176351,177352,178337,182018
-"NB",13,1303,"Zone 3 (Fredericton area)","Zone 3 (région de Fredericton)","Central West (Fredericton)","Zone 3 (Fredericton area)","Zone 3: Central West Region (Fredericton)","Zone 3","","",191061,183426,184818,186116,191061
-"NB",13,1304,"Zone 4 (Edmundston area)","Zone 4 (région d'Edmundston)","North West (Edmundston)","Zone 4 (Edmundston area)","Zone 4: North West Region (Edmundston)","Zone 4","","",48614,48163,48006,48066,48614
-"NB",13,1305,"Zone 5 (Campbellton area)","Zone 5 (région de Campbellton)","North Central (Campbellton)","Zone 5 (Campbellton area)","Zone 5: North Central Region (Campbellton)","Zone 5","","",25057,25219,25079,24909,25057
-"NB",13,1306,"Zone 6 (Bathurst area)","Zone 6 (région de Bathurst)","North East (Bathurst)","Zone 6 (Bathurst area)","Zone 6: North East Region (Bathurst)","Zone 6","","",77311,76928,76751,76680,77311
-"NB",13,1307,"Zone 7 (Miramichi area)","Zone 7 (région de Miramichi)","Central East (Miramichi)","Zone 7 (Miramichi area)","Zone 7: Central East Region (Miramichi)","Zone 7","","",45280,44164,44087,44463,45280
-"NL",10,1011,"Eastern Regional Health Authority","Eastern Regional Health Authority","Eastern","Eastern","Eastern Health Authority","","","",322759,318598,318204,317980,322759
-"NL",10,1012,"Central Regional Health Authority","Central Regional Health Authority","Central","Central","Central Health Authority","","","",90398,91527,90676,90220,90398
-"NL",10,1013,"Western Regional Health Authority","Western Regional Health Authority","Western","Western","Western Health Authority","","","",76682,77067,76398,76234,76682
-"NL",10,1014,"Labrador-Grenfell Regional Health Authority","Labrador-Grenfell Regional Health Authority","Labrador-Grenfell","Labrador-Grenfell","Labrador-Grenfell Health Authority","","","",36133,36235,36081,36018,36133
-"NS",12,1201,"Zone 1 - Western","Zone 1 - Western","Western","Zone 1 - Western","Western","","","",204781,198891,199417,200938,204781
-"NS",12,1202,"Zone 2 - Northern","Zone 2 - Northern","Northern","Zone 2 - Northern","Northern","","","",152281,148535,149059,149971,152281
-"NS",12,1203,"Zone 3 - Eastern","Zone 3 - Eastern","Eastern","Zone 3 - Eastern","Eastern","","","",160818,161871,161223,159166,160818
-"NS",12,1204,"Zone 4 - Central","Zone 4 - Central","Central","Zone 4 - Central","Central","","","",501845,460946,471992,481042,501845
-"NT",61,6101,"Northwest Territories","Territoires du Nord-Ouest","NWT","NWT","","","","",45605,45070,45346,45597,45605
-"NU",62,6201,"Nunavut","Nunavut","Nunavut","Nunavut","","","","",40526,38592,39157,39711,40526
-"ON",35,3526,"The District of Algoma Health Unit","Circonscription sanitaire du district d'Algoma","Algoma","Algoma","ALGOMA DISTRICT","2226","Algoma Public Health","Algoma Public Health Unit",118656,117138,117637,117383,118656
-"ON",35,3527,"Brant County Health Unit","Circonscription sanitaire du comté de Brant","Brant","Brant","BRANT COUNTY","2227","Brant County Health Unit","",160687,151439,153604,156954,160687
-"ON",35,3530,"Durham Regional Health Unit","Circonscription sanitaire régionale de Durham","Durham","Durham","DURHAM REGION","2230","Durham Region Health Department","",745580,698265,713532,728026,745580
-"ON",35,3533,"Grey Bruce Health Unit","Circonscription sanitaire de Grey Bruce","Grey Bruce","Grey Bruce","GREY BRUCE","2233","Grey Bruce Health Unit","",182642,173707,176182,179462,182642
-"ON",35,3534,"Haldimand-Norfolk Health Unit","Circonscription sanitaire de Haldimand-Norfolk","Haldimand-Norfolk","Haldimand-Norfolk","HALDIMAND-NORFOLK","2234","Haldimand-Norfolk Health Unit","",124225,118939,120025,122148,124225
-"ON",35,3535,"Haliburton, Kawartha, Pine Ridge District Health Unit","Circonscription sanitaire du district de Haliburton, Kawartha et Pine Ridge","Haliburton, Kawartha, Pine Ridge","Haliburton Kawartha Pineridge","HALIBURTON, KAWARTHA, PINE RIDGE","2235","Haliburton, Kawartha, Pine Ridge District Health Unit","",196039,189551,191152,193564,196039
-"ON",35,3536,"Halton Regional Health Unit","Circonscription sanitaire régionale de Halton","Halton","Halton","HALTON REGION","2236","Halton Region Public Health","Halton Region Health Department",627194,597974,610116,616660,627194
-"ON",35,3537,"City of Hamilton Health Unit","Circonscription sanitaire de la cité de Hamilton","Hamilton","Hamilton","CITY OF HAMILTON","2237","City of Hamilton Public Health Services","Hamilton Public Health Services",597010,574343,582966,587412,597010
-"ON",35,3538,"Hastings and Prince Edward Counties Health Unit","Circonscription sanitaire des comtés de Hastings et Prince Edward","Hastings and Prince Edward","Hastings Prince Edward","HASTINGS & PRINCE EDWARD COUNTIES","2238","Hastings Prince Edward Public Health","",177354,170783,172830,174577,177354
-"ON",35,3540,"Chatham-Kent Health Unit","Circonscription sanitaire de Chatham-Kent","Chatham-Kent","Chatham-Kent","CHATHAM-KENT","2240","Chatham-Kent Public Health","",109049,106074,106975,108028,109049
-"ON",35,3541,"Kingston, Frontenac and Lennox and Addington Health Unit","Circonscription sanitaire de Kingston, Frontenac et Lennox et Addington","Kingston, Frontenac and Lennox and Addington","Kingston Frontenac Lennox & Addington","KINGSTON, FRONTENAC, LENNOX & ADDINGTON","2241","Kingston, Frontenac and Lennox & Addington Public Health","",213692,207713,209260,210129,213692
-"ON",35,3542,"Lambton Health Unit","Circonscription sanitaire de Lambton","Lambton","Lambton","LAMBTON COUNTY","2242","Lambton Public Health","",134331,132277,132592,132552,134331
-"ON",35,3543,"Leeds, Grenville and Lanark District Health Unit","Circonscription sanitaire du district de Leeds, Grenville et Lanark","Leeds, Grenville and Lanark","Leeds Grenville and Lanark","LEEDS, GRENVILLE AND LANARK DISTRICT","2243","Leeds, Grenville & Lanark District Health Unit","",184239,178014,179841,181877,184239
-"ON",35,3544,"Middlesex-London Health Unit","Circonscription sanitaire de Middlesex-London","Middlesex-London","Middlesex-London","MIDDLESEX-LONDON","2244","Middlesex-London Health Unit","",531933,502557,510109,515999,531933
-"ON",35,3546,"Niagara Regional Area Health Unit","Circonscription sanitaire régionale de Niagara","Niagara","Niagara","NIAGARA REGION","2246","Niagara Region Public Health","Niagara Region Public Health Department",496059,478085,481700,486570,496059
-"ON",35,3547,"North Bay Parry Sound District Health Unit","Circonscription sanitaire du district de North Bay Parry Sound","North Bay Parry Sound","North Bay Parry Sound","NORTH BAY PARRY SOUND DISTRICT","2247","North Bay Parry Sound District Health Unit","",134461,129262,129721,131118,134461
-"ON",35,3549,"Northwestern Health Unit","Circonscription sanitaire du Nord-Ouest","Northwestern","Northwestern","NORTHWESTERN","2249","Northwestern Health Unit","",82090,81368,81443,81870,82090
-"ON",35,3550,"Huron Perth Public Health Unit","Circonscription sanitaire de Huron et Perth","Huron Perth","Huron Perth","HURON PERTH","5183","Huron Perth Public Health","Huron Perth District Health Unit",150516,144689,146315,148380,150516
-"ON",35,3551,"City of Ottawa Health Unit","Circonscription sanitaire de la ville d'Ottawa","Ottawa","Ottawa","CITY OF OTTAWA","2251","Ottawa Public Health","",1071868,1025354,1044484,1052526,1071868
-"ON",35,3553,"Peel Regional Health Unit","Circonscription sanitaire régionale de Peel","Peel","Peel","PEEL REGION","2253","Peel Public Health","",1599357,1533899,1558793,1567000,1599357
-"ON",35,3555,"Peterborough County–City Health Unit","Circonscription sanitaire du comté et de la cité de Peterborough","Peterborough","Peterborough","PETERBOROUGH COUNTY-CITY","2255","Peterborough Public Health","",151061,147345,147848,148450,151061
-"ON",35,3556,"Porcupine Health Unit","Circonscription sanitaire de Porcupine","Porcupine","Porcupine","PORCUPINE","2256","Porcupine Health Unit","",85204,85281,85030,84704,85204
-"ON",35,3557,"Renfrew County and District Health Unit","Circonscription sanitaire du comté et du district de Renfrew","Renfrew","Renfrew","RENFREW COUNTY AND DISTRICT","2257","Renfrew County and District Health Unit","",110579,108071,108744,109783,110579
-"ON",35,3558,"The Eastern Ontario Health Unit","Circonscription sanitaire de l'Est de l'Ontario","Eastern","Eastern","EASTERN ONTARIO","2258","Eastern Ontario Health Unit","",221913,213501,216011,218777,221913
-"ON",35,3560,"Simcoe Muskoka District Health Unit","Circonscription sanitaire du district de Simcoe Muskoka","Simcoe Muskoka","Simcoe Muskoka","SIMCOE MUSKOKA DISTRICT","2260","Simcoe Muskoka District Health Unit","",634233,594236,605206,618137,634233
-"ON",35,3561,"Sudbury and District Health Unit","Circonscription sanitaire de Sudbury et son district","Sudbury","Sudbury","SUDBURY AND DISTRICT","2261","Public Health Sudbury & Districts","Sudbury & District Health Unit",208675,204622,205137,205797,208675
-"ON",35,3562,"Thunder Bay District Health Unit","Circonscription sanitaire du district de Thunder Bay","Thunder Bay","Thunder Bay","THUNDER BAY DISTRICT","2262","Thunder Bay District Health Unit","",156225,157615,157423,155938,156225
-"ON",35,3563,"Timiskaming Health Unit","Circonscription sanitaire de Timiskaming","Timiskaming","Timiskaming","TIMISKAMING","2263","Timiskaming Health Unit","",34433,33915,34007,34248,34433
-"ON",35,3565,"Waterloo Health Unit","Circonscription sanitaire de Waterloo","Waterloo","Waterloo","WATERLOO REGION","2265","Region of Waterloo Public Health and Emergency Services","Region of Waterloo, Public Health",633828,592983,604683,611177,633828
-"ON",35,3566,"Wellington-Dufferin-Guelph Health Unit","Circonscription sanitaire de Wellington-Dufferin-Guelph","Wellington-Dufferin-Guelph","Wellington Dufferin Guelph","WELLINGTON-DUFFERIN-GUELPH","2266","Wellington-Dufferin-Guelph Public Health","",321633,308152,312535,316466,321633
-"ON",35,3568,"Windsor-Essex County Health Unit","Circonscription sanitaire de Windsor-comté d'Essex","Windsor-Essex","Windsor-Essex","WINDSOR-ESSEX COUNTY","2268","Windsor-Essex County Health Unit","",436061,426042,427471,426142,436061
-"ON",35,3570,"York Regional Health Unit","Circonscription sanitaire régionale de York","York","York","YORK REGION","2270","York Region Public Health","York Region Public Health Services",1224524,1182745,1199551,1208000,1224524
-"ON",35,3575,"Southwestern Public Health Unit","Circonscription sanitaire du Sud-Ouest","Southwestern","Southwestern","OXFORD ELGIN-ST.THOMAS","4913","Southwestern Public Health","",228418,215535,219045,223541,228418
-"ON",35,3595,"City of Toronto Health Unit","Circonscription sanitaire de la cité de Toronto","Toronto","Toronto","TORONTO","3895","Toronto Public Health","",3025647,2963227,2984054,2955862,3025647
-"PE",11,1100,"Prince Edward Island","Île-du-Prince-Édouard","PEI","Prince Edward Island","","","","",170688,157419,161305,164758,170688
-"QC",24,2401,"Région du Bas-Saint-Laurent","Région du Bas-Saint-Laurent","Bas-Saint-Laurent","Bas-Saint-Laurent","01 - Bas-Saint-Laurent","","","",200507,197530,198078,199053,200507
-"QC",24,2402,"Région du Saguenay—Lac-Saint-Jean","Région du Saguenay—Lac-Saint-Jean","Saguenay-Lac-Saint-Jean","Saguenay","02 - Saguenay-Lac-Saint-Jean","","","",282330,278032,278968,279957,282330
-"QC",24,2403,"Région de la Capitale-Nationale","Région de la Capitale-Nationale","Capitale-Nationale","Capitale-Nationale","03 - Capitale-Nationale","","","",771611,751442,756796,760732,771611
-"QC",24,2404,"Région de la Mauricie et du Centre-du-Québec","Région de la Mauricie et du Centre-du-Québec","Mauricie et Centre-du-Québec","Mauricie","04 - Mauricie et Centre-du-Québec","","","",540196,520711,525770,532967,540196
-"QC",24,2405,"Région de l'Estrie","Région de l'Estrie","Estrie","Estrie","05 - Estrie","","","",514631,489986,497437,506512,514631
-"QC",24,2406,"Région de Montréal","Région de Montréal","Montréal","Montréal","06 - Montréal","","","",2038845,2066038,2072234,2024806,2038845
-"QC",24,2407,"Région de l'Outaouais","Région de l'Outaouais","Outaouais","Outaouais","07 - Outaouais","","","",408979,397007,401117,404354,408979
-"QC",24,2408,"Région de l'Abitibi-Témiscamingue","Région de l'Abitibi-Témiscamingue","Abitibi-Témiscamingue","Abitibi-Témiscamingue","08 - Abitibi-Témiscamingue","","","",148493,147634,147922,148162,148493
-"QC",24,2409,"Région de la Côte-Nord","Région de la Côte-Nord","Côte-Nord","Côte-Nord","09 - Côte-Nord","","","",90405,90717,90605,90523,90405
-"QC",24,2410,"Région du Nord-du-Québec","Région du Nord-du-Québec","Nord-du-Québec","Nord-du-Québec","10 - Nord-du-Québec","","","",13356,13648,13465,13399,13356
-"QC",24,2411,"Région de la Gaspésie—Îles-de-la-Madeleine","Région de la Gaspésie—Îles-de-la-Madeleine","Gaspésie-Îles-de-la-Madeleine","Gaspésie-Îles-de-la-Madeleine","11 - Gaspésie-Îles-de-la-Madeleine","","","",92403,90456,90689,92015,92403
-"QC",24,2412,"Région de la Chaudière-Appalaches","Région de la Chaudière-Appalaches","Chaudière-Appalaches","Chaudière-Appalaches","12 - Chaudière-Appalaches","","","",444072,428969,432805,438185,444072
-"QC",24,2413,"Région de Laval","Région de Laval","Laval","Laval","13 - Laval","","","",446476,439583,442574,443093,446476
-"QC",24,2414,"Région de Lanaudière","Région de Lanaudière","Lanaudière","Lanaudière","14 - Lanaudière","","","",544265,515727,524425,535132,544265
-"QC",24,2415,"Région des Laurentides","Région des Laurentides","Laurentides","Laurentides","15 - Laurentides","","","",657375,620648,631742,646888,657375
-"QC",24,2416,"Région de la Montérégie","Région de la Montérégie","Montérégie","Montérégie","16 - Montérégie","","","",1468155,1423109,1439247,1453313,1468155
-"QC",24,2417,"Région du Nunavik","Région du Nunavik","Nunavik","Nunavik","17 - Nunavik","","","",14658,14111,14357,14562,14658
-"QC",24,2418,"Région des Terres-Cries-de-la-Baie-James","Région des Terres-Cries-de-la-Baie-James","Terres-Cries-de-la-Baie-James","Terres-Cries-de-la-Baie-James","18 - Terres-Cries-de-la-Baie-James","","","",18902,18135,18364,18682,18902
-"SK",47,4711,"Far North West","Far North West","Far North West","Far North West","","","","",29813,,,,
-"SK",47,4712,"Far North Central","Far North Central","Far North Central","Far North Central","","","","",2649,,,,
-"SK",47,4713,"Far North East","Far North East","Far North East","Far North East","","","","",24249,,,,
-"SK",47,4721,"North West","North West","North West","North West","","","","",82386,,,,
-"SK",47,4722,"North Central","North Central","North Central","North Central","","","","",88991,,,,
-"SK",47,4723,"North East","North East","North East","North East","","","","",41560,,,,
-"SK",47,4731,"Central West","Central West","Central West","Central West","","","","",36962,,,,
-"SK",47,4732,"Central East","Central East","Central East","Central East","","","","",98368,,,,
-"SK",47,4741,"Saskatoon","Saskatoon","Saskatoon","Saskatoon","","","","",338106,,,,
-"SK",47,4751,"Regina","Regina","Regina","Regina","","","","",273351,,,,
-"SK",47,4761,"South West","South West","South West","South West","","","","",38670,,,,
-"SK",47,4762,"South Central","South Central","South Central","South Central","","","","",60459,,,,
-"SK",47,4763,"South East","South East","South East","South East","","","","",89294,,,,
-"YT",60,6001,"Yukon","Yukon","Yukon","Yukon","","","","",43789,41362,42163,43250,43789
+"region","pruid","hruid","name_canonical","name_canonical_fr","name_short","name_ccodwg","name_other_1","name_other_2","name_other_3","name_other_4","pop","pop_2019_07","pop_2020_07","pop_2021_07","pop_2022_07","pop_2023_07"
+"AB",48,4831,"South Zone","South Zone","South","South","South zone","SOUTH","","",320832,307787,310188,311913,314695,320832
+"AB",48,4832,"Calgary Zone","Calgary Zone","Calgary","Calgary","Calgary zone","CALGARY","","",1856636,1672590,1699496,1711784,1760874,1856636
+"AB",48,4833,"Central Zone","Central Zone","Central","Central","Central zone","CENTRAL","","",486790,475122,474751,475965,478725,486790
+"AB",48,4834,"Edmonton Zone","Edmonton Zone","Edmonton","Edmonton","Edmonton zone","EDMONTON","","",1556825,1438999,1462018,1471319,1498251,1556825
+"AB",48,4835,"North Zone","North Zone","North","North","North zone","NORTH","","",463431,460879,461042,460550,458202,463431
+"BC",59,591,"Interior Health","Interior Health","Interior","Interior","Interior","","","",877876,816253,828936,842423,861154,877876
+"BC",59,592,"Fraser Health","Fraser Health","Fraser","Fraser","Fraser","","","",2118993,1908594,1936544,1961094,2025497,2118993
+"BC",59,593,"Vancouver Coastal Health","Vancouver Coastal Health","Vancouver Coastal","Vancouver Coastal","Vancouver Coastal","","","",1328041,1241135,1254547,1256708,1282089,1328041
+"BC",59,594,"Island Health","Island Health","Island","Island","Vancouver Island","","","",907495,851203,862583,873463,893907,907495
+"BC",59,595,"Northern Health","Northern Health","Northern","Northern","Northern","","","",299148,293837,293491,292977,294839,299148
+"MB",46,4601,"Winnipeg Regional Health Authority","Office régional de la santé de Winnipeg","Winnipeg","Winnipeg","Winnipeg","Winnipeg RHA","","",835507,780342,785285,790082,803058,835507
+"MB",46,4602,"Prairie Mountain Health","Santé de Prairie Mountain","Prairie Mountain","Prairie Mountain","Prairie Mountain Health","Prairie Mountain Health","","",178038,171838,172790,173876,175530,178038
+"MB",46,4603,"Interlake-Eastern Regional Health Authority","Office régional de la santé d'Entre-les-Lacs et de l'Est","Interlake-Eastern","Interlake-Eastern","Interlake-Eastern","Interlake-Eastern RHA","","",141936,135570,137118,139403,141044,141936
+"MB",46,4604,"Northern Regional Health Authority","Office régional de la santé du Nord","Northern","Northern","Northern","Northern Health Region","","",75841,76033,76180,76391,75821,75841
+"MB",46,4605,"Southern Health—Santé Sud","Southern Health—Santé Sud","Southern","Southern Health","Southern Health-Santé Sud","Southern Health-Santé Sud","","",223421,206250,208759,212172,217115,223421
+"NB",13,1301,"Zone 1 (Moncton area)","Zone 1 (région de Moncton)","South East (Moncton)","Zone 1 (Moncton area)","Zone 1: South East Region (Moncton)","Zone 1","","",255835,226763,230838,235333,244318,255835
+"NB",13,1302,"Zone 2 (Saint John area)","Zone 2 (région de Saint John)","South Central (Saint John)","Zone 2 (Saint John area)","Zone 2: South Central Region (Saint John)","Zone 2","","",186053,176442,177567,178769,181908,186053
+"NB",13,1303,"Zone 3 (Fredericton area)","Zone 3 (région de Fredericton)","Central West (Fredericton)","Zone 3 (Fredericton area)","Zone 3: Central West Region (Fredericton)","Zone 3","","",194576,182608,183676,185009,189632,194576
+"NB",13,1304,"Zone 4 (Edmundston area)","Zone 4 (région d'Edmundston)","North West (Edmundston)","Zone 4 (Edmundston area)","Zone 4: North West Region (Edmundston)","Zone 4","","",47395,46123,46020,46149,46608,47395
+"NB",13,1305,"Zone 5 (Campbellton area)","Zone 5 (région de Campbellton)","North Central (Campbellton)","Zone 5 (Campbellton area)","Zone 5: North Central Region (Campbellton)","Zone 5","","",26156,26051,26034,26014,26077,26156
+"NB",13,1306,"Zone 6 (Bathurst area)","Zone 6 (région de Bathurst)","North East (Bathurst)","Zone 6 (Bathurst area)","Zone 6: North East Region (Bathurst)","Zone 6","","",82306,81016,80929,80920,81519,82306
+"NB",13,1307,"Zone 7 (Miramichi area)","Zone 7 (région de Miramichi)","Central East (Miramichi)","Zone 7 (Miramichi area)","Zone 7: Central East Region (Miramichi)","Zone 7","","",39869,38384,38368,38608,39202,39869
+"NL",10,1011,"Eastern Regional Health Authority","Eastern Regional Health Authority","Eastern","Eastern","Eastern Health Authority","","","",335843,322537,323220,323533,327986,335843
+"NL",10,1012,"Central Regional Health Authority","Central Regional Health Authority","Central","Central","Central Health Authority","","","",91187,92096,91491,91212,91282,91187
+"NL",10,1013,"Western Regional Health Authority","Western Regional Health Authority","Western","Western","Western Health Authority","","","",75537,76581,75783,75649,75599,75537
+"NL",10,1014,"Labrador-Grenfell Regional Health Authority","Labrador-Grenfell Regional Health Authority","Labrador-Grenfell","Labrador-Grenfell","Labrador-Grenfell Health Authority","","","",36340,36429,36390,36662,36441,36340
+"NS",12,1201,"Zone 1 - Western","Zone 1 - Western","Western","Zone 1 - Western","Western","","","",210841,200884,202202,204454,207792,210841
+"NS",12,1202,"Zone 2 - Northern","Zone 2 - Northern","Northern","Zone 2 - Northern","Northern","","","",158313,150676,151924,153516,155672,158313
+"NS",12,1203,"Zone 3 - Eastern","Zone 3 - Eastern","Eastern","Zone 3 - Eastern","Eastern","","","",173664,164203,164408,163579,166703,173664
+"NS",12,1204,"Zone 4 - Central","Zone 4 - Central","Central","Zone 4 - Central","Central","","","",513668,460036,470634,478359,495096,513668
+"NT",61,6101,"Northwest Territories","Territoires du Nord-Ouest","NWT","NWT","","","","",44681,44442,44504,44579,44634,44681
+"NU",62,6201,"Nunavut","Nunavut","Nunavut","Nunavut","","","","",40700,38839,39479,40086,40457,40700
+"ON",35,3526,"The District of Algoma Health Unit","Circonscription sanitaire du district d'Algoma","Algoma","Algoma","ALGOMA DISTRICT","2226","Algoma Public Health","Algoma Public Health Unit",123124,117263,117727,117597,120079,123124
+"ON",35,3527,"Brant County Health Unit","Circonscription sanitaire du comté de Brant","Brant","Brant","BRANT COUNTY","2227","Brant County Health Unit","",169367,152766,155411,158639,163532,169367
+"ON",35,3530,"Durham Regional Health Unit","Circonscription sanitaire régionale de Durham","Durham","Durham","DURHAM REGION","2230","Durham Region Health Department","",767508,698701,713969,727554,745514,767508
+"ON",35,3533,"Grey Bruce Health Unit","Circonscription sanitaire de Grey Bruce","Grey Bruce","Grey Bruce","GREY BRUCE","2233","Grey Bruce Health Unit","",188295,174318,177149,180924,185318,188295
+"ON",35,3534,"Haldimand-Norfolk Health Unit","Circonscription sanitaire de Haldimand-Norfolk","Haldimand-Norfolk","Haldimand-Norfolk","HALDIMAND-NORFOLK","2234","Haldimand-Norfolk Health Unit","",126669,118291,119560,121506,124456,126669
+"ON",35,3535,"Haliburton, Kawartha, Pine Ridge District Health Unit","Circonscription sanitaire du district de Haliburton, Kawartha et Pine Ridge","Haliburton, Kawartha, Pine Ridge","Haliburton Kawartha Pineridge","HALIBURTON, KAWARTHA, PINE RIDGE","2235","Haliburton, Kawartha, Pine Ridge District Health Unit","",202232,190835,192911,195905,200058,202232
+"ON",35,3536,"Halton Regional Health Unit","Circonscription sanitaire régionale de Halton","Halton","Halton","HALTON REGION","2236","Halton Region Public Health","Halton Region Health Department",644520,600639,613398,620420,630507,644520
+"ON",35,3537,"City of Hamilton Health Unit","Circonscription sanitaire de la cité de Hamilton","Hamilton","Hamilton","CITY OF HAMILTON","2237","City of Hamilton Public Health Services","Hamilton Public Health Services",616455,578790,588282,594074,602551,616455
+"ON",35,3538,"Hastings and Prince Edward Counties Health Unit","Circonscription sanitaire des comtés de Hastings et Prince Edward","Hastings and Prince Edward","Hastings Prince Edward","HASTINGS & PRINCE EDWARD COUNTIES","2238","Hastings Prince Edward Public Health","",184219,172723,175338,177847,181662,184219
+"ON",35,3540,"Chatham-Kent Health Unit","Circonscription sanitaire de Chatham-Kent","Chatham-Kent","Chatham-Kent","CHATHAM-KENT","2240","Chatham-Kent Public Health","",110527,106261,107248,108266,109458,110527
+"ON",35,3541,"Kingston, Frontenac and Lennox and Addington Health Unit","Circonscription sanitaire de Kingston, Frontenac et Lennox et Addington","Kingston, Frontenac and Lennox and Addington","Kingston Frontenac Lennox & Addington","KINGSTON, FRONTENAC, LENNOX & ADDINGTON","2241","Kingston, Frontenac and Lennox & Addington Public Health","",224574,210534,213157,215338,220051,224574
+"ON",35,3542,"Lambton Health Unit","Circonscription sanitaire de Lambton","Lambton","Lambton","LAMBTON COUNTY","2242","Lambton Public Health","",140561,133555,134221,134665,137919,140561
+"ON",35,3543,"Leeds, Grenville and Lanark District Health Unit","Circonscription sanitaire du district de Leeds, Grenville et Lanark","Leeds, Grenville and Lanark","Leeds Grenville and Lanark","LEEDS, GRENVILLE AND LANARK DISTRICT","2243","Leeds, Grenville & Lanark District Health Unit","",192142,180417,183143,186407,190157,192142
+"ON",35,3544,"Middlesex-London Health Unit","Circonscription sanitaire de Middlesex-London","Middlesex-London","Middlesex-London","MIDDLESEX-LONDON","2244","Middlesex-London Health Unit","",562077,508594,517731,525235,542578,562077
+"ON",35,3546,"Niagara Regional Area Health Unit","Circonscription sanitaire régionale de Niagara","Niagara","Niagara","NIAGARA REGION","2246","Niagara Region Public Health","Niagara Region Public Health Department",524301,484571,490443,497159,508782,524301
+"ON",35,3547,"North Bay Parry Sound District Health Unit","Circonscription sanitaire du district de North Bay Parry Sound","North Bay Parry Sound","North Bay Parry Sound","NORTH BAY PARRY SOUND DISTRICT","2247","North Bay Parry Sound District Health Unit","",141791,131118,132306,134146,137842,141791
+"ON",35,3549,"Northwestern Health Unit","Circonscription sanitaire du Nord-Ouest","Northwestern","Northwestern","NORTHWESTERN","2249","Northwestern Health Unit","",83168,81926,82375,83165,83153,83168
+"ON",35,3550,"Huron Perth Public Health Unit","Circonscription sanitaire de Huron et Perth","Huron Perth","Huron Perth","HURON PERTH","5183","Huron Perth Public Health","Huron Perth District Health Unit",153738,144832,146628,148851,151389,153738
+"ON",35,3551,"City of Ottawa Health Unit","Circonscription sanitaire de la ville d'Ottawa","Ottawa","Ottawa","CITY OF OTTAWA","2251","Ottawa Public Health","",1115724,1031510,1052089,1062174,1082567,1115724
+"ON",35,3553,"Peel Regional Health Unit","Circonscription sanitaire régionale de Peel","Peel","Peel","PEEL REGION","2253","Peel Public Health","",1592893,1510066,1524742,1514466,1529179,1592893
+"ON",35,3555,"Peterborough County–City Health Unit","Circonscription sanitaire du comté et de la cité de Peterborough","Peterborough","Peterborough","PETERBOROUGH COUNTY-CITY","2255","Peterborough Public Health","",161409,150317,151769,153371,156879,161409
+"ON",35,3556,"Porcupine Health Unit","Circonscription sanitaire de Porcupine","Porcupine","Porcupine","PORCUPINE","2256","Porcupine Health Unit","",88316,85850,85782,85870,86513,88316
+"ON",35,3557,"Renfrew County and District Health Unit","Circonscription sanitaire du comté et du district de Renfrew","Renfrew","Renfrew","RENFREW COUNTY AND DISTRICT","2257","Renfrew County and District Health Unit","",114512,109134,110254,111762,113185,114512
+"ON",35,3558,"The Eastern Ontario Health Unit","Circonscription sanitaire de l'Est de l'Ontario","Eastern","Eastern","EASTERN ONTARIO","2258","Eastern Ontario Health Unit","",229014,214446,217326,220630,224557,229014
+"ON",35,3560,"Simcoe Muskoka District Health Unit","Circonscription sanitaire du district de Simcoe Muskoka","Simcoe Muskoka","Simcoe Muskoka","SIMCOE MUSKOKA DISTRICT","2260","Simcoe Muskoka District Health Unit","",658247,598482,611173,625178,643544,658247
+"ON",35,3561,"Sudbury and District Health Unit","Circonscription sanitaire de Sudbury et son district","Sudbury","Sudbury","SUDBURY AND DISTRICT","2261","Public Health Sudbury & Districts","Sudbury & District Health Unit",218455,207288,208810,210356,213431,218455
+"ON",35,3562,"Thunder Bay District Health Unit","Circonscription sanitaire du district de Thunder Bay","Thunder Bay","Thunder Bay","THUNDER BAY DISTRICT","2262","Thunder Bay District Health Unit","",161835,159162,159565,158830,159981,161835
+"ON",35,3563,"Timiskaming Health Unit","Circonscription sanitaire de Timiskaming","Timiskaming","Timiskaming","TIMISKAMING","2263","Timiskaming Health Unit","",34132,33469,33433,33612,33958,34132
+"ON",35,3565,"Waterloo Health Unit","Circonscription sanitaire de Waterloo","Waterloo","Waterloo","WATERLOO REGION","2265","Region of Waterloo Public Health and Emergency Services","Region of Waterloo, Public Health",673843,594555,606912,614268,638084,673843
+"ON",35,3566,"Wellington-Dufferin-Guelph Health Unit","Circonscription sanitaire de Wellington-Dufferin-Guelph","Wellington-Dufferin-Guelph","Wellington Dufferin Guelph","WELLINGTON-DUFFERIN-GUELPH","2266","Wellington-Dufferin-Guelph Public Health","",332487,310551,315796,320435,326924,332487
+"ON",35,3568,"Windsor-Essex County Health Unit","Circonscription sanitaire de Windsor-comté d'Essex","Windsor-Essex","Windsor-Essex","WINDSOR-ESSEX COUNTY","2268","Windsor-Essex County Health Unit","",468933,434247,438724,439914,452817,468933
+"ON",35,3570,"York Regional Health Unit","Circonscription sanitaire régionale de York","York","York","YORK REGION","2270","York Region Public Health","York Region Public Health Services",1252571,1192424,1211591,1220989,1230636,1252571
+"ON",35,3575,"Southwestern Public Health Unit","Circonscription sanitaire du Sud-Ouest","Southwestern","Southwestern","OXFORD ELGIN-ST.THOMAS","4913","Southwestern Public Health","",235367,216568,220482,225269,230304,235367
+"ON",35,3595,"City of Toronto Health Unit","Circonscription sanitaire de la cité de Toronto","Toronto","Toronto","TORONTO","3895","Toronto Public Health","",3130201,2939362,2952366,2917666,2983890,3130201
+"PE",11,1100,"Prince Edward Island","Île-du-Prince-Édouard","PEI","Prince Edward Island","","","","",173713,155792,159193,162133,167213,173713
+"QC",24,2401,"Région du Bas-Saint-Laurent","Région du Bas-Saint-Laurent","Bas-Saint-Laurent","Bas-Saint-Laurent","01 - Bas-Saint-Laurent","","","",202605,197170,197815,199319,200929,202605
+"QC",24,2402,"Région du Saguenay—Lac-Saint-Jean","Région du Saguenay—Lac-Saint-Jean","Saguenay-Lac-Saint-Jean","Saguenay","02 - Saguenay-Lac-Saint-Jean","","","",282690,275882,276216,276563,279422,282690
+"QC",24,2403,"Région de la Capitale-Nationale","Région de la Capitale-Nationale","Capitale-Nationale","Capitale-Nationale","03 - Capitale-Nationale","","","",793001,753293,759259,762707,774804,793001
+"QC",24,2404,"Région de la Mauricie et du Centre-du-Québec","Région de la Mauricie et du Centre-du-Québec","Mauricie et Centre-du-Québec","Mauricie","04 - Mauricie et Centre-du-Québec","","","",542380,516767,520677,526437,534252,542380
+"QC",24,2405,"Région de l'Estrie","Région de l'Estrie","Estrie","Estrie","05 - Estrie","","","",523545,489581,496987,506130,514733,523545
+"QC",24,2406,"Région de Montréal","Région de Montréal","Montréal","Montréal","06 - Montréal","","","",2109525,2059126,2061967,2015879,2035975,2109525
+"QC",24,2407,"Région de l'Outaouais","Région de l'Outaouais","Outaouais","Outaouais","07 - Outaouais","","","",418011,399090,404058,408052,412121,418011
+"QC",24,2408,"Région de l'Abitibi-Témiscamingue","Région de l'Abitibi-Témiscamingue","Abitibi-Témiscamingue","Abitibi-Témiscamingue","08 - Abitibi-Témiscamingue","","","",148564,147202,147435,147838,148118,148564
+"QC",24,2409,"Région de la Côte-Nord","Région de la Côte-Nord","Côte-Nord","Côte-Nord","09 - Côte-Nord","","","",89914,90289,90121,90171,89987,89914
+"QC",24,2410,"Région du Nord-du-Québec","Région du Nord-du-Québec","Nord-du-Québec","Nord-du-Québec","10 - Nord-du-Québec","","","",13423,13709,13546,13510,13434,13423
+"QC",24,2411,"Région de la Gaspésie—Îles-de-la-Madeleine","Région de la Gaspésie—Îles-de-la-Madeleine","Gaspésie-Îles-de-la-Madeleine","Gaspésie-Îles-de-la-Madeleine","11 - Gaspésie-Îles-de-la-Madeleine","","","",92059,89638,89865,91324,91804,92059
+"QC",24,2412,"Région de la Chaudière-Appalaches","Région de la Chaudière-Appalaches","Chaudière-Appalaches","Chaudière-Appalaches","12 - Chaudière-Appalaches","","","",448199,427175,430682,435581,441535,448199
+"QC",24,2413,"Région de Laval","Région de Laval","Laval","Laval","13 - Laval","","","",450710,438498,441071,440489,443792,450710
+"QC",24,2414,"Région de Lanaudière","Région de Lanaudière","Lanaudière","Lanaudière","14 - Lanaudière","","","",551592,514445,522824,532680,541728,551592
+"QC",24,2415,"Région des Laurentides","Région des Laurentides","Laurentides","Laurentides","15 - Laurentides","","","",663358,618316,628998,643216,653655,663358
+"QC",24,2416,"Région de la Montérégie","Région de la Montérégie","Montérégie","Montérégie","16 - Montérégie","","","",1485217,1421198,1437408,1449506,1463960,1485217
+"QC",24,2417,"Région du Nunavik","Région du Nunavik","Nunavik","Nunavik","17 - Nunavik","","","",14382,13841,14036,14201,14297,14382
+"QC",24,2418,"Région des Terres-Cries-de-la-Baie-James","Région des Terres-Cries-de-la-Baie-James","Terres-Cries-de-la-Baie-James","Terres-Cries-de-la-Baie-James","18 - Terres-Cries-de-la-Baie-James","","","",18845,17966,18130,18417,18638,18845
+"SK",47,4711,"Far North West","Far North West","Far North West","Far North West","","","","",29813,,29866,29813,,
+"SK",47,4712,"Far North Central","Far North Central","Far North Central","Far North Central","","","","",2649,,2662,2649,,
+"SK",47,4713,"Far North East","Far North East","Far North East","Far North East","","","","",24249,,24195,24249,,
+"SK",47,4721,"North West","North West","North West","North West","","","","",82386,,84130,82386,,
+"SK",47,4722,"North Central","North Central","North Central","North Central","","","","",88991,,89824,88991,,
+"SK",47,4723,"North East","North East","North East","North East","","","","",41560,,42260,41560,,
+"SK",47,4731,"Central West","Central West","Central West","Central West","","","","",36962,,37696,36962,,
+"SK",47,4732,"Central East","Central East","Central East","Central East","","","","",98368,,99982,98368,,
+"SK",47,4741,"Saskatoon","Saskatoon","Saskatoon","Saskatoon","","","","",338106,,334757,338106,,
+"SK",47,4751,"Regina","Regina","Regina","Regina","","","","",273351,,273287,273351,,
+"SK",47,4761,"South West","South West","South West","South West","","","","",38670,,39541,38670,,
+"SK",47,4762,"South Central","South Central","South Central","South Central","","","","",60459,,61833,60459,,
+"SK",47,4763,"South East","South East","South East","South East","","","","",89294,,91100,89294,,
+"YT",60,6001,"Yukon","Yukon","Yukon","Yukon","","","","",45463,41187,41958,42961,43900,45463
