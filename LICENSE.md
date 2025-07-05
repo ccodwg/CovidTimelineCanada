@@ -24,7 +24,7 @@ Contains information from the Ministère de la Santé et des services sociaux li
 
 #### Statistics Canada (population data)
 
-Adapted from Statistics Canada, 17-10-0009-01, 2022-03-17 and Statistics Canada, 17-10-0134-01, 2022-03-22. This does not constitute an endorsement by Statistics Canada of this product.
+Adapted from Statistics Canada *Table 17-10-0009-01 Population estimates, quarterly* and Statistics Canada, *Table 17-10-0157-01  Population estimates, July 1, by health region and peer group, 2023 boundaries*. This does not constitute an endorsement by Statistics Canada of this product.
 
 #### Other acknowledgements
 
