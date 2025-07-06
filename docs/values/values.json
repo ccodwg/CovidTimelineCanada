@@ -242,6 +242,12 @@
             "hr": "na"
         },
         "data_notes": {
+            "can": {
+                "date_start": "",
+                "date_end": "",
+                "note": "Described as 'the total number of hospital beds occupied by COVID-19 patients'.",
+                "source": "https://web.archive.org/web/20231220092425/https://health-infobase.canada.ca/covid-19/current-situation.html (Hospital use)"
+            },
             "ab": [
                 {
                     "date_start": "",
@@ -380,6 +386,12 @@
             "pt": "pt",
             "hr": "na"
         },
+        "can": {
+                "date_start": "",
+                "date_end": "",
+                "note": "Described as 'the number of ICU beds occupied by COVID-19 patients'.",
+                "source": "https://web.archive.org/web/20231220092425/https://health-infobase.canada.ca/covid-19/current-situation.html (Hospital use)"
+            },
         "ab": [
             {
                 "date_start": "",
