@@ -207,6 +207,14 @@
                     "source": "https://web.archive.org/web/20231014151241/https://novascotia.ca/dhw/cdpc/respiratory-watch/respiratory-watch-2023-35-39.pdf"
                 }
             ],
+            "nt": [
+                {
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "The note for cases may be relevant to death data as well: 'Cases included NWT residents, as well as a small number of residents testing positive out-of-territory (14 by end of data collection). Cases excluded non-NWT residents (624 by end of data collection). Reporting a positive rapid antigen test (RAT) result was mandatory from 2021-12-31 to 2022-03-31, and these results were reported as cases on the NWT dashboard alongside PCR and POCT results. No more cases ascertained by RATs were reported after 2022-04-04.'",
+                    "source": "https://web.archive.org/web/20211231212919/https://www.gov.nt.ca/en/newsroom/new-public-guidance-testing-nwt; https://web.archive.org/web/20220331173101/https://www.gov.nt.ca/en/newsroom/gnwt-ending-covid-19-public-health-emergency; https://nwt-covid.shinyapps.io/Testing-and-Cases/?lang=1 (dead link)"
+                }
+            ],
             "nu": [
                 {
                     "date_start": "",
