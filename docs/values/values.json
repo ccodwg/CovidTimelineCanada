@@ -328,12 +328,12 @@
                     "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf (footnote 3 on page 1)"
                 }
             ],
-            "on": [
+            "ns": [
                 {
-                    "date_start": "2023-09-09",
-                    "date_end": "2023-10-20",
-                    "note": "ICU occupancy data are not available for 2023-09-09 to 2023-10-20 (total hospital occupancy data are not affected). The value for ICU occupancy from 2023-09-08 was carried forward for this period of missing data, but is likely an underestimate given the trend in total hospital occupancy.",
-                    "source": "https://web.archive.org/web/20231109164621/https://data.ontario.ca/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-health-region"
+                    "date_start": "",
+                    "date_end": "",
+                    "note": "It is not clear how COVID-19 hospital or ICU occupancy was defined throughout the pandemic, but a sample report from March 2022 notes 'there are 42 people currently hospitalized for COVID-19'.",
+                    "source": "https://web.archive.org/web/20250809003606/https://news.novascotia.ca/en/2022/03/25/covid-19-weekly-data-report-march-24"
                 }
             ],
             "nu": [
@@ -342,6 +342,20 @@
                     "date_end": "",
                     "note": "Many individuals requiring hospitalization in Nunavut may be hospitalized in other provinces.",
                     "source": "https://web.archive.org/web/20220101111037/https://gov.nu.ca/health/news/covid-19-department-health-services-update"
+                }
+            ],
+            "on": [
+                {
+                    "date_start": "2023-09-09",
+                    "date_end": "2023-10-20",
+                    "note": "ICU occupancy data are not available for 2023-09-09 to 2023-10-20 (total hospital occupancy data are not affected). The value for ICU occupancy from 2023-09-08 was carried forward for this period of missing data, but is likely an underestimate given the trend in total hospital occupancy.",
+                    "source": "https://web.archive.org/web/20231109164621/https://data.ontario.ca/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-health-region"
+                },
+                {
+                    "date_start": "2023-10-24",
+                    "date_end": "",
+                    "note": "The source dataset has the following note: 'Data for the period of October 24, 2023 to March 24, 2024 excludes hospitals in the West region who were experiencing data availability issues.' However, data for the West sub-region appears to be reported normally in the source dataset, so no action was taken.",
+                    "source": "https://web.archive.org/web/20250809010435/https://data.ontario.ca/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-health-region/resource/e760480e-1f95-4634-a923-98161cfb02fa"
                 }
             ],
             "pe": [
@@ -360,7 +374,13 @@
             ],
             "qc": [
                 {
-                    "date_start": "",
+                    "date_start": "2020-04-11",
+                    "date_end": "",
+                    "note": "QC hospital and ICU occupancy are based on the combination of emergency department visit data from SIGDU, hospitalization data (regular and preliminary) from MED-ECHO, and positive SARS-CoV-2 PCR laboratory tests. Preliminary hospitalization data are replaced by the annual, validated MED-ECHO file when it becomes available.",
+                    "source": "https://web.archive.org/web/20231207031511/https://www.donneesquebec.ca/recherche/dataset/99517f1f-9e4d-4853-98da-47f7cafb4d77/resource/2227d1b2-8449-4a3d-9c3b-682226dfe687/download/listevariables_notesmetho_hospit_20231205.pdf (pages 1-2)"
+                },
+                {
+                    "date_start": "2020-04-11",
                     "date_end": "",
                     "note": "The QC hospital and ICU occupancy datasets end on 2023-12-05. While data are available from the source dataset (MSSS) after this date, the new dataset uses a different methodology and replaces all data retroactively. However, the new dataset does not distinguish ICU occupancy. In the interest of preserving historical ICU occupancy data, this new hospital occupancy dataset was not incorporated.",
                     "source": "https://web.archive.org/web/20231207031511/https://www.donneesquebec.ca/recherche/dataset/99517f1f-9e4d-4853-98da-47f7cafb4d77/resource/2227d1b2-8449-4a3d-9c3b-682226dfe687/download/listevariables_notesmetho_hospit_20231205.pdf (page 2)"
@@ -368,10 +388,16 @@
             ],
             "sk": [
                 {
-                    "date_start": "",
-                    "date_end": "2022-02-09",
-                    "note": "The source dataset decomposed hospital occupancy into 'Total Covid Related Illness', 'Total Incidental Covid Infection', and 'Total Patient Under Investigation'. However, ICU occupancy was not decomposed in this way. Thus, we report 'Total Covid Hospitalized' and 'Total Covid Adult ICU/ICU Surge' for consistency and to allow fair calculation of non-ICU hospital occupancy.",
-                    "source": "https://web.archive.org/web/20220213024332/https://pubsaskdev.blob.core.windows.net/pubsask-prod/133268/Integrated%252BEpi%252BSit%252BReport-Jan%252B30-Feb%252B5.pdf (Weekly COVID Hospitalization Indicators)"
+                    "date_start": "2022-01-06",
+                    "date_end": "2022-02-06",
+                    "note": "The dashboard briefly decomposed hospital and ICU occupancy into 'COVID-19 related illness', 'incidental, asymptomatic infections', and 'not yet been determined'. However, total hospital and ICU occupancy are reported here to maintain compatibility with the data released prior to and following this period.",
+                    "source": "https://web.archive.org/web/20220119221055/https://dashboard.saskatchewan.ca/health-wellness/covid-19-cases/hospitalized (Highlights)"
+                },
+                {
+                    "date_start": "2022-02-09",
+                    "date_end": "",
+                    "note": "The report decomposed hospital occupancy into 'Total Covid Related Illness', 'Total Incidental Covid Infection', and 'Total Patient Under Investigation'. However, ICU occupancy was not decomposed in this way. Thus, we report 'Total Covid Hospitalized' and 'Total Covid Adult ICU/ICU Surge' for consistency and to allow fair calculation of non-ICU hospital occupancy.",
+                    "source": "https://web.archive.org/web/20220624235940/https://pubsaskdev.blob.core.windows.net/pubsask-prod/135947/Integrated%2BEpi%2BSit%2BReport%2BJune%2B12-18.pdf (Weekly COVID Hospitalization Indicators)"
                 }
             ]
         }
@@ -478,6 +504,14 @@
                 "source": "https://web.archive.org/web/20220405174334/https://www2.gnb.ca/content/dam/gnb/Departments/eco-bce/Promo/covid-19/report-rapport/March27toApril2-2022.pdf (footnote 3 on page 1)"
             }
         ],
+        "ns": [
+            {
+                "date_start": "",
+                "date_end": "",
+                "note": "It is not clear how COVID-19 hospital or ICU occupancy was defined throughout the pandemic, but a sample report from March 2022 notes 'there are 42 people currently hospitalized for COVID-19'.",
+                "source": "https://web.archive.org/web/20250809003606/https://news.novascotia.ca/en/2022/03/25/covid-19-weekly-data-report-march-24"
+            }
+        ],
         "nu": [
             {
                 "date_start": "",
@@ -488,10 +522,22 @@
         ],
         "on": [
             {
+                "date_start": "2020-07-03",
+                "date_end": "2020-07-03",
+                "note": "ICU occupancy data were excluded on 2020-07-03 and carried forward from the previous date due to missing data for all regions in the dataset.",
+                "source": ""
+            },
+            {
                 "date_start": "2023-09-09",
                 "date_end": "2023-10-20",
                 "note": "ICU occupancy data are not available for 2023-09-09 to 2023-10-20 (total hospital occupancy data are not affected). The value for ICU occupancy from 2023-09-08 was carried forward for this period of missing data, but is likely an underestimate given the trend in total hospital occupancy.",
                 "source": "https://web.archive.org/web/20231109164621/https://data.ontario.ca/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-health-region"
+            },
+            {
+                "date_start": "2023-10-24",
+                "date_end": "",
+                "note": "The source dataset has the following note: 'Data for the period of October 24, 2023 to March 24, 2024 excludes hospitals in the West region who were experiencing data availability issues.' However, data for the West sub-region appears to be reported normally in the source dataset, so no action was taken.",
+                "source": "https://web.archive.org/web/20250809010435/https://data.ontario.ca/dataset/covid-19-cases-in-hospital-and-icu-by-ontario-health-region/resource/e760480e-1f95-4634-a923-98161cfb02fa"
             }
         ],
         "pe": [
@@ -510,7 +556,13 @@
         ],
         "qc": [
             {
-                "date_start": "",
+                "date_start": "2020-04-11",
+                "date_end": "",
+                "note": "QC hospital and ICU occupancy are based on the combination of emergency department visit data from SIGDU, hospitalization data (regular and preliminary) from MED-ECHO, and positive SARS-CoV-2 PCR laboratory tests. Preliminary hospitalization data are replaced by the annual, validated MED-ECHO file when it becomes available.",
+                "source": "https://web.archive.org/web/20231207031511/https://www.donneesquebec.ca/recherche/dataset/99517f1f-9e4d-4853-98da-47f7cafb4d77/resource/2227d1b2-8449-4a3d-9c3b-682226dfe687/download/listevariables_notesmetho_hospit_20231205.pdf (pages 1-2)"
+            },
+            {
+                "date_start": "2020-04-11",
                 "date_end": "",
                 "note": "The QC hospital and ICU occupancy datasets end on 2023-12-05. While data are available from the source dataset (MSSS) after this date, the new dataset uses a different methodology and replaces all data retroactively. However, the new dataset does not distinguish ICU occupancy. In the interest of preserving historical ICU occupancy data, this new hospital occupancy dataset was not incorporated.",
                 "source": "https://web.archive.org/web/20231207031511/https://www.donneesquebec.ca/recherche/dataset/99517f1f-9e4d-4853-98da-47f7cafb4d77/resource/2227d1b2-8449-4a3d-9c3b-682226dfe687/download/listevariables_notesmetho_hospit_20231205.pdf (page 2)"
@@ -518,10 +570,16 @@
         ],
         "sk": [
             {
-                "date_start": "",
-                "date_end": "2022-02-09",
-                "note": "The source dataset decomposed hospital occupancy into 'Total Covid Related Illness', 'Total Incidental Covid Infection', and 'Total Patient Under Investigation'. However, ICU occupancy was not decomposed in this way. Thus, we report 'Total Covid Hospitalized' and 'Total Covid Adult ICU/ICU Surge' for consistency and to allow fair calculation of non-ICU hospital occupancy.",
-                "source": "https://web.archive.org/web/20220213024332/https://pubsaskdev.blob.core.windows.net/pubsask-prod/133268/Integrated%252BEpi%252BSit%252BReport-Jan%252B30-Feb%252B5.pdf (Weekly COVID Hospitalization Indicators)"
+                "date_start": "2022-01-06",
+                "date_end": "2022-02-06",
+                "note": "The dashboard briefly decomposed hospital and ICU occupancy into 'COVID-19 related illness', 'incidental, asymptomatic infections', and 'not yet been determined'. However, total hospital and ICU occupancy are reported here to maintain compatibility with the data released prior to and following this period.",
+                "source": "https://web.archive.org/web/20220119221055/https://dashboard.saskatchewan.ca/health-wellness/covid-19-cases/hospitalized (Highlights)"
+            },
+            {
+                "date_start": "2022-02-09",
+                "date_end": "",
+                "note": "The report decomposed hospital occupancy into 'Total Covid Related Illness', 'Total Incidental Covid Infection', and 'Total Patient Under Investigation'. However, ICU occupancy was not decomposed in this way. Thus, we report 'Total Covid Hospitalized' and 'Total Covid Adult ICU/ICU Surge' for consistency and to allow fair calculation of non-ICU hospital occupancy.",
+                "source": "https://web.archive.org/web/20220624235940/https://pubsaskdev.blob.core.windows.net/pubsask-prod/135947/Integrated%2BEpi%2BSit%2BReport%2BJune%2B12-18.pdf (Weekly COVID Hospitalization Indicators)"
             }
         ]
     },
