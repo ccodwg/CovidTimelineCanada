@@ -17,6 +17,28 @@ The following columns are included:
 
 ### MB
 
+There are two datasets for Manitoba.
+
+### Active and non-infectious
+
+The first dataset is sourced from Manitoba's [COVID-19 dashboard](https://experience.arcgis.com/experience/f55693e56018406ebbd08b3492e99771) (archive UUID: `8cb83971-19f0-4dfc-b832-69efc1036ddd`), where the province distinguished hospital/ICU occupancy for cases with active COVID-19 and those no longer infectious but still requiring care (this is **not** the same thing as "for" and "with" COVID-19). An [example of the language used](https://web.archive.org/web/20220107184243/https://news.gov.mb.ca/news/index.html?item=53158&posted=2022-01-07) is as follows:
+
+> - 297 Manitobans hospitalized with COVID-19 including 257 people with active COVID-19 as well as 40 people who are no longer infectious;
+> - a total of 34 Manitoba patients receiving intensive care for COVID-19 including 33 people in intensive care units with active COVID-19 as well as one person who is no longer infectious but continue to require critical care
+
+These data were reported on Manitoba's dashboard between 2021-02-04 and 2022-03-25. Earlier data reporting the same values can be found in Manitoba's [COVID-19 bulletins](https://news.gov.mb.ca/news/index.html?item=50563) but has not been added to this dataset.
+
+The following columns are included:
+
+- `mb_hosp_occupancy_active_and_non_infectious`: Total hospital occupancy (this is the standard value reported in the main dataset)
+- `mb_hosp_occupancy_active`: Hospital occupancy with active COVID-19, as defined above
+- `mb_icu_occupancy_active_and_non_infectious`: Total ICU occupancy (this is the standard value reported in the main dataset)
+- `mb_icu_occupancy_active`: ICU occupancy with active COVID-19, as defined above
+
+This dataset considers only ICU occupancy within the province. See the second dataset below for out-of-province ICU occupancy for Manitoba residents.
+
+### In-province and out-of-province
+
 Sourced from Manitoba's [COVID-19 bulletins](https://news.gov.mb.ca/news/?archive=&item=51383), the province reported ICU occupancy in- and out-of-province between 2021-06-04 and 2021-07-16 (although out-of-province ICU occupancy clearly began prior to this date). In the main dataset, we report only in-province ICU occupancy.
 
 The following columns are included:
@@ -63,16 +85,39 @@ The [INSPQ dashboard](https://www.inspq.qc.ca/covid-19/donnees) (archive UUID: `
 
 According to the original data notes, admissions with unknown status are included in the "with" category. The most recent days of data, particularly the most recent day of data, may be incomplete.
 
-
 ### SK
 
-Sourced from Saskatchewan's [weekly COVID-19 reports](https://publications.saskatchewan.ca/#/categories/5688) (archive UUID: `2b3954e7-a659-4555-b02e-3fcc4b1f0960`), which covered the period between 2022-02-02 and 2022-06-29. The following columns are included:
+There are two datasets for Saskatchewan.
 
-- `sk_hosp_occupancy_total`: Total hospital occupancy related to COVID-19 (the sum of `sk_hosp_occupancy_covid_related_illness`, `sk_hosp_occupancy_incidental_infection`, and `sk_hosp_occupancy_patient_under_investigation`)
-- `sk_hosp_occupancy_covid_related_illness`: Of total hospital occupancy related to COVID-19, those hospitalized "for" COVID-19
-- `sk_hosp_occupancy_incidental_infection`: Of total hospital occupancy related to COVID-19, those hospitalized "with" COVID-19
-- `sk_hosp_occupancy_patient_under_investigation`: Of total hospital occupancy related to COVID-19, those of undetermined status
-- `sk_icu_occupancy`: Total adult ICU/ICU surge occupancy related to COVID-19
-- `sk_hosp_admissions_daily_avg_past_7_days`: Average daily hospital admissions related to COVID-19 over the past 7 days
+### For, with, not yet determined (dashboard)
 
-Note that on 2022-03-09, there is a discrepancy between `sk_hosp_occupancy_total` and the sum of its three constituent columns (339 vs. 340).
+The first dataset is sourced from Saskatchewan's [COVID-19 dashboard](https://dashboard.saskatchewan.ca/health-wellness/covid-19-cases/hospitalized) (archive UUID: `6e5dd7b2-c6b8-4fd0-8236-ef34873233d2`), which decomposed COVID-19 hospital and ICU occupancy in the period between 2022-01-06 and 2022-02-06. The following columns are included:
+
+- `sk_dash_hosp_occupancy_total`: Total hospital occupancy related to COVID-19
+- `sk_dash_inpatient_occupancy_total`: Total inpatient occupancy related to COVID-19 (the sum of `sk_dash_inpatient_occupancy_covid_related_illness`, `sk_dash_inpatient_occupancy_incidental_infection`, and `sk_dash_inpatient_occupancy_patient_under_investigation`)
+- `sk_dash_inpatient_occupancy_covid_related_illness`: Of total inpatient occupancy related to COVID-19, those hospitalized "for" COVID-19
+- `sk_dash_inpatient_occupancy_incidental_infection`: Of total inpatient occupancy related to COVID-19, those hospitalized "with" COVID-19
+- `sk_dash_inpatient_occupancy_not_yet_determined`: Of total inpatient occupancy related to COVID-19, those with status not yet determined
+- `sk_dash_icu_occupancy_total`: Total ICU occupancy related to COVID-19 (the sum of `sk_dash_icu_occupancy_covid_related_illness`, `sk_dash_icu_occupancy_incidental_infection`, and `sk_dash_icu_occupancy_not_yet_determined`)
+- `sk_dash_icu_occupancy_covid_related_illness`: Of total ICU occupancy related to COVID-19, those hospitalized "for" COVID-19
+- `sk_dash_icu_occupancy_incidental_infection`: Of total ICU occupancy related to COVID-19, those hospitalized "with" COVID-19
+- `sk_dash_icu_occupancy_not_yet_determined`: Of total ICU occupancy related to COVID-19, those with status not yet determined
+- `sk_dash_picu_nicu_occupancy_total`: Total pediatric ICU and neonatal ICU occupancy related to COVID-19
+- `sk_dash_picu_nicu_occupancy_covid_related_illness`: Of total pediatric ICU and neonatal ICU occupancy related to COVID-19, those hospitalized "for" COVID-19
+- `sk_dash_picu_nicu_occupancy_incidental_infection`: Of total pediatric ICU and neonatal ICU occupancy related to COVID-19, those hospitalized "with" COVID-19
+- `sk_dash_picu_nicu_occupancy_not_yet_determined`: Of total pediatric ICU and neonatal ICU occupancy related to COVID-19, those with status not yet determined
+
+Note that the `sk_dash_icu_occupancy_total` seems to include pediatric ICU and neonatal ICU occupancy between 2022-01-23 and 2022-01-30 and between 2022-02-01 and 2022-02-02 (i.e., during these periods, `sk_dash_icu_occupancy_total` is the sum of `sk_dash_icu_occupancy_covid_related_illness`, `sk_dash_icu_occupancy_incidental_infection`, `sk_dash_icu_occupancy_not_yet_determined`, and `sk_dash_picu_nicu_occupancy_total`), but these values seem to be reported separately during other dates.
+
+### For, with, under investigation (weekly reports)
+
+The second dataset is sourced from Saskatchewan's [weekly COVID-19 reports](https://publications.saskatchewan.ca/#/categories/5688) (archive UUID: `2b3954e7-a659-4555-b02e-3fcc4b1f0960`), which covered the period between 2022-02-02 and 2022-06-29. The following columns are included:
+
+- `sk_rep_hosp_occupancy_total`: Total hospital occupancy related to COVID-19 (the sum of `sk_rep_hosp_occupancy_covid_related_illness`, `sk_rep_hosp_occupancy_incidental_infection`, and `sk_rep_hosp_occupancy_patient_under_investigation`)
+- `sk_rep_hosp_occupancy_covid_related_illness`: Of total hospital occupancy related to COVID-19, those hospitalized "for" COVID-19
+- `sk_rep_hosp_occupancy_incidental_infection`: Of total hospital occupancy related to COVID-19, those hospitalized "with" COVID-19
+- `sk_rep_hosp_occupancy_patient_under_investigation`: Of total hospital occupancy related to COVID-19, those of undetermined status
+- `sk_rep_icu_occupancy_total`: Total adult ICU/ICU surge occupancy related to COVID-19
+- `sk_rep_hosp_admissions_daily_avg_past_7_days`: Average daily hospital admissions related to COVID-19 over the past 7 days
+
+Note that on 2022-03-09, there is a discrepancy between `sk_rep_hosp_occupancy_total` and the sum of its three constituent columns (339 vs. 340).
