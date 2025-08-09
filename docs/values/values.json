@@ -893,18 +893,92 @@
                     "source": "https://web.archive.org/web/20231204225226/https://bccdc.shinyapps.io/respiratory_covid_sitrep/ (Test rates and percent positivity)"
                 }
             ],
+            "mb": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-11-19",
+                    "note": "The source of these testing numbers is the PHAC SALT testing database.",
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
+                },
+                {
+                    "date_start": "2022-11-26",
+                    "date_end": "",
+                    "note": "The source of these testing numbers is the PHAC RVDSS testing database. The database appears to be comprehensive for the province.",
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
+                }
+            ],
+            "nb": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-11-19",
+                    "note": "The source of these testing numbers is the PHAC SALT testing database. The PHAC RVDSS testing database is not used subsequently as it does not appear to be comprehensive for the province.",
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
+                }
+            ],
+            "nl": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-11-22",
+                    "note": "The source of these testing numbers is the PHAC SALT testing database. The PHAC RVDSS testing database is not used subsequently as it does not appear to be comprehensive for the province.",
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
+                }
+            ],
+            "ns": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-11-19",
+                    "note": "The source of these testing numbers is the PHAC SALT testing database.",
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
+                },
+                {
+                    "date_start": "2022-11-26",
+                    "date_end": "",
+                    "note": "The source of these testing numbers is the PHAC RVDSS testing database. The database appears to be comprehensive for the province.",
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
+                }
+            ],
+            "nt": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-11-17",
+                    "note": "The source of these testing numbers is the PHAC SALT testing database. The PHAC RVDSS testing database is not used subsequently as direct case reporting ceased in the territory prior to the end of 2022.",
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
+                }
+            ],
+            "nu": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-11-20",
+                    "note": "The source of these testing numbers is the PHAC SALT testing database. The PHAC RVDSS testing database is not used subsequently as direct case reporting ceased in the territory prior to the end of 2022.",
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
+                }
+            ],
             "pe": [
                 {
                     "date_start": "",
                     "date_end": "2022-08-27",
                     "note": "The source of these testing numbers is the PHAC SALT testing database. The numbers include only PCR tests, even though PEI began using rapid molecular tests extensively in 2022. For this reason, testing numbers drop sharply in late 2021/early 2022.",
-                    "source": "https://health-infobase.canada.ca/covid-19/testing-variants.html"
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
                 },
                 {
                     "date_start": "2022-08-28",
                     "date_end": "",
                     "note": "The source of these testing numbers is the PHAC RVDSS testing database. The numbers seem to include both PCR tests and rapid molecular tests, based on comparisons with the number of tests reported on the PEI dashboard during the same time.",
-                    "source": "https://health-infobase.canada.ca/covid-19/testing-variants.html"
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
+                }
+            ],
+            "sk": [
+                {
+                    "date_start": "",
+                    "date_end": "2022-11-19",
+                    "note": "The source of these testing numbers is the PHAC SALT testing database.",
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
+                },
+                {
+                    "date_start": "2022-11-26",
+                    "date_end": "",
+                    "note": "The source of these testing numbers is the PHAC RVDSS testing database. The database appears to be comprehensive for the province.",
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
                 }
             ],
             "yt": [
@@ -912,7 +986,7 @@
                     "date_start": "",
                     "date_end": "",
                     "note": "The number of tests reported from this source (the Yukon dashboard) is much lower than the number of tests reported in the PHAC SALT dataset. The PHAC SALT dataset was not used because Yukon stopped reporting to it after 2021-05-06.",
-                    "source": "https://health-infobase.canada.ca/covid-19/testing-variants.html"
+                    "source": "https://github.com/ccodwg/CovidTimelineCanada/issues/94"
                 }
             ]
         }
